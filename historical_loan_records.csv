@@ -1,0 +1,1201 @@
+Applicant_ID,Age,Annual_Income,Employment_Status,Employment_Years,Loan_Amount,Credit_History,Existing_Loans,Repayment_History,Account_Balance,Loan_Purpose,Loan_to_Income_Ratio,Historical_Default,Risk_Level
+APP-1001,60,703000,Business,1.9,526000,Fair,3,On-Time,271100,Personal Loan,0.75,0,Low
+APP-1002,50,974000,Salaried,8.0,1914000,Good,2,On-Time,527700,Business Loan,1.97,0,Low
+APP-1003,36,0,Unemployed,0.0,50000,Poor,2,Frequent,50900,Auto Loan,0.5,0,High
+APP-1004,64,971000,Self-Employed,17.2,255000,Good,2,On-Time,278100,Education Loan,0.26,0,Low
+APP-1005,29,1298000,Salaried,8.0,1523000,Good,0,On-Time,128200,Home Loan,1.17,0,Low
+APP-1006,42,1409000,Salaried,0.6,1588000,Good,0,On-Time,352600,Home Loan,1.13,0,Low
+APP-1007,60,120000,Unemployed,0.0,59000,Good,2,On-Time,56200,Education Loan,0.49,0,Medium
+APP-1008,40,1877000,Salaried,6.7,3198000,Good,0,On-Time,769000,Auto Loan,1.7,0,Low
+APP-1009,44,702000,Salaried,1.9,1235000,Fair,1,1-2 Missed,207700,Personal Loan,1.76,0,Medium
+APP-1010,32,960000,Salaried,11.0,1728000,Poor,2,1-2 Missed,101700,Auto Loan,1.8,0,Medium
+APP-1011,32,659000,Salaried,3.3,1197000,Poor,2,1-2 Missed,184900,Personal Loan,1.82,1,High
+APP-1012,45,568000,Self-Employed,0.7,142000,Fair,1,Frequent,170700,Home Loan,0.25,1,High
+APP-1013,57,1387000,Self-Employed,6.5,3191000,Poor,2,Frequent,716300,Auto Loan,2.3,1,High
+APP-1014,61,3500000,Salaried,2.0,5000000,Fair,3,1-2 Missed,1334600,Auto Loan,1.43,1,Medium
+APP-1015,45,668000,Salaried,24.0,1465000,Fair,2,1-2 Missed,151300,Personal Loan,2.19,1,Medium
+APP-1016,24,1517000,Self-Employed,3.0,430000,Good,0,On-Time,495900,Education Loan,0.28,0,Low
+APP-1017,43,680000,Salaried,5.3,1535000,Good,0,On-Time,75500,Home Loan,2.26,0,Low
+APP-1018,23,802000,Salaried,0.7,1597000,Good,1,On-Time,430800,Home Loan,1.99,0,Medium
+APP-1019,45,2011000,Business,5.8,4123000,Good,0,On-Time,501200,Education Loan,2.05,0,Low
+APP-1020,51,461000,Self-Employed,0.5,208000,Good,0,On-Time,140400,Auto Loan,0.45,0,Low
+APP-1021,59,402000,Self-Employed,0.5,739000,Poor,0,1-2 Missed,99300,Personal Loan,1.84,1,High
+APP-1022,23,770000,Business,2.0,1782000,Good,1,On-Time,308600,Home Loan,2.31,0,Low
+APP-1023,42,1138000,Salaried,1.2,1945000,Good,3,On-Time,445200,Home Loan,1.71,0,Low
+APP-1024,54,1026000,Business,2.4,1515000,Good,0,On-Time,427000,Auto Loan,1.48,0,Low
+APP-1025,33,972000,Salaried,12.0,2219000,Good,2,On-Time,200300,Personal Loan,2.28,0,Low
+APP-1026,43,821000,Salaried,2.1,987000,Good,2,On-Time,187500,Education Loan,1.2,0,Low
+APP-1027,46,1213000,Salaried,1.8,1866000,Good,0,On-Time,168400,Business Loan,1.54,0,Low
+APP-1028,48,250000,Salaried,12.5,319000,Good,3,On-Time,97000,Education Loan,1.28,0,Low
+APP-1029,63,546000,Self-Employed,0.6,1232000,Good,1,1-2 Missed,53900,Personal Loan,2.26,0,Medium
+APP-1030,49,768000,Salaried,7.1,318000,Fair,1,On-Time,277200,Auto Loan,0.41,0,Low
+APP-1031,37,1163000,Salaried,16.0,1544000,Fair,2,On-Time,568400,Personal Loan,1.33,0,Low
+APP-1032,36,1749000,Salaried,11.6,3020000,Good,0,On-Time,872200,Home Loan,1.73,0,Low
+APP-1033,24,509000,Salaried,3.0,994000,Good,2,On-Time,148100,Home Loan,1.95,0,Low
+APP-1034,58,1720000,Self-Employed,1.9,2586000,Good,0,On-Time,508900,Personal Loan,1.5,0,Low
+APP-1035,28,637000,Salaried,1.5,1404000,Fair,3,1-2 Missed,74000,Business Loan,2.2,1,High
+APP-1036,42,753000,Self-Employed,8.6,1713000,Good,1,On-Time,297600,Home Loan,2.27,0,Low
+APP-1037,30,1091000,Salaried,9.0,424000,Good,2,On-Time,508400,Home Loan,0.39,0,Low
+APP-1038,60,725000,Salaried,3.7,808000,Fair,0,On-Time,141400,Business Loan,1.11,0,Low
+APP-1039,39,1436000,Business,1.4,431000,Good,2,1-2 Missed,399200,Home Loan,0.3,0,Low
+APP-1040,25,653000,Salaried,0.6,626000,Good,2,On-Time,309700,Auto Loan,0.96,0,Low
+APP-1041,46,658000,Self-Employed,0.5,924000,Good,1,On-Time,323900,Home Loan,1.4,0,Low
+APP-1042,35,1393000,Salaried,6.3,3076000,Poor,1,On-Time,270700,Home Loan,2.21,0,Medium
+APP-1043,30,542000,Salaried,2.7,1122000,Poor,1,1-2 Missed,183600,Business Loan,2.07,1,High
+APP-1044,47,918000,Business,11.8,481000,Fair,3,1-2 Missed,156500,Home Loan,0.52,0,Medium
+APP-1045,23,340000,Salaried,2.0,153000,Good,1,On-Time,43500,Personal Loan,0.45,0,Low
+APP-1046,41,2077000,Salaried,1.1,3151000,Good,3,On-Time,1055600,Home Loan,1.52,0,Low
+APP-1047,49,1510000,Self-Employed,4.8,2105000,Poor,2,Frequent,703100,Home Loan,1.39,1,High
+APP-1048,28,3369000,Salaried,2.9,2772000,Poor,1,1-2 Missed,1473000,Home Loan,0.82,0,Medium
+APP-1049,29,1617000,Business,4.3,3531000,Good,0,On-Time,166400,Home Loan,2.18,0,Low
+APP-1050,56,448000,Salaried,6.7,1005000,Fair,1,1-2 Missed,213500,Home Loan,2.24,1,Medium
+APP-1051,35,1141000,Business,8.2,1273000,Good,2,On-Time,326200,Auto Loan,1.12,0,Low
+APP-1052,38,500000,Self-Employed,9.3,1082000,Good,0,On-Time,120500,Personal Loan,2.16,0,Low
+APP-1053,57,1831000,Self-Employed,1.5,1969000,Fair,1,On-Time,616800,Home Loan,1.08,0,Low
+APP-1054,61,455000,Business,0.5,835000,Good,2,On-Time,55900,Personal Loan,1.84,0,Medium
+APP-1055,25,443000,Salaried,4.0,564000,Poor,1,1-2 Missed,193000,Business Loan,1.27,0,Medium
+APP-1056,23,349000,Business,0.6,179000,Good,2,On-Time,123500,Business Loan,0.51,0,Low
+APP-1057,27,625000,Salaried,1.9,1403000,Good,0,On-Time,104800,Auto Loan,2.24,0,Low
+APP-1058,63,563000,Salaried,0.5,690000,Poor,0,1-2 Missed,94800,Education Loan,1.23,1,High
+APP-1059,25,418000,Salaried,4.0,765000,Poor,2,Frequent,69600,Home Loan,1.83,1,High
+APP-1060,50,2269000,Salaried,0.9,2358000,Good,0,On-Time,242300,Personal Loan,1.04,0,Low
+APP-1061,39,1062000,Salaried,5.3,309000,Good,0,On-Time,378400,Personal Loan,0.29,0,Low
+APP-1062,47,999000,Business,24.0,466000,Fair,3,1-2 Missed,474500,Personal Loan,0.47,0,Medium
+APP-1063,55,1842000,Business,0.5,2426000,Good,1,On-Time,162500,Personal Loan,1.32,0,Low
+APP-1064,31,921000,Business,0.5,1596000,Poor,4,1-2 Missed,94900,Personal Loan,1.73,1,High
+APP-1065,57,546000,Salaried,2.1,529000,Poor,4,Frequent,190700,Business Loan,0.97,1,High
+APP-1066,35,333000,Self-Employed,10.1,581000,Good,0,On-Time,154900,Education Loan,1.74,0,Low
+APP-1067,52,530000,Salaried,1.2,929000,Good,0,On-Time,123800,Personal Loan,1.75,0,Low
+APP-1068,36,1764000,Salaried,2.2,3111000,Good,2,1-2 Missed,431000,Auto Loan,1.76,1,Medium
+APP-1069,29,420000,Salaried,0.5,550000,Poor,1,1-2 Missed,151300,Home Loan,1.31,1,High
+APP-1070,35,969000,Salaried,7.2,2148000,Good,0,On-Time,202400,Home Loan,2.22,0,Low
+APP-1071,44,1380000,Self-Employed,2.6,1796000,Good,2,On-Time,127700,Personal Loan,1.3,0,Low
+APP-1072,61,935000,Self-Employed,7.1,1139000,Good,0,On-Time,397900,Personal Loan,1.22,0,Low
+APP-1073,42,992000,Salaried,11.7,673000,Fair,3,On-Time,371100,Home Loan,0.68,0,Low
+APP-1074,37,1134000,Salaried,1.3,1034000,Good,0,Frequent,400300,Education Loan,0.91,0,Medium
+APP-1075,39,982000,Salaried,8.2,335000,Good,0,On-Time,420900,Personal Loan,0.34,0,Low
+APP-1076,45,1861000,Salaried,0.5,3000000,Poor,0,Frequent,739500,Personal Loan,1.61,1,High
+APP-1077,47,0,Unemployed,0.0,50000,Poor,4,Frequent,17700,Home Loan,0.5,1,High
+APP-1078,46,913000,Salaried,11.5,825000,Fair,2,1-2 Missed,224300,Home Loan,0.9,0,Medium
+APP-1079,62,313000,Salaried,5.3,597000,Good,2,On-Time,43600,Education Loan,1.91,0,Low
+APP-1080,50,274000,Salaried,10.4,261000,Good,1,On-Time,38600,Personal Loan,0.95,0,Low
+APP-1081,36,773000,Self-Employed,0.5,596000,Fair,1,On-Time,307500,Business Loan,0.77,0,Low
+APP-1082,22,120000,Unemployed,0.0,74000,Good,0,On-Time,58000,Business Loan,0.62,0,Low
+APP-1083,46,1882000,Self-Employed,0.9,3606000,Poor,1,On-Time,1002100,Personal Loan,1.92,0,Medium
+APP-1084,28,2837000,Self-Employed,2.5,1500000,Fair,1,1-2 Missed,1064800,Home Loan,0.53,0,Medium
+APP-1085,30,1601000,Salaried,2.4,1962000,Good,2,On-Time,266600,Education Loan,1.23,0,Low
+APP-1086,45,1177000,Salaried,1.3,1577000,Poor,0,1-2 Missed,152600,Business Loan,1.34,0,High
+APP-1087,22,876000,Business,1.0,1514000,Poor,4,Frequent,404700,Personal Loan,1.73,0,High
+APP-1088,29,364000,Self-Employed,0.7,587000,Good,0,1-2 Missed,128100,Auto Loan,1.61,0,Medium
+APP-1089,45,747000,Self-Employed,2.7,1489000,Good,4,On-Time,276800,Auto Loan,1.99,0,Medium
+APP-1090,32,1577000,Self-Employed,8.1,546000,Good,0,On-Time,705400,Personal Loan,0.35,0,Low
+APP-1091,38,1286000,Self-Employed,3.3,1141000,Good,1,On-Time,528000,Personal Loan,0.89,0,Low
+APP-1092,29,413000,Self-Employed,0.5,352000,Good,1,On-Time,195000,Education Loan,0.85,0,Low
+APP-1093,56,180000,Unemployed,0.0,102000,Fair,1,1-2 Missed,19200,Auto Loan,0.57,0,Medium
+APP-1094,56,1061000,Business,2.7,925000,Poor,1,1-2 Missed,457600,Home Loan,0.87,0,Medium
+APP-1095,54,967000,Self-Employed,0.5,886000,Good,1,On-Time,464100,Home Loan,0.92,0,Low
+APP-1096,26,795000,Self-Employed,5.0,1091000,Good,1,On-Time,170500,Home Loan,1.37,0,Low
+APP-1097,63,1140000,Salaried,0.7,1912000,Fair,2,1-2 Missed,434400,Home Loan,1.68,1,Medium
+APP-1098,60,1158000,Self-Employed,6.1,1238000,Good,2,On-Time,263600,Business Loan,1.07,0,Low
+APP-1099,62,577000,Salaried,18.0,1037000,Poor,3,Frequent,306000,Home Loan,1.8,1,High
+APP-1100,49,1021000,Self-Employed,8.7,993000,Good,0,On-Time,97700,Home Loan,0.97,0,Low
+APP-1101,28,180000,Unemployed,0.0,157000,Good,1,On-Time,63500,Home Loan,0.87,0,Low
+APP-1102,30,372000,Salaried,6.0,526000,Good,1,On-Time,58900,Personal Loan,1.41,0,Low
+APP-1103,29,602000,Salaried,8.0,181000,Fair,1,1-2 Missed,249700,Personal Loan,0.3,0,Low
+APP-1104,33,357000,Salaried,12.0,150000,Good,1,On-Time,58100,Home Loan,0.42,0,Low
+APP-1105,55,1342000,Salaried,4.9,1541000,Fair,1,On-Time,255800,Home Loan,1.15,0,Low
+APP-1106,54,970000,Self-Employed,4.1,2209000,Good,0,On-Time,303000,Home Loan,2.28,0,Low
+APP-1107,44,670000,Salaried,4.9,1207000,Good,0,On-Time,341700,Personal Loan,1.8,0,Low
+APP-1108,45,1687000,Salaried,3.8,741000,Good,0,On-Time,302800,Home Loan,0.44,0,Low
+APP-1109,58,835000,Salaried,5.0,1728000,Poor,2,On-Time,123400,Business Loan,2.07,0,Medium
+APP-1110,56,383000,Self-Employed,3.0,699000,Poor,2,Frequent,167300,Personal Loan,1.83,1,High
+APP-1111,61,641000,Self-Employed,1.2,1002000,Good,4,On-Time,202100,Home Loan,1.56,0,Low
+APP-1112,43,1884000,Salaried,0.6,3794000,Good,2,1-2 Missed,958100,Auto Loan,2.01,0,High
+APP-1113,48,569000,Salaried,0.5,637000,Good,0,On-Time,84700,Home Loan,1.12,0,Low
+APP-1114,56,930000,Salaried,1.5,675000,Good,3,On-Time,356700,Auto Loan,0.73,0,Low
+APP-1115,22,1187000,Self-Employed,0.5,1603000,Good,3,On-Time,224900,Home Loan,1.35,0,Medium
+APP-1116,56,1096000,Self-Employed,4.2,1567000,Poor,1,On-Time,168400,Personal Loan,1.43,0,Medium
+APP-1117,58,2881000,Salaried,1.7,4055000,Poor,1,1-2 Missed,1155900,Auto Loan,1.41,0,Medium
+APP-1118,35,437000,Salaried,8.7,640000,Good,4,On-Time,156900,Business Loan,1.46,0,Low
+APP-1119,24,461000,Salaried,0.5,1056000,Good,1,On-Time,200400,Home Loan,2.29,0,Medium
+APP-1120,22,441000,Business,1.0,966000,Poor,3,1-2 Missed,99400,Home Loan,2.19,1,High
+APP-1121,26,691000,Salaried,5.0,1474000,Fair,0,1-2 Missed,200800,Personal Loan,2.13,0,Medium
+APP-1122,47,1428000,Salaried,4.6,2818000,Good,0,On-Time,386400,Business Loan,1.97,0,Low
+APP-1123,35,471000,Salaried,0.5,1073000,Good,1,On-Time,255500,Business Loan,2.28,0,Medium
+APP-1124,60,1438000,Salaried,10.5,664000,Good,1,On-Time,312600,Home Loan,0.46,0,Low
+APP-1125,48,821000,Self-Employed,10.5,673000,Good,2,On-Time,179400,Home Loan,0.82,0,Low
+APP-1126,30,453000,Salaried,2.0,595000,Good,5,On-Time,111700,Personal Loan,1.31,0,Low
+APP-1127,36,324000,Self-Employed,2.1,671000,Good,1,On-Time,111900,Home Loan,2.07,0,Low
+APP-1128,36,364000,Self-Employed,15.0,486000,Fair,0,On-Time,72300,Home Loan,1.34,0,Low
+APP-1129,47,570000,Salaried,4.9,1059000,Good,2,On-Time,290800,Home Loan,1.86,0,Low
+APP-1130,63,738000,Salaried,3.8,405000,Good,1,On-Time,151200,Personal Loan,0.55,0,Low
+APP-1131,34,1623000,Business,9.1,1287000,Good,0,On-Time,813200,Business Loan,0.79,0,Low
+APP-1132,53,1221000,Salaried,1.7,2226000,Fair,1,1-2 Missed,157100,Business Loan,1.82,0,Medium
+APP-1133,60,521000,Salaried,2.8,315000,Poor,2,Frequent,202500,Personal Loan,0.6,1,High
+APP-1134,53,180000,Unemployed,0.0,181000,Good,2,On-Time,91100,Personal Loan,1.01,0,Medium
+APP-1135,25,1903000,Salaried,1.6,1559000,Good,1,On-Time,303200,Education Loan,0.82,0,Low
+APP-1136,51,2136000,Salaried,7.8,2141000,Poor,1,Frequent,1143000,Home Loan,1.0,1,High
+APP-1137,58,685000,Salaried,4.3,1214000,Good,4,On-Time,200600,Auto Loan,1.77,0,Low
+APP-1138,44,1327000,Business,5.4,1381000,Good,2,On-Time,696000,Personal Loan,1.04,0,Low
+APP-1139,60,1661000,Salaried,1.5,2398000,Good,1,On-Time,661300,Home Loan,1.44,0,Low
+APP-1140,36,368000,Salaried,1.2,171000,Good,1,On-Time,81600,Personal Loan,0.46,0,Low
+APP-1141,64,618000,Salaried,3.4,1224000,Good,2,On-Time,104100,Home Loan,1.98,0,Low
+APP-1142,50,2557000,Salaried,6.7,2673000,Poor,0,Frequent,569600,Auto Loan,1.05,0,High
+APP-1143,57,689000,Salaried,3.7,1133000,Fair,0,1-2 Missed,85200,Home Loan,1.64,0,Medium
+APP-1144,34,250000,Salaried,0.5,452000,Good,1,On-Time,36900,Home Loan,1.81,0,Low
+APP-1145,53,757000,Self-Employed,10.1,530000,Poor,1,1-2 Missed,97800,Home Loan,0.7,0,Medium
+APP-1146,28,1447000,Salaried,0.5,3114000,Good,1,On-Time,403400,Education Loan,2.15,1,Medium
+APP-1147,43,809000,Salaried,15.6,1274000,Good,0,On-Time,367200,Personal Loan,1.57,0,Low
+APP-1148,49,1169000,Salaried,0.5,1370000,Fair,2,On-Time,171200,Personal Loan,1.17,0,Medium
+APP-1149,23,1313000,Salaried,2.0,843000,Fair,1,On-Time,185500,Personal Loan,0.64,0,Low
+APP-1150,63,670000,Salaried,0.5,1525000,Good,0,On-Time,256200,Personal Loan,2.28,0,Low
+APP-1151,27,615000,Self-Employed,6.0,1152000,Good,0,On-Time,106200,Home Loan,1.87,0,Low
+APP-1152,49,873000,Salaried,3.1,609000,Fair,4,On-Time,109900,Auto Loan,0.7,0,Low
+APP-1153,49,884000,Salaried,0.7,863000,Fair,3,1-2 Missed,140000,Home Loan,0.98,0,Medium
+APP-1154,41,829000,Salaried,2.1,1650000,Fair,0,On-Time,426200,Home Loan,1.99,0,Medium
+APP-1155,51,847000,Business,0.9,1479000,Good,2,On-Time,394800,Auto Loan,1.75,0,Low
+APP-1156,32,546000,Self-Employed,0.9,1035000,Good,1,On-Time,134500,Home Loan,1.9,0,Low
+APP-1157,49,1191000,Self-Employed,14.8,1428000,Good,4,1-2 Missed,462400,Home Loan,1.2,0,Medium
+APP-1158,46,1101000,Salaried,2.9,1971000,Good,1,On-Time,366100,Personal Loan,1.79,0,Low
+APP-1159,60,402000,Business,7.8,435000,Poor,2,Frequent,160100,Personal Loan,1.08,1,High
+APP-1160,54,658000,Salaried,5.1,463000,Good,0,On-Time,263800,Auto Loan,0.7,0,Low
+APP-1161,22,846000,Salaried,1.0,1362000,Good,1,On-Time,317700,Personal Loan,1.61,0,Low
+APP-1162,48,611000,Salaried,0.7,1435000,Fair,4,On-Time,125300,Personal Loan,2.35,0,Medium
+APP-1163,34,1123000,Salaried,1.3,1031000,Good,1,On-Time,110400,Auto Loan,0.92,0,Low
+APP-1164,62,779000,Business,7.7,967000,Good,1,On-Time,229100,Home Loan,1.24,0,Low
+APP-1165,24,880000,Self-Employed,3.0,1495000,Fair,0,On-Time,438900,Home Loan,1.7,0,Low
+APP-1166,60,655000,Salaried,1.5,926000,Poor,2,Frequent,227700,Personal Loan,1.41,1,High
+APP-1167,27,286000,Self-Employed,1.6,590000,Fair,2,1-2 Missed,134800,Home Loan,2.06,1,High
+APP-1168,29,180000,Unemployed,0.0,340000,Good,1,On-Time,98300,Business Loan,1.89,1,Medium
+APP-1169,48,1095000,Business,3.2,411000,Fair,4,1-2 Missed,171800,Education Loan,0.38,0,Medium
+APP-1170,30,926000,Self-Employed,9.0,2219000,Fair,0,On-Time,375200,Home Loan,2.4,0,Low
+APP-1171,58,1013000,Business,1.6,1892000,Good,1,1-2 Missed,402100,Home Loan,1.87,0,Medium
+APP-1172,54,180000,Unemployed,0.0,379000,Good,3,On-Time,97300,Home Loan,2.11,1,High
+APP-1173,63,901000,Self-Employed,2.6,1487000,Poor,1,1-2 Missed,489500,Home Loan,1.65,0,Medium
+APP-1174,45,1334000,Salaried,11.1,2789000,Good,0,On-Time,537300,Home Loan,2.09,0,Low
+APP-1175,36,1016000,Salaried,0.5,499000,Fair,1,On-Time,197600,Personal Loan,0.49,0,Low
+APP-1176,53,1385000,Business,0.5,1382000,Good,2,On-Time,630600,Education Loan,1.0,0,Low
+APP-1177,53,881000,Salaried,4.6,1880000,Good,0,On-Time,114800,Auto Loan,2.13,0,Low
+APP-1178,45,690000,Business,11.9,472000,Good,4,On-Time,308400,Home Loan,0.68,0,Low
+APP-1179,62,892000,Salaried,1.4,373000,Fair,2,1-2 Missed,453000,Personal Loan,0.42,1,Medium
+APP-1180,33,522000,Salaried,3.2,1015000,Good,0,On-Time,135700,Personal Loan,1.94,0,Low
+APP-1181,60,662000,Salaried,3.0,1355000,Good,2,On-Time,249200,Education Loan,2.05,0,Low
+APP-1182,23,884000,Salaried,2.0,530000,Fair,1,1-2 Missed,249400,Education Loan,0.6,0,Medium
+APP-1183,24,878000,Business,3.0,1832000,Fair,1,On-Time,250900,Business Loan,2.09,1,Medium
+APP-1184,58,763000,Business,3.2,1317000,Poor,2,Frequent,172300,Personal Loan,1.73,1,High
+APP-1185,38,392000,Self-Employed,3.0,536000,Good,4,On-Time,171800,Auto Loan,1.37,0,Low
+APP-1186,23,1122000,Self-Employed,2.0,2283000,Good,0,1-2 Missed,583400,Home Loan,2.03,0,Medium
+APP-1187,23,1244000,Salaried,2.0,1432000,Poor,1,On-Time,649600,Personal Loan,1.15,1,Medium
+APP-1188,49,1895000,Salaried,3.9,1264000,Fair,1,On-Time,307300,Home Loan,0.67,0,Low
+APP-1189,44,1014000,Self-Employed,9.6,875000,Good,1,On-Time,498000,Personal Loan,0.86,0,Low
+APP-1190,58,807000,Salaried,0.5,1078000,Good,1,On-Time,344300,Personal Loan,1.34,0,Low
+APP-1191,53,476000,Salaried,9.0,663000,Fair,0,1-2 Missed,94600,Home Loan,1.39,0,Medium
+APP-1192,54,1751000,Salaried,9.3,3470000,Good,2,On-Time,195500,Home Loan,1.98,0,Low
+APP-1193,22,917000,Salaried,1.0,1789000,Fair,1,Frequent,188900,Home Loan,1.95,1,High
+APP-1194,40,0,Unemployed,0.0,50000,Good,0,On-Time,50900,Home Loan,0.5,0,Low
+APP-1195,23,706000,Business,2.0,1362000,Good,2,On-Time,266600,Home Loan,1.93,0,Low
+APP-1196,47,683000,Salaried,2.9,452000,Fair,2,1-2 Missed,286100,Home Loan,0.66,1,Medium
+APP-1197,53,1153000,Self-Employed,1.2,412000,Good,1,On-Time,231600,Home Loan,0.36,0,Low
+APP-1198,27,474000,Self-Employed,2.5,1009000,Good,1,On-Time,198200,Home Loan,2.13,0,Low
+APP-1199,53,1877000,Salaried,0.5,774000,Good,2,1-2 Missed,175000,Business Loan,0.41,1,Medium
+APP-1200,25,1676000,Business,1.6,1308000,Good,1,1-2 Missed,429700,Home Loan,0.78,0,Low
+APP-1201,32,671000,Business,8.5,1171000,Fair,0,Frequent,251300,Home Loan,1.75,1,High
+APP-1202,38,514000,Salaried,1.7,581000,Fair,2,1-2 Missed,76400,Personal Loan,1.13,0,Medium
+APP-1203,59,283000,Salaried,8.5,604000,Fair,0,On-Time,132100,Education Loan,2.13,0,Low
+APP-1204,45,421000,Salaried,3.8,375000,Good,0,On-Time,80200,Auto Loan,0.89,0,Low
+APP-1205,26,1178000,Salaried,5.0,325000,Good,0,On-Time,455400,Home Loan,0.28,0,Low
+APP-1206,55,950000,Salaried,4.3,852000,Good,0,Frequent,256900,Personal Loan,0.9,0,Medium
+APP-1207,27,1042000,Business,0.5,1556000,Poor,0,1-2 Missed,375300,Auto Loan,1.49,1,High
+APP-1208,43,309000,Salaried,5.6,327000,Fair,5,1-2 Missed,40300,Auto Loan,1.06,0,Medium
+APP-1209,32,656000,Salaried,0.5,918000,Fair,1,1-2 Missed,57700,Auto Loan,1.4,0,Medium
+APP-1210,37,1641000,Business,3.0,3503000,Good,0,On-Time,832800,Education Loan,2.13,0,Low
+APP-1211,54,767000,Self-Employed,13.3,1696000,Good,0,On-Time,158600,Education Loan,2.21,0,Low
+APP-1212,30,416000,Salaried,0.9,342000,Good,4,1-2 Missed,193500,Personal Loan,0.82,0,Medium
+APP-1213,27,761000,Salaried,2.5,946000,Good,1,On-Time,418300,Personal Loan,1.24,0,Low
+APP-1214,37,540000,Salaried,6.5,773000,Good,1,On-Time,96900,Personal Loan,1.43,0,Low
+APP-1215,50,959000,Self-Employed,10.7,2197000,Poor,3,Frequent,196200,Education Loan,2.29,1,High
+APP-1216,24,815000,Salaried,3.0,1954000,Good,1,On-Time,319100,Home Loan,2.4,0,Low
+APP-1217,41,1069000,Salaried,1.5,808000,Good,1,On-Time,570600,Business Loan,0.76,0,Low
+APP-1218,57,0,Unemployed,0.0,50000,Good,0,On-Time,51000,Home Loan,0.5,0,Low
+APP-1219,40,638000,Salaried,5.6,678000,Poor,1,Frequent,201800,Personal Loan,1.06,1,High
+APP-1220,47,1421000,Business,1.8,380000,Fair,1,1-2 Missed,644700,Education Loan,0.27,0,Medium
+APP-1221,24,120000,Unemployed,0.0,50000,Fair,2,1-2 Missed,17300,Home Loan,0.42,1,High
+APP-1222,40,478000,Salaried,6.3,593000,Poor,1,Frequent,257800,Personal Loan,1.24,0,High
+APP-1223,41,894000,Business,15.4,1162000,Good,1,On-Time,476700,Home Loan,1.3,0,Low
+APP-1224,53,936000,Salaried,6.4,279000,Fair,0,On-Time,146900,Personal Loan,0.3,0,Low
+APP-1225,28,625000,Business,7.0,1079000,Good,0,On-Time,138000,Home Loan,1.73,0,Low
+APP-1226,62,697000,Salaried,0.5,615000,Good,1,On-Time,88600,Personal Loan,0.88,0,Low
+APP-1227,54,1064000,Self-Employed,6.3,1547000,Fair,4,1-2 Missed,221000,Personal Loan,1.45,0,Medium
+APP-1228,61,1254000,Salaried,8.8,1125000,Fair,1,1-2 Missed,581200,Business Loan,0.9,0,Low
+APP-1229,60,462000,Business,0.5,282000,Good,2,On-Time,119100,Business Loan,0.61,0,Low
+APP-1230,39,974000,Self-Employed,10.3,1096000,Good,0,On-Time,118400,Home Loan,1.13,0,Low
+APP-1231,61,1770000,Salaried,1.5,1326000,Good,0,On-Time,426300,Auto Loan,0.75,0,Low
+APP-1232,22,759000,Business,1.0,1062000,Good,0,On-Time,410800,Home Loan,1.4,0,Low
+APP-1233,32,460000,Salaried,8.1,312000,Good,1,On-Time,172900,Home Loan,0.68,0,Low
+APP-1234,49,449000,Salaried,5.4,603000,Good,0,On-Time,123700,Home Loan,1.34,0,Low
+APP-1235,46,741000,Salaried,0.5,436000,Good,0,On-Time,117300,Business Loan,0.59,0,Low
+APP-1236,44,1381000,Salaried,4.5,2337000,Fair,2,1-2 Missed,750600,Business Loan,1.69,0,Medium
+APP-1237,52,789000,Salaried,4.0,1476000,Good,0,On-Time,367500,Home Loan,1.87,0,Low
+APP-1238,51,889000,Business,11.5,433000,Good,1,On-Time,188700,Home Loan,0.49,0,Low
+APP-1239,63,480000,Salaried,2.6,603000,Good,1,On-Time,54200,Home Loan,1.26,0,Low
+APP-1240,56,1344000,Self-Employed,1.9,541000,Poor,1,1-2 Missed,143300,Personal Loan,0.4,0,Medium
+APP-1241,28,444000,Salaried,6.9,682000,Good,1,1-2 Missed,60600,Personal Loan,1.54,0,Low
+APP-1242,37,620000,Business,2.7,507000,Good,1,On-Time,218800,Home Loan,0.82,0,Low
+APP-1243,47,120000,Unemployed,0.0,166000,Good,1,On-Time,62000,Auto Loan,1.38,0,Medium
+APP-1244,23,279000,Salaried,2.0,380000,Fair,2,On-Time,87500,Home Loan,1.36,1,Medium
+APP-1245,22,882000,Business,1.0,1973000,Fair,3,On-Time,420000,Business Loan,2.24,0,Medium
+APP-1246,33,470000,Salaried,10.9,672000,Fair,0,On-Time,136100,Auto Loan,1.43,0,Low
+APP-1247,26,813000,Business,4.6,1222000,Poor,0,Frequent,335800,Personal Loan,1.5,1,High
+APP-1248,58,671000,Salaried,3.5,747000,Fair,3,1-2 Missed,284500,Auto Loan,1.11,0,Medium
+APP-1249,53,2410000,Business,0.7,5000000,Fair,1,Frequent,389800,Education Loan,2.07,1,High
+APP-1250,30,657000,Salaried,0.6,1262000,Good,1,On-Time,164100,Home Loan,1.92,0,Low
+APP-1251,62,2102000,Salaried,0.8,1815000,Good,1,On-Time,797800,Home Loan,0.86,0,Low
+APP-1252,56,1094000,Self-Employed,0.9,2259000,Poor,0,1-2 Missed,123900,Business Loan,2.06,1,High
+APP-1253,40,531000,Salaried,5.1,626000,Good,1,On-Time,132700,Home Loan,1.18,0,Low
+APP-1254,37,957000,Salaried,6.8,1944000,Good,1,On-Time,317100,Home Loan,2.03,0,Low
+APP-1255,24,688000,Salaried,3.0,1389000,Fair,0,1-2 Missed,377200,Personal Loan,2.02,1,Medium
+APP-1256,41,914000,Salaried,8.8,600000,Good,1,On-Time,277000,Education Loan,0.66,0,Low
+APP-1257,45,556000,Salaried,23.7,977000,Fair,2,On-Time,257700,Auto Loan,1.76,0,Low
+APP-1258,54,1941000,Salaried,8.6,1698000,Fair,1,On-Time,549400,Business Loan,0.87,0,Low
+APP-1259,45,1304000,Salaried,5.9,1160000,Good,0,On-Time,592400,Personal Loan,0.89,0,Low
+APP-1260,32,820000,Salaried,3.8,727000,Fair,1,Frequent,295100,Home Loan,0.89,0,Medium
+APP-1261,29,1981000,Business,3.0,3586000,Good,2,On-Time,984000,Personal Loan,1.81,0,Low
+APP-1262,57,838000,Salaried,0.5,624000,Good,2,On-Time,228900,Auto Loan,0.74,0,Low
+APP-1263,59,1427000,Salaried,2.5,360000,Good,1,On-Time,519500,Home Loan,0.25,0,Low
+APP-1264,61,822000,Salaried,12.0,1470000,Fair,0,On-Time,309200,Home Loan,1.79,0,Low
+APP-1265,41,989000,Salaried,8.3,611000,Fair,2,1-2 Missed,273100,Home Loan,0.62,0,Medium
+APP-1266,56,773000,Business,1.2,367000,Good,2,1-2 Missed,114300,Personal Loan,0.47,0,Low
+APP-1267,46,847000,Salaried,3.1,644000,Fair,0,On-Time,105000,Education Loan,0.76,0,Low
+APP-1268,56,881000,Salaried,8.5,940000,Good,1,1-2 Missed,77400,Auto Loan,1.07,0,Low
+APP-1269,46,569000,Self-Employed,0.5,724000,Poor,1,1-2 Missed,279100,Business Loan,1.27,1,High
+APP-1270,50,654000,Self-Employed,2.5,226000,Good,2,On-Time,125000,Home Loan,0.35,0,Low
+APP-1271,39,720000,Salaried,9.5,1682000,Fair,0,1-2 Missed,129200,Business Loan,2.34,0,Medium
+APP-1272,39,908000,Self-Employed,2.6,1625000,Good,1,On-Time,386800,Education Loan,1.79,0,Low
+APP-1273,23,793000,Business,0.5,749000,Good,3,Frequent,182700,Home Loan,0.94,0,High
+APP-1274,56,1484000,Salaried,3.9,1388000,Good,2,On-Time,471700,Business Loan,0.94,0,Low
+APP-1275,37,1252000,Self-Employed,9.9,1520000,Poor,3,Frequent,195800,Home Loan,1.21,1,High
+APP-1276,62,728000,Self-Employed,4.5,1162000,Good,4,On-Time,386600,Education Loan,1.6,0,Low
+APP-1277,57,1654000,Salaried,1.3,934000,Poor,0,Frequent,794300,Education Loan,0.56,1,High
+APP-1278,54,2135000,Salaried,2.4,1401000,Good,1,On-Time,1037600,Auto Loan,0.66,0,Low
+APP-1279,25,279000,Salaried,3.0,585000,Good,1,On-Time,75700,Personal Loan,2.1,0,Low
+APP-1280,54,1309000,Business,4.3,1048000,Good,3,1-2 Missed,573700,Home Loan,0.8,0,Medium
+APP-1281,35,180000,Unemployed,0.0,192000,Fair,0,On-Time,26600,Personal Loan,1.07,0,Medium
+APP-1282,42,1222000,Self-Employed,7.1,2595000,Good,5,On-Time,102700,Personal Loan,2.12,0,Low
+APP-1283,41,1535000,Salaried,0.5,2572000,Poor,1,1-2 Missed,137200,Auto Loan,1.68,1,High
+APP-1284,29,511000,Self-Employed,8.0,503000,Poor,2,Frequent,181800,Auto Loan,0.98,1,High
+APP-1285,28,308000,Self-Employed,0.5,530000,Poor,0,1-2 Missed,90600,Business Loan,1.72,1,High
+APP-1286,24,1245000,Salaried,2.3,364000,Good,0,On-Time,402700,Home Loan,0.29,0,Low
+APP-1287,38,865000,Salaried,0.5,1584000,Fair,2,1-2 Missed,72200,Education Loan,1.83,1,High
+APP-1288,54,339000,Business,2.5,440000,Fair,0,On-Time,94500,Business Loan,1.3,0,Low
+APP-1289,33,3004000,Salaried,3.7,5000000,Good,2,On-Time,1254100,Auto Loan,1.66,0,Low
+APP-1290,43,1115000,Business,3.6,2567000,Fair,0,On-Time,321200,Home Loan,2.3,0,Medium
+APP-1291,43,1142000,Salaried,0.9,2559000,Good,2,On-Time,484400,Home Loan,2.24,0,Medium
+APP-1292,51,1640000,Salaried,5.2,3616000,Good,1,On-Time,310800,Home Loan,2.2,0,Low
+APP-1293,59,596000,Salaried,0.5,805000,Good,1,On-Time,275500,Personal Loan,1.35,0,Low
+APP-1294,59,863000,Salaried,7.2,884000,Good,2,On-Time,307700,Personal Loan,1.02,0,Low
+APP-1295,29,406000,Business,8.0,507000,Good,1,1-2 Missed,72700,Business Loan,1.25,0,Low
+APP-1296,48,588000,Salaried,2.1,1019000,Good,0,On-Time,112500,Personal Loan,1.73,0,Low
+APP-1297,48,985000,Business,3.6,2118000,Fair,0,On-Time,369500,Home Loan,2.15,0,Low
+APP-1298,55,339000,Salaried,2.4,236000,Good,1,On-Time,159400,Personal Loan,0.7,0,Low
+APP-1299,42,579000,Business,0.5,1288000,Good,1,On-Time,159400,Education Loan,2.22,0,Medium
+APP-1300,51,498000,Salaried,2.4,997000,Good,2,On-Time,100300,Business Loan,2.0,0,Low
+APP-1301,54,868000,Business,7.8,2044000,Fair,1,1-2 Missed,423100,Education Loan,2.35,0,Medium
+APP-1302,49,1087000,Self-Employed,4.5,2329000,Fair,1,1-2 Missed,428900,Personal Loan,2.14,0,Medium
+APP-1303,54,1186000,Salaried,0.5,1010000,Fair,1,On-Time,344700,Personal Loan,0.85,0,Low
+APP-1304,26,1355000,Salaried,5.0,647000,Fair,0,On-Time,419100,Education Loan,0.48,0,Low
+APP-1305,40,1645000,Business,3.8,808000,Good,1,On-Time,289500,Personal Loan,0.49,0,Low
+APP-1306,25,180000,Unemployed,0.0,158000,Fair,4,Frequent,67400,Home Loan,0.88,1,High
+APP-1307,56,2151000,Salaried,9.2,3378000,Good,3,On-Time,534800,Home Loan,1.57,0,Low
+APP-1308,38,858000,Self-Employed,4.3,1698000,Good,1,On-Time,470100,Home Loan,1.98,0,Low
+APP-1309,49,737000,Business,4.1,1609000,Fair,1,On-Time,225300,Auto Loan,2.18,0,Medium
+APP-1310,51,1105000,Business,0.6,1758000,Good,3,On-Time,340700,Home Loan,1.59,0,Medium
+APP-1311,50,120000,Unemployed,0.0,50000,Fair,1,On-Time,41500,Home Loan,0.42,1,Medium
+APP-1312,27,2112000,Self-Employed,0.9,1374000,Fair,0,On-Time,1079000,Home Loan,0.65,0,Low
+APP-1313,56,1452000,Salaried,17.9,674000,Good,0,On-Time,662700,Personal Loan,0.46,0,Low
+APP-1314,62,1191000,Salaried,1.3,1228000,Good,1,On-Time,347800,Personal Loan,1.03,0,Low
+APP-1315,58,863000,Salaried,19.0,1146000,Good,4,On-Time,360600,Auto Loan,1.33,0,Low
+APP-1316,45,652000,Self-Employed,3.8,224000,Poor,2,On-Time,231800,Home Loan,0.34,0,Medium
+APP-1317,50,1161000,Self-Employed,0.7,1160000,Fair,0,Frequent,361500,Home Loan,1.0,0,High
+APP-1318,52,449000,Salaried,0.5,285000,Good,0,On-Time,76500,Personal Loan,0.63,0,Low
+APP-1319,56,1790000,Business,1.2,2938000,Good,2,1-2 Missed,533500,Home Loan,1.64,0,Medium
+APP-1320,54,735000,Self-Employed,13.0,917000,Fair,3,1-2 Missed,143700,Home Loan,1.25,0,Medium
+APP-1321,42,945000,Salaried,2.7,1243000,Fair,1,Frequent,481900,Home Loan,1.32,1,High
+APP-1322,53,502000,Salaried,2.5,587000,Good,2,On-Time,119300,Education Loan,1.17,0,Low
+APP-1323,44,1174000,Salaried,1.9,2707000,Good,0,On-Time,619400,Auto Loan,2.31,0,Low
+APP-1324,54,637000,Salaried,0.8,453000,Poor,2,1-2 Missed,210600,Home Loan,0.71,1,High
+APP-1325,24,1130000,Salaried,3.0,1538000,Good,2,On-Time,425800,Home Loan,1.36,0,Low
+APP-1326,39,1195000,Salaried,0.7,2190000,Good,0,On-Time,400500,Business Loan,1.83,0,Low
+APP-1327,46,576000,Salaried,9.0,834000,Poor,2,1-2 Missed,81100,Auto Loan,1.45,1,High
+APP-1328,63,449000,Salaried,2.3,1009000,Fair,0,Frequent,115200,Personal Loan,2.25,1,High
+APP-1329,52,1788000,Salaried,2.3,1900000,Good,0,On-Time,226400,Auto Loan,1.06,0,Low
+APP-1330,24,729000,Salaried,3.0,909000,Good,0,On-Time,271800,Auto Loan,1.25,0,Low
+APP-1331,61,906000,Self-Employed,2.9,399000,Good,0,On-Time,262800,Auto Loan,0.44,0,Low
+APP-1332,45,1038000,Salaried,24.0,1619000,Good,1,On-Time,462600,Personal Loan,1.56,0,Low
+APP-1333,53,420000,Business,3.9,365000,Poor,1,Frequent,77100,Personal Loan,0.87,0,High
+APP-1334,43,120000,Unemployed,0.0,71000,Good,1,On-Time,18900,Home Loan,0.59,0,Low
+APP-1335,44,849000,Salaried,0.5,1206000,Fair,1,1-2 Missed,230100,Business Loan,1.42,0,Medium
+APP-1336,23,577000,Salaried,2.0,805000,Poor,0,1-2 Missed,297400,Personal Loan,1.4,0,Medium
+APP-1337,48,442000,Salaried,0.8,183000,Good,0,1-2 Missed,182900,Home Loan,0.41,0,Low
+APP-1338,63,1105000,Self-Employed,0.5,1935000,Good,1,On-Time,306000,Business Loan,1.75,0,Low
+APP-1339,23,1449000,Self-Employed,2.0,2306000,Good,1,1-2 Missed,468200,Business Loan,1.59,1,Medium
+APP-1340,47,885000,Salaried,7.4,581000,Poor,1,On-Time,105800,Business Loan,0.66,0,Low
+APP-1341,38,382000,Salaried,17.0,481000,Fair,3,On-Time,207300,Education Loan,1.26,0,Low
+APP-1342,61,465000,Salaried,3.2,836000,Good,2,On-Time,182800,Business Loan,1.8,0,Low
+APP-1343,54,644000,Salaried,3.8,894000,Fair,3,On-Time,137900,Home Loan,1.39,0,Medium
+APP-1344,30,1819000,Self-Employed,0.9,2001000,Fair,1,On-Time,646300,Education Loan,1.1,0,Low
+APP-1345,64,709000,Salaried,1.4,669000,Poor,0,Frequent,93200,Education Loan,0.94,1,High
+APP-1346,60,632000,Self-Employed,9.1,987000,Good,2,On-Time,337500,Home Loan,1.56,0,Low
+APP-1347,50,338000,Salaried,2.2,767000,Good,0,On-Time,54800,Home Loan,2.27,0,Low
+APP-1348,63,0,Unemployed,0.0,50000,Poor,1,Frequent,38500,Business Loan,0.5,1,High
+APP-1349,47,425000,Salaried,8.8,175000,Good,0,On-Time,83000,Home Loan,0.41,0,Low
+APP-1350,56,478000,Salaried,6.2,593000,Good,2,On-Time,199400,Education Loan,1.24,0,Low
+APP-1351,46,858000,Self-Employed,1.0,1858000,Good,0,On-Time,381900,Home Loan,2.17,0,Low
+APP-1352,45,654000,Salaried,3.5,296000,Good,3,On-Time,259300,Home Loan,0.45,0,Low
+APP-1353,34,0,Unemployed,0.0,50000,Good,3,On-Time,36900,Personal Loan,0.5,0,Medium
+APP-1354,28,1412000,Self-Employed,5.7,3234000,Poor,1,Frequent,705200,Home Loan,2.29,1,High
+APP-1355,57,587000,Self-Employed,1.3,246000,Good,2,On-Time,68700,Auto Loan,0.42,0,Low
+APP-1356,41,500000,Self-Employed,8.9,1128000,Good,1,On-Time,117800,Personal Loan,2.26,0,Low
+APP-1357,22,1654000,Business,1.0,1705000,Fair,2,1-2 Missed,325300,Home Loan,1.03,0,Medium
+APP-1358,29,1911000,Business,0.9,3948000,Good,1,On-Time,1040300,Home Loan,2.07,0,Low
+APP-1359,37,258000,Self-Employed,4.4,297000,Good,2,On-Time,67900,Personal Loan,1.15,0,Low
+APP-1360,35,846000,Self-Employed,14.0,1013000,Fair,1,On-Time,359000,Home Loan,1.2,0,Low
+APP-1361,33,707000,Salaried,0.8,1141000,Poor,4,Frequent,284100,Auto Loan,1.61,0,High
+APP-1362,44,1130000,Salaried,8.5,2164000,Fair,1,1-2 Missed,203000,Personal Loan,1.92,0,Medium
+APP-1363,36,2214000,Salaried,1.2,714000,Fair,1,On-Time,425800,Home Loan,0.32,0,Low
+APP-1364,49,627000,Salaried,7.6,956000,Good,2,On-Time,133100,Personal Loan,1.52,0,Low
+APP-1365,55,276000,Salaried,6.6,180000,Poor,2,1-2 Missed,75400,Home Loan,0.65,1,Medium
+APP-1366,23,1089000,Salaried,1.8,1082000,Good,1,On-Time,207100,Home Loan,0.99,0,Low
+APP-1367,53,1661000,Salaried,2.0,1658000,Fair,0,On-Time,148200,Home Loan,1.0,0,Low
+APP-1368,44,688000,Self-Employed,7.9,866000,Good,1,On-Time,339400,Education Loan,1.26,0,Low
+APP-1369,43,559000,Business,3.1,541000,Poor,4,1-2 Missed,298400,Business Loan,0.97,0,High
+APP-1370,46,642000,Salaried,6.6,309000,Fair,2,1-2 Missed,154400,Education Loan,0.48,0,Low
+APP-1371,43,1254000,Salaried,0.8,706000,Fair,2,1-2 Missed,299800,Home Loan,0.56,0,Medium
+APP-1372,43,636000,Business,9.6,205000,Good,0,On-Time,53000,Home Loan,0.32,0,Low
+APP-1373,63,956000,Salaried,6.2,1206000,Good,1,On-Time,382100,Personal Loan,1.26,0,Low
+APP-1374,27,818000,Business,6.0,1883000,Fair,2,On-Time,382800,Auto Loan,2.3,0,Medium
+APP-1375,36,775000,Salaried,0.7,386000,Fair,3,On-Time,115400,Business Loan,0.5,0,Medium
+APP-1376,64,1161000,Salaried,4.5,2652000,Good,0,On-Time,180000,Home Loan,2.28,0,Low
+APP-1377,58,0,Unemployed,0.0,50000,Poor,3,Frequent,45100,Home Loan,0.5,0,High
+APP-1378,54,644000,Salaried,4.6,1044000,Poor,1,Frequent,238100,Auto Loan,1.62,1,High
+APP-1379,29,1220000,Self-Employed,2.2,1998000,Good,0,On-Time,123300,Education Loan,1.64,0,Low
+APP-1380,26,483000,Business,3.1,979000,Fair,1,1-2 Missed,180000,Education Loan,2.03,0,Medium
+APP-1381,60,510000,Salaried,0.5,245000,Good,1,On-Time,114800,Auto Loan,0.48,0,Low
+APP-1382,25,419000,Self-Employed,4.0,559000,Good,1,On-Time,106100,Business Loan,1.33,0,Low
+APP-1383,27,1254000,Business,4.0,2193000,Good,0,On-Time,554000,Personal Loan,1.75,0,Low
+APP-1384,53,763000,Salaried,0.5,1153000,Fair,0,1-2 Missed,351800,Business Loan,1.51,1,Medium
+APP-1385,51,407000,Business,5.7,830000,Fair,2,On-Time,109100,Business Loan,2.04,0,Medium
+APP-1386,56,1257000,Self-Employed,3.1,510000,Good,0,On-Time,660100,Education Loan,0.41,0,Low
+APP-1387,61,604000,Self-Employed,0.5,1048000,Fair,0,1-2 Missed,163700,Home Loan,1.74,1,Medium
+APP-1388,37,512000,Self-Employed,16.0,716000,Fair,1,On-Time,226700,Home Loan,1.4,0,Low
+APP-1389,34,728000,Salaried,13.0,775000,Fair,1,1-2 Missed,223800,Personal Loan,1.06,0,Medium
+APP-1390,63,1739000,Business,3.6,1707000,Good,2,On-Time,872700,Personal Loan,0.98,0,Low
+APP-1391,51,656000,Business,0.5,1040000,Poor,1,Frequent,332400,Education Loan,1.59,1,High
+APP-1392,40,1087000,Self-Employed,7.0,2354000,Good,2,On-Time,131600,Home Loan,2.17,0,Low
+APP-1393,38,1177000,Self-Employed,3.4,1550000,Good,1,On-Time,612200,Home Loan,1.32,0,Low
+APP-1394,40,1015000,Self-Employed,1.8,2054000,Good,0,On-Time,475000,Auto Loan,2.02,0,Low
+APP-1395,49,1561000,Salaried,3.4,1740000,Good,0,On-Time,705400,Home Loan,1.11,0,Low
+APP-1396,47,558000,Self-Employed,3.7,262000,Poor,1,Frequent,97300,Home Loan,0.47,1,High
+APP-1397,58,469000,Salaried,4.1,179000,Good,1,On-Time,215000,Personal Loan,0.38,0,Low
+APP-1398,47,464000,Self-Employed,2.9,167000,Fair,2,On-Time,222500,Personal Loan,0.36,0,Low
+APP-1399,44,748000,Self-Employed,4.7,798000,Good,1,On-Time,161500,Home Loan,1.07,0,Low
+APP-1400,30,493000,Salaried,9.0,481000,Good,1,On-Time,260100,Education Loan,0.98,0,Low
+APP-1401,33,870000,Salaried,2.2,1560000,Poor,0,1-2 Missed,90000,Personal Loan,1.79,1,Medium
+APP-1402,22,839000,Salaried,1.0,1550000,Fair,0,1-2 Missed,126200,Business Loan,1.85,0,Medium
+APP-1403,22,1369000,Salaried,1.0,492000,Good,1,On-Time,455400,Personal Loan,0.36,0,Low
+APP-1404,55,938000,Self-Employed,3.0,680000,Good,1,On-Time,328900,Home Loan,0.72,0,Low
+APP-1405,53,649000,Self-Employed,2.9,545000,Good,1,1-2 Missed,248700,Home Loan,0.84,0,Low
+APP-1406,46,998000,Self-Employed,4.6,1425000,Good,0,On-Time,87800,Home Loan,1.43,0,Low
+APP-1407,61,472000,Salaried,4.5,265000,Fair,2,1-2 Missed,250800,Personal Loan,0.56,0,Medium
+APP-1408,22,790000,Self-Employed,1.0,425000,Fair,3,1-2 Missed,79800,Home Loan,0.54,0,Medium
+APP-1409,37,952000,Salaried,3.2,2170000,Good,0,On-Time,140200,Personal Loan,2.28,0,Low
+APP-1410,60,862000,Salaried,27.8,1706000,Poor,1,On-Time,74600,Personal Loan,1.98,0,Medium
+APP-1411,26,1000000,Self-Employed,0.5,638000,Fair,4,On-Time,346400,Home Loan,0.64,0,Medium
+APP-1412,43,577000,Business,0.5,649000,Good,1,On-Time,299000,Home Loan,1.12,0,Low
+APP-1413,50,1467000,Salaried,5.1,1488000,Good,1,On-Time,576500,Auto Loan,1.01,0,Low
+APP-1414,24,2079000,Salaried,1.8,4055000,Fair,0,On-Time,970200,Business Loan,1.95,0,Low
+APP-1415,33,350000,Salaried,1.4,471000,Fair,1,1-2 Missed,30200,Home Loan,1.35,0,Medium
+APP-1416,47,428000,Salaried,1.9,225000,Good,0,On-Time,143300,Home Loan,0.53,0,Low
+APP-1417,37,824000,Self-Employed,1.5,1515000,Good,4,On-Time,243900,Business Loan,1.84,1,Medium
+APP-1418,58,705000,Salaried,0.5,778000,Good,2,On-Time,221700,Home Loan,1.1,0,Low
+APP-1419,43,2161000,Salaried,17.8,1762000,Fair,2,On-Time,246200,Business Loan,0.82,0,Low
+APP-1420,50,904000,Salaried,1.2,956000,Good,2,On-Time,363100,Home Loan,1.06,0,Low
+APP-1421,35,1663000,Salaried,6.6,2195000,Good,1,On-Time,526400,Education Loan,1.32,0,Low
+APP-1422,49,278000,Salaried,7.2,275000,Fair,1,On-Time,122200,Home Loan,0.99,0,Low
+APP-1423,26,1231000,Salaried,5.0,948000,Poor,3,Frequent,379300,Business Loan,0.77,1,High
+APP-1424,51,556000,Salaried,0.5,615000,Poor,4,On-Time,83500,Home Loan,1.11,1,High
+APP-1425,26,551000,Salaried,5.0,160000,Good,1,On-Time,212000,Auto Loan,0.29,0,Low
+APP-1426,33,708000,Business,3.7,1353000,Good,4,On-Time,114000,Home Loan,1.91,0,Medium
+APP-1427,37,384000,Salaried,5.0,237000,Good,1,On-Time,188200,Home Loan,0.62,0,Low
+APP-1428,47,0,Unemployed,0.0,50000,Good,1,1-2 Missed,36800,Auto Loan,0.5,0,Medium
+APP-1429,47,890000,Salaried,5.2,1473000,Poor,1,Frequent,137000,Personal Loan,1.66,1,High
+APP-1430,42,926000,Business,8.6,1772000,Good,0,On-Time,492900,Business Loan,1.91,0,Low
+APP-1431,60,1279000,Self-Employed,2.0,2558000,Good,0,On-Time,413900,Personal Loan,2.0,0,Low
+APP-1432,57,1772000,Self-Employed,6.6,2323000,Good,0,On-Time,202500,Education Loan,1.31,0,Low
+APP-1433,54,667000,Self-Employed,3.8,461000,Good,1,On-Time,249900,Personal Loan,0.69,0,Low
+APP-1434,51,1033000,Salaried,7.9,1896000,Fair,1,1-2 Missed,205600,Business Loan,1.84,0,Medium
+APP-1435,58,939000,Salaried,23.3,1647000,Good,1,On-Time,429800,Business Loan,1.75,0,Low
+APP-1436,44,981000,Salaried,1.1,765000,Good,5,On-Time,455600,Home Loan,0.78,0,Low
+APP-1437,31,989000,Self-Employed,10.0,2168000,Good,1,On-Time,534200,Education Loan,2.19,0,Low
+APP-1438,26,1843000,Salaried,0.5,874000,Good,1,On-Time,582200,Education Loan,0.47,0,Low
+APP-1439,57,635000,Salaried,0.5,1500000,Good,0,On-Time,186600,Home Loan,2.36,0,Low
+APP-1440,55,365000,Self-Employed,0.5,766000,Fair,0,1-2 Missed,158500,Personal Loan,2.1,1,High
+APP-1441,52,561000,Self-Employed,2.1,970000,Fair,2,1-2 Missed,79800,Home Loan,1.73,0,Medium
+APP-1442,31,1195000,Self-Employed,5.0,2711000,Fair,1,1-2 Missed,402800,Education Loan,2.27,1,Medium
+APP-1443,40,816000,Self-Employed,0.5,1471000,Poor,2,1-2 Missed,274800,Home Loan,1.8,1,High
+APP-1444,53,180000,Unemployed,0.0,119000,Poor,0,1-2 Missed,22000,Home Loan,0.66,1,High
+APP-1445,22,461000,Salaried,0.5,553000,Poor,1,1-2 Missed,127400,Personal Loan,1.2,1,High
+APP-1446,26,904000,Salaried,5.0,365000,Good,0,On-Time,434900,Personal Loan,0.4,0,Low
+APP-1447,25,1127000,Salaried,4.0,1226000,Good,0,1-2 Missed,543700,Education Loan,1.09,0,Low
+APP-1448,37,945000,Salaried,8.3,1743000,Good,0,On-Time,119700,Business Loan,1.84,0,Low
+APP-1449,45,707000,Business,10.8,764000,Poor,0,Frequent,86700,Personal Loan,1.08,0,High
+APP-1450,37,870000,Salaried,6.0,835000,Poor,1,1-2 Missed,177000,Home Loan,0.96,0,Medium
+APP-1451,23,867000,Self-Employed,0.6,1327000,Poor,0,On-Time,425800,Auto Loan,1.53,0,Medium
+APP-1452,49,890000,Salaried,2.5,1891000,Good,5,1-2 Missed,125100,Personal Loan,2.12,0,Medium
+APP-1453,53,435000,Self-Employed,6.4,153000,Poor,1,Frequent,182000,Personal Loan,0.35,0,High
+APP-1454,48,893000,Self-Employed,1.6,963000,Good,0,On-Time,113900,Home Loan,1.08,0,Low
+APP-1455,41,641000,Salaried,5.8,378000,Good,0,On-Time,239000,Personal Loan,0.59,0,Low
+APP-1456,45,1385000,Salaried,0.5,2417000,Good,1,On-Time,342600,Home Loan,1.75,0,Low
+APP-1457,33,864000,Salaried,1.8,412000,Good,0,On-Time,389500,Auto Loan,0.48,0,Low
+APP-1458,56,1245000,Salaried,4.0,2091000,Good,3,On-Time,236300,Personal Loan,1.68,0,Low
+APP-1459,54,689000,Salaried,5.0,596000,Good,4,On-Time,262100,Education Loan,0.87,0,Low
+APP-1460,54,702000,Salaried,4.3,476000,Good,0,1-2 Missed,133900,Personal Loan,0.68,0,Low
+APP-1461,64,1753000,Salaried,6.0,3967000,Fair,1,1-2 Missed,728200,Home Loan,2.26,0,Medium
+APP-1462,58,1011000,Self-Employed,0.5,293000,Poor,0,Frequent,496000,Education Loan,0.29,1,High
+APP-1463,33,556000,Salaried,0.5,662000,Fair,2,1-2 Missed,77600,Personal Loan,1.19,1,High
+APP-1464,24,1285000,Self-Employed,3.0,381000,Good,1,On-Time,626200,Home Loan,0.3,0,Low
+APP-1465,22,611000,Salaried,1.0,788000,Fair,0,1-2 Missed,219300,Personal Loan,1.29,0,Medium
+APP-1466,54,907000,Self-Employed,0.6,1204000,Poor,0,1-2 Missed,126700,Personal Loan,1.33,1,High
+APP-1467,61,2095000,Salaried,9.2,1973000,Good,2,On-Time,588600,Education Loan,0.94,0,Low
+APP-1468,31,383000,Salaried,1.4,205000,Good,1,On-Time,59600,Personal Loan,0.54,0,Low
+APP-1469,64,736000,Business,3.3,780000,Good,0,On-Time,301100,Auto Loan,1.06,0,Low
+APP-1470,50,997000,Salaried,0.8,1690000,Good,2,On-Time,435400,Home Loan,1.7,0,Low
+APP-1471,34,1200000,Self-Employed,6.2,2319000,Fair,1,1-2 Missed,155700,Personal Loan,1.93,0,Medium
+APP-1472,33,423000,Self-Employed,5.5,588000,Poor,3,Frequent,134500,Business Loan,1.39,1,High
+APP-1473,52,363000,Salaried,1.2,551000,Good,0,1-2 Missed,168000,Education Loan,1.52,0,Medium
+APP-1474,23,1421000,Salaried,2.0,968000,Fair,2,On-Time,738900,Home Loan,0.68,0,Low
+APP-1475,56,554000,Salaried,2.6,481000,Poor,2,1-2 Missed,178000,Home Loan,0.87,0,Medium
+APP-1476,44,542000,Business,1.7,324000,Poor,0,1-2 Missed,285400,Home Loan,0.6,0,Medium
+APP-1477,38,1805000,Salaried,0.8,1419000,Good,2,On-Time,598900,Auto Loan,0.79,0,Low
+APP-1478,47,836000,Salaried,1.5,613000,Poor,1,Frequent,221800,Auto Loan,0.73,0,High
+APP-1479,29,839000,Salaried,0.5,1147000,Good,4,On-Time,401600,Auto Loan,1.37,0,Low
+APP-1480,50,734000,Self-Employed,4.4,1071000,Fair,0,1-2 Missed,228800,Personal Loan,1.46,0,Medium
+APP-1481,47,427000,Salaried,9.2,974000,Good,2,On-Time,128900,Education Loan,2.28,0,Low
+APP-1482,31,1146000,Salaried,4.0,768000,Good,1,On-Time,355800,Personal Loan,0.67,0,Low
+APP-1483,47,997000,Self-Employed,1.2,1625000,Fair,4,1-2 Missed,476600,Home Loan,1.63,0,Medium
+APP-1484,55,880000,Business,0.5,1766000,Good,1,On-Time,414500,Personal Loan,2.01,0,Low
+APP-1485,62,759000,Salaried,1.2,1104000,Good,4,1-2 Missed,204700,Business Loan,1.45,0,Medium
+APP-1486,28,692000,Salaried,2.7,552000,Good,3,On-Time,163800,Auto Loan,0.8,0,Low
+APP-1487,25,1296000,Salaried,4.0,1056000,Fair,0,On-Time,403300,Personal Loan,0.81,0,Low
+APP-1488,32,749000,Self-Employed,1.0,250000,Good,2,On-Time,261600,Personal Loan,0.33,0,Low
+APP-1489,50,780000,Salaried,6.4,707000,Fair,5,On-Time,149800,Business Loan,0.91,0,Low
+APP-1490,57,1062000,Salaried,10.1,1966000,Good,0,1-2 Missed,481300,Personal Loan,1.85,0,Low
+APP-1491,46,898000,Self-Employed,3.0,316000,Good,1,On-Time,277200,Home Loan,0.35,0,Low
+APP-1492,42,1894000,Self-Employed,8.6,1366000,Good,1,On-Time,448900,Business Loan,0.72,0,Low
+APP-1493,57,323000,Salaried,4.0,571000,Good,1,On-Time,42100,Education Loan,1.77,0,Low
+APP-1494,31,942000,Business,5.1,1821000,Good,0,On-Time,181100,Home Loan,1.93,0,Low
+APP-1495,58,559000,Salaried,3.7,687000,Good,0,On-Time,294100,Personal Loan,1.23,0,Low
+APP-1496,30,494000,Salaried,3.1,865000,Poor,1,Frequent,110400,Personal Loan,1.75,1,High
+APP-1497,45,636000,Salaried,1.3,689000,Fair,1,1-2 Missed,101400,Home Loan,1.08,0,Medium
+APP-1498,56,120000,Unemployed,0.0,71000,Good,0,On-Time,35600,Business Loan,0.59,0,Low
+APP-1499,56,849000,Salaried,1.8,939000,Good,3,1-2 Missed,190500,Personal Loan,1.11,0,Medium
+APP-1500,57,366000,Salaried,1.7,548000,Poor,2,1-2 Missed,35300,Education Loan,1.5,1,High
+APP-1501,39,608000,Salaried,4.1,1391000,Good,0,On-Time,141000,Home Loan,2.29,0,Low
+APP-1502,60,933000,Self-Employed,0.6,371000,Good,2,On-Time,313200,Personal Loan,0.4,0,Low
+APP-1503,53,511000,Salaried,12.4,685000,Fair,2,On-Time,173400,Home Loan,1.34,0,Low
+APP-1504,45,451000,Salaried,6.4,432000,Fair,4,Frequent,111700,Auto Loan,0.96,1,High
+APP-1505,44,250000,Salaried,2.6,336000,Fair,0,On-Time,72600,Personal Loan,1.34,0,Low
+APP-1506,53,571000,Salaried,0.9,172000,Good,0,On-Time,304800,Personal Loan,0.3,0,Low
+APP-1507,58,443000,Self-Employed,10.7,409000,Good,3,On-Time,114000,Home Loan,0.92,0,Low
+APP-1508,33,483000,Self-Employed,8.7,972000,Fair,4,1-2 Missed,97300,Home Loan,2.01,1,High
+APP-1509,34,700000,Salaried,6.4,1009000,Good,2,On-Time,136100,Home Loan,1.44,0,Low
+APP-1510,44,590000,Salaried,1.6,719000,Good,2,On-Time,174100,Home Loan,1.22,0,Low
+APP-1511,46,440000,Self-Employed,2.6,380000,Good,0,On-Time,192300,Personal Loan,0.86,0,Low
+APP-1512,56,268000,Salaried,0.5,239000,Good,1,On-Time,47400,Personal Loan,0.89,0,Low
+APP-1513,62,943000,Salaried,1.0,1012000,Poor,0,Frequent,389800,Personal Loan,1.07,0,High
+APP-1514,51,0,Unemployed,0.0,50000,Fair,0,On-Time,9000,Personal Loan,0.5,1,Medium
+APP-1515,38,656000,Self-Employed,7.6,1528000,Fair,2,1-2 Missed,181600,Home Loan,2.33,0,Medium
+APP-1516,41,702000,Salaried,6.3,838000,Good,0,On-Time,312100,Home Loan,1.19,0,Low
+APP-1517,46,807000,Salaried,4.5,884000,Good,1,On-Time,193000,Home Loan,1.1,0,Low
+APP-1518,43,1832000,Salaried,11.3,3792000,Good,4,On-Time,632000,Education Loan,2.07,0,Low
+APP-1519,34,357000,Salaried,4.4,417000,Good,0,On-Time,63000,Personal Loan,1.17,0,Low
+APP-1520,40,650000,Salaried,3.1,934000,Poor,4,1-2 Missed,278700,Home Loan,1.44,1,High
+APP-1521,57,329000,Salaried,2.1,246000,Good,5,On-Time,34400,Home Loan,0.75,0,Low
+APP-1522,33,973000,Salaried,12.0,1799000,Good,1,On-Time,467700,Education Loan,1.85,0,Low
+APP-1523,62,748000,Business,0.5,1043000,Good,0,On-Time,129500,Auto Loan,1.39,0,Low
+APP-1524,40,896000,Self-Employed,13.4,1783000,Fair,1,On-Time,439900,Auto Loan,1.99,0,Low
+APP-1525,33,873000,Salaried,8.8,1684000,Good,1,On-Time,214500,Personal Loan,1.93,0,Low
+APP-1526,30,1349000,Salaried,0.7,961000,Good,1,On-Time,566100,Home Loan,0.71,0,Low
+APP-1527,28,1066000,Self-Employed,4.2,1907000,Good,1,On-Time,245200,Business Loan,1.79,0,Low
+APP-1528,49,1242000,Salaried,10.1,2447000,Poor,4,Frequent,628200,Auto Loan,1.97,1,High
+APP-1529,35,463000,Salaried,4.2,460000,Good,0,On-Time,64600,Home Loan,0.99,0,Low
+APP-1530,52,120000,Unemployed,0.0,75000,Poor,2,1-2 Missed,19700,Education Loan,0.62,1,High
+APP-1531,40,554000,Salaried,11.9,142000,Fair,0,On-Time,172700,Auto Loan,0.26,0,Low
+APP-1532,37,570000,Self-Employed,14.3,695000,Good,1,On-Time,67600,Home Loan,1.22,0,Low
+APP-1533,26,120000,Unemployed,0.0,121000,Fair,3,1-2 Missed,20700,Personal Loan,1.01,1,High
+APP-1534,56,943000,Salaried,2.7,1361000,Good,1,On-Time,493700,Home Loan,1.44,0,Low
+APP-1535,33,462000,Salaried,2.4,302000,Poor,0,On-Time,249000,Home Loan,0.65,0,Low
+APP-1536,46,737000,Salaried,13.8,1546000,Good,2,On-Time,189300,Auto Loan,2.1,0,Low
+APP-1537,42,1748000,Business,5.6,1406000,Good,2,On-Time,898400,Home Loan,0.8,0,Low
+APP-1538,57,376000,Business,0.6,277000,Good,2,1-2 Missed,126400,Education Loan,0.74,0,Medium
+APP-1539,44,1745000,Self-Employed,0.5,2240000,Good,1,On-Time,360800,Business Loan,1.28,0,Low
+APP-1540,37,711000,Salaried,4.2,940000,Poor,0,On-Time,291600,Home Loan,1.32,0,Medium
+APP-1541,60,250000,Self-Employed,13.3,178000,Good,4,On-Time,97400,Personal Loan,0.71,0,Low
+APP-1542,63,396000,Business,9.3,330000,Fair,3,1-2 Missed,215800,Education Loan,0.83,0,Medium
+APP-1543,60,488000,Self-Employed,5.6,300000,Good,1,On-Time,99800,Auto Loan,0.61,0,Low
+APP-1544,35,583000,Business,0.7,1046000,Poor,3,1-2 Missed,230800,Auto Loan,1.79,1,High
+APP-1545,52,763000,Business,1.5,1454000,Good,1,On-Time,79700,Home Loan,1.91,0,Low
+APP-1546,26,250000,Self-Employed,5.0,311000,Good,1,On-Time,33400,Personal Loan,1.24,0,Low
+APP-1547,56,888000,Salaried,1.0,1585000,Good,0,On-Time,72700,Personal Loan,1.78,0,Low
+APP-1548,44,466000,Salaried,1.6,854000,Fair,1,On-Time,256200,Business Loan,1.83,0,Medium
+APP-1549,50,1661000,Salaried,0.7,909000,Good,1,On-Time,759200,Home Loan,0.55,0,Low
+APP-1550,64,700000,Self-Employed,5.6,1629000,Good,0,On-Time,314800,Business Loan,2.33,0,Low
+APP-1551,32,1316000,Salaried,11.0,2652000,Good,1,On-Time,420600,Home Loan,2.02,0,Low
+APP-1552,39,1436000,Business,1.6,990000,Fair,2,On-Time,317400,Business Loan,0.69,0,Low
+APP-1553,33,120000,Unemployed,0.0,78000,Good,2,On-Time,18100,Auto Loan,0.65,0,Medium
+APP-1554,30,600000,Self-Employed,3.2,312000,Fair,2,1-2 Missed,128300,Personal Loan,0.52,0,Medium
+APP-1555,31,596000,Salaried,5.0,326000,Good,3,On-Time,153000,Personal Loan,0.55,0,Low
+APP-1556,38,717000,Salaried,17.0,1333000,Poor,0,1-2 Missed,312200,Home Loan,1.86,0,Medium
+APP-1557,59,1122000,Salaried,0.6,1413000,Poor,1,1-2 Missed,374300,Home Loan,1.26,1,High
+APP-1558,28,618000,Self-Employed,3.5,1195000,Good,2,On-Time,71900,Home Loan,1.93,0,Low
+APP-1559,34,758000,Self-Employed,2.4,1406000,Good,1,On-Time,67100,Home Loan,1.85,0,Low
+APP-1560,61,929000,Business,10.0,1440000,Good,1,On-Time,119000,Home Loan,1.55,0,Low
+APP-1561,63,504000,Salaried,3.2,870000,Good,0,1-2 Missed,137600,Auto Loan,1.73,0,Low
+APP-1562,30,487000,Business,0.6,141000,Good,3,On-Time,252600,Personal Loan,0.29,0,Low
+APP-1563,48,742000,Business,5.0,683000,Fair,1,On-Time,281600,Home Loan,0.92,0,Low
+APP-1564,23,795000,Salaried,2.0,1289000,Good,3,On-Time,363200,Education Loan,1.62,0,Low
+APP-1565,26,1010000,Business,0.5,273000,Poor,1,Frequent,302200,Personal Loan,0.27,1,High
+APP-1566,50,1143000,Salaried,9.8,367000,Good,2,On-Time,285700,Business Loan,0.32,0,Low
+APP-1567,58,455000,Salaried,1.0,947000,Fair,2,On-Time,59600,Auto Loan,2.08,0,Medium
+APP-1568,59,528000,Self-Employed,4.0,909000,Good,2,On-Time,259600,Home Loan,1.72,0,Low
+APP-1569,40,487000,Salaried,2.7,400000,Good,1,On-Time,218200,Personal Loan,0.82,0,Low
+APP-1570,29,1680000,Self-Employed,6.4,2905000,Good,1,On-Time,267100,Personal Loan,1.73,0,Low
+APP-1571,22,757000,Self-Employed,1.0,1479000,Good,2,On-Time,242800,Home Loan,1.95,0,Low
+APP-1572,43,813000,Salaried,10.2,740000,Good,1,1-2 Missed,251300,Home Loan,0.91,0,Low
+APP-1573,38,831000,Salaried,6.6,272000,Fair,1,On-Time,310600,Home Loan,0.33,0,Low
+APP-1574,28,556000,Salaried,5.2,1254000,Poor,0,Frequent,291700,Home Loan,2.26,1,High
+APP-1575,46,1818000,Self-Employed,8.0,1804000,Good,3,On-Time,640800,Personal Loan,0.99,0,Low
+APP-1576,25,998000,Salaried,4.0,478000,Good,0,On-Time,333200,Personal Loan,0.48,0,Low
+APP-1577,57,823000,Salaried,0.5,1076000,Good,2,On-Time,85300,Home Loan,1.31,0,Low
+APP-1578,27,454000,Salaried,2.5,864000,Good,1,On-Time,49700,Auto Loan,1.9,0,Low
+APP-1579,52,441000,Self-Employed,13.4,320000,Good,1,On-Time,74100,Personal Loan,0.73,0,Low
+APP-1580,40,687000,Salaried,0.7,570000,Fair,2,1-2 Missed,65400,Home Loan,0.83,0,Medium
+APP-1581,60,560000,Self-Employed,6.7,432000,Poor,0,1-2 Missed,240500,Home Loan,0.77,1,Medium
+APP-1582,48,463000,Self-Employed,18.4,1103000,Poor,1,Frequent,194400,Home Loan,2.38,1,High
+APP-1583,31,665000,Salaried,0.5,448000,Good,2,On-Time,95700,Personal Loan,0.67,0,Low
+APP-1584,47,720000,Salaried,5.7,1071000,Poor,2,Frequent,340500,Home Loan,1.49,0,High
+APP-1585,40,868000,Business,3.2,1944000,Fair,0,On-Time,132600,Personal Loan,2.24,0,Medium
+APP-1586,60,620000,Business,4.3,351000,Good,3,On-Time,137400,Personal Loan,0.57,0,Low
+APP-1587,24,477000,Business,0.5,1115000,Good,2,On-Time,94000,Personal Loan,2.34,0,Medium
+APP-1588,34,486000,Business,0.5,1112000,Fair,3,On-Time,123900,Home Loan,2.29,0,Medium
+APP-1589,49,1515000,Salaried,5.5,3260000,Good,1,1-2 Missed,302500,Home Loan,2.15,0,Medium
+APP-1590,41,420000,Salaried,8.7,299000,Good,1,On-Time,130100,Personal Loan,0.71,0,Low
+APP-1591,49,974000,Salaried,7.6,1571000,Good,3,On-Time,264400,Education Loan,1.61,0,Low
+APP-1592,29,1056000,Salaried,3.9,1992000,Fair,3,1-2 Missed,574100,Auto Loan,1.89,1,High
+APP-1593,62,757000,Salaried,0.5,1794000,Good,1,On-Time,80500,Personal Loan,2.37,0,Low
+APP-1594,60,2021000,Salaried,5.8,1289000,Poor,0,1-2 Missed,296700,Personal Loan,0.64,1,Medium
+APP-1595,22,1046000,Salaried,1.0,1984000,Fair,1,On-Time,109700,Personal Loan,1.9,0,Medium
+APP-1596,24,2102000,Self-Employed,3.0,2057000,Fair,1,Frequent,786500,Education Loan,0.98,1,High
+APP-1597,34,575000,Self-Employed,9.1,361000,Good,1,On-Time,60700,Home Loan,0.63,0,Low
+APP-1598,49,580000,Salaried,6.2,670000,Fair,0,1-2 Missed,274400,Business Loan,1.16,0,Medium
+APP-1599,46,1061000,Business,14.9,2076000,Good,3,On-Time,340200,Auto Loan,1.96,0,Low
+APP-1600,54,704000,Salaried,0.5,880000,Good,0,On-Time,230700,Auto Loan,1.25,0,Low
+APP-1601,59,1937000,Business,6.7,2723000,Good,2,1-2 Missed,666200,Home Loan,1.41,0,Medium
+APP-1602,27,963000,Salaried,2.0,2301000,Good,0,On-Time,154400,Personal Loan,2.39,0,Low
+APP-1603,53,468000,Business,11.8,519000,Fair,1,On-Time,80900,Personal Loan,1.11,0,Low
+APP-1604,42,327000,Self-Employed,1.6,514000,Good,0,On-Time,75200,Home Loan,1.57,0,Low
+APP-1605,37,774000,Salaried,6.5,801000,Good,0,On-Time,277800,Home Loan,1.03,0,Low
+APP-1606,42,770000,Salaried,10.5,843000,Good,2,On-Time,137600,Education Loan,1.09,0,Low
+APP-1607,32,949000,Salaried,0.5,1657000,Poor,3,Frequent,127800,Personal Loan,1.75,1,High
+APP-1608,58,1513000,Salaried,2.5,3429000,Fair,0,On-Time,810900,Personal Loan,2.27,1,Medium
+APP-1609,57,1413000,Salaried,7.2,2001000,Fair,1,On-Time,127600,Home Loan,1.42,0,Low
+APP-1610,56,597000,Self-Employed,3.0,1136000,Good,1,On-Time,273000,Auto Loan,1.9,0,Low
+APP-1611,40,411000,Salaried,1.6,182000,Good,3,On-Time,185100,Auto Loan,0.44,0,Low
+APP-1612,41,424000,Self-Employed,1.2,298000,Poor,2,On-Time,93100,Personal Loan,0.7,0,Low
+APP-1613,39,550000,Business,0.7,731000,Good,1,On-Time,79100,Personal Loan,1.33,0,Low
+APP-1614,62,666000,Salaried,9.7,195000,Good,2,On-Time,98900,Personal Loan,0.29,0,Low
+APP-1615,35,945000,Self-Employed,4.3,750000,Fair,3,1-2 Missed,385400,Personal Loan,0.79,0,Medium
+APP-1616,36,532000,Salaried,0.5,725000,Good,0,On-Time,203300,Home Loan,1.36,0,Low
+APP-1617,52,933000,Self-Employed,2.4,263000,Fair,1,1-2 Missed,417900,Business Loan,0.28,0,Medium
+APP-1618,22,973000,Salaried,1.0,797000,Good,3,On-Time,506600,Personal Loan,0.82,0,Low
+APP-1619,24,180000,Unemployed,0.0,244000,Good,2,On-Time,72900,Home Loan,1.36,0,Medium
+APP-1620,37,448000,Business,1.0,664000,Good,1,On-Time,68700,Personal Loan,1.48,0,Low
+APP-1621,44,1028000,Salaried,2.9,2303000,Good,1,1-2 Missed,199900,Education Loan,2.24,0,Medium
+APP-1622,32,2379000,Salaried,2.0,3896000,Poor,1,Frequent,1132000,Home Loan,1.64,1,High
+APP-1623,33,916000,Business,2.1,1046000,Fair,1,On-Time,163400,Home Loan,1.14,0,Low
+APP-1624,31,250000,Self-Employed,6.7,563000,Good,2,On-Time,28500,Auto Loan,2.25,0,Low
+APP-1625,53,1537000,Salaried,1.3,2978000,Good,1,On-Time,631000,Home Loan,1.94,0,Low
+APP-1626,37,559000,Salaried,5.1,380000,Fair,2,On-Time,150500,Auto Loan,0.68,0,Low
+APP-1627,29,2619000,Self-Employed,4.2,1392000,Fair,3,1-2 Missed,1342000,Home Loan,0.53,0,Medium
+APP-1628,59,856000,Salaried,4.2,1458000,Good,0,On-Time,330100,Auto Loan,1.7,0,Low
+APP-1629,33,336000,Business,5.4,488000,Good,1,On-Time,41200,Home Loan,1.45,0,Low
+APP-1630,45,276000,Salaried,4.0,538000,Good,1,1-2 Missed,145000,Home Loan,1.95,0,Medium
+APP-1631,49,1795000,Salaried,10.6,3300000,Fair,2,1-2 Missed,361700,Education Loan,1.84,0,Medium
+APP-1632,29,1433000,Business,5.6,2284000,Poor,0,Frequent,341800,Personal Loan,1.59,1,High
+APP-1633,49,2565000,Salaried,4.0,5000000,Good,2,On-Time,690100,Personal Loan,1.95,0,Low
+APP-1634,57,811000,Salaried,8.9,1133000,Fair,3,On-Time,84400,Home Loan,1.4,0,Low
+APP-1635,47,783000,Salaried,4.7,386000,Good,1,On-Time,245400,Personal Loan,0.49,0,Low
+APP-1636,29,661000,Salaried,1.7,1342000,Good,3,On-Time,91200,Personal Loan,2.03,0,Medium
+APP-1637,49,572000,Self-Employed,1.2,453000,Good,5,1-2 Missed,153600,Business Loan,0.79,0,Medium
+APP-1638,49,657000,Salaried,0.8,1262000,Fair,0,On-Time,160900,Business Loan,1.92,0,Medium
+APP-1639,58,903000,Self-Employed,11.5,2084000,Good,0,On-Time,400200,Personal Loan,2.31,0,Low
+APP-1640,62,520000,Self-Employed,6.2,909000,Good,4,1-2 Missed,237900,Personal Loan,1.75,1,Medium
+APP-1641,57,338000,Self-Employed,13.9,518000,Good,4,On-Time,51400,Personal Loan,1.53,0,Low
+APP-1642,48,876000,Salaried,4.6,1086000,Good,0,1-2 Missed,221000,Auto Loan,1.24,0,Low
+APP-1643,38,514000,Salaried,3.2,531000,Good,0,On-Time,131300,Home Loan,1.03,0,Low
+APP-1644,30,250000,Business,0.5,252000,Fair,0,Frequent,37800,Home Loan,1.01,1,High
+APP-1645,54,1074000,Self-Employed,5.6,1738000,Good,5,On-Time,489000,Home Loan,1.62,0,Low
+APP-1646,41,453000,Salaried,4.4,845000,Fair,0,On-Time,186800,Home Loan,1.87,0,Low
+APP-1647,34,1137000,Salaried,13.0,1943000,Good,1,1-2 Missed,192700,Home Loan,1.71,0,Low
+APP-1648,49,1123000,Salaried,1.4,760000,Good,3,On-Time,283400,Personal Loan,0.68,0,Low
+APP-1649,50,934000,Self-Employed,3.8,1225000,Good,0,On-Time,121200,Auto Loan,1.31,0,Low
+APP-1650,34,2953000,Business,5.3,5000000,Good,1,On-Time,1108100,Personal Loan,1.69,0,Low
+APP-1651,56,750000,Self-Employed,5.2,955000,Good,0,On-Time,102800,Home Loan,1.27,0,Low
+APP-1652,27,695000,Self-Employed,4.1,976000,Good,3,On-Time,377700,Home Loan,1.4,0,Low
+APP-1653,39,1150000,Self-Employed,7.5,2194000,Fair,1,1-2 Missed,514000,Personal Loan,1.91,0,Medium
+APP-1654,26,783000,Salaried,1.1,1309000,Fair,2,On-Time,206300,Home Loan,1.67,0,Low
+APP-1655,46,1474000,Salaried,6.5,1666000,Good,2,On-Time,518700,Personal Loan,1.13,0,Low
+APP-1656,23,417000,Salaried,2.0,907000,Good,0,On-Time,212000,Business Loan,2.18,0,Low
+APP-1657,31,420000,Salaried,10.0,252000,Good,0,On-Time,143000,Home Loan,0.6,0,Low
+APP-1658,51,1200000,Business,9.4,2868000,Good,1,On-Time,194400,Home Loan,2.39,0,Low
+APP-1659,26,440000,Salaried,1.9,222000,Good,1,On-Time,113500,Personal Loan,0.5,0,Low
+APP-1660,54,1107000,Salaried,1.6,312000,Poor,2,Frequent,527200,Business Loan,0.28,1,High
+APP-1661,22,977000,Salaried,1.0,2114000,Good,2,On-Time,374000,Auto Loan,2.16,0,Low
+APP-1662,39,562000,Salaried,3.7,436000,Good,1,On-Time,216800,Education Loan,0.78,0,Low
+APP-1663,53,976000,Salaried,11.8,1775000,Good,1,1-2 Missed,475700,Home Loan,1.82,0,Medium
+APP-1664,32,424000,Salaried,0.9,845000,Good,1,On-Time,212100,Business Loan,1.99,0,Low
+APP-1665,42,479000,Self-Employed,5.1,1004000,Fair,2,1-2 Missed,245400,Home Loan,2.1,0,Medium
+APP-1666,47,713000,Salaried,8.3,1698000,Good,1,On-Time,88800,Home Loan,2.38,0,Low
+APP-1667,46,840000,Self-Employed,14.7,741000,Good,0,1-2 Missed,282000,Education Loan,0.88,0,Low
+APP-1668,43,688000,Salaried,2.1,1223000,Fair,0,1-2 Missed,294500,Business Loan,1.78,0,Medium
+APP-1669,48,1010000,Salaried,6.5,503000,Good,1,On-Time,440100,Home Loan,0.5,0,Low
+APP-1670,34,987000,Salaried,3.9,1110000,Fair,1,1-2 Missed,360400,Home Loan,1.12,0,Medium
+APP-1671,54,1786000,Self-Employed,0.5,3703000,Fair,1,On-Time,282900,Home Loan,2.07,0,Medium
+APP-1672,55,767000,Self-Employed,5.9,798000,Good,0,On-Time,348800,Home Loan,1.04,0,Low
+APP-1673,62,1500000,Salaried,5.9,2281000,Fair,2,On-Time,627700,Home Loan,1.52,0,Low
+APP-1674,56,1301000,Salaried,13.3,1734000,Good,0,On-Time,156700,Business Loan,1.33,0,Low
+APP-1675,22,2657000,Self-Employed,1.0,4354000,Good,0,On-Time,791800,Auto Loan,1.64,0,Low
+APP-1676,42,755000,Salaried,1.3,1768000,Good,1,On-Time,122100,Auto Loan,2.34,0,Low
+APP-1677,27,648000,Salaried,0.5,240000,Good,0,On-Time,154600,Auto Loan,0.37,0,Low
+APP-1678,49,1550000,Business,2.7,2300000,Fair,1,1-2 Missed,137200,Personal Loan,1.48,0,Medium
+APP-1679,38,985000,Self-Employed,1.8,2074000,Poor,1,Frequent,264100,Auto Loan,2.11,1,High
+APP-1680,26,1570000,Salaried,5.0,2017000,Poor,1,1-2 Missed,531400,Personal Loan,1.28,1,Medium
+APP-1681,52,1170000,Business,2.2,490000,Fair,1,1-2 Missed,434300,Home Loan,0.42,0,Medium
+APP-1682,26,270000,Self-Employed,5.0,393000,Good,0,1-2 Missed,105800,Personal Loan,1.46,0,Low
+APP-1683,59,980000,Salaried,16.4,945000,Good,0,On-Time,463600,Personal Loan,0.96,0,Low
+APP-1684,24,948000,Self-Employed,3.0,553000,Good,3,On-Time,171800,Education Loan,0.58,0,Low
+APP-1685,44,864000,Self-Employed,13.2,1793000,Good,1,On-Time,118000,Business Loan,2.08,0,Low
+APP-1686,58,753000,Salaried,7.2,1033000,Good,1,On-Time,361600,Personal Loan,1.37,0,Low
+APP-1687,58,352000,Salaried,4.0,794000,Poor,0,Frequent,54100,Auto Loan,2.26,0,High
+APP-1688,31,1270000,Salaried,1.0,2518000,Good,1,On-Time,683400,Home Loan,1.98,0,Low
+APP-1689,31,979000,Self-Employed,3.1,1703000,Good,1,On-Time,466000,Auto Loan,1.74,0,Low
+APP-1690,40,1430000,Salaried,4.1,373000,Good,1,On-Time,451000,Personal Loan,0.26,0,Low
+APP-1691,38,362000,Business,10.0,423000,Fair,2,On-Time,195900,Home Loan,1.17,0,Low
+APP-1692,42,1049000,Self-Employed,3.3,708000,Fair,0,On-Time,131900,Personal Loan,0.67,0,Low
+APP-1693,35,714000,Salaried,11.4,1577000,Fair,0,1-2 Missed,158800,Personal Loan,2.21,0,Medium
+APP-1694,30,869000,Self-Employed,5.6,543000,Good,2,On-Time,330200,Home Loan,0.62,0,Low
+APP-1695,22,718000,Salaried,0.7,621000,Fair,4,On-Time,175600,Business Loan,0.86,0,Low
+APP-1696,34,1069000,Self-Employed,13.0,1455000,Good,0,1-2 Missed,552000,Home Loan,1.36,0,Low
+APP-1697,25,741000,Self-Employed,3.7,605000,Poor,1,1-2 Missed,82100,Business Loan,0.82,0,Medium
+APP-1698,22,466000,Salaried,1.0,327000,Good,0,On-Time,157600,Auto Loan,0.7,0,Low
+APP-1699,61,843000,Salaried,5.4,1297000,Good,0,On-Time,301500,Home Loan,1.54,0,Low
+APP-1700,53,721000,Salaried,0.6,318000,Good,1,On-Time,278900,Personal Loan,0.44,0,Low
+APP-1701,55,772000,Salaried,5.1,290000,Fair,0,On-Time,154500,Auto Loan,0.38,0,Low
+APP-1702,49,250000,Salaried,3.4,263000,Good,2,On-Time,62800,Personal Loan,1.05,0,Low
+APP-1703,52,1150000,Salaried,2.6,2069000,Poor,1,1-2 Missed,548000,Auto Loan,1.8,0,Medium
+APP-1704,29,180000,Unemployed,0.0,260000,Good,0,On-Time,30900,Personal Loan,1.44,0,Medium
+APP-1705,60,400000,Salaried,15.3,464000,Good,0,Frequent,187500,Personal Loan,1.16,0,Medium
+APP-1706,47,1302000,Salaried,3.7,1909000,Good,2,On-Time,448500,Business Loan,1.47,0,Low
+APP-1707,55,1122000,Self-Employed,1.2,1162000,Good,0,On-Time,491700,Home Loan,1.04,0,Low
+APP-1708,24,680000,Salaried,3.0,1539000,Good,1,On-Time,282500,Personal Loan,2.26,0,Low
+APP-1709,33,0,Unemployed,0.0,50000,Good,1,On-Time,17800,Home Loan,0.5,0,Low
+APP-1710,22,884000,Self-Employed,1.0,1501000,Fair,1,On-Time,307100,Auto Loan,1.7,0,Low
+APP-1711,26,859000,Self-Employed,1.0,1861000,Good,1,1-2 Missed,419000,Auto Loan,2.17,0,Medium
+APP-1712,51,1304000,Salaried,1.2,2580000,Poor,0,Frequent,369200,Home Loan,1.98,1,High
+APP-1713,51,640000,Salaried,0.5,413000,Fair,0,On-Time,342000,Home Loan,0.65,0,Low
+APP-1714,38,1501000,Salaried,0.5,1330000,Fair,0,1-2 Missed,439100,Home Loan,0.89,0,Medium
+APP-1715,44,609000,Business,8.8,1091000,Good,1,1-2 Missed,89600,Personal Loan,1.79,0,Low
+APP-1716,36,400000,Salaried,6.6,172000,Good,2,On-Time,105200,Personal Loan,0.43,0,Low
+APP-1717,58,447000,Salaried,2.2,892000,Good,0,On-Time,235700,Business Loan,2.0,0,Low
+APP-1718,42,180000,Unemployed,0.0,323000,Fair,0,On-Time,41400,Personal Loan,1.79,1,Medium
+APP-1719,35,779000,Salaried,6.0,1417000,Poor,1,1-2 Missed,380200,Home Loan,1.82,1,High
+APP-1720,23,956000,Salaried,2.0,445000,Good,1,On-Time,472400,Education Loan,0.47,0,Low
+APP-1721,32,769000,Salaried,11.0,1379000,Good,4,On-Time,188100,Personal Loan,1.79,0,Low
+APP-1722,60,180000,Unemployed,0.0,308000,Poor,1,Frequent,21400,Personal Loan,1.71,1,High
+APP-1723,59,704000,Salaried,17.1,1434000,Good,1,On-Time,296100,Home Loan,2.04,0,Low
+APP-1724,55,285000,Self-Employed,2.5,97000,Fair,1,Frequent,64500,Personal Loan,0.34,1,High
+APP-1725,59,757000,Self-Employed,9.6,227000,Good,3,On-Time,339100,Business Loan,0.3,0,Low
+APP-1726,55,284000,Salaried,7.4,299000,Fair,2,1-2 Missed,81800,Personal Loan,1.05,0,Medium
+APP-1727,39,928000,Self-Employed,1.9,529000,Good,1,On-Time,285900,Home Loan,0.57,0,Low
+APP-1728,51,1397000,Salaried,1.3,2026000,Good,0,On-Time,622500,Personal Loan,1.45,0,Low
+APP-1729,36,483000,Salaried,3.1,1073000,Fair,0,1-2 Missed,125400,Business Loan,2.22,0,Medium
+APP-1730,48,1686000,Self-Employed,7.6,1841000,Poor,1,On-Time,486000,Home Loan,1.09,0,Low
+APP-1731,55,1250000,Business,16.1,2583000,Good,2,On-Time,321000,Personal Loan,2.07,0,Low
+APP-1732,59,1510000,Self-Employed,7.2,378000,Good,1,On-Time,381500,Business Loan,0.25,0,Low
+APP-1733,54,890000,Salaried,9.7,545000,Fair,0,On-Time,291200,Home Loan,0.61,0,Low
+APP-1734,45,481000,Salaried,4.6,152000,Poor,2,Frequent,221300,Auto Loan,0.32,1,High
+APP-1735,36,1210000,Salaried,9.0,1156000,Fair,2,1-2 Missed,302500,Personal Loan,0.96,0,Medium
+APP-1736,51,583000,Salaried,7.7,1284000,Poor,1,1-2 Missed,190300,Auto Loan,2.2,1,High
+APP-1737,63,857000,Salaried,2.4,393000,Good,2,On-Time,338700,Personal Loan,0.46,0,Low
+APP-1738,38,737000,Salaried,4.0,1145000,Good,1,On-Time,152300,Home Loan,1.55,0,Low
+APP-1739,26,1447000,Salaried,5.0,1766000,Fair,3,1-2 Missed,304500,Auto Loan,1.22,0,Medium
+APP-1740,50,1179000,Salaried,0.5,2674000,Fair,3,1-2 Missed,611600,Home Loan,2.27,1,High
+APP-1741,25,773000,Salaried,4.0,397000,Good,1,1-2 Missed,324700,Personal Loan,0.51,0,Low
+APP-1742,31,292000,Salaried,1.0,206000,Good,2,On-Time,102600,Home Loan,0.71,0,Low
+APP-1743,38,579000,Business,3.6,182000,Fair,3,1-2 Missed,222600,Home Loan,0.31,0,Medium
+APP-1744,31,1163000,Salaried,8.3,1376000,Good,1,On-Time,109100,Business Loan,1.18,0,Low
+APP-1745,38,933000,Business,1.5,791000,Good,1,On-Time,345700,Personal Loan,0.85,0,Low
+APP-1746,41,369000,Business,1.4,782000,Good,2,On-Time,117900,Business Loan,2.12,0,Low
+APP-1747,45,315000,Salaried,2.6,488000,Fair,0,On-Time,106000,Home Loan,1.55,0,Low
+APP-1748,26,892000,Self-Employed,5.0,1401000,Fair,1,1-2 Missed,222000,Personal Loan,1.57,0,Medium
+APP-1749,55,465000,Salaried,0.5,648000,Good,3,On-Time,55000,Home Loan,1.39,0,Low
+APP-1750,27,489000,Salaried,6.0,219000,Fair,2,1-2 Missed,83600,Auto Loan,0.45,0,Medium
+APP-1751,23,1144000,Salaried,0.8,1381000,Fair,1,1-2 Missed,602700,Auto Loan,1.21,0,Medium
+APP-1752,34,1506000,Salaried,13.0,3613000,Good,0,On-Time,409800,Home Loan,2.4,0,Low
+APP-1753,64,546000,Salaried,15.5,1117000,Fair,1,On-Time,163400,Business Loan,2.05,0,Low
+APP-1754,64,788000,Salaried,3.4,1711000,Good,1,On-Time,82600,Home Loan,2.17,0,Low
+APP-1755,32,776000,Self-Employed,3.6,1567000,Good,0,On-Time,75800,Personal Loan,2.02,0,Low
+APP-1756,44,740000,Self-Employed,3.3,349000,Good,2,On-Time,308600,Business Loan,0.47,0,Low
+APP-1757,37,823000,Salaried,5.0,608000,Good,0,On-Time,274000,Education Loan,0.74,0,Low
+APP-1758,52,1195000,Self-Employed,0.5,307000,Good,1,On-Time,381300,Business Loan,0.26,0,Low
+APP-1759,32,568000,Salaried,0.5,513000,Fair,1,1-2 Missed,110300,Home Loan,0.9,0,Medium
+APP-1760,37,365000,Salaried,0.5,176000,Fair,5,On-Time,157000,Home Loan,0.48,0,Medium
+APP-1761,29,1941000,Business,2.9,2458000,Fair,1,On-Time,308800,Home Loan,1.27,0,Low
+APP-1762,25,1420000,Salaried,1.6,2422000,Good,0,1-2 Missed,240400,Personal Loan,1.71,0,Low
+APP-1763,61,454000,Salaried,4.9,967000,Good,0,On-Time,134600,Auto Loan,2.13,0,Low
+APP-1764,25,865000,Salaried,4.0,1610000,Good,1,Frequent,185600,Home Loan,1.86,1,High
+APP-1765,46,1363000,Salaried,2.4,3091000,Good,1,On-Time,267600,Auto Loan,2.27,0,Low
+APP-1766,24,1190000,Business,3.0,435000,Good,1,1-2 Missed,456100,Home Loan,0.37,0,Low
+APP-1767,53,1025000,Salaried,2.7,283000,Fair,1,On-Time,395600,Home Loan,0.28,0,Low
+APP-1768,24,738000,Business,3.0,1234000,Poor,0,Frequent,345000,Auto Loan,1.67,1,High
+APP-1769,48,1979000,Salaried,11.6,1726000,Good,1,On-Time,546800,Personal Loan,0.87,0,Low
+APP-1770,50,904000,Salaried,10.5,719000,Good,1,On-Time,103400,Education Loan,0.8,0,Low
+APP-1771,53,617000,Salaried,18.3,593000,Fair,0,On-Time,128700,Home Loan,0.96,0,Low
+APP-1772,40,1268000,Self-Employed,0.5,1053000,Good,0,On-Time,685500,Auto Loan,0.83,0,Low
+APP-1773,42,847000,Salaried,9.2,1143000,Fair,0,1-2 Missed,305100,Home Loan,1.35,0,Medium
+APP-1774,26,967000,Business,5.0,1157000,Fair,0,1-2 Missed,399900,Home Loan,1.2,0,Medium
+APP-1775,39,896000,Business,1.3,1211000,Poor,1,On-Time,74800,Auto Loan,1.35,0,Medium
+APP-1776,49,1044000,Salaried,15.7,1771000,Good,0,On-Time,337800,Education Loan,1.7,0,Low
+APP-1777,63,485000,Business,0.8,525000,Fair,0,On-Time,47400,Home Loan,1.08,0,Medium
+APP-1778,43,379000,Business,5.7,300000,Good,0,On-Time,131700,Home Loan,0.79,0,Low
+APP-1779,42,1699000,Self-Employed,1.3,1032000,Fair,4,1-2 Missed,871200,Personal Loan,0.61,0,Medium
+APP-1780,27,918000,Salaried,2.8,919000,Good,3,On-Time,491300,Home Loan,1.0,0,Low
+APP-1781,22,1204000,Salaried,1.0,2221000,Good,0,1-2 Missed,402200,Education Loan,1.84,0,Medium
+APP-1782,26,323000,Salaried,4.1,606000,Good,1,On-Time,95400,Auto Loan,1.88,0,Low
+APP-1783,62,1404000,Salaried,2.8,2364000,Good,0,On-Time,735900,Home Loan,1.68,0,Low
+APP-1784,33,615000,Salaried,2.0,463000,Fair,1,1-2 Missed,243900,Personal Loan,0.75,0,Medium
+APP-1785,47,530000,Self-Employed,9.2,803000,Fair,0,On-Time,58600,Auto Loan,1.52,0,Low
+APP-1786,55,780000,Salaried,0.8,1152000,Fair,2,On-Time,233100,Home Loan,1.48,0,Medium
+APP-1787,35,485000,Self-Employed,2.8,626000,Good,1,On-Time,93600,Personal Loan,1.29,0,Low
+APP-1788,47,805000,Business,11.7,1153000,Fair,3,1-2 Missed,242200,Home Loan,1.43,0,Medium
+APP-1789,48,751000,Business,9.3,982000,Good,0,On-Time,220800,Personal Loan,1.31,0,Low
+APP-1790,30,1399000,Salaried,2.6,2051000,Poor,2,1-2 Missed,494700,Home Loan,1.47,1,High
+APP-1791,47,1771000,Business,7.2,3167000,Poor,2,On-Time,438600,Education Loan,1.79,1,Medium
+APP-1792,43,1742000,Salaried,8.7,846000,Good,0,On-Time,273900,Personal Loan,0.49,0,Low
+APP-1793,51,250000,Salaried,11.0,465000,Fair,1,1-2 Missed,79200,Home Loan,1.86,0,Medium
+APP-1794,64,496000,Self-Employed,3.9,269000,Good,0,On-Time,233200,Education Loan,0.54,0,Low
+APP-1795,38,250000,Salaried,1.1,98000,Good,0,On-Time,98000,Home Loan,0.39,0,Low
+APP-1796,47,433000,Salaried,1.5,1017000,Good,0,On-Time,103500,Personal Loan,2.35,0,Low
+APP-1797,57,575000,Salaried,1.8,1327000,Good,1,1-2 Missed,298800,Personal Loan,2.31,0,Medium
+APP-1798,22,998000,Salaried,1.0,379000,Fair,1,1-2 Missed,507700,Home Loan,0.38,0,Medium
+APP-1799,29,615000,Salaried,0.5,740000,Good,4,1-2 Missed,109700,Business Loan,1.2,0,Medium
+APP-1800,56,624000,Salaried,5.1,406000,Good,0,On-Time,61500,Auto Loan,0.65,0,Low
+APP-1801,36,886000,Self-Employed,2.3,1146000,Fair,4,1-2 Missed,379600,Home Loan,1.29,0,Medium
+APP-1802,43,331000,Self-Employed,1.7,674000,Fair,0,Frequent,155200,Auto Loan,2.04,1,High
+APP-1803,35,521000,Salaried,10.6,1195000,Poor,2,Frequent,278700,Personal Loan,2.29,1,High
+APP-1804,47,620000,Salaried,3.1,1000000,Fair,1,On-Time,308900,Business Loan,1.61,0,Low
+APP-1805,49,726000,Salaried,0.5,734000,Fair,0,1-2 Missed,263000,Home Loan,1.01,0,Medium
+APP-1806,44,839000,Salaried,8.8,1298000,Good,3,1-2 Missed,276100,Personal Loan,1.55,0,Medium
+APP-1807,35,1759000,Self-Employed,0.5,1620000,Good,1,On-Time,163700,Personal Loan,0.92,0,Low
+APP-1808,45,1293000,Salaried,6.5,2853000,Good,2,On-Time,253300,Personal Loan,2.21,0,Low
+APP-1809,23,540000,Salaried,2.0,1146000,Good,1,On-Time,159900,Personal Loan,2.12,0,Low
+APP-1810,47,704000,Self-Employed,2.2,1021000,Fair,1,Frequent,264300,Home Loan,1.45,1,High
+APP-1811,35,679000,Self-Employed,8.7,644000,Good,1,On-Time,232200,Auto Loan,0.95,0,Low
+APP-1812,28,617000,Self-Employed,3.6,543000,Fair,2,1-2 Missed,264700,Personal Loan,0.88,0,Medium
+APP-1813,24,929000,Salaried,3.0,299000,Good,0,On-Time,196500,Business Loan,0.32,0,Low
+APP-1814,44,306000,Salaried,0.5,613000,Good,2,On-Time,105700,Home Loan,2.0,0,Medium
+APP-1815,64,1274000,Salaried,1.7,1552000,Good,3,On-Time,154700,Auto Loan,1.22,0,Low
+APP-1816,39,1945000,Salaried,13.4,1846000,Fair,0,On-Time,533800,Business Loan,0.95,0,Low
+APP-1817,59,701000,Self-Employed,2.5,885000,Fair,0,On-Time,303200,Auto Loan,1.26,0,Low
+APP-1818,56,694000,Business,4.0,1395000,Poor,2,Frequent,281700,Education Loan,2.01,1,High
+APP-1819,36,875000,Self-Employed,3.8,453000,Good,1,On-Time,477400,Education Loan,0.52,0,Low
+APP-1820,46,1370000,Self-Employed,4.5,2869000,Poor,1,1-2 Missed,288500,Personal Loan,2.09,1,High
+APP-1821,58,681000,Salaried,0.5,1484000,Good,0,On-Time,213900,Personal Loan,2.18,0,Low
+APP-1822,49,1310000,Self-Employed,2.2,2994000,Good,1,On-Time,307700,Home Loan,2.29,0,Low
+APP-1823,31,1039000,Salaried,6.4,1148000,Poor,0,1-2 Missed,298300,Personal Loan,1.1,0,Medium
+APP-1824,60,2753000,Salaried,1.1,1973000,Good,1,1-2 Missed,1329100,Home Loan,0.72,0,Low
+APP-1825,38,679000,Salaried,1.1,715000,Fair,2,On-Time,272700,Auto Loan,1.05,0,Low
+APP-1826,60,289000,Salaried,0.5,279000,Good,0,On-Time,143000,Personal Loan,0.97,0,Low
+APP-1827,43,383000,Salaried,2.9,241000,Fair,1,1-2 Missed,67300,Personal Loan,0.63,0,Medium
+APP-1828,47,120000,Unemployed,0.0,187000,Poor,5,Frequent,58900,Home Loan,1.56,0,High
+APP-1829,46,1376000,Salaried,10.7,1754000,Good,2,1-2 Missed,148700,Business Loan,1.27,0,Medium
+APP-1830,38,574000,Salaried,0.5,1212000,Fair,3,1-2 Missed,285600,Home Loan,2.11,1,High
+APP-1831,34,715000,Salaried,1.1,228000,Good,1,On-Time,167800,Home Loan,0.32,0,Low
+APP-1832,41,1151000,Self-Employed,1.9,1881000,Fair,2,On-Time,262300,Home Loan,1.63,0,Low
+APP-1833,46,488000,Self-Employed,6.6,922000,Good,0,On-Time,156500,Business Loan,1.89,0,Low
+APP-1834,25,587000,Self-Employed,4.0,1105000,Good,0,On-Time,306500,Business Loan,1.88,0,Low
+APP-1835,31,439000,Salaried,2.7,946000,Good,0,On-Time,45000,Auto Loan,2.15,0,Low
+APP-1836,24,1488000,Self-Employed,3.0,2704000,Good,1,On-Time,365400,Education Loan,1.82,0,Low
+APP-1837,62,1797000,Salaried,4.7,4034000,Poor,3,Frequent,867200,Home Loan,2.24,1,High
+APP-1838,39,355000,Business,11.3,343000,Good,1,On-Time,94500,Business Loan,0.97,0,Low
+APP-1839,57,749000,Self-Employed,8.5,998000,Good,2,On-Time,130000,Home Loan,1.33,0,Low
+APP-1840,43,1676000,Salaried,1.5,470000,Good,2,On-Time,468700,Home Loan,0.28,0,Low
+APP-1841,55,992000,Salaried,1.6,263000,Good,1,On-Time,259100,Home Loan,0.27,0,Low
+APP-1842,29,625000,Salaried,0.7,479000,Fair,1,1-2 Missed,318900,Personal Loan,0.77,0,Medium
+APP-1843,61,361000,Salaried,2.1,168000,Poor,1,1-2 Missed,158200,Auto Loan,0.47,0,Medium
+APP-1844,40,1468000,Salaried,19.0,1188000,Good,1,On-Time,465900,Personal Loan,0.81,0,Low
+APP-1845,63,972000,Self-Employed,2.6,613000,Poor,0,On-Time,529300,Business Loan,0.63,0,Low
+APP-1846,62,375000,Salaried,1.2,117000,Fair,5,On-Time,112000,Personal Loan,0.31,0,Low
+APP-1847,58,1497000,Salaried,7.2,3301000,Good,0,On-Time,160700,Home Loan,2.21,0,Low
+APP-1848,27,351000,Salaried,3.9,94000,Fair,0,1-2 Missed,71300,Personal Loan,0.27,0,Medium
+APP-1849,47,719000,Salaried,0.8,1318000,Good,3,On-Time,204900,Auto Loan,1.83,0,Medium
+APP-1850,55,702000,Business,2.4,405000,Fair,1,On-Time,107900,Education Loan,0.58,0,Low
+APP-1851,27,1870000,Salaried,2.7,4135000,Poor,2,Frequent,982400,Personal Loan,2.21,1,High
+APP-1852,58,704000,Self-Employed,7.0,1527000,Good,1,1-2 Missed,310100,Personal Loan,2.17,0,Medium
+APP-1853,54,702000,Business,0.5,1162000,Poor,1,1-2 Missed,144700,Home Loan,1.66,1,High
+APP-1854,43,397000,Self-Employed,1.6,673000,Fair,0,On-Time,142000,Personal Loan,1.7,0,Low
+APP-1855,42,578000,Business,3.6,151000,Good,1,On-Time,242200,Business Loan,0.26,0,Low
+APP-1856,27,527000,Salaried,1.6,1248000,Fair,1,1-2 Missed,275300,Home Loan,2.37,1,High
+APP-1857,27,541000,Business,5.0,1156000,Good,2,On-Time,267500,Education Loan,2.14,0,Low
+APP-1858,25,809000,Salaried,3.3,1759000,Poor,1,Frequent,260600,Personal Loan,2.17,1,High
+APP-1859,51,250000,Salaried,2.2,417000,Fair,4,On-Time,111000,Home Loan,1.67,0,Medium
+APP-1860,32,368000,Self-Employed,11.0,365000,Good,0,On-Time,126700,Business Loan,0.99,0,Low
+APP-1861,51,761000,Business,5.0,1652000,Good,1,On-Time,258600,Personal Loan,2.17,0,Low
+APP-1862,52,859000,Self-Employed,0.7,753000,Fair,1,1-2 Missed,115000,Home Loan,0.88,0,Medium
+APP-1863,45,714000,Salaried,4.1,1042000,Good,3,On-Time,99400,Home Loan,1.46,0,Low
+APP-1864,30,789000,Salaried,7.6,366000,Good,0,On-Time,259500,Home Loan,0.46,0,Low
+APP-1865,24,652000,Business,3.0,1455000,Good,1,On-Time,134500,Education Loan,2.23,0,Low
+APP-1866,52,798000,Salaried,0.9,441000,Good,3,On-Time,71700,Personal Loan,0.55,0,Low
+APP-1867,61,1010000,Self-Employed,18.0,741000,Good,0,On-Time,423900,Business Loan,0.73,0,Low
+APP-1868,58,1007000,Business,3.0,1460000,Good,3,On-Time,95900,Home Loan,1.45,0,Low
+APP-1869,57,563000,Salaried,0.9,1066000,Good,0,On-Time,202600,Home Loan,1.89,0,Low
+APP-1870,45,1297000,Salaried,1.0,2051000,Fair,2,1-2 Missed,432400,Home Loan,1.58,0,Medium
+APP-1871,52,875000,Salaried,0.5,655000,Good,4,On-Time,468400,Personal Loan,0.75,0,Low
+APP-1872,27,1530000,Salaried,6.0,386000,Good,2,On-Time,470600,Business Loan,0.25,0,Low
+APP-1873,23,1698000,Business,0.7,3189000,Good,1,On-Time,186600,Auto Loan,1.88,0,Low
+APP-1874,41,381000,Salaried,0.7,902000,Fair,0,1-2 Missed,129300,Home Loan,2.37,1,High
+APP-1875,49,516000,Business,9.5,1028000,Good,3,On-Time,245300,Education Loan,1.99,0,Low
+APP-1876,32,1231000,Salaried,2.1,1526000,Good,1,On-Time,675200,Auto Loan,1.24,0,Low
+APP-1877,25,0,Unemployed,0.0,50000,Good,0,1-2 Missed,28200,Home Loan,0.5,0,Medium
+APP-1878,36,1687000,Salaried,0.5,1908000,Fair,2,1-2 Missed,388900,Education Loan,1.13,1,Medium
+APP-1879,27,674000,Salaried,0.5,929000,Fair,1,On-Time,341100,Home Loan,1.38,0,Medium
+APP-1880,51,1087000,Salaried,0.8,1387000,Fair,0,Frequent,184700,Home Loan,1.28,1,High
+APP-1881,59,759000,Self-Employed,1.2,920000,Fair,0,On-Time,280300,Home Loan,1.21,0,Low
+APP-1882,23,391000,Self-Employed,2.0,749000,Fair,0,On-Time,105800,Personal Loan,1.92,0,Medium
+APP-1883,36,1396000,Self-Employed,0.9,1930000,Good,1,1-2 Missed,138600,Personal Loan,1.38,0,Medium
+APP-1884,32,3370000,Salaried,0.6,3137000,Fair,1,On-Time,819700,Home Loan,0.93,0,Low
+APP-1885,29,617000,Salaried,7.2,497000,Good,1,On-Time,126300,Home Loan,0.81,0,Low
+APP-1886,47,682000,Salaried,5.6,226000,Fair,2,On-Time,274500,Auto Loan,0.33,0,Low
+APP-1887,26,250000,Salaried,2.9,376000,Fair,3,1-2 Missed,131500,Business Loan,1.5,0,Medium
+APP-1888,27,1628000,Salaried,4.0,1212000,Good,1,On-Time,335300,Auto Loan,0.74,0,Low
+APP-1889,47,0,Unemployed,0.0,50000,Good,0,On-Time,46100,Home Loan,0.5,0,Low
+APP-1890,25,180000,Unemployed,0.0,298000,Good,2,1-2 Missed,19100,Home Loan,1.66,1,High
+APP-1891,40,275000,Business,1.9,472000,Fair,1,1-2 Missed,91600,Home Loan,1.72,0,Medium
+APP-1892,41,293000,Self-Employed,3.3,547000,Fair,1,On-Time,33200,Home Loan,1.87,1,Medium
+APP-1893,54,1127000,Salaried,3.5,1502000,Poor,2,Frequent,584900,Personal Loan,1.33,1,High
+APP-1894,41,1188000,Salaried,2.4,2581000,Good,1,On-Time,522900,Personal Loan,2.17,0,Low
+APP-1895,33,499000,Salaried,11.9,1129000,Fair,3,On-Time,194200,Auto Loan,2.26,1,Medium
+APP-1896,22,1045000,Business,0.5,2075000,Fair,0,On-Time,488300,Auto Loan,1.99,1,Medium
+APP-1897,47,876000,Salaried,7.6,1416000,Poor,2,Frequent,336700,Home Loan,1.62,1,High
+APP-1898,35,666000,Salaried,0.7,601000,Good,0,On-Time,356600,Home Loan,0.9,0,Low
+APP-1899,59,1335000,Salaried,8.0,3155000,Good,3,On-Time,554800,Auto Loan,2.36,0,Low
+APP-1900,58,431000,Salaried,4.8,362000,Fair,0,On-Time,221800,Home Loan,0.84,0,Low
+APP-1901,32,1464000,Business,9.3,1004000,Fair,0,On-Time,472900,Home Loan,0.69,0,Low
+APP-1902,57,552000,Self-Employed,0.5,663000,Poor,1,Frequent,74500,Personal Loan,1.2,1,High
+APP-1903,34,2036000,Salaried,4.1,758000,Good,1,On-Time,668300,Home Loan,0.37,0,Low
+APP-1904,64,120000,Unemployed,0.0,282000,Good,0,On-Time,16800,Home Loan,2.35,0,Medium
+APP-1905,24,671000,Self-Employed,3.0,1017000,Poor,1,1-2 Missed,240500,Education Loan,1.52,0,High
+APP-1906,54,831000,Salaried,6.1,1203000,Good,1,On-Time,254900,Education Loan,1.45,0,Low
+APP-1907,27,828000,Salaried,3.8,1374000,Fair,0,Frequent,308500,Home Loan,1.66,1,High
+APP-1908,31,1041000,Salaried,3.9,1373000,Good,1,On-Time,88200,Home Loan,1.32,0,Low
+APP-1909,26,413000,Salaried,2.8,132000,Good,2,On-Time,70900,Auto Loan,0.32,0,Low
+APP-1910,44,791000,Business,1.8,1239000,Fair,2,On-Time,245900,Home Loan,1.57,1,Medium
+APP-1911,31,866000,Salaried,3.3,1550000,Fair,2,Frequent,456200,Personal Loan,1.79,1,High
+APP-1912,23,613000,Business,0.6,703000,Good,2,On-Time,159600,Home Loan,1.15,0,Low
+APP-1913,34,995000,Salaried,13.0,1869000,Good,1,On-Time,278100,Home Loan,1.88,0,Low
+APP-1914,61,400000,Salaried,6.3,295000,Fair,0,1-2 Missed,166400,Auto Loan,0.74,0,Low
+APP-1915,23,680000,Salaried,2.0,494000,Good,0,On-Time,247400,Education Loan,0.73,0,Low
+APP-1916,41,545000,Salaried,1.3,325000,Poor,3,1-2 Missed,120200,Home Loan,0.6,1,High
+APP-1917,22,681000,Salaried,1.0,715000,Good,5,On-Time,186000,Home Loan,1.05,0,Low
+APP-1918,58,1711000,Business,8.3,3544000,Fair,1,1-2 Missed,311900,Home Loan,2.07,0,Medium
+APP-1919,30,1728000,Salaried,5.7,3508000,Poor,0,On-Time,922800,Home Loan,2.03,1,Medium
+APP-1920,38,1561000,Self-Employed,4.9,1675000,Fair,0,On-Time,220700,Business Loan,1.07,0,Low
+APP-1921,30,634000,Salaried,1.9,962000,Good,1,On-Time,161500,Auto Loan,1.52,0,Low
+APP-1922,32,1292000,Salaried,8.5,2325000,Fair,1,On-Time,119100,Personal Loan,1.8,0,Low
+APP-1923,36,855000,Salaried,3.5,657000,Good,0,On-Time,157500,Auto Loan,0.77,0,Low
+APP-1924,45,825000,Self-Employed,0.5,504000,Good,4,On-Time,368600,Education Loan,0.61,0,Low
+APP-1925,59,774000,Salaried,1.9,1811000,Poor,1,1-2 Missed,135100,Education Loan,2.34,1,High
+APP-1926,56,2011000,Salaried,13.7,3173000,Fair,3,On-Time,236600,Home Loan,1.58,0,Medium
+APP-1927,51,1640000,Salaried,9.5,3870000,Fair,2,1-2 Missed,496900,Home Loan,2.36,0,Medium
+APP-1928,52,1187000,Salaried,20.1,1159000,Good,2,On-Time,100500,Auto Loan,0.98,0,Low
+APP-1929,26,738000,Salaried,4.9,1300000,Good,1,On-Time,88400,Personal Loan,1.76,0,Low
+APP-1930,35,823000,Salaried,1.4,600000,Good,1,On-Time,378200,Business Loan,0.73,0,Low
+APP-1931,32,1062000,Business,0.9,862000,Fair,2,Frequent,470000,Auto Loan,0.81,1,High
+APP-1932,30,615000,Self-Employed,1.0,831000,Fair,1,On-Time,313700,Business Loan,1.35,0,Low
+APP-1933,55,1313000,Salaried,0.5,1231000,Good,1,On-Time,632400,Home Loan,0.94,0,Low
+APP-1934,33,499000,Salaried,2.5,305000,Fair,5,On-Time,200100,Education Loan,0.61,0,Low
+APP-1935,56,180000,Unemployed,0.0,147000,Good,2,On-Time,18800,Home Loan,0.82,0,Medium
+APP-1936,56,250000,Self-Employed,1.1,82000,Good,2,On-Time,112000,Business Loan,0.33,0,Low
+APP-1937,22,605000,Salaried,1.0,1068000,Good,3,On-Time,288800,Home Loan,1.77,0,Low
+APP-1938,61,2375000,Business,13.7,3107000,Good,0,1-2 Missed,1082000,Personal Loan,1.31,0,Low
+APP-1939,43,1382000,Salaried,2.8,626000,Good,0,1-2 Missed,440800,Auto Loan,0.45,0,Low
+APP-1940,50,1791000,Salaried,10.5,1109000,Poor,1,Frequent,339300,Personal Loan,0.62,1,High
+APP-1941,29,570000,Self-Employed,4.7,268000,Good,1,On-Time,272100,Personal Loan,0.47,0,Low
+APP-1942,32,851000,Salaried,1.4,1334000,Poor,2,1-2 Missed,358900,Business Loan,1.57,1,High
+APP-1943,62,180000,Unemployed,0.0,81000,Good,1,On-Time,97400,Personal Loan,0.45,0,Low
+APP-1944,58,1120000,Self-Employed,2.2,2096000,Poor,1,Frequent,171600,Personal Loan,1.87,1,High
+APP-1945,35,1050000,Salaried,0.5,309000,Fair,1,1-2 Missed,195400,Home Loan,0.29,0,Medium
+APP-1946,51,1882000,Salaried,2.0,1480000,Poor,0,Frequent,337900,Education Loan,0.79,1,High
+APP-1947,56,469000,Salaried,5.7,1015000,Good,1,On-Time,212200,Personal Loan,2.16,0,Low
+APP-1948,42,732000,Salaried,0.5,1314000,Fair,2,On-Time,122900,Personal Loan,1.8,1,Medium
+APP-1949,58,324000,Self-Employed,1.1,132000,Poor,0,Frequent,36100,Home Loan,0.41,1,High
+APP-1950,26,456000,Salaried,2.4,919000,Good,1,On-Time,250500,Personal Loan,2.02,0,Low
+APP-1951,40,1409000,Salaried,19.0,1846000,Good,1,On-Time,129200,Home Loan,1.31,0,Low
+APP-1952,35,500000,Self-Employed,7.7,1035000,Good,0,On-Time,236300,Home Loan,2.07,0,Low
+APP-1953,47,1182000,Salaried,6.6,1822000,Poor,0,Frequent,297500,Personal Loan,1.54,1,High
+APP-1954,25,1910000,Self-Employed,0.6,3277000,Good,5,On-Time,908300,Home Loan,1.72,0,Medium
+APP-1955,46,735000,Salaried,7.6,1754000,Good,1,On-Time,250400,Home Loan,2.39,0,Low
+APP-1956,63,180000,Unemployed,0.0,135000,Good,0,On-Time,90700,Auto Loan,0.75,0,Medium
+APP-1957,46,1187000,Salaried,7.7,1889000,Good,0,1-2 Missed,611700,Home Loan,1.59,0,Low
+APP-1958,39,427000,Salaried,4.6,529000,Fair,2,1-2 Missed,36000,Home Loan,1.24,1,Medium
+APP-1959,61,585000,Salaried,23.2,196000,Good,1,On-Time,67500,Home Loan,0.34,0,Low
+APP-1960,29,478000,Salaried,2.0,134000,Fair,2,1-2 Missed,94500,Personal Loan,0.28,0,Medium
+APP-1961,60,610000,Self-Employed,14.2,309000,Poor,0,1-2 Missed,240700,Auto Loan,0.51,0,Medium
+APP-1962,61,1170000,Self-Employed,12.3,1925000,Good,3,On-Time,582100,Auto Loan,1.65,0,Low
+APP-1963,35,592000,Self-Employed,0.5,870000,Fair,1,1-2 Missed,175300,Home Loan,1.47,0,Medium
+APP-1964,53,792000,Salaried,3.0,1140000,Good,1,On-Time,289300,Home Loan,1.44,0,Low
+APP-1965,59,469000,Salaried,18.9,149000,Fair,1,On-Time,79100,Home Loan,0.32,0,Low
+APP-1966,54,1525000,Salaried,0.5,1920000,Good,1,On-Time,699000,Personal Loan,1.26,0,Low
+APP-1967,44,607000,Salaried,4.0,1358000,Fair,3,On-Time,324500,Business Loan,2.24,0,Medium
+APP-1968,36,1780000,Business,15.0,1967000,Good,3,On-Time,367100,Home Loan,1.11,0,Low
+APP-1969,54,832000,Salaried,4.1,1326000,Good,1,On-Time,260100,Home Loan,1.59,0,Low
+APP-1970,46,388000,Salaried,1.1,748000,Fair,3,Frequent,46700,Home Loan,1.93,1,High
+APP-1971,38,738000,Salaried,4.4,1428000,Good,2,1-2 Missed,253000,Personal Loan,1.93,0,Medium
+APP-1972,54,464000,Business,1.1,634000,Fair,4,On-Time,146800,Auto Loan,1.37,0,Medium
+APP-1973,23,1095000,Self-Employed,2.0,2294000,Good,0,On-Time,161900,Personal Loan,2.09,0,Low
+APP-1974,35,704000,Business,0.5,768000,Fair,1,1-2 Missed,202600,Education Loan,1.09,1,Medium
+APP-1975,61,878000,Salaried,4.7,1897000,Good,0,On-Time,208100,Personal Loan,2.16,0,Low
+APP-1976,61,665000,Salaried,3.6,510000,Fair,2,On-Time,216300,Home Loan,0.77,0,Low
+APP-1977,60,604000,Business,6.7,515000,Good,0,On-Time,214600,Home Loan,0.85,0,Low
+APP-1978,27,486000,Self-Employed,5.0,177000,Good,1,On-Time,40800,Auto Loan,0.36,0,Low
+APP-1979,27,1245000,Salaried,4.0,2441000,Good,1,On-Time,544900,Personal Loan,1.96,0,Low
+APP-1980,24,737000,Self-Employed,3.0,845000,Fair,1,On-Time,305900,Personal Loan,1.15,0,Low
+APP-1981,28,684000,Business,0.8,508000,Good,2,On-Time,172500,Auto Loan,0.74,0,Low
+APP-1982,29,727000,Self-Employed,4.5,544000,Poor,3,Frequent,76200,Personal Loan,0.75,1,High
+APP-1983,63,566000,Self-Employed,0.9,1238000,Poor,1,Frequent,246100,Education Loan,2.19,1,High
+APP-1984,36,686000,Salaried,13.0,1401000,Good,3,On-Time,362800,Personal Loan,2.04,0,Low
+APP-1985,50,897000,Salaried,0.5,1292000,Fair,0,1-2 Missed,173000,Auto Loan,1.44,0,Medium
+APP-1986,54,471000,Salaried,2.8,742000,Good,1,On-Time,109300,Home Loan,1.58,0,Low
+APP-1987,51,508000,Business,6.0,645000,Good,1,On-Time,84500,Auto Loan,1.27,0,Low
+APP-1988,60,1651000,Business,3.1,1803000,Fair,0,On-Time,579800,Business Loan,1.09,0,Low
+APP-1989,48,668000,Business,0.5,1482000,Fair,1,On-Time,102100,Personal Loan,2.22,0,Medium
+APP-1990,57,605000,Salaried,4.0,315000,Fair,2,1-2 Missed,149700,Auto Loan,0.52,0,Medium
+APP-1991,50,401000,Self-Employed,5.1,461000,Good,1,On-Time,163400,Auto Loan,1.15,0,Low
+APP-1992,59,1255000,Self-Employed,6.1,1243000,Good,2,Frequent,430800,Home Loan,0.99,1,Medium
+APP-1993,54,466000,Self-Employed,2.3,616000,Good,1,On-Time,121900,Personal Loan,1.32,0,Low
+APP-1994,58,800000,Self-Employed,4.1,987000,Fair,0,Frequent,222000,Home Loan,1.23,0,High
+APP-1995,48,332000,Business,3.0,453000,Good,0,1-2 Missed,114300,Business Loan,1.36,0,Low
+APP-1996,54,1234000,Salaried,5.6,680000,Fair,1,On-Time,102100,Education Loan,0.55,0,Low
+APP-1997,25,1487000,Salaried,4.0,2012000,Good,0,On-Time,173800,Home Loan,1.35,0,Low
+APP-1998,43,1037000,Salaried,3.7,800000,Good,0,On-Time,512500,Home Loan,0.77,0,Low
+APP-1999,23,363000,Salaried,1.4,235000,Good,1,1-2 Missed,42300,Personal Loan,0.65,0,Low
+APP-2000,31,1247000,Self-Employed,0.5,486000,Good,1,On-Time,514000,Home Loan,0.39,0,Low
+APP-2001,26,524000,Self-Employed,1.0,990000,Good,1,On-Time,268500,Home Loan,1.89,0,Low
+APP-2002,31,438000,Salaried,0.6,512000,Fair,2,On-Time,90800,Personal Loan,1.17,0,Medium
+APP-2003,54,660000,Salaried,3.0,1054000,Poor,2,1-2 Missed,167700,Personal Loan,1.6,1,High
+APP-2004,59,654000,Self-Employed,4.7,1187000,Good,1,On-Time,227200,Home Loan,1.81,0,Low
+APP-2005,34,620000,Salaried,1.2,1061000,Good,2,On-Time,306500,Education Loan,1.71,0,Low
+APP-2006,52,1563000,Salaried,14.0,1972000,Good,2,On-Time,817000,Business Loan,1.26,0,Low
+APP-2007,57,2295000,Salaried,0.5,2488000,Poor,2,Frequent,981300,Auto Loan,1.08,1,High
+APP-2008,45,396000,Salaried,7.4,419000,Good,1,On-Time,47800,Education Loan,1.06,0,Low
+APP-2009,36,563000,Salaried,4.9,915000,Poor,0,1-2 Missed,222100,Home Loan,1.63,0,Medium
+APP-2010,50,868000,Salaried,2.3,1140000,Good,2,On-Time,236800,Home Loan,1.31,0,Low
+APP-2011,29,659000,Salaried,0.5,1368000,Good,1,On-Time,198500,Home Loan,2.08,1,Medium
+APP-2012,26,992000,Business,4.9,2114000,Poor,4,Frequent,102300,Auto Loan,2.13,1,High
+APP-2013,50,1298000,Salaried,2.4,800000,Good,2,Frequent,220400,Business Loan,0.62,0,Medium
+APP-2014,25,1190000,Self-Employed,4.0,646000,Fair,1,On-Time,537300,Auto Loan,0.54,0,Low
+APP-2015,33,1107000,Salaried,3.9,1777000,Good,0,On-Time,324800,Education Loan,1.61,0,Low
+APP-2016,23,1910000,Salaried,2.0,1714000,Good,0,On-Time,423600,Personal Loan,0.9,0,Low
+APP-2017,48,353000,Self-Employed,1.2,102000,Good,1,On-Time,92000,Personal Loan,0.29,0,Low
+APP-2018,52,1740000,Salaried,6.5,3759000,Fair,1,1-2 Missed,837900,Personal Loan,2.16,0,Medium
+APP-2019,57,650000,Salaried,4.8,480000,Fair,1,1-2 Missed,280800,Home Loan,0.74,0,Medium
+APP-2020,57,1213000,Self-Employed,6.7,2727000,Good,1,On-Time,252300,Home Loan,2.25,0,Low
+APP-2021,47,472000,Self-Employed,1.2,846000,Poor,0,Frequent,63800,Auto Loan,1.79,1,High
+APP-2022,64,503000,Salaried,5.5,951000,Good,4,On-Time,99800,Personal Loan,1.89,0,Low
+APP-2023,48,1137000,Salaried,3.4,777000,Good,0,On-Time,583000,Personal Loan,0.68,0,Low
+APP-2024,26,296000,Self-Employed,5.0,223000,Good,4,On-Time,104600,Personal Loan,0.75,0,Low
+APP-2025,41,1349000,Salaried,2.0,1849000,Good,3,On-Time,446200,Home Loan,1.37,0,Low
+APP-2026,32,1552000,Self-Employed,11.0,962000,Good,1,On-Time,559200,Personal Loan,0.62,0,Low
+APP-2027,31,884000,Self-Employed,0.5,802000,Poor,2,Frequent,222800,Personal Loan,0.91,1,High
+APP-2028,61,0,Unemployed,0.0,50000,Good,1,On-Time,45900,Personal Loan,0.5,0,Low
+APP-2029,59,523000,Salaried,8.2,310000,Good,2,On-Time,170500,Education Loan,0.59,0,Low
+APP-2030,27,1145000,Business,6.0,791000,Good,1,On-Time,154400,Personal Loan,0.69,0,Low
+APP-2031,29,966000,Salaried,8.0,1879000,Fair,1,On-Time,135900,Personal Loan,1.95,0,Low
+APP-2032,44,499000,Salaried,3.6,304000,Poor,1,Frequent,165800,Education Loan,0.61,0,High
+APP-2033,47,658000,Salaried,2.9,205000,Good,1,On-Time,342300,Education Loan,0.31,0,Low
+APP-2034,64,742000,Self-Employed,27.9,1190000,Good,1,On-Time,166900,Education Loan,1.6,0,Low
+APP-2035,33,657000,Salaried,1.3,1543000,Good,1,On-Time,321100,Home Loan,2.35,0,Low
+APP-2036,47,397000,Salaried,4.0,382000,Good,1,On-Time,174300,Home Loan,0.96,0,Low
+APP-2037,34,1159000,Salaried,5.6,585000,Good,0,On-Time,227700,Home Loan,0.5,0,Low
+APP-2038,61,710000,Self-Employed,6.0,1048000,Good,0,On-Time,68900,Home Loan,1.48,0,Low
+APP-2039,39,813000,Self-Employed,1.1,1788000,Good,0,On-Time,104000,Business Loan,2.2,0,Low
+APP-2040,46,597000,Self-Employed,5.3,1156000,Good,0,On-Time,252200,Personal Loan,1.94,0,Low
+APP-2041,54,1032000,Salaried,8.5,1639000,Good,0,1-2 Missed,179400,Home Loan,1.59,0,Low
+APP-2042,61,894000,Salaried,0.5,829000,Poor,2,1-2 Missed,227500,Home Loan,0.93,0,Medium
+APP-2043,64,1515000,Self-Employed,12.1,2144000,Poor,0,Frequent,478400,Home Loan,1.42,0,High
+APP-2044,33,1035000,Salaried,0.5,462000,Fair,2,1-2 Missed,435700,Personal Loan,0.45,1,Medium
+APP-2045,57,725000,Salaried,2.2,1240000,Good,0,On-Time,96600,Auto Loan,1.71,0,Low
+APP-2046,25,549000,Self-Employed,0.5,993000,Good,3,On-Time,148800,Education Loan,1.81,1,Medium
+APP-2047,26,120000,Unemployed,0.0,279000,Good,1,1-2 Missed,37000,Business Loan,2.33,1,High
+APP-2048,58,696000,Self-Employed,0.5,564000,Fair,1,1-2 Missed,232600,Home Loan,0.81,0,Medium
+APP-2049,29,737000,Self-Employed,8.0,213000,Good,1,On-Time,342400,Home Loan,0.29,0,Low
+APP-2050,63,737000,Business,2.2,1049000,Poor,1,1-2 Missed,118400,Home Loan,1.42,1,High
+APP-2051,49,654000,Salaried,2.8,1157000,Poor,1,On-Time,300600,Personal Loan,1.77,1,Medium
+APP-2052,52,744000,Salaried,1.2,1450000,Good,0,On-Time,301800,Business Loan,1.95,0,Low
+APP-2053,30,120000,Unemployed,0.0,80000,Fair,5,On-Time,41000,Personal Loan,0.67,0,Medium
+APP-2054,50,467000,Salaried,4.5,380000,Good,1,On-Time,190900,Auto Loan,0.81,0,Low
+APP-2055,35,528000,Self-Employed,4.5,714000,Good,1,On-Time,144500,Personal Loan,1.35,0,Low
+APP-2056,61,1656000,Self-Employed,2.3,1591000,Good,2,On-Time,240200,Home Loan,0.96,0,Low
+APP-2057,62,663000,Self-Employed,2.0,1392000,Good,1,1-2 Missed,260500,Home Loan,2.1,0,Medium
+APP-2058,43,638000,Self-Employed,10.8,809000,Poor,3,1-2 Missed,208400,Personal Loan,1.27,1,High
+APP-2059,32,1381000,Business,2.4,2719000,Good,1,On-Time,525500,Auto Loan,1.97,0,Low
+APP-2060,44,385000,Self-Employed,3.4,577000,Good,2,On-Time,92000,Home Loan,1.5,0,Low
+APP-2061,22,1236000,Salaried,1.0,2363000,Fair,0,1-2 Missed,625700,Auto Loan,1.91,0,Medium
+APP-2062,58,825000,Business,7.7,796000,Fair,3,Frequent,293800,Education Loan,0.96,1,High
+APP-2063,42,1027000,Salaried,2.5,2093000,Good,2,1-2 Missed,123400,Personal Loan,2.04,0,Medium
+APP-2064,47,1017000,Salaried,3.6,855000,Poor,0,Frequent,296400,Auto Loan,0.84,1,High
+APP-2065,57,582000,Salaried,1.5,829000,Fair,0,On-Time,253500,Personal Loan,1.42,0,Low
+APP-2066,44,1393000,Salaried,22.0,989000,Good,1,On-Time,631400,Auto Loan,0.71,0,Low
+APP-2067,22,606000,Salaried,1.0,771000,Good,4,On-Time,189400,Auto Loan,1.27,0,Low
+APP-2068,61,997000,Business,7.4,931000,Good,0,On-Time,499000,Business Loan,0.93,0,Low
+APP-2069,36,1534000,Self-Employed,2.8,1263000,Fair,1,1-2 Missed,315700,Home Loan,0.82,0,Low
+APP-2070,42,1651000,Self-Employed,1.2,3845000,Fair,0,1-2 Missed,450700,Personal Loan,2.33,1,High
+APP-2071,30,702000,Salaried,8.0,417000,Fair,1,1-2 Missed,352600,Home Loan,0.59,0,Medium
+APP-2072,30,1026000,Business,2.0,1993000,Good,1,On-Time,514300,Home Loan,1.94,0,Low
+APP-2073,31,669000,Business,10.0,1583000,Good,4,On-Time,269100,Auto Loan,2.37,0,Low
+APP-2074,47,2964000,Self-Employed,12.3,868000,Good,1,On-Time,1433700,Business Loan,0.29,0,Low
+APP-2075,62,1209000,Salaried,9.8,2119000,Good,2,On-Time,147200,Personal Loan,1.75,0,Low
+APP-2076,56,842000,Salaried,0.5,668000,Fair,1,1-2 Missed,409700,Home Loan,0.79,0,Medium
+APP-2077,46,948000,Salaried,7.7,320000,Fair,0,On-Time,218700,Home Loan,0.34,0,Low
+APP-2078,47,996000,Salaried,2.6,1112000,Good,1,On-Time,163200,Personal Loan,1.12,0,Low
+APP-2079,32,1012000,Salaried,10.3,2288000,Good,1,Frequent,194800,Home Loan,2.26,0,Medium
+APP-2080,59,712000,Business,5.1,196000,Good,4,On-Time,196800,Home Loan,0.28,0,Low
+APP-2081,23,657000,Salaried,2.0,995000,Good,3,On-Time,130100,Auto Loan,1.51,0,Low
+APP-2082,28,745000,Salaried,3.5,989000,Good,0,On-Time,171800,Home Loan,1.33,0,Low
+APP-2083,39,446000,Salaried,3.8,949000,Good,0,1-2 Missed,64000,Personal Loan,2.13,1,Medium
+APP-2084,48,1171000,Salaried,0.8,504000,Good,0,On-Time,256700,Auto Loan,0.43,0,Low
+APP-2085,55,531000,Salaried,7.7,911000,Good,3,On-Time,185300,Home Loan,1.72,0,Low
+APP-2086,48,465000,Salaried,2.7,796000,Good,3,On-Time,133800,Personal Loan,1.71,0,Low
+APP-2087,38,800000,Salaried,3.5,1351000,Good,2,On-Time,194400,Auto Loan,1.69,0,Low
+APP-2088,64,753000,Self-Employed,7.7,1714000,Fair,1,On-Time,324400,Auto Loan,2.28,0,Low
+APP-2089,45,0,Unemployed,0.0,50000,Good,1,On-Time,50000,Personal Loan,0.5,0,Low
+APP-2090,46,600000,Salaried,4.6,204000,Poor,1,On-Time,261400,Home Loan,0.34,0,Low
+APP-2091,28,657000,Salaried,1.1,830000,Good,0,On-Time,155100,Education Loan,1.26,0,Low
+APP-2092,27,1155000,Business,4.5,1277000,Good,1,On-Time,496500,Auto Loan,1.11,0,Low
+APP-2093,45,1119000,Salaried,2.6,1026000,Good,0,On-Time,169500,Home Loan,0.92,0,Low
+APP-2094,54,1095000,Salaried,3.2,1336000,Good,0,On-Time,154700,Home Loan,1.22,0,Low
+APP-2095,50,820000,Business,0.5,882000,Fair,3,On-Time,198800,Home Loan,1.08,0,Medium
+APP-2096,64,880000,Salaried,1.2,1038000,Good,2,On-Time,404500,Home Loan,1.18,0,Low
+APP-2097,43,909000,Self-Employed,1.6,2141000,Poor,1,Frequent,178000,Personal Loan,2.36,1,High
+APP-2098,47,573000,Salaried,6.2,252000,Poor,1,1-2 Missed,62900,Home Loan,0.44,0,Medium
+APP-2099,49,1735000,Salaried,0.5,3874000,Good,1,On-Time,246200,Home Loan,2.23,0,Low
+APP-2100,42,1611000,Salaried,2.6,2066000,Good,2,On-Time,779100,Auto Loan,1.28,0,Low
+APP-2101,28,1218000,Self-Employed,7.0,1938000,Fair,2,1-2 Missed,460300,Home Loan,1.59,0,Medium
+APP-2102,38,646000,Salaried,0.6,1315000,Good,2,On-Time,128600,Auto Loan,2.04,0,Medium
+APP-2103,41,1067000,Salaried,3.6,1094000,Fair,2,On-Time,363800,Auto Loan,1.03,0,Low
+APP-2104,62,1341000,Self-Employed,7.7,1576000,Good,0,On-Time,439800,Home Loan,1.18,0,Low
+APP-2105,41,427000,Salaried,14.3,483000,Good,1,On-Time,165700,Auto Loan,1.13,0,Low
+APP-2106,43,1946000,Salaried,6.9,2054000,Good,1,On-Time,369000,Auto Loan,1.06,0,Low
+APP-2107,49,326000,Business,6.4,730000,Good,1,On-Time,158500,Personal Loan,2.24,0,Low
+APP-2108,61,1163000,Salaried,8.8,2363000,Poor,2,Frequent,262100,Home Loan,2.03,1,High
+APP-2109,28,1716000,Business,3.0,831000,Good,1,On-Time,697100,Personal Loan,0.48,0,Low
+APP-2110,22,760000,Self-Employed,1.0,367000,Fair,0,On-Time,66600,Business Loan,0.48,0,Low
+APP-2111,53,745000,Self-Employed,0.5,872000,Good,1,On-Time,190100,Personal Loan,1.17,0,Low
+APP-2112,34,1141000,Salaried,12.9,527000,Good,4,On-Time,279900,Home Loan,0.46,0,Low
+APP-2113,51,0,Unemployed,0.0,50000,Good,0,On-Time,33500,Auto Loan,0.5,0,Low
+APP-2114,44,697000,Salaried,2.9,390000,Good,1,On-Time,79600,Personal Loan,0.56,0,Low
+APP-2115,40,537000,Self-Employed,4.0,737000,Good,1,1-2 Missed,242400,Personal Loan,1.37,0,Medium
+APP-2116,53,647000,Salaried,1.5,172000,Good,0,On-Time,118000,Auto Loan,0.27,0,Low
+APP-2117,51,360000,Salaried,6.8,335000,Fair,1,On-Time,143400,Personal Loan,0.93,0,Low
+APP-2118,50,1286000,Salaried,0.5,2194000,Good,2,On-Time,588400,Education Loan,1.71,0,Low
+APP-2119,50,617000,Business,10.3,796000,Good,1,On-Time,212300,Auto Loan,1.29,0,Low
+APP-2120,51,120000,Unemployed,0.0,282000,Fair,3,1-2 Missed,51400,Personal Loan,2.35,1,High
+APP-2121,37,1294000,Salaried,8.8,2755000,Fair,1,On-Time,506100,Home Loan,2.13,0,Low
+APP-2122,61,663000,Salaried,1.2,678000,Good,0,On-Time,163800,Education Loan,1.02,0,Low
+APP-2123,40,1196000,Self-Employed,8.3,416000,Good,4,On-Time,550400,Business Loan,0.35,0,Low
+APP-2124,39,470000,Salaried,7.7,972000,Poor,1,Frequent,102700,Home Loan,2.07,1,High
+APP-2125,22,1327000,Salaried,1.0,2932000,Fair,1,On-Time,462400,Personal Loan,2.21,0,Medium
+APP-2126,35,963000,Self-Employed,2.3,1940000,Good,2,1-2 Missed,414400,Home Loan,2.01,1,Medium
+APP-2127,23,770000,Salaried,1.6,404000,Good,1,On-Time,198700,Auto Loan,0.52,0,Low
+APP-2128,49,180000,Unemployed,0.0,431000,Fair,2,On-Time,40000,Auto Loan,2.39,1,High
+APP-2129,51,413000,Salaried,1.3,333000,Good,0,On-Time,122200,Home Loan,0.81,0,Low
+APP-2130,59,853000,Salaried,1.9,1541000,Poor,1,Frequent,396200,Education Loan,1.81,0,High
+APP-2131,25,749000,Salaried,4.0,1650000,Good,0,1-2 Missed,387300,Home Loan,2.2,1,Medium
+APP-2132,22,419000,Self-Employed,0.5,317000,Fair,2,On-Time,140900,Auto Loan,0.76,0,Low
+APP-2133,29,569000,Salaried,8.0,1253000,Good,0,On-Time,222400,Personal Loan,2.2,0,Low
+APP-2134,50,754000,Self-Employed,2.1,690000,Good,2,On-Time,380400,Home Loan,0.92,0,Low
+APP-2135,60,588000,Salaried,3.7,1381000,Poor,4,On-Time,74300,Home Loan,2.35,1,High
+APP-2136,24,250000,Business,3.0,214000,Good,1,On-Time,47300,Home Loan,0.86,0,Low
+APP-2137,53,1411000,Salaried,10.8,3245000,Good,1,On-Time,583000,Auto Loan,2.3,0,Low
+APP-2138,31,749000,Salaried,2.1,273000,Good,1,On-Time,349900,Personal Loan,0.36,0,Low
+APP-2139,31,250000,Self-Employed,3.1,444000,Good,1,On-Time,120700,Home Loan,1.78,0,Low
+APP-2140,40,2447000,Salaried,2.7,3411000,Good,1,On-Time,673200,Home Loan,1.39,0,Low
+APP-2141,55,1537000,Salaried,0.5,1963000,Fair,1,On-Time,187500,Home Loan,1.28,0,Low
+APP-2142,54,672000,Business,1.8,491000,Good,5,On-Time,192000,Auto Loan,0.73,0,Low
+APP-2143,44,520000,Salaried,3.1,919000,Good,4,On-Time,98000,Auto Loan,1.77,0,Low
+APP-2144,49,994000,Self-Employed,2.6,656000,Good,3,On-Time,215600,Home Loan,0.66,0,Low
+APP-2145,53,896000,Salaried,6.4,1289000,Fair,3,1-2 Missed,396900,Personal Loan,1.44,0,Medium
+APP-2146,28,1069000,Self-Employed,2.4,849000,Fair,1,On-Time,123500,Home Loan,0.79,0,Low
+APP-2147,50,521000,Salaried,3.4,1201000,Good,2,On-Time,244300,Business Loan,2.31,0,Low
+APP-2148,29,1427000,Salaried,2.8,445000,Good,3,On-Time,401000,Business Loan,0.31,0,Low
+APP-2149,22,180000,Unemployed,0.0,122000,Poor,1,Frequent,64800,Auto Loan,0.68,1,High
+APP-2150,24,1149000,Self-Employed,3.0,886000,Good,4,On-Time,140300,Business Loan,0.77,0,Low
+APP-2151,45,533000,Salaried,9.9,608000,Poor,1,On-Time,127200,Education Loan,1.14,0,Medium
+APP-2152,44,3195000,Salaried,3.8,2397000,Poor,1,Frequent,390300,Education Loan,0.75,0,High
+APP-2153,29,1157000,Business,7.8,1512000,Fair,2,1-2 Missed,615400,Personal Loan,1.31,0,Medium
+APP-2154,58,3500000,Salaried,1.8,5000000,Good,4,On-Time,1500000,Home Loan,1.43,0,Low
+APP-2155,24,1240000,Self-Employed,3.0,2208000,Fair,0,Frequent,367100,Home Loan,1.78,1,High
+APP-2156,54,602000,Self-Employed,2.1,901000,Fair,2,On-Time,111400,Home Loan,1.5,0,Low
+APP-2157,49,1241000,Salaried,2.7,548000,Fair,1,1-2 Missed,643700,Personal Loan,0.44,0,Medium
+APP-2158,29,1288000,Salaried,6.6,2244000,Good,0,On-Time,311600,Home Loan,1.74,0,Low
+APP-2159,55,979000,Self-Employed,10.7,595000,Good,2,On-Time,152400,Home Loan,0.61,0,Low
+APP-2160,56,1119000,Salaried,0.6,2172000,Good,1,On-Time,385700,Personal Loan,1.94,0,Medium
+APP-2161,53,1198000,Salaried,5.0,944000,Good,2,1-2 Missed,627200,Home Loan,0.79,0,Low
+APP-2162,45,481000,Business,4.4,552000,Fair,1,1-2 Missed,39300,Personal Loan,1.15,0,Medium
+APP-2163,35,463000,Salaried,0.6,465000,Good,1,On-Time,88900,Business Loan,1.0,0,Low
+APP-2164,53,533000,Self-Employed,1.2,1117000,Good,1,On-Time,277700,Auto Loan,2.1,0,Low
+APP-2165,64,861000,Salaried,1.9,450000,Good,1,On-Time,138100,Auto Loan,0.52,0,Low
+APP-2166,37,718000,Salaried,0.9,1053000,Fair,0,On-Time,95700,Personal Loan,1.47,0,Low
+APP-2167,25,485000,Salaried,1.4,269000,Poor,4,Frequent,168800,Personal Loan,0.55,1,High
+APP-2168,58,1206000,Salaried,1.6,2129000,Good,1,On-Time,585000,Home Loan,1.77,0,Low
+APP-2169,42,934000,Salaried,2.0,2051000,Good,2,On-Time,284200,Education Loan,2.2,0,Low
+APP-2170,35,880000,Salaried,6.9,1042000,Good,1,On-Time,481800,Home Loan,1.18,0,Low
+APP-2171,52,705000,Self-Employed,4.2,916000,Fair,1,1-2 Missed,281400,Home Loan,1.3,0,Medium
+APP-2172,39,662000,Salaried,18.0,1486000,Fair,1,Frequent,76000,Auto Loan,2.24,1,High
+APP-2173,28,520000,Salaried,2.7,712000,Poor,1,Frequent,284200,Home Loan,1.37,1,High
+APP-2174,31,1310000,Salaried,7.0,1701000,Good,1,1-2 Missed,355900,Personal Loan,1.3,0,Low
+APP-2175,28,559000,Salaried,7.0,835000,Poor,1,1-2 Missed,120200,Home Loan,1.49,1,Medium
+APP-2176,54,899000,Salaried,5.7,1557000,Good,1,On-Time,307600,Home Loan,1.73,0,Low
+APP-2177,44,1913000,Salaried,2.7,918000,Fair,0,1-2 Missed,426600,Home Loan,0.48,0,Medium
+APP-2178,42,678000,Salaried,7.0,1366000,Good,1,On-Time,81800,Home Loan,2.01,0,Low
+APP-2179,40,1329000,Salaried,1.1,1577000,Poor,0,Frequent,107200,Auto Loan,1.19,0,High
+APP-2180,40,1084000,Salaried,2.0,440000,Good,0,On-Time,315800,Education Loan,0.41,0,Low
+APP-2181,57,948000,Self-Employed,4.0,1839000,Fair,4,1-2 Missed,448700,Personal Loan,1.94,0,High
+APP-2182,50,1008000,Salaried,4.3,1069000,Fair,1,1-2 Missed,351800,Education Loan,1.06,0,Medium
+APP-2183,39,767000,Salaried,0.5,357000,Good,2,On-Time,421600,Home Loan,0.47,0,Low
+APP-2184,23,821000,Self-Employed,2.0,1324000,Good,1,On-Time,176400,Home Loan,1.61,0,Low
+APP-2185,22,606000,Salaried,1.0,1298000,Poor,3,1-2 Missed,128400,Home Loan,2.14,0,High
+APP-2186,26,824000,Business,3.4,1779000,Good,2,On-Time,127800,Personal Loan,2.16,0,Low
+APP-2187,41,595000,Salaried,13.5,1374000,Good,2,On-Time,93500,Personal Loan,2.31,0,Low
+APP-2188,32,1360000,Salaried,2.9,2877000,Good,1,On-Time,291100,Personal Loan,2.12,0,Low
+APP-2189,63,333000,Salaried,19.7,85000,Fair,4,1-2 Missed,150700,Auto Loan,0.26,0,Medium
+APP-2190,23,1035000,Salaried,2.0,1105000,Good,2,On-Time,523400,Personal Loan,1.07,0,Low
+APP-2191,24,960000,Self-Employed,0.6,1929000,Good,3,On-Time,516800,Personal Loan,2.01,0,Medium
+APP-2192,44,916000,Salaried,7.2,950000,Good,0,On-Time,173300,Business Loan,1.04,0,Low
+APP-2193,33,1373000,Business,5.7,2119000,Good,0,On-Time,678600,Home Loan,1.54,0,Low
+APP-2194,41,695000,Salaried,7.4,1080000,Poor,1,Frequent,162800,Personal Loan,1.55,1,High
+APP-2195,26,921000,Salaried,5.0,953000,Poor,0,1-2 Missed,122500,Auto Loan,1.03,0,Medium
+APP-2196,58,330000,Self-Employed,7.5,724000,Fair,3,On-Time,161300,Personal Loan,2.19,0,Medium
+APP-2197,59,650000,Salaried,4.7,866000,Good,0,On-Time,246300,Home Loan,1.33,0,Low
+APP-2198,51,1258000,Salaried,9.7,1572000,Poor,0,1-2 Missed,198000,Personal Loan,1.25,1,Medium
+APP-2199,30,402000,Self-Employed,5.6,963000,Good,0,On-Time,113400,Personal Loan,2.4,0,Low
+APP-2200,55,876000,Business,2.6,1148000,Good,0,On-Time,188300,Personal Loan,1.31,0,Low

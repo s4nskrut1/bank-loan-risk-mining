@@ -1,0 +1,801 @@
+Applicant_ID,Age,Annual_Income,Employment_Status,Employment_Years,Loan_Amount,Credit_History,Existing_Loans,Repayment_History,Account_Balance,Loan_Purpose,Loan_to_Income_Ratio,Historical_Default,Risk_Level
+TIE-1001,41,690000,Salaried,0.3,586000,Good,0,On-Time,404700,Education Loan,0.85,0,Low
+TIE-1002,36,904000,Salaried,2.3,244000,Good,0,On-Time,284600,Personal Loan,0.27,0,Low
+TIE-1003,37,4324000,Salaried,4.0,3892000,Good,3,1-2 Missed,2221600,Home Loan,0.9,1,Medium
+TIE-1004,48,722000,Salaried,0.2,419000,Good,0,On-Time,277300,Personal Loan,0.58,0,Low
+TIE-1005,59,1342000,Self-Employed,0.9,1704000,Good,0,On-Time,365200,Education Loan,1.27,0,Medium
+TIE-1006,39,683000,Business,0.4,505000,Fair,0,On-Time,353100,Auto Loan,0.74,0,Low
+TIE-1007,50,1084000,Salaried,14.9,412000,Good,0,On-Time,321200,Auto Loan,0.38,0,Low
+TIE-1008,54,716000,Business,12.2,444000,Fair,1,On-Time,245200,Home Loan,0.62,0,Low
+TIE-1009,30,592000,Salaried,6.0,835000,Good,0,On-Time,109300,Home Loan,1.41,0,Low
+TIE-1010,57,1545000,Business,15.1,2333000,Fair,2,On-Time,854800,Home Loan,1.51,1,Medium
+TIE-1011,37,2274000,Business,0.0,1160000,Good,0,On-Time,686600,Business Loan,0.51,0,Low
+TIE-1012,44,750000,Self-Employed,19.7,1320000,Good,0,On-Time,124900,Auto Loan,1.76,0,Low
+TIE-1013,31,1527000,Salaried,0.4,809000,Poor,1,On-Time,752400,Home Loan,0.53,0,Medium
+TIE-1014,41,2428000,Salaried,0.5,4249000,Good,0,On-Time,1009800,Auto Loan,1.75,1,Low
+TIE-1015,44,1664000,Salaried,7.0,316000,Fair,0,On-Time,334600,Business Loan,0.19,0,Low
+TIE-1016,38,2027000,Salaried,3.4,2007000,Good,2,1-2 Missed,881500,Home Loan,0.99,0,Low
+TIE-1017,49,1638000,Salaried,1.3,2572000,Good,0,On-Time,734800,Home Loan,1.57,0,Low
+TIE-1018,44,2032000,Salaried,7.5,3414000,Good,1,On-Time,1081300,Auto Loan,1.68,0,Low
+TIE-1019,33,606000,Salaried,11.7,194000,Fair,2,On-Time,228000,Personal Loan,0.32,0,Medium
+TIE-1020,37,743000,Salaried,4.4,1003000,Poor,2,1-2 Missed,235200,Home Loan,1.35,0,High
+TIE-1021,42,959000,Salaried,10.5,1132000,Good,2,On-Time,444200,Personal Loan,1.18,0,Low
+TIE-1022,46,2041000,Business,7.8,1408000,Good,2,On-Time,1050200,Education Loan,0.69,0,Low
+TIE-1023,44,2467000,Salaried,7.3,1628000,Fair,0,On-Time,474400,Personal Loan,0.66,0,Low
+TIE-1024,43,500000,Salaried,0.2,435000,Fair,0,On-Time,192500,Auto Loan,0.87,1,Medium
+TIE-1025,46,3971000,Salaried,8.4,596000,Good,0,On-Time,641000,Business Loan,0.15,0,Low
+TIE-1026,48,1320000,Salaried,1.3,568000,Good,0,On-Time,765200,Auto Loan,0.43,0,Low
+TIE-1027,46,867000,Salaried,1.9,1405000,Good,0,On-Time,463800,Auto Loan,1.62,0,Low
+TIE-1028,33,844000,Salaried,2.1,447000,Good,0,On-Time,268900,Auto Loan,0.53,0,Low
+TIE-1029,53,644000,Salaried,1.5,496000,Good,1,1-2 Missed,209100,Auto Loan,0.77,0,Low
+TIE-1030,44,891000,Self-Employed,2.9,740000,Good,0,1-2 Missed,460200,Home Loan,0.83,0,Low
+TIE-1031,48,881000,Salaried,14.7,1066000,Good,2,On-Time,524800,Home Loan,1.21,0,Low
+TIE-1032,50,1648000,Salaried,20.0,906000,Fair,2,On-Time,621900,Education Loan,0.55,0,Medium
+TIE-1033,55,2083000,Salaried,0.1,1771000,Good,1,On-Time,587300,Home Loan,0.85,0,Low
+TIE-1034,50,1127000,Business,11.7,733000,Good,2,On-Time,347000,Home Loan,0.65,0,Low
+TIE-1035,50,768000,Salaried,0.8,614000,Fair,0,On-Time,144500,Business Loan,0.8,0,Medium
+TIE-1036,41,933000,Business,15.4,317000,Good,2,On-Time,186600,Personal Loan,0.34,1,Low
+TIE-1037,43,1081000,Salaried,0.7,919000,Good,0,Frequent,301100,Education Loan,0.85,1,High
+TIE-1038,59,795000,Salaried,34.1,628000,Good,1,Frequent,344400,Auto Loan,0.79,0,Medium
+TIE-1039,46,1210000,Salaried,15.0,3291000,Good,0,On-Time,499300,Home Loan,2.72,0,Low
+TIE-1040,61,803000,Salaried,7.9,1068000,Good,2,1-2 Missed,463700,Auto Loan,1.33,0,Medium
+TIE-1041,42,901000,Self-Employed,11.1,1379000,Good,0,On-Time,528400,Education Loan,1.53,0,Low
+TIE-1042,43,951000,Salaried,1.8,628000,Poor,0,1-2 Missed,335500,Home Loan,0.66,0,High
+TIE-1043,46,1231000,Salaried,7.2,185000,Good,2,On-Time,472800,Education Loan,0.15,0,Low
+TIE-1044,45,2278000,Business,3.2,2460000,Good,0,On-Time,701100,Personal Loan,1.08,0,Low
+TIE-1045,42,2384000,Self-Employed,2.4,4434000,Good,2,1-2 Missed,515400,Business Loan,1.86,0,Medium
+TIE-1046,38,1248000,Salaried,17.6,187000,Good,0,On-Time,259100,Home Loan,0.15,0,Low
+TIE-1047,47,1150000,Salaried,2.9,724000,Good,0,On-Time,259900,Home Loan,0.63,0,Low
+TIE-1048,33,1939000,Salaried,2.0,776000,Good,2,On-Time,838700,Home Loan,0.4,0,Low
+TIE-1049,56,661000,Salaried,2.9,694000,Good,1,On-Time,283000,Home Loan,1.05,0,Low
+TIE-1050,49,1756000,Salaried,2.1,1809000,Good,1,On-Time,684300,Home Loan,1.03,0,Low
+TIE-1051,41,1405000,Salaried,2.0,520000,Fair,1,On-Time,709700,Personal Loan,0.37,0,Low
+TIE-1052,44,700000,Salaried,8.2,168000,Good,1,On-Time,217200,Business Loan,0.24,0,Low
+TIE-1053,38,1093000,Salaried,0.7,404000,Good,2,On-Time,203400,Personal Loan,0.37,0,Medium
+TIE-1054,61,943000,Salaried,5.2,368000,Good,1,1-2 Missed,384000,Home Loan,0.39,0,Low
+TIE-1055,36,1755000,Salaried,2.2,263000,Good,1,On-Time,385200,Personal Loan,0.15,0,Low
+TIE-1056,31,1232000,Salaried,0.4,1688000,Good,1,On-Time,446200,Home Loan,1.37,0,Medium
+TIE-1057,57,901000,Business,31.0,793000,Good,1,On-Time,368100,Education Loan,0.88,0,Low
+TIE-1058,51,889000,Salaried,1.4,800000,Good,2,On-Time,290300,Education Loan,0.9,0,Low
+TIE-1059,41,974000,Salaried,1.9,653000,Fair,1,On-Time,543400,Auto Loan,0.67,0,Low
+TIE-1060,57,2781000,Salaried,3.8,2392000,Good,2,1-2 Missed,607000,Home Loan,0.86,1,Medium
+TIE-1061,49,977000,Salaried,6.1,938000,Fair,2,On-Time,202600,Home Loan,0.96,0,Medium
+TIE-1062,35,1421000,Salaried,4.8,1790000,Good,0,On-Time,329300,Business Loan,1.26,0,Low
+TIE-1063,41,2369000,Salaried,15.4,1943000,Good,2,On-Time,1349000,Personal Loan,0.82,0,Low
+TIE-1064,56,685000,Business,1.5,1582000,Fair,2,1-2 Missed,241700,Home Loan,2.31,0,High
+TIE-1065,52,2357000,Salaried,20.3,1626000,Good,0,On-Time,1205100,Home Loan,0.69,0,Low
+TIE-1066,41,2078000,Salaried,13.3,374000,Good,1,On-Time,443400,Home Loan,0.18,0,Low
+TIE-1067,42,629000,Self-Employed,2.5,1428000,Good,3,On-Time,136400,Home Loan,2.27,1,Medium
+TIE-1068,63,2112000,Salaried,9.7,1415000,Fair,0,On-Time,351500,Personal Loan,0.67,0,Low
+TIE-1069,32,1188000,Business,1.8,178000,Good,0,On-Time,638900,Business Loan,0.15,0,Low
+TIE-1070,38,2076000,Salaried,2.4,2720000,Good,1,On-Time,329800,Home Loan,1.31,0,Low
+TIE-1071,36,2271000,Salaried,1.1,1226000,Fair,0,1-2 Missed,1023400,Home Loan,0.54,0,Low
+TIE-1072,55,997000,Salaried,0.8,847000,Fair,0,1-2 Missed,265900,Home Loan,0.85,0,Medium
+TIE-1073,38,643000,Salaried,2.4,96000,Poor,0,On-Time,347700,Personal Loan,0.15,0,Medium
+TIE-1074,51,2809000,Salaried,0.2,2360000,Good,2,On-Time,1665700,Personal Loan,0.84,0,Low
+TIE-1075,39,511000,Salaried,11.7,393000,Good,2,On-Time,124100,Home Loan,0.77,0,Low
+TIE-1076,55,737000,Business,8.0,1511000,Fair,0,On-Time,282600,Home Loan,2.05,1,Medium
+TIE-1077,49,1997000,Salaried,6.7,759000,Good,0,On-Time,808500,Personal Loan,0.38,0,Low
+TIE-1078,57,595000,Business,2.2,232000,Good,2,On-Time,117800,Home Loan,0.39,0,Low
+TIE-1079,43,1278000,Salaried,3.3,1444000,Good,1,On-Time,399300,Home Loan,1.13,0,Low
+TIE-1080,35,908000,Self-Employed,2.2,690000,Fair,1,1-2 Missed,419100,Education Loan,0.76,0,Low
+TIE-1081,43,617000,Salaried,25.0,568000,Good,0,1-2 Missed,286200,Home Loan,0.92,0,Low
+TIE-1082,59,1334000,Self-Employed,6.3,907000,Fair,1,On-Time,338200,Home Loan,0.68,0,Low
+TIE-1083,48,1221000,Salaried,9.0,684000,Fair,1,On-Time,670000,Auto Loan,0.56,0,Low
+TIE-1084,29,965000,Business,0.0,685000,Fair,0,Frequent,477900,Home Loan,0.71,1,High
+TIE-1085,46,2049000,Business,26.9,922000,Fair,0,On-Time,634300,Home Loan,0.45,0,Low
+TIE-1086,38,2487000,Salaried,0.1,1592000,Good,2,On-Time,1253100,Home Loan,0.64,0,Low
+TIE-1087,54,1352000,Self-Employed,5.4,1203000,Poor,1,On-Time,514700,Home Loan,0.89,1,Medium
+TIE-1088,37,1588000,Salaried,0.3,603000,Fair,3,1-2 Missed,362500,Home Loan,0.38,1,High
+TIE-1089,48,1428000,Salaried,1.8,685000,Good,0,On-Time,778100,Home Loan,0.48,0,Low
+TIE-1090,55,1578000,Salaried,0.8,2272000,Good,1,On-Time,588800,Home Loan,1.44,1,Medium
+TIE-1091,48,500000,Salaried,12.2,145000,Good,0,On-Time,272700,Auto Loan,0.29,0,Low
+TIE-1092,53,1473000,Business,9.9,1664000,Good,0,On-Time,804800,Education Loan,1.13,1,Low
+TIE-1093,52,999000,Business,1.4,300000,Fair,0,On-Time,278900,Auto Loan,0.3,0,Low
+TIE-1094,46,1753000,Salaried,9.8,280000,Fair,3,On-Time,532600,Auto Loan,0.16,0,Medium
+TIE-1095,33,1313000,Salaried,1.2,1195000,Good,0,On-Time,563800,Home Loan,0.91,0,Low
+TIE-1096,60,1445000,Salaried,0.2,592000,Good,1,On-Time,506700,Home Loan,0.41,0,Low
+TIE-1097,42,650000,Business,6.5,370000,Good,1,On-Time,177400,Business Loan,0.57,0,Low
+TIE-1098,42,1136000,Salaried,2.8,1216000,Poor,2,On-Time,288000,Home Loan,1.07,1,Medium
+TIE-1099,47,1934000,Salaried,23.3,948000,Fair,2,On-Time,1025300,Auto Loan,0.49,0,Low
+TIE-1100,35,2246000,Salaried,0.5,2179000,Good,0,On-Time,833800,Home Loan,0.97,0,Low
+TIE-1101,38,876000,Salaried,0.1,1191000,Good,1,On-Time,246400,Auto Loan,1.36,0,Medium
+TIE-1102,50,1188000,Salaried,2.1,475000,Good,1,On-Time,553700,Personal Loan,0.4,1,Low
+TIE-1103,40,776000,Salaried,0.2,528000,Good,1,On-Time,357200,Education Loan,0.68,0,Low
+TIE-1104,36,1380000,Business,0.1,428000,Good,1,On-Time,747900,Auto Loan,0.31,0,Low
+TIE-1105,40,1273000,Business,3.0,1693000,Good,0,On-Time,225500,Home Loan,1.33,0,Low
+TIE-1106,54,718000,Business,9.1,294000,Good,0,On-Time,429600,Business Loan,0.41,0,Low
+TIE-1107,37,936000,Salaried,1.3,730000,Fair,1,On-Time,319600,Home Loan,0.78,0,Low
+TIE-1108,61,551000,Business,6.8,1355000,Fair,0,On-Time,229500,Business Loan,2.46,1,Medium
+TIE-1109,46,2394000,Salaried,8.2,2825000,Good,3,On-Time,554100,Education Loan,1.18,0,Low
+TIE-1110,38,1112000,Salaried,2.0,1579000,Good,3,On-Time,296000,Auto Loan,1.42,0,Medium
+TIE-1111,50,552000,Salaried,1.4,287000,Good,1,1-2 Missed,144600,Auto Loan,0.52,0,Low
+TIE-1112,36,1837000,Salaried,7.4,2902000,Good,0,1-2 Missed,368100,Home Loan,1.58,1,Medium
+TIE-1113,44,1126000,Self-Employed,2.3,270000,Good,3,On-Time,657900,Home Loan,0.24,0,Low
+TIE-1114,47,1125000,Salaried,4.5,1631000,Good,0,On-Time,525500,Home Loan,1.45,0,Low
+TIE-1115,59,1381000,Salaried,19.8,511000,Good,2,1-2 Missed,631800,Personal Loan,0.37,0,Low
+TIE-1116,54,961000,Self-Employed,9.9,673000,Good,0,On-Time,425800,Home Loan,0.7,0,Low
+TIE-1117,64,1988000,Business,9.2,1054000,Fair,0,On-Time,895400,Education Loan,0.53,0,Low
+TIE-1118,51,2292000,Salaried,6.1,1215000,Good,0,On-Time,1061100,Home Loan,0.53,0,Low
+TIE-1119,38,630000,Salaried,4.2,239000,Good,0,On-Time,339300,Personal Loan,0.38,0,Low
+TIE-1120,30,674000,Salaried,2.2,101000,Good,2,On-Time,318900,Business Loan,0.15,1,Low
+TIE-1121,37,1060000,Self-Employed,0.3,954000,Good,1,On-Time,281500,Home Loan,0.9,0,Low
+TIE-1122,51,500000,Salaried,9.8,450000,Good,0,On-Time,228300,Home Loan,0.9,0,Low
+TIE-1123,48,1303000,Salaried,23.1,352000,Fair,0,On-Time,566700,Business Loan,0.27,0,Low
+TIE-1124,52,1043000,Salaried,7.6,939000,Fair,0,1-2 Missed,267600,Auto Loan,0.9,0,Medium
+TIE-1125,52,2987000,Salaried,7.8,896000,Good,1,On-Time,1607800,Home Loan,0.3,0,Low
+TIE-1126,29,2218000,Salaried,0.6,4436000,Good,3,On-Time,468900,Auto Loan,2.0,0,Medium
+TIE-1127,42,1959000,Self-Employed,0.8,2860000,Fair,0,On-Time,363900,Home Loan,1.46,0,Medium
+TIE-1128,36,694000,Salaried,0.3,236000,Good,0,1-2 Missed,272700,Education Loan,0.34,0,Medium
+TIE-1129,44,669000,Salaried,26.0,127000,Good,1,On-Time,118500,Personal Loan,0.19,0,Low
+TIE-1130,36,733000,Salaried,0.4,784000,Fair,1,On-Time,372300,Business Loan,1.07,0,Low
+TIE-1131,41,1247000,Business,3.9,1471000,Good,0,On-Time,650600,Auto Loan,1.18,0,Low
+TIE-1132,30,704000,Salaried,0.2,197000,Good,0,On-Time,247300,Auto Loan,0.28,0,Low
+TIE-1133,56,1364000,Business,2.1,900000,Good,0,1-2 Missed,743500,Education Loan,0.66,0,Low
+TIE-1134,51,933000,Salaried,1.5,504000,Good,1,Frequent,485300,Home Loan,0.54,0,Medium
+TIE-1135,56,4124000,Business,1.7,2103000,Good,0,On-Time,745100,Home Loan,0.51,0,Low
+TIE-1136,59,1550000,Salaried,3.6,1070000,Good,1,On-Time,383200,Auto Loan,0.69,0,Low
+TIE-1137,35,852000,Self-Employed,0.2,537000,Poor,0,On-Time,174300,Home Loan,0.63,1,High
+TIE-1138,48,1212000,Self-Employed,11.8,412000,Good,1,On-Time,414200,Home Loan,0.34,0,Low
+TIE-1139,42,933000,Salaried,9.7,196000,Fair,1,On-Time,342000,Home Loan,0.21,0,Low
+TIE-1140,50,1270000,Salaried,0.1,279000,Poor,3,1-2 Missed,469300,Home Loan,0.22,1,High
+TIE-1141,42,662000,Salaried,7.4,424000,Good,1,On-Time,333200,Education Loan,0.64,0,Low
+TIE-1142,51,2129000,Salaried,2.3,468000,Good,1,1-2 Missed,929800,Auto Loan,0.22,0,Low
+TIE-1143,46,873000,Salaried,1.1,663000,Good,0,On-Time,164300,Auto Loan,0.76,0,Low
+TIE-1144,32,805000,Salaried,1.3,1328000,Good,0,On-Time,156400,Auto Loan,1.65,0,Low
+TIE-1145,38,1629000,Salaried,1.0,2704000,Good,1,On-Time,633100,Home Loan,1.66,0,Low
+TIE-1146,51,2490000,Business,12.9,5503000,Good,2,On-Time,625200,Home Loan,2.21,0,Medium
+TIE-1147,42,1607000,Salaried,0.7,1189000,Fair,0,On-Time,831100,Education Loan,0.74,0,Low
+TIE-1148,56,1828000,Salaried,16.6,567000,Fair,0,On-Time,722500,Business Loan,0.31,0,Low
+TIE-1149,31,1147000,Business,4.7,700000,Good,1,1-2 Missed,451900,Personal Loan,0.61,0,Low
+TIE-1150,39,2975000,Business,4.8,3154000,Good,0,On-Time,776500,Auto Loan,1.06,0,Low
+TIE-1151,33,2290000,Salaried,2.6,1053000,Good,0,On-Time,1151200,Personal Loan,0.46,1,Low
+TIE-1152,50,582000,Salaried,2.7,128000,Poor,1,On-Time,276400,Education Loan,0.22,0,Medium
+TIE-1153,41,2787000,Salaried,5.1,920000,Fair,1,On-Time,1021300,Auto Loan,0.33,0,Low
+TIE-1154,45,3050000,Salaried,7.1,7046000,Good,1,1-2 Missed,563300,Home Loan,2.31,0,Medium
+TIE-1155,51,1932000,Salaried,4.5,2145000,Good,0,On-Time,481600,Personal Loan,1.11,0,Low
+TIE-1156,63,1322000,Salaried,10.9,1362000,Good,2,On-Time,426600,Personal Loan,1.03,0,Low
+TIE-1157,36,594000,Salaried,0.1,119000,Good,0,On-Time,340500,Home Loan,0.2,0,Low
+TIE-1158,54,1000000,Business,5.2,900000,Good,1,On-Time,373400,Home Loan,0.9,0,Low
+TIE-1159,50,1436000,Salaried,10.4,316000,Poor,0,On-Time,397700,Home Loan,0.22,1,Medium
+TIE-1160,55,790000,Business,5.2,213000,Good,0,On-Time,140800,Business Loan,0.27,0,Low
+TIE-1161,44,500000,Business,0.1,120000,Poor,2,On-Time,86800,Home Loan,0.24,1,High
+TIE-1162,49,690000,Salaried,4.5,704000,Good,0,On-Time,150500,Home Loan,1.02,0,Low
+TIE-1163,53,2000000,Salaried,16.2,6880000,Good,1,On-Time,373600,Personal Loan,3.44,0,Medium
+TIE-1164,36,961000,Salaried,4.2,2374000,Good,2,On-Time,342700,Home Loan,2.47,0,Medium
+TIE-1165,37,844000,Salaried,6.0,354000,Good,2,1-2 Missed,457200,Home Loan,0.42,0,Low
+TIE-1166,61,1166000,Self-Employed,7.9,385000,Good,2,On-Time,374500,Auto Loan,0.33,0,Low
+TIE-1167,37,500000,Business,3.7,390000,Fair,2,On-Time,194900,Home Loan,0.78,0,Medium
+TIE-1168,51,1825000,Self-Employed,2.5,821000,Good,0,On-Time,1007900,Auto Loan,0.45,0,Low
+TIE-1169,42,832000,Business,9.0,649000,Poor,3,On-Time,374900,Auto Loan,0.78,1,Medium
+TIE-1170,54,664000,Salaried,7.0,352000,Good,0,1-2 Missed,318200,Home Loan,0.53,0,Low
+TIE-1171,52,2970000,Salaried,5.1,2584000,Good,1,On-Time,1552500,Home Loan,0.87,0,Low
+TIE-1172,48,907000,Salaried,4.2,417000,Good,0,On-Time,479500,Personal Loan,0.46,0,Low
+TIE-1173,46,1449000,Salaried,7.5,464000,Good,0,1-2 Missed,763100,Home Loan,0.32,0,Low
+TIE-1174,48,500000,Salaried,0.2,365000,Good,2,1-2 Missed,247400,Auto Loan,0.73,0,Medium
+TIE-1175,38,1378000,Salaried,0.5,1488000,Good,1,1-2 Missed,442600,Business Loan,1.08,1,Medium
+TIE-1176,42,1076000,Business,1.9,990000,Fair,0,1-2 Missed,627600,Auto Loan,0.92,0,Low
+TIE-1177,52,1672000,Salaried,9.7,786000,Good,0,On-Time,603500,Home Loan,0.47,0,Low
+TIE-1178,39,2033000,Salaried,11.1,590000,Good,2,On-Time,474500,Home Loan,0.29,0,Low
+TIE-1179,51,1254000,Self-Employed,15.0,552000,Good,1,1-2 Missed,253000,Home Loan,0.44,0,Low
+TIE-1180,47,1667000,Salaried,2.6,5801000,Fair,2,On-Time,582700,Auto Loan,3.48,1,High
+TIE-1181,45,724000,Salaried,0.7,862000,Good,3,On-Time,304300,Auto Loan,1.19,0,Medium
+TIE-1182,46,1141000,Salaried,4.2,639000,Good,3,On-Time,341300,Personal Loan,0.56,0,Low
+TIE-1183,46,769000,Salaried,0.0,277000,Good,0,On-Time,232600,Education Loan,0.36,0,Low
+TIE-1184,44,1452000,Salaried,0.5,828000,Good,1,On-Time,789000,Personal Loan,0.57,0,Low
+TIE-1185,62,985000,Salaried,5.8,355000,Fair,1,On-Time,284900,Education Loan,0.36,0,Low
+TIE-1186,52,1293000,Salaried,1.0,491000,Good,0,On-Time,437700,Auto Loan,0.38,0,Low
+TIE-1187,33,1553000,Salaried,3.7,885000,Good,1,On-Time,871200,Auto Loan,0.57,0,Low
+TIE-1188,49,1238000,Salaried,0.1,409000,Good,1,On-Time,210100,Home Loan,0.33,0,Low
+TIE-1189,40,1845000,Business,5.9,3026000,Good,0,On-Time,931800,Home Loan,1.64,0,Low
+TIE-1190,52,500000,Salaried,3.7,175000,Good,0,On-Time,112500,Home Loan,0.35,0,Low
+TIE-1191,55,743000,Salaried,9.1,334000,Good,1,On-Time,215500,Auto Loan,0.45,0,Low
+TIE-1192,41,3096000,Salaried,3.5,1362000,Good,0,Frequent,518700,Home Loan,0.44,0,Medium
+TIE-1193,35,500000,Self-Employed,0.5,240000,Good,1,1-2 Missed,261000,Business Loan,0.48,0,Medium
+TIE-1194,59,557000,Salaried,7.6,84000,Good,2,On-Time,292500,Home Loan,0.15,0,Low
+TIE-1195,38,640000,Self-Employed,3.7,186000,Good,1,On-Time,276400,Personal Loan,0.29,0,Low
+TIE-1196,62,1392000,Salaried,10.2,1782000,Good,1,On-Time,549000,Home Loan,1.28,0,Low
+TIE-1197,55,1374000,Business,1.2,2982000,Good,0,On-Time,748400,Business Loan,2.17,0,Low
+TIE-1198,43,1195000,Business,5.1,1076000,Good,2,On-Time,387100,Personal Loan,0.9,0,Low
+TIE-1199,45,2185000,Business,5.3,1071000,Good,2,On-Time,759500,Education Loan,0.49,0,Low
+TIE-1200,32,1124000,Salaried,3.0,1540000,Good,1,On-Time,534100,Auto Loan,1.37,0,Low
+TIE-1201,39,2132000,Salaried,1.1,874000,Good,1,Frequent,1114600,Home Loan,0.41,1,Medium
+TIE-1202,49,1556000,Salaried,10.2,1758000,Good,2,On-Time,663000,Home Loan,1.13,0,Low
+TIE-1203,32,530000,Salaried,1.3,80000,Fair,0,1-2 Missed,307300,Personal Loan,0.15,0,Low
+TIE-1204,32,2489000,Business,0.2,1643000,Good,0,On-Time,688100,Education Loan,0.66,0,Low
+TIE-1205,41,1046000,Salaried,1.3,1119000,Poor,0,On-Time,461800,Home Loan,1.07,0,Medium
+TIE-1206,43,3590000,Salaried,0.4,646000,Good,2,On-Time,1837300,Personal Loan,0.18,0,Low
+TIE-1207,35,831000,Salaried,1.3,1055000,Good,1,On-Time,243400,Home Loan,1.27,0,Low
+TIE-1208,31,1939000,Salaried,5.0,465000,Good,0,On-Time,379800,Home Loan,0.24,0,Low
+TIE-1209,53,2010000,Business,4.7,724000,Good,0,Frequent,922900,Personal Loan,0.36,0,Medium
+TIE-1210,46,1561000,Salaried,22.0,484000,Poor,0,On-Time,308200,Auto Loan,0.31,0,Medium
+TIE-1211,31,1475000,Salaried,1.6,870000,Good,0,On-Time,256000,Auto Loan,0.59,0,Low
+TIE-1212,52,986000,Salaried,5.1,947000,Good,1,On-Time,278900,Home Loan,0.96,0,Low
+TIE-1213,49,2059000,Salaried,9.1,329000,Fair,0,On-Time,362700,Home Loan,0.16,0,Low
+TIE-1214,38,561000,Salaried,0.6,118000,Good,1,On-Time,234400,Home Loan,0.21,0,Low
+TIE-1215,59,3298000,Salaried,14.5,2605000,Good,0,Frequent,519900,Auto Loan,0.79,0,Medium
+TIE-1216,34,1964000,Salaried,1.5,648000,Good,1,On-Time,1155600,Education Loan,0.33,1,Low
+TIE-1217,55,1681000,Salaried,4.4,1849000,Good,0,On-Time,618300,Auto Loan,1.1,0,Low
+TIE-1218,32,1573000,Salaried,1.4,1085000,Good,1,On-Time,789000,Personal Loan,0.69,0,Low
+TIE-1219,51,628000,Salaried,2.3,1225000,Fair,1,On-Time,345800,Auto Loan,1.95,0,Low
+TIE-1220,35,698000,Self-Employed,2.8,405000,Good,0,On-Time,191000,Education Loan,0.58,0,Low
+TIE-1221,44,907000,Salaried,3.5,562000,Good,3,1-2 Missed,459800,Education Loan,0.62,1,Medium
+TIE-1222,59,1232000,Salaried,5.6,1060000,Good,3,On-Time,290200,Auto Loan,0.86,0,Low
+TIE-1223,57,1219000,Self-Employed,13.1,1243000,Good,0,On-Time,534300,Auto Loan,1.02,0,Low
+TIE-1224,45,1199000,Salaried,0.1,2314000,Fair,1,On-Time,299700,Home Loan,1.93,0,Medium
+TIE-1225,49,1114000,Salaried,4.8,323000,Good,0,On-Time,628100,Business Loan,0.29,0,Low
+TIE-1226,50,614000,Business,18.8,92000,Good,0,On-Time,273500,Home Loan,0.15,0,Low
+TIE-1227,56,1990000,Salaried,6.3,915000,Good,1,On-Time,761200,Auto Loan,0.46,0,Low
+TIE-1228,40,1695000,Business,14.6,949000,Good,0,On-Time,705100,Home Loan,0.56,0,Low
+TIE-1229,53,1907000,Salaried,0.6,1468000,Good,2,On-Time,847800,Home Loan,0.77,0,Low
+TIE-1230,44,903000,Salaried,0.8,135000,Good,1,On-Time,157700,Business Loan,0.15,0,Low
+TIE-1231,39,719000,Salaried,6.2,237000,Good,1,On-Time,382400,Home Loan,0.33,0,Low
+TIE-1232,40,1852000,Salaried,2.3,1908000,Fair,2,Frequent,605500,Personal Loan,1.03,1,High
+TIE-1233,32,2961000,Salaried,4.6,2635000,Poor,0,On-Time,1245700,Home Loan,0.89,0,Medium
+TIE-1234,50,1223000,Salaried,3.5,318000,Fair,1,On-Time,437600,Business Loan,0.26,0,Low
+TIE-1235,49,974000,Business,1.6,1071000,Good,2,Frequent,453400,Auto Loan,1.1,0,Medium
+TIE-1236,58,500000,Salaried,14.7,310000,Good,2,On-Time,77600,Auto Loan,0.62,0,Low
+TIE-1237,42,1771000,Business,4.3,443000,Good,1,On-Time,953100,Home Loan,0.25,0,Low
+TIE-1238,44,731000,Business,1.0,380000,Good,1,1-2 Missed,371700,Home Loan,0.52,0,Low
+TIE-1239,45,1245000,Salaried,2.3,461000,Good,1,On-Time,413400,Home Loan,0.37,0,Low
+TIE-1240,39,2978000,Salaried,0.3,1072000,Poor,1,On-Time,1294000,Home Loan,0.36,0,Medium
+TIE-1241,50,1038000,Salaried,4.2,426000,Good,0,On-Time,609100,Home Loan,0.41,0,Low
+TIE-1242,49,872000,Salaried,3.7,1822000,Good,0,On-Time,243600,Auto Loan,2.09,0,Medium
+TIE-1243,46,1153000,Salaried,5.9,888000,Good,0,On-Time,673600,Home Loan,0.77,0,Low
+TIE-1244,48,547000,Salaried,6.4,711000,Poor,0,On-Time,314600,Auto Loan,1.3,0,Medium
+TIE-1245,37,2764000,Salaried,2.2,3151000,Good,1,On-Time,1605600,Home Loan,1.14,0,Low
+TIE-1246,36,781000,Business,9.8,461000,Good,1,On-Time,120300,Personal Loan,0.59,0,Low
+TIE-1247,46,1801000,Salaried,1.4,468000,Fair,0,On-Time,443900,Home Loan,0.26,0,Low
+TIE-1248,32,2821000,Salaried,3.4,1439000,Poor,2,1-2 Missed,1467900,Business Loan,0.51,1,High
+TIE-1249,37,2442000,Business,3.1,2711000,Good,1,1-2 Missed,957900,Home Loan,1.11,0,Low
+TIE-1250,55,2092000,Salaried,8.7,2238000,Good,1,On-Time,925100,Business Loan,1.07,0,Low
+TIE-1251,52,946000,Salaried,2.9,142000,Good,2,On-Time,186800,Auto Loan,0.15,0,Low
+TIE-1252,47,848000,Salaried,0.5,365000,Good,2,1-2 Missed,388600,Home Loan,0.43,0,Medium
+TIE-1253,39,1264000,Salaried,2.1,190000,Fair,0,On-Time,709400,Business Loan,0.15,0,Low
+TIE-1254,40,1713000,Business,0.5,1131000,Good,0,On-Time,919000,Auto Loan,0.66,0,Low
+TIE-1255,53,990000,Salaried,1.4,1940000,Good,0,On-Time,200900,Home Loan,1.96,1,Low
+TIE-1256,49,1272000,Salaried,0.6,2722000,Good,0,1-2 Missed,393600,Home Loan,2.14,1,High
+TIE-1257,44,592000,Salaried,3.0,616000,Good,1,1-2 Missed,237200,Home Loan,1.04,0,Low
+TIE-1258,44,2070000,Salaried,4.2,2939000,Fair,1,On-Time,418000,Auto Loan,1.42,1,Medium
+TIE-1259,40,1494000,Salaried,2.5,463000,Good,1,On-Time,236300,Auto Loan,0.31,0,Low
+TIE-1260,43,3316000,Salaried,1.7,4410000,Fair,2,On-Time,1723100,Education Loan,1.33,0,Medium
+TIE-1261,40,1067000,Salaried,9.7,1910000,Good,0,On-Time,545900,Business Loan,1.79,0,Low
+TIE-1262,32,1048000,Salaried,10.3,1383000,Good,0,On-Time,536300,Home Loan,1.32,0,Low
+TIE-1263,45,702000,Salaried,2.9,246000,Good,1,On-Time,312800,Auto Loan,0.35,1,Low
+TIE-1264,37,1083000,Salaried,6.9,2827000,Good,2,On-Time,446900,Auto Loan,2.61,0,Medium
+TIE-1265,51,679000,Salaried,7.5,469000,Good,2,On-Time,331000,Business Loan,0.69,0,Low
+TIE-1266,45,1780000,Salaried,6.3,1495000,Good,0,On-Time,429000,Home Loan,0.84,0,Low
+TIE-1267,37,1840000,Salaried,0.9,1067000,Good,2,On-Time,822100,Auto Loan,0.58,0,Low
+TIE-1268,48,1263000,Salaried,2.7,796000,Good,0,On-Time,527800,Home Loan,0.63,0,Low
+TIE-1269,52,1717000,Salaried,0.7,2009000,Good,0,On-Time,458100,Home Loan,1.17,0,Low
+TIE-1270,38,919000,Salaried,1.8,643000,Fair,2,On-Time,549800,Education Loan,0.7,0,Low
+TIE-1271,38,844000,Salaried,20.0,616000,Fair,2,1-2 Missed,505500,Home Loan,0.73,1,Medium
+TIE-1272,42,2208000,Salaried,2.1,839000,Good,2,On-Time,951000,Auto Loan,0.38,0,Low
+TIE-1273,52,2055000,Salaried,16.0,5117000,Good,2,Frequent,717300,Auto Loan,2.49,1,High
+TIE-1274,37,1710000,Self-Employed,1.8,1282000,Good,3,Frequent,756300,Education Loan,0.75,0,Medium
+TIE-1275,45,1163000,Salaried,7.1,419000,Poor,1,On-Time,536000,Auto Loan,0.36,0,Medium
+TIE-1276,39,1472000,Salaried,0.9,368000,Good,2,On-Time,333200,Home Loan,0.25,0,Medium
+TIE-1277,46,1836000,Business,21.1,1781000,Good,0,On-Time,748500,Home Loan,0.97,0,Low
+TIE-1278,45,504000,Salaried,0.2,741000,Good,2,On-Time,275800,Auto Loan,1.47,1,Medium
+TIE-1279,53,1107000,Business,2.8,863000,Poor,2,On-Time,476200,Business Loan,0.78,0,Medium
+TIE-1280,53,1098000,Salaried,30.5,472000,Fair,0,1-2 Missed,355200,Home Loan,0.43,1,Medium
+TIE-1281,37,506000,Salaried,0.8,273000,Poor,3,On-Time,176000,Home Loan,0.54,1,High
+TIE-1282,40,724000,Salaried,1.5,239000,Good,0,On-Time,372200,Home Loan,0.33,0,Low
+TIE-1283,53,500000,Salaried,13.4,290000,Good,0,On-Time,215400,Home Loan,0.58,0,Low
+TIE-1284,33,500000,Business,0.2,235000,Good,1,On-Time,225100,Auto Loan,0.47,0,Low
+TIE-1285,39,2218000,Self-Employed,10.5,1641000,Good,1,On-Time,824300,Personal Loan,0.74,0,Low
+TIE-1286,41,1049000,Salaried,3.2,1490000,Good,3,On-Time,240200,Personal Loan,1.42,0,Medium
+TIE-1287,43,649000,Salaried,2.7,707000,Good,0,On-Time,178700,Home Loan,1.09,0,Low
+TIE-1288,52,1455000,Self-Employed,6.8,815000,Good,0,On-Time,275200,Personal Loan,0.56,0,Low
+TIE-1289,51,1560000,Salaried,1.9,406000,Good,0,On-Time,845200,Auto Loan,0.26,0,Low
+TIE-1290,50,1120000,Salaried,0.7,224000,Fair,0,On-Time,272600,Home Loan,0.2,0,Medium
+TIE-1291,43,2664000,Salaried,3.8,1465000,Good,2,Frequent,876600,Education Loan,0.55,1,High
+TIE-1292,30,891000,Salaried,2.4,196000,Good,0,On-Time,147600,Personal Loan,0.22,0,Low
+TIE-1293,52,553000,Salaried,10.3,282000,Good,0,On-Time,177500,Education Loan,0.51,0,Low
+TIE-1294,50,1415000,Salaried,8.5,637000,Fair,0,On-Time,224400,Education Loan,0.45,0,Low
+TIE-1295,50,846000,Salaried,24.4,169000,Fair,1,On-Time,385200,Home Loan,0.2,0,Low
+TIE-1296,58,1419000,Salaried,3.1,1419000,Good,1,On-Time,610500,Business Loan,1.0,0,Low
+TIE-1297,40,1139000,Salaried,2.1,353000,Fair,0,On-Time,646800,Home Loan,0.31,0,Low
+TIE-1298,36,695000,Self-Employed,2.4,584000,Good,1,On-Time,339200,Auto Loan,0.84,0,Low
+TIE-1299,55,1596000,Salaried,0.1,1788000,Good,1,On-Time,874700,Education Loan,1.12,0,Low
+TIE-1300,39,692000,Salaried,1.0,900000,Good,0,1-2 Missed,332700,Personal Loan,1.3,0,Low
+TIE-1301,43,1777000,Salaried,1.0,267000,Good,0,1-2 Missed,852700,Auto Loan,0.15,0,Low
+TIE-1302,52,3124000,Business,4.1,3780000,Good,2,1-2 Missed,615400,Personal Loan,1.21,0,Medium
+TIE-1303,34,1296000,Business,0.1,454000,Good,0,On-Time,525600,Home Loan,0.35,0,Low
+TIE-1304,52,1164000,Salaried,0.4,1094000,Good,0,On-Time,496200,Home Loan,0.94,0,Low
+TIE-1305,40,1491000,Salaried,2.2,1387000,Fair,0,On-Time,280500,Personal Loan,0.93,0,Low
+TIE-1306,53,911000,Business,14.3,155000,Good,2,On-Time,185300,Business Loan,0.17,0,Low
+TIE-1307,44,1187000,Salaried,1.1,499000,Poor,1,On-Time,214600,Home Loan,0.42,1,Medium
+TIE-1308,46,1316000,Salaried,2.8,1263000,Good,2,1-2 Missed,559700,Home Loan,0.96,0,Low
+TIE-1309,34,705000,Salaried,3.8,106000,Good,0,On-Time,368200,Home Loan,0.15,0,Low
+TIE-1310,36,1298000,Salaried,2.8,1791000,Poor,2,On-Time,740400,Business Loan,1.38,0,Medium
+TIE-1311,46,2501000,Salaried,7.4,1000000,Fair,0,1-2 Missed,1312600,Personal Loan,0.4,0,Low
+TIE-1312,42,1734000,Salaried,10.2,954000,Good,1,On-Time,513900,Home Loan,0.55,0,Low
+TIE-1313,27,2556000,Salaried,1.9,895000,Poor,2,On-Time,689300,Business Loan,0.35,1,Medium
+TIE-1314,46,2283000,Salaried,18.1,3310000,Good,0,On-Time,903900,Home Loan,1.45,0,Low
+TIE-1315,36,2541000,Business,0.4,1093000,Good,1,On-Time,1070000,Home Loan,0.43,0,Low
+TIE-1316,29,998000,Business,5.9,419000,Good,1,On-Time,326100,Home Loan,0.42,0,Low
+TIE-1317,28,857000,Salaried,1.8,1174000,Poor,0,On-Time,402100,Home Loan,1.37,0,Medium
+TIE-1318,41,878000,Salaried,9.4,615000,Good,2,On-Time,499300,Home Loan,0.7,0,Low
+TIE-1319,40,1687000,Salaried,3.4,540000,Good,1,On-Time,375600,Personal Loan,0.32,0,Low
+TIE-1320,50,1104000,Salaried,3.4,629000,Good,0,On-Time,360300,Auto Loan,0.57,0,Low
+TIE-1321,47,1562000,Business,2.4,781000,Good,1,On-Time,814900,Auto Loan,0.5,0,Low
+TIE-1322,41,1530000,Salaried,5.8,536000,Good,0,Frequent,910000,Business Loan,0.35,0,Medium
+TIE-1323,47,2036000,Salaried,4.3,1608000,Good,0,On-Time,822300,Education Loan,0.79,0,Low
+TIE-1324,57,1913000,Salaried,14.0,1913000,Fair,2,On-Time,1140900,Home Loan,1.0,0,Low
+TIE-1325,50,1612000,Salaried,1.0,758000,Good,0,1-2 Missed,732500,Personal Loan,0.47,0,Low
+TIE-1326,48,509000,Salaried,10.2,1140000,Good,1,On-Time,247500,Home Loan,2.24,0,Low
+TIE-1327,35,2056000,Salaried,5.0,1748000,Good,0,1-2 Missed,738900,Home Loan,0.85,0,Low
+TIE-1328,38,1249000,Salaried,3.6,649000,Good,3,On-Time,215700,Education Loan,0.52,0,Low
+TIE-1329,45,817000,Salaried,5.7,539000,Fair,0,On-Time,385300,Home Loan,0.66,0,Low
+TIE-1330,48,1271000,Salaried,8.0,953000,Good,0,On-Time,315300,Auto Loan,0.75,0,Low
+TIE-1331,45,2153000,Salaried,2.6,409000,Good,2,1-2 Missed,952500,Home Loan,0.19,0,Low
+TIE-1332,49,996000,Salaried,9.0,817000,Good,1,On-Time,530900,Business Loan,0.82,0,Low
+TIE-1333,44,1264000,Salaried,5.6,379000,Good,0,On-Time,244600,Home Loan,0.3,0,Low
+TIE-1334,42,2052000,Self-Employed,4.8,1457000,Good,1,On-Time,928800,Auto Loan,0.71,0,Low
+TIE-1335,35,760000,Salaried,4.4,646000,Fair,1,1-2 Missed,363700,Auto Loan,0.85,0,Low
+TIE-1336,30,956000,Salaried,4.7,143000,Good,0,Frequent,349200,Personal Loan,0.15,0,Medium
+TIE-1337,33,2170000,Salaried,3.3,6163000,Good,1,On-Time,571900,Home Loan,2.84,0,Medium
+TIE-1338,55,1429000,Business,4.0,2344000,Good,1,On-Time,572200,Home Loan,1.64,0,Low
+TIE-1339,29,997000,Business,2.7,578000,Good,2,On-Time,353300,Home Loan,0.58,0,Low
+TIE-1340,38,1341000,Self-Employed,2.1,349000,Good,0,On-Time,598300,Business Loan,0.26,0,Low
+TIE-1341,40,756000,Business,2.7,408000,Good,1,On-Time,134300,Education Loan,0.54,0,Low
+TIE-1342,47,4083000,Salaried,3.5,1674000,Good,0,On-Time,1961700,Home Loan,0.41,0,Low
+TIE-1343,44,1979000,Salaried,2.5,1603000,Good,1,On-Time,1105500,Home Loan,0.81,0,Low
+TIE-1344,35,1076000,Salaried,0.3,226000,Fair,2,On-Time,200200,Personal Loan,0.21,0,Medium
+TIE-1345,52,845000,Self-Employed,1.1,1082000,Poor,1,On-Time,142100,Home Loan,1.28,0,Medium
+TIE-1346,45,1320000,Salaried,10.4,1254000,Good,0,Frequent,681700,Home Loan,0.95,1,Medium
+TIE-1347,42,639000,Salaried,5.0,1208000,Good,1,On-Time,109800,Education Loan,1.89,0,Low
+TIE-1348,45,2128000,Salaried,10.9,851000,Fair,1,On-Time,1236500,Personal Loan,0.4,0,Low
+TIE-1349,37,2087000,Salaried,0.3,4967000,Fair,0,On-Time,939000,Home Loan,2.38,0,Medium
+TIE-1350,36,929000,Salaried,0.2,372000,Good,0,On-Time,490200,Home Loan,0.4,0,Low
+TIE-1351,32,1281000,Salaried,6.3,436000,Poor,0,On-Time,217600,Home Loan,0.34,0,Medium
+TIE-1352,47,942000,Salaried,1.3,1149000,Good,0,On-Time,293100,Business Loan,1.22,0,Low
+TIE-1353,58,1018000,Salaried,0.8,254000,Good,1,On-Time,377000,Home Loan,0.25,1,Low
+TIE-1354,40,1271000,Business,1.9,1246000,Good,0,On-Time,646800,Auto Loan,0.98,0,Low
+TIE-1355,43,768000,Business,25.0,131000,Fair,0,1-2 Missed,253200,Home Loan,0.17,0,Medium
+TIE-1356,36,892000,Business,2.2,1284000,Fair,2,1-2 Missed,157700,Auto Loan,1.44,1,High
+TIE-1357,42,500000,Salaried,24.0,730000,Good,0,On-Time,110700,Business Loan,1.46,0,Low
+TIE-1358,55,2383000,Salaried,4.7,500000,Good,0,On-Time,863300,Personal Loan,0.21,0,Low
+TIE-1359,37,2196000,Salaried,1.3,813000,Good,1,On-Time,932300,Personal Loan,0.37,0,Low
+TIE-1360,38,2972000,Salaried,1.5,446000,Good,1,On-Time,477800,Personal Loan,0.15,0,Low
+TIE-1361,36,770000,Salaried,3.2,485000,Good,0,1-2 Missed,123300,Education Loan,0.63,0,Low
+TIE-1362,55,2250000,Salaried,12.1,2025000,Good,0,On-Time,538600,Home Loan,0.9,0,Low
+TIE-1363,45,552000,Salaried,0.5,1259000,Good,0,On-Time,153200,Home Loan,2.28,0,Medium
+TIE-1364,28,2347000,Business,5.4,3614000,Good,1,1-2 Missed,948300,Auto Loan,1.54,0,Low
+TIE-1365,57,1664000,Salaried,2.4,799000,Good,0,On-Time,892900,Personal Loan,0.48,0,Low
+TIE-1366,38,1787000,Salaried,2.4,2127000,Poor,2,On-Time,512000,Auto Loan,1.19,0,Medium
+TIE-1367,48,1147000,Salaried,7.8,1044000,Good,1,On-Time,333200,Home Loan,0.91,0,Low
+TIE-1368,49,936000,Salaried,1.6,140000,Fair,2,On-Time,518200,Education Loan,0.15,0,Low
+TIE-1369,58,566000,Salaried,6.3,119000,Good,2,On-Time,307900,Home Loan,0.21,0,Low
+TIE-1370,53,907000,Salaried,23.9,834000,Good,1,On-Time,344400,Home Loan,0.92,0,Low
+TIE-1371,51,1128000,Salaried,10.8,970000,Poor,2,On-Time,236000,Auto Loan,0.86,0,Medium
+TIE-1372,47,1586000,Salaried,0.4,761000,Good,0,1-2 Missed,358000,Education Loan,0.48,0,Medium
+TIE-1373,36,1259000,Salaried,2.5,2795000,Fair,0,On-Time,664100,Auto Loan,2.22,0,Medium
+TIE-1374,41,1441000,Salaried,2.8,1513000,Good,1,Frequent,625600,Home Loan,1.05,1,Medium
+TIE-1375,57,1979000,Salaried,1.4,673000,Good,0,Frequent,614900,Home Loan,0.34,0,Medium
+TIE-1376,42,1212000,Salaried,0.8,1709000,Good,1,On-Time,506500,Home Loan,1.41,0,Low
+TIE-1377,51,1552000,Salaried,4.2,667000,Good,1,On-Time,456900,Personal Loan,0.43,0,Low
+TIE-1378,42,1073000,Salaried,1.3,1137000,Good,2,On-Time,568400,Auto Loan,1.06,0,Low
+TIE-1379,34,1296000,Self-Employed,2.0,661000,Good,0,On-Time,556800,Auto Loan,0.51,0,Low
+TIE-1380,30,1140000,Business,1.0,502000,Good,2,On-Time,615300,Home Loan,0.44,0,Low
+TIE-1381,43,1197000,Self-Employed,8.1,1005000,Good,2,Frequent,232000,Auto Loan,0.84,1,High
+TIE-1382,28,591000,Business,0.8,248000,Good,0,On-Time,150800,Home Loan,0.42,0,Low
+TIE-1383,45,865000,Salaried,13.0,130000,Good,0,On-Time,500900,Home Loan,0.15,0,Low
+TIE-1384,39,759000,Business,0.6,326000,Good,2,On-Time,178800,Education Loan,0.43,0,Medium
+TIE-1385,32,1087000,Business,0.0,859000,Fair,2,1-2 Missed,564000,Education Loan,0.79,1,Medium
+TIE-1386,39,785000,Salaried,3.7,118000,Good,0,On-Time,295600,Auto Loan,0.15,0,Low
+TIE-1387,47,1305000,Salaried,3.2,261000,Good,3,On-Time,755800,Home Loan,0.2,0,Low
+TIE-1388,36,1589000,Salaried,5.8,938000,Poor,2,On-Time,483300,Auto Loan,0.59,1,Medium
+TIE-1389,35,1383000,Business,0.3,1729000,Good,0,On-Time,299900,Personal Loan,1.25,0,Medium
+TIE-1390,41,1046000,Salaried,1.9,513000,Good,0,On-Time,544800,Home Loan,0.49,0,Low
+TIE-1391,51,1021000,Salaried,0.2,1225000,Good,1,On-Time,263800,Home Loan,1.2,0,Low
+TIE-1392,35,920000,Self-Employed,0.0,488000,Good,2,On-Time,204900,Business Loan,0.53,1,Medium
+TIE-1393,49,1986000,Salaried,5.5,1450000,Good,0,1-2 Missed,630400,Auto Loan,0.73,0,Low
+TIE-1394,58,1638000,Business,0.5,3063000,Good,1,On-Time,923200,Home Loan,1.87,0,Low
+TIE-1395,59,902000,Salaried,23.4,1001000,Good,0,1-2 Missed,457600,Business Loan,1.11,0,Low
+TIE-1396,49,1609000,Business,13.5,644000,Good,1,On-Time,499800,Auto Loan,0.4,0,Low
+TIE-1397,50,1127000,Salaried,1.7,1555000,Good,1,Frequent,654500,Home Loan,1.38,0,Medium
+TIE-1398,55,788000,Salaried,10.7,386000,Good,0,On-Time,464700,Home Loan,0.49,0,Low
+TIE-1399,52,537000,Salaried,1.3,591000,Fair,1,Frequent,163100,Auto Loan,1.1,1,High
+TIE-1400,55,2582000,Salaried,3.5,2298000,Good,0,1-2 Missed,1397700,Home Loan,0.89,0,Low
+TIE-1401,53,2225000,Salaried,4.6,2180000,Good,0,On-Time,375300,Home Loan,0.98,0,Low
+TIE-1402,53,792000,Salaried,4.7,546000,Good,0,On-Time,226700,Personal Loan,0.69,0,Low
+TIE-1403,46,1766000,Salaried,3.1,1536000,Fair,1,On-Time,417500,Auto Loan,0.87,0,Low
+TIE-1404,46,1256000,Salaried,4.9,1005000,Fair,0,On-Time,435000,Auto Loan,0.8,0,Low
+TIE-1405,39,500000,Salaried,2.0,75000,Good,0,On-Time,282100,Home Loan,0.15,0,Low
+TIE-1406,49,1220000,Salaried,0.6,817000,Good,1,On-Time,224100,Home Loan,0.67,0,Low
+TIE-1407,38,1523000,Salaried,3.2,396000,Good,0,1-2 Missed,259400,Home Loan,0.26,0,Low
+TIE-1408,38,1328000,Salaried,0.2,3572000,Good,0,On-Time,418400,Home Loan,2.69,0,Medium
+TIE-1409,59,590000,Self-Employed,19.5,1162000,Good,1,On-Time,289700,Home Loan,1.97,0,Low
+TIE-1410,56,1796000,Salaried,6.0,1401000,Good,2,On-Time,721400,Personal Loan,0.78,0,Low
+TIE-1411,29,1764000,Self-Employed,1.1,582000,Fair,0,On-Time,726400,Auto Loan,0.33,0,Low
+TIE-1412,54,1317000,Salaried,19.5,356000,Good,2,1-2 Missed,598400,Home Loan,0.27,0,Low
+TIE-1413,50,1410000,Salaried,1.9,634000,Good,3,On-Time,344200,Home Loan,0.45,0,Low
+TIE-1414,50,1273000,Salaried,6.3,2113000,Good,2,On-Time,413200,Education Loan,1.66,1,Medium
+TIE-1415,57,1075000,Business,26.2,236000,Good,1,On-Time,531500,Business Loan,0.22,0,Low
+TIE-1416,51,2447000,Business,0.5,367000,Poor,1,On-Time,1442500,Home Loan,0.15,0,Medium
+TIE-1417,42,815000,Business,1.1,1222000,Good,1,On-Time,206000,Home Loan,1.5,0,Low
+TIE-1418,43,815000,Salaried,2.5,310000,Fair,1,On-Time,366000,Home Loan,0.38,0,Low
+TIE-1419,42,1123000,Salaried,0.0,1606000,Good,1,Frequent,422100,Business Loan,1.43,1,High
+TIE-1420,45,2271000,Business,12.5,341000,Poor,0,On-Time,1222600,Personal Loan,0.15,1,Medium
+TIE-1421,44,500000,Salaried,12.6,495000,Good,1,Frequent,140400,Personal Loan,0.99,0,Medium
+TIE-1422,39,947000,Salaried,0.7,1288000,Good,0,On-Time,542600,Home Loan,1.36,0,Low
+TIE-1423,43,842000,Salaried,12.8,413000,Good,0,On-Time,196100,Home Loan,0.49,1,Low
+TIE-1424,50,1145000,Salaried,4.2,252000,Fair,2,On-Time,632000,Home Loan,0.22,0,Low
+TIE-1425,43,1880000,Business,2.4,996000,Fair,1,Frequent,665100,Home Loan,0.53,0,High
+TIE-1426,35,528000,Salaried,1.9,554000,Good,0,On-Time,115900,Home Loan,1.05,0,Low
+TIE-1427,38,900000,Salaried,15.3,477000,Good,2,On-Time,137500,Education Loan,0.53,0,Low
+TIE-1428,33,1025000,Salaried,1.9,687000,Fair,0,Frequent,402000,Personal Loan,0.67,1,High
+TIE-1429,36,4222000,Salaried,3.1,2702000,Good,1,Frequent,1338100,Auto Loan,0.64,1,Medium
+TIE-1430,41,786000,Business,3.5,118000,Good,2,On-Time,202200,Home Loan,0.15,0,Low
+TIE-1431,38,500000,Self-Employed,3.8,520000,Good,2,On-Time,206200,Auto Loan,1.04,0,Low
+TIE-1432,33,500000,Business,0.9,140000,Poor,0,On-Time,276500,Business Loan,0.28,0,Medium
+TIE-1433,40,3190000,Salaried,6.7,2616000,Good,0,On-Time,931600,Personal Loan,0.82,0,Low
+TIE-1434,36,621000,Salaried,16.4,93000,Good,1,On-Time,117900,Auto Loan,0.15,0,Low
+TIE-1435,45,796000,Business,0.2,884000,Good,0,On-Time,460900,Home Loan,1.11,0,Low
+TIE-1436,40,1807000,Salaried,1.7,4897000,Good,1,On-Time,447900,Home Loan,2.71,0,Medium
+TIE-1437,60,681000,Salaried,15.0,191000,Fair,1,On-Time,198000,Home Loan,0.28,0,Low
+TIE-1438,28,509000,Salaried,2.9,143000,Fair,1,On-Time,242900,Auto Loan,0.28,0,Low
+TIE-1439,37,2068000,Self-Employed,0.7,4095000,Good,1,On-Time,620800,Personal Loan,1.98,0,Medium
+TIE-1440,45,1414000,Salaried,1.7,4016000,Good,1,On-Time,417500,Home Loan,2.84,0,Medium
+TIE-1441,35,890000,Business,6.2,756000,Good,2,On-Time,364700,Auto Loan,0.85,0,Low
+TIE-1442,44,1262000,Salaried,3.4,631000,Good,1,On-Time,640800,Home Loan,0.5,0,Low
+TIE-1443,35,1251000,Salaried,0.4,1776000,Fair,1,1-2 Missed,230000,Home Loan,1.42,1,High
+TIE-1444,38,982000,Salaried,12.9,373000,Fair,0,On-Time,472500,Home Loan,0.38,0,Low
+TIE-1445,40,1412000,Salaried,6.0,805000,Fair,3,Frequent,253300,Education Loan,0.57,1,High
+TIE-1446,47,1434000,Self-Employed,16.4,416000,Good,2,On-Time,667800,Personal Loan,0.29,0,Low
+TIE-1447,42,1773000,Salaried,2.1,1117000,Good,0,Frequent,647200,Home Loan,0.63,0,Medium
+TIE-1448,47,733000,Salaried,0.9,953000,Good,2,On-Time,403800,Home Loan,1.3,0,Medium
+TIE-1449,32,1979000,Salaried,1.6,1959000,Fair,1,On-Time,468300,Home Loan,0.99,0,Low
+TIE-1450,52,1081000,Salaried,6.3,1654000,Fair,0,On-Time,253700,Home Loan,1.53,1,Medium
+TIE-1451,45,1262000,Business,2.5,492000,Good,0,On-Time,606800,Auto Loan,0.39,0,Low
+TIE-1452,49,709000,Salaried,1.0,759000,Good,3,1-2 Missed,306800,Home Loan,1.07,1,Medium
+TIE-1453,52,3059000,Business,9.7,4894000,Good,2,On-Time,852700,Auto Loan,1.6,0,Medium
+TIE-1454,58,1251000,Salaried,11.8,550000,Good,2,On-Time,306800,Home Loan,0.44,0,Low
+TIE-1455,43,648000,Salaried,6.6,713000,Fair,1,On-Time,215400,Business Loan,1.1,0,Low
+TIE-1456,39,1857000,Salaried,11.7,279000,Fair,1,On-Time,1036500,Home Loan,0.15,0,Low
+TIE-1457,42,1297000,Salaried,1.1,1154000,Good,0,On-Time,441400,Auto Loan,0.89,0,Low
+TIE-1458,35,679000,Salaried,0.7,679000,Fair,1,On-Time,266000,Auto Loan,1.0,0,Medium
+TIE-1459,46,1956000,Salaried,11.6,1174000,Good,1,On-Time,1156000,Business Loan,0.6,0,Low
+TIE-1460,38,1098000,Business,10.8,813000,Good,1,On-Time,318100,Auto Loan,0.74,0,Low
+TIE-1461,57,1285000,Business,2.7,771000,Good,1,1-2 Missed,609700,Home Loan,0.6,0,Low
+TIE-1462,30,2483000,Salaried,4.3,372000,Good,1,On-Time,492500,Home Loan,0.15,0,Low
+TIE-1463,38,853000,Salaried,15.1,256000,Good,0,On-Time,503100,Business Loan,0.3,0,Low
+TIE-1464,39,1043000,Business,2.3,438000,Good,1,Frequent,351800,Home Loan,0.42,0,Medium
+TIE-1465,52,1015000,Salaried,1.0,579000,Fair,2,On-Time,355900,Auto Loan,0.57,0,Medium
+TIE-1466,36,2379000,Salaried,1.8,381000,Poor,2,On-Time,819400,Auto Loan,0.16,0,Medium
+TIE-1467,54,2856000,Salaried,4.6,428000,Good,2,On-Time,732300,Home Loan,0.15,0,Low
+TIE-1468,40,643000,Self-Employed,9.5,431000,Good,0,On-Time,98900,Home Loan,0.67,0,Low
+TIE-1469,42,1067000,Salaried,7.0,704000,Fair,2,On-Time,442600,Home Loan,0.66,0,Low
+TIE-1470,46,1031000,Salaried,13.1,1598000,Good,0,On-Time,445500,Home Loan,1.55,0,Low
+TIE-1471,43,4802000,Self-Employed,9.3,1873000,Good,1,On-Time,1135900,Personal Loan,0.39,0,Low
+TIE-1472,56,1445000,Salaried,9.0,853000,Good,0,On-Time,621800,Home Loan,0.59,0,Low
+TIE-1473,37,1023000,Self-Employed,5.3,215000,Good,3,On-Time,460200,Home Loan,0.21,0,Low
+TIE-1474,34,641000,Business,5.2,731000,Good,0,1-2 Missed,191600,Home Loan,1.14,0,Low
+TIE-1475,41,1884000,Salaried,1.4,2807000,Good,0,On-Time,1028100,Business Loan,1.49,0,Low
+TIE-1476,40,1038000,Salaried,7.8,851000,Good,0,On-Time,327900,Auto Loan,0.82,0,Low
+TIE-1477,41,1131000,Business,3.5,1176000,Fair,2,On-Time,589800,Auto Loan,1.04,0,Low
+TIE-1478,51,954000,Self-Employed,0.4,1116000,Good,1,On-Time,150400,Business Loan,1.17,0,Low
+TIE-1479,35,1225000,Self-Employed,4.1,637000,Good,1,On-Time,458800,Home Loan,0.52,0,Low
+TIE-1480,43,1151000,Salaried,6.0,2256000,Fair,0,On-Time,671100,Personal Loan,1.96,0,Low
+TIE-1481,46,1766000,Business,25.1,653000,Good,0,On-Time,699500,Personal Loan,0.37,0,Low
+TIE-1482,42,1611000,Salaried,7.0,773000,Good,2,On-Time,411100,Auto Loan,0.48,0,Low
+TIE-1483,48,1370000,Salaried,3.9,1904000,Good,0,On-Time,517500,Education Loan,1.39,0,Low
+TIE-1484,44,1233000,Salaried,11.3,1319000,Good,2,On-Time,646600,Home Loan,1.07,0,Low
+TIE-1485,43,567000,Business,3.8,522000,Good,2,On-Time,162900,Home Loan,0.92,0,Low
+TIE-1486,39,1172000,Salaried,3.8,691000,Good,0,Frequent,312000,Home Loan,0.59,0,Medium
+TIE-1487,50,1675000,Salaried,4.1,452000,Good,0,On-Time,810500,Home Loan,0.27,0,Low
+TIE-1488,37,1014000,Business,1.6,1268000,Good,1,On-Time,189500,Home Loan,1.25,0,Low
+TIE-1489,60,1690000,Salaried,3.1,946000,Good,0,Frequent,764600,Home Loan,0.56,1,Medium
+TIE-1490,27,1233000,Salaried,0.3,2281000,Good,1,On-Time,227900,Home Loan,1.85,1,Medium
+TIE-1491,42,1320000,Business,3.5,1373000,Good,2,1-2 Missed,297900,Personal Loan,1.04,0,Medium
+TIE-1492,46,1271000,Salaried,0.3,1347000,Good,1,On-Time,604400,Home Loan,1.06,0,Low
+TIE-1493,35,713000,Salaried,1.1,214000,Good,0,Frequent,152600,Home Loan,0.3,0,Medium
+TIE-1494,31,1230000,Salaried,2.3,1980000,Good,1,On-Time,300800,Home Loan,1.61,0,Low
+TIE-1495,29,1611000,Salaried,0.3,1692000,Good,2,On-Time,921300,Auto Loan,1.05,0,Low
+TIE-1496,38,973000,Salaried,5.5,944000,Fair,0,On-Time,561000,Home Loan,0.97,0,Low
+TIE-1497,41,1200000,Salaried,2.7,432000,Fair,0,1-2 Missed,377900,Home Loan,0.36,1,Medium
+TIE-1498,51,766000,Salaried,0.9,804000,Good,2,Frequent,249400,Personal Loan,1.05,0,High
+TIE-1499,45,974000,Business,6.5,214000,Fair,2,1-2 Missed,187700,Personal Loan,0.22,0,Medium
+TIE-1500,50,681000,Business,9.6,599000,Good,0,On-Time,107700,Home Loan,0.88,0,Low
+TIE-1501,46,1953000,Salaried,0.8,1855000,Good,2,Frequent,733100,Business Loan,0.95,1,High
+TIE-1502,39,599000,Self-Employed,0.3,982000,Good,0,On-Time,188100,Education Loan,1.64,1,Medium
+TIE-1503,52,2583000,Business,1.9,2273000,Fair,3,On-Time,913100,Home Loan,0.88,0,Medium
+TIE-1504,58,1795000,Business,4.1,844000,Fair,2,On-Time,626800,Personal Loan,0.47,0,Medium
+TIE-1505,41,500000,Salaried,3.9,135000,Good,1,On-Time,135600,Home Loan,0.27,0,Low
+TIE-1506,49,3045000,Salaried,7.0,4080000,Good,0,On-Time,721700,Business Loan,1.34,0,Low
+TIE-1507,43,1406000,Salaried,1.6,3079000,Good,1,On-Time,392000,Home Loan,2.19,0,Medium
+TIE-1508,47,1029000,Salaried,2.2,1626000,Good,0,On-Time,394300,Home Loan,1.58,0,Low
+TIE-1509,56,1229000,Salaried,26.1,1192000,Good,0,On-Time,444200,Personal Loan,0.97,0,Low
+TIE-1510,40,1211000,Business,5.5,218000,Fair,0,1-2 Missed,203100,Auto Loan,0.18,0,Medium
+TIE-1511,59,1351000,Salaried,0.3,1729000,Good,1,On-Time,654100,Home Loan,1.28,0,Low
+TIE-1512,33,2556000,Salaried,15.0,1074000,Good,1,On-Time,1369100,Auto Loan,0.42,0,Low
+TIE-1513,37,1022000,Salaried,3.0,1175000,Good,2,On-Time,335400,Home Loan,1.15,0,Low
+TIE-1514,41,1292000,Salaried,23.0,1021000,Good,1,On-Time,285000,Business Loan,0.79,0,Low
+TIE-1515,38,2661000,Self-Employed,9.6,2874000,Fair,1,On-Time,536500,Home Loan,1.08,0,Low
+TIE-1516,38,1256000,Salaried,15.6,565000,Good,2,On-Time,751800,Home Loan,0.45,0,Low
+TIE-1517,55,1508000,Salaried,0.4,302000,Good,2,On-Time,408100,Education Loan,0.2,1,Medium
+TIE-1518,44,1712000,Business,6.3,2636000,Good,1,1-2 Missed,347000,Personal Loan,1.54,1,Medium
+TIE-1519,45,3873000,Salaried,1.4,1898000,Poor,1,On-Time,1826600,Auto Loan,0.49,0,Medium
+TIE-1520,42,1022000,Salaried,1.4,276000,Good,1,On-Time,157900,Home Loan,0.27,0,Low
+TIE-1521,50,1016000,Business,14.0,752000,Good,2,On-Time,484900,Business Loan,0.74,0,Low
+TIE-1522,37,1650000,Salaried,0.3,627000,Good,0,1-2 Missed,872400,Personal Loan,0.38,0,Medium
+TIE-1523,56,1792000,Business,5.5,358000,Good,3,1-2 Missed,485400,Personal Loan,0.2,1,Medium
+TIE-1524,45,671000,Salaried,2.5,443000,Good,2,On-Time,315900,Home Loan,0.66,0,Low
+TIE-1525,50,732000,Salaried,1.3,293000,Good,0,On-Time,248200,Personal Loan,0.4,1,Low
+TIE-1526,32,1514000,Salaried,1.4,1196000,Fair,1,1-2 Missed,286100,Auto Loan,0.79,0,Medium
+TIE-1527,43,1073000,Salaried,2.8,1931000,Fair,0,On-Time,282600,Business Loan,1.8,0,Medium
+TIE-1528,44,512000,Business,4.4,809000,Good,2,On-Time,147800,Education Loan,1.58,0,Medium
+TIE-1529,38,788000,Salaried,3.1,851000,Good,1,On-Time,310000,Education Loan,1.08,0,Low
+TIE-1530,51,1569000,Salaried,4.1,3530000,Good,1,On-Time,474000,Business Loan,2.25,0,Medium
+TIE-1531,33,2652000,Business,2.2,1353000,Good,2,On-Time,1467400,Auto Loan,0.51,0,Low
+TIE-1532,33,984000,Salaried,0.9,1191000,Good,0,On-Time,278700,Personal Loan,1.21,0,Medium
+TIE-1533,40,1515000,Business,2.0,1257000,Good,0,On-Time,777900,Home Loan,0.83,0,Low
+TIE-1534,35,1441000,Salaried,3.0,1931000,Good,2,On-Time,416800,Auto Loan,1.34,1,Medium
+TIE-1535,41,1631000,Salaried,8.2,245000,Good,1,1-2 Missed,788400,Auto Loan,0.15,0,Low
+TIE-1536,51,1622000,Business,3.7,243000,Good,2,1-2 Missed,641200,Auto Loan,0.15,0,Medium
+TIE-1537,33,1762000,Business,6.3,458000,Good,0,On-Time,495200,Auto Loan,0.26,0,Low
+TIE-1538,52,3121000,Salaried,3.3,468000,Poor,1,1-2 Missed,782200,Business Loan,0.15,1,High
+TIE-1539,36,1668000,Salaried,1.1,1184000,Good,1,On-Time,897100,Personal Loan,0.71,0,Low
+TIE-1540,48,538000,Salaried,2.5,188000,Good,2,On-Time,219300,Business Loan,0.35,0,Low
+TIE-1541,39,1037000,Salaried,7.5,529000,Poor,2,On-Time,308700,Home Loan,0.51,0,Medium
+TIE-1542,46,1060000,Salaried,8.7,212000,Poor,0,On-Time,388900,Personal Loan,0.2,0,Medium
+TIE-1543,49,1475000,Salaried,12.7,1283000,Good,1,On-Time,410800,Business Loan,0.87,0,Low
+TIE-1544,33,852000,Salaried,0.8,579000,Good,1,On-Time,291300,Home Loan,0.68,0,Low
+TIE-1545,50,1137000,Salaried,2.0,2047000,Fair,1,On-Time,436800,Business Loan,1.8,0,Medium
+TIE-1546,37,925000,Salaried,4.8,925000,Fair,1,On-Time,521100,Business Loan,1.0,0,Low
+TIE-1547,41,701000,Self-Employed,12.9,624000,Good,2,On-Time,166200,Home Loan,0.89,0,Low
+TIE-1548,46,2076000,Salaried,15.6,311000,Good,3,1-2 Missed,384000,Personal Loan,0.15,0,Medium
+TIE-1549,41,1401000,Self-Employed,3.7,266000,Good,2,On-Time,484200,Home Loan,0.19,0,Low
+TIE-1550,50,1866000,Salaried,2.9,597000,Poor,0,1-2 Missed,580700,Home Loan,0.32,1,High
+TIE-1551,43,1104000,Business,9.5,166000,Good,0,On-Time,264700,Home Loan,0.15,0,Low
+TIE-1552,38,1483000,Salaried,2.4,1305000,Good,0,On-Time,337700,Home Loan,0.88,0,Low
+TIE-1553,46,1690000,Salaried,1.5,997000,Good,1,On-Time,747200,Auto Loan,0.59,0,Low
+TIE-1554,40,1113000,Salaried,14.7,323000,Good,1,On-Time,322200,Education Loan,0.29,0,Low
+TIE-1555,47,1255000,Business,1.0,489000,Fair,2,On-Time,455800,Home Loan,0.39,1,Medium
+TIE-1556,52,1639000,Salaried,9.7,1901000,Good,2,On-Time,513000,Auto Loan,1.16,0,Low
+TIE-1557,37,879000,Salaried,3.4,650000,Fair,2,1-2 Missed,147200,Home Loan,0.74,0,Medium
+TIE-1558,57,1394000,Salaried,5.2,1157000,Good,2,On-Time,360100,Home Loan,0.83,0,Low
+TIE-1559,56,2957000,Self-Employed,3.8,3696000,Good,2,On-Time,1463900,Home Loan,1.25,0,Low
+TIE-1560,44,861000,Business,2.0,276000,Good,0,1-2 Missed,159600,Home Loan,0.32,0,Low
+TIE-1561,44,1515000,Salaried,0.2,2500000,Good,1,On-Time,421100,Personal Loan,1.65,0,Medium
+TIE-1562,42,932000,Salaried,4.2,1062000,Fair,1,On-Time,203000,Business Loan,1.14,0,Low
+TIE-1563,49,2038000,Salaried,19.3,1304000,Good,2,On-Time,532200,Education Loan,0.64,0,Low
+TIE-1564,57,3299000,Business,1.3,2606000,Good,0,On-Time,766400,Home Loan,0.79,0,Low
+TIE-1565,46,1207000,Salaried,5.5,374000,Good,0,On-Time,596600,Home Loan,0.31,0,Low
+TIE-1566,47,562000,Salaried,0.6,742000,Good,0,On-Time,234100,Education Loan,1.32,0,Low
+TIE-1567,38,584000,Salaried,0.1,648000,Fair,1,On-Time,328900,Home Loan,1.11,0,Low
+TIE-1568,44,1318000,Salaried,14.3,606000,Good,1,1-2 Missed,483600,Home Loan,0.46,0,Low
+TIE-1569,40,1153000,Salaried,5.6,876000,Good,2,On-Time,497900,Auto Loan,0.76,0,Low
+TIE-1570,58,1434000,Salaried,25.8,631000,Fair,1,On-Time,613800,Auto Loan,0.44,0,Low
+TIE-1571,59,1025000,Business,7.1,1025000,Good,1,On-Time,343300,Auto Loan,1.0,0,Low
+TIE-1572,48,519000,Salaried,4.6,265000,Good,0,On-Time,189000,Business Loan,0.51,0,Low
+TIE-1573,37,544000,Salaried,6.4,359000,Good,1,1-2 Missed,174600,Personal Loan,0.66,0,Low
+TIE-1574,45,2285000,Salaried,10.5,2011000,Poor,0,On-Time,875800,Home Loan,0.88,0,Medium
+TIE-1575,36,937000,Salaried,2.1,1509000,Good,1,On-Time,202700,Auto Loan,1.61,0,Low
+TIE-1576,49,938000,Self-Employed,17.6,441000,Poor,0,1-2 Missed,540600,Home Loan,0.47,1,Medium
+TIE-1577,42,829000,Salaried,4.3,406000,Fair,1,On-Time,430000,Business Loan,0.49,0,Low
+TIE-1578,44,500000,Salaried,0.3,625000,Fair,2,1-2 Missed,134700,Business Loan,1.25,1,High
+TIE-1579,44,1467000,Salaried,0.3,660000,Good,0,On-Time,752100,Home Loan,0.45,0,Low
+TIE-1580,41,2845000,Salaried,2.3,2105000,Good,2,On-Time,812700,Home Loan,0.74,0,Low
+TIE-1581,46,1171000,Salaried,0.4,1007000,Good,0,On-Time,675400,Education Loan,0.86,0,Low
+TIE-1582,32,732000,Salaried,2.0,468000,Good,1,On-Time,200300,Education Loan,0.64,0,Low
+TIE-1583,56,649000,Business,3.2,441000,Good,3,On-Time,108800,Auto Loan,0.68,0,Low
+TIE-1584,58,1557000,Salaried,7.2,3612000,Good,1,On-Time,366100,Personal Loan,2.32,1,Medium
+TIE-1585,53,1108000,Self-Employed,6.0,211000,Good,1,On-Time,636900,Home Loan,0.19,0,Low
+TIE-1586,43,854000,Salaried,1.8,128000,Poor,0,On-Time,318800,Personal Loan,0.15,1,Medium
+TIE-1587,50,500000,Self-Employed,21.9,415000,Good,2,On-Time,183000,Home Loan,0.83,0,Low
+TIE-1588,45,1068000,Salaried,14.4,1559000,Good,0,On-Time,413600,Home Loan,1.46,0,Low
+TIE-1589,33,2473000,Salaried,0.6,1682000,Good,3,On-Time,689500,Home Loan,0.68,0,Medium
+TIE-1590,29,1375000,Business,1.7,742000,Fair,0,On-Time,246800,Auto Loan,0.54,0,Low
+TIE-1591,41,1133000,Salaried,1.3,997000,Good,2,On-Time,417400,Personal Loan,0.88,0,Low
+TIE-1592,36,661000,Salaried,5.0,694000,Good,0,On-Time,129100,Home Loan,1.05,0,Low
+TIE-1593,47,737000,Salaried,4.2,295000,Fair,0,On-Time,203300,Home Loan,0.4,0,Low
+TIE-1594,32,891000,Salaried,3.1,1443000,Good,0,On-Time,348700,Home Loan,1.62,0,Low
+TIE-1595,46,737000,Business,28.0,111000,Good,0,On-Time,413600,Home Loan,0.15,0,Low
+TIE-1596,41,2775000,Business,5.5,416000,Good,1,1-2 Missed,913600,Personal Loan,0.15,0,Low
+TIE-1597,28,2065000,Business,1.2,578000,Good,1,On-Time,700900,Business Loan,0.28,0,Low
+TIE-1598,51,991000,Salaried,3.9,1189000,Good,2,On-Time,243600,Auto Loan,1.2,0,Low
+TIE-1599,52,500000,Salaried,1.1,540000,Good,2,On-Time,263300,Business Loan,1.08,1,Low
+TIE-1600,34,1253000,Salaried,6.0,326000,Good,1,On-Time,503900,Auto Loan,0.26,0,Low
+TIE-1601,46,808000,Salaried,5.2,137000,Good,1,On-Time,426800,Auto Loan,0.17,0,Low
+TIE-1602,40,1769000,Salaried,2.5,1309000,Good,0,On-Time,925800,Auto Loan,0.74,0,Low
+TIE-1603,41,1218000,Salaried,3.3,378000,Good,2,On-Time,585800,Auto Loan,0.31,0,Low
+TIE-1604,49,3446000,Salaried,16.3,3825000,Fair,0,On-Time,1417500,Auto Loan,1.11,0,Low
+TIE-1605,48,500000,Salaried,3.5,1225000,Fair,0,On-Time,118200,Education Loan,2.45,0,Medium
+TIE-1606,55,1464000,Salaried,37.0,366000,Fair,1,On-Time,343400,Auto Loan,0.25,0,Low
+TIE-1607,37,1559000,Salaried,0.8,857000,Good,1,On-Time,915200,Home Loan,0.55,0,Low
+TIE-1608,45,1828000,Salaried,7.3,4936000,Good,2,1-2 Missed,676100,Auto Loan,2.7,1,High
+TIE-1609,61,1325000,Salaried,0.5,1895000,Good,0,On-Time,460100,Home Loan,1.43,1,Medium
+TIE-1610,48,566000,Salaried,1.6,708000,Good,2,On-Time,276500,Auto Loan,1.25,0,Low
+TIE-1611,47,515000,Salaried,6.9,371000,Good,0,On-Time,226200,Auto Loan,0.72,0,Low
+TIE-1612,40,977000,Business,4.1,684000,Good,3,On-Time,178900,Home Loan,0.7,0,Low
+TIE-1613,44,2008000,Salaried,4.0,1526000,Good,2,On-Time,366600,Education Loan,0.76,0,Low
+TIE-1614,45,1049000,Self-Employed,7.1,2203000,Good,2,Frequent,461700,Home Loan,2.1,1,High
+TIE-1615,30,818000,Salaried,3.6,1284000,Good,1,On-Time,149300,Business Loan,1.57,0,Low
+TIE-1616,56,1286000,Salaried,38.0,1492000,Fair,0,1-2 Missed,248500,Home Loan,1.16,0,Medium
+TIE-1617,44,1260000,Salaried,0.9,1008000,Good,0,On-Time,531300,Home Loan,0.8,0,Low
+TIE-1618,39,840000,Salaried,4.3,840000,Good,1,On-Time,174500,Home Loan,1.0,0,Low
+TIE-1619,49,836000,Salaried,15.5,502000,Good,1,On-Time,373500,Auto Loan,0.6,0,Low
+TIE-1620,41,1295000,Salaried,6.7,2966000,Good,0,On-Time,393000,Education Loan,2.29,0,Medium
+TIE-1621,44,1224000,Salaried,0.2,796000,Fair,1,On-Time,486000,Home Loan,0.65,0,Medium
+TIE-1622,47,1692000,Business,0.0,541000,Good,0,Frequent,341600,Home Loan,0.32,1,High
+TIE-1623,53,778000,Salaried,0.2,451000,Good,2,On-Time,433900,Personal Loan,0.58,0,Low
+TIE-1624,41,760000,Salaried,6.8,1132000,Good,0,On-Time,182600,Home Loan,1.49,0,Low
+TIE-1625,54,1113000,Salaried,5.2,2181000,Fair,1,On-Time,200600,Personal Loan,1.96,0,Medium
+TIE-1626,46,1864000,Business,4.4,2684000,Good,1,On-Time,623900,Home Loan,1.44,0,Low
+TIE-1627,37,702000,Salaried,0.9,281000,Good,0,1-2 Missed,402300,Education Loan,0.4,0,Medium
+TIE-1628,44,695000,Salaried,2.9,327000,Good,2,On-Time,137000,Education Loan,0.47,0,Low
+TIE-1629,41,1283000,Salaried,2.7,860000,Good,2,On-Time,600100,Personal Loan,0.67,0,Low
+TIE-1630,54,661000,Salaried,2.1,806000,Poor,2,On-Time,216600,Personal Loan,1.22,0,High
+TIE-1631,42,877000,Salaried,0.3,289000,Good,1,On-Time,202000,Home Loan,0.33,0,Low
+TIE-1632,38,1440000,Business,9.0,547000,Fair,0,On-Time,386100,Home Loan,0.38,0,Low
+TIE-1633,45,1542000,Salaried,4.0,2683000,Good,0,On-Time,664900,Auto Loan,1.74,0,Low
+TIE-1634,39,614000,Self-Employed,0.3,233000,Good,2,On-Time,133600,Home Loan,0.38,0,Medium
+TIE-1635,40,1290000,Salaried,3.2,593000,Good,2,On-Time,763900,Auto Loan,0.46,0,Low
+TIE-1636,55,1255000,Salaried,1.5,904000,Good,0,On-Time,577000,Home Loan,0.72,0,Low
+TIE-1637,51,1320000,Business,4.7,1294000,Good,0,On-Time,267400,Home Loan,0.98,0,Low
+TIE-1638,42,1496000,Self-Employed,0.6,1990000,Fair,0,On-Time,733700,Home Loan,1.33,0,Medium
+TIE-1639,30,2113000,Business,1.5,401000,Fair,1,On-Time,750800,Education Loan,0.19,0,Low
+TIE-1640,53,1630000,Business,4.4,701000,Good,2,On-Time,503800,Auto Loan,0.43,0,Low
+TIE-1641,34,593000,Business,0.4,658000,Poor,0,Frequent,99900,Auto Loan,1.11,1,High
+TIE-1642,33,963000,Business,0.1,559000,Good,0,1-2 Missed,290200,Home Loan,0.58,0,Medium
+TIE-1643,44,1107000,Salaried,1.8,166000,Good,1,On-Time,531100,Auto Loan,0.15,0,Low
+TIE-1644,38,1069000,Salaried,4.0,567000,Good,0,On-Time,488900,Auto Loan,0.53,0,Low
+TIE-1645,49,500000,Salaried,15.6,285000,Poor,2,On-Time,93700,Home Loan,0.57,0,Medium
+TIE-1646,45,2083000,Business,27.0,875000,Good,1,On-Time,1008300,Auto Loan,0.42,0,Low
+TIE-1647,39,1129000,Self-Employed,5.2,169000,Good,1,On-Time,316700,Auto Loan,0.15,0,Low
+TIE-1648,47,863000,Salaried,0.0,414000,Good,0,Frequent,394100,Home Loan,0.48,0,Medium
+TIE-1649,59,1547000,Salaried,3.3,1361000,Good,0,1-2 Missed,443500,Business Loan,0.88,0,Low
+TIE-1650,38,856000,Salaried,7.8,342000,Good,2,On-Time,499300,Home Loan,0.4,0,Low
+TIE-1651,43,1552000,Salaried,2.6,1148000,Good,2,1-2 Missed,572500,Home Loan,0.74,0,Medium
+TIE-1652,39,1022000,Salaried,6.2,327000,Fair,0,On-Time,555000,Home Loan,0.32,0,Low
+TIE-1653,37,955000,Salaried,1.6,191000,Good,1,On-Time,545900,Home Loan,0.2,0,Low
+TIE-1654,38,1979000,Salaried,0.3,594000,Fair,1,On-Time,634800,Personal Loan,0.3,0,Medium
+TIE-1655,39,945000,Salaried,6.3,510000,Fair,1,On-Time,294600,Home Loan,0.54,0,Low
+TIE-1656,44,1394000,Salaried,3.6,1255000,Good,2,On-Time,603700,Home Loan,0.9,0,Low
+TIE-1657,47,2328000,Salaried,3.6,3678000,Good,2,1-2 Missed,1314500,Business Loan,1.58,1,Medium
+TIE-1658,46,657000,Salaried,12.8,1064000,Good,0,On-Time,340100,Home Loan,1.62,0,Low
+TIE-1659,41,1538000,Salaried,6.3,508000,Good,1,On-Time,583500,Home Loan,0.33,0,Low
+TIE-1660,30,1032000,Salaried,9.3,495000,Fair,0,On-Time,189400,Personal Loan,0.48,0,Low
+TIE-1661,48,1800000,Salaried,1.5,1854000,Good,2,On-Time,908500,Home Loan,1.03,0,Low
+TIE-1662,37,1514000,Salaried,1.0,636000,Good,0,On-Time,247000,Auto Loan,0.42,0,Low
+TIE-1663,39,721000,Business,6.5,469000,Good,1,On-Time,129200,Education Loan,0.65,0,Low
+TIE-1664,55,2144000,Business,5.5,2380000,Good,1,On-Time,1229400,Personal Loan,1.11,0,Low
+TIE-1665,51,2424000,Business,6.3,1430000,Fair,0,1-2 Missed,873900,Auto Loan,0.59,0,Medium
+TIE-1666,31,621000,Business,2.2,236000,Good,0,On-Time,320300,Home Loan,0.38,0,Low
+TIE-1667,42,727000,Salaried,7.9,1301000,Good,1,On-Time,238900,Auto Loan,1.79,0,Low
+TIE-1668,41,1056000,Salaried,1.4,158000,Good,2,On-Time,281000,Personal Loan,0.15,0,Low
+TIE-1669,40,2872000,Salaried,0.5,919000,Good,1,On-Time,1193000,Home Loan,0.32,0,Low
+TIE-1670,58,1331000,Salaried,25.5,1930000,Good,0,On-Time,504900,Home Loan,1.45,0,Low
+TIE-1671,60,3924000,Salaried,6.0,3492000,Good,0,On-Time,991300,Home Loan,0.89,0,Low
+TIE-1672,39,2490000,Salaried,20.2,822000,Good,2,On-Time,1450900,Home Loan,0.33,0,Low
+TIE-1673,29,988000,Salaried,1.2,296000,Good,1,On-Time,399400,Education Loan,0.3,0,Low
+TIE-1674,51,861000,Salaried,0.9,353000,Good,0,On-Time,499900,Home Loan,0.41,0,Low
+TIE-1675,55,2983000,Salaried,14.2,3729000,Good,0,On-Time,1042900,Home Loan,1.25,0,Low
+TIE-1676,48,500000,Salaried,7.4,440000,Good,2,1-2 Missed,237100,Auto Loan,0.88,0,Low
+TIE-1677,44,1280000,Salaried,1.2,640000,Fair,3,On-Time,764700,Personal Loan,0.5,0,Low
+TIE-1678,40,1375000,Salaried,1.9,1306000,Good,0,1-2 Missed,321000,Auto Loan,0.95,0,Low
+TIE-1679,48,846000,Salaried,2.0,1311000,Good,1,On-Time,331500,Home Loan,1.55,0,Low
+TIE-1680,50,1117000,Salaried,7.6,1999000,Good,2,On-Time,404200,Education Loan,1.79,0,Medium
+TIE-1681,47,1387000,Business,7.3,1193000,Good,0,On-Time,778900,Home Loan,0.86,0,Low
+TIE-1682,42,500000,Salaried,6.3,370000,Fair,2,On-Time,222600,Education Loan,0.74,0,Low
+TIE-1683,44,856000,Self-Employed,13.8,128000,Good,0,On-Time,460100,Home Loan,0.15,0,Low
+TIE-1684,36,988000,Salaried,0.3,1265000,Good,1,On-Time,536600,Auto Loan,1.28,0,Low
+TIE-1685,47,820000,Business,0.1,1000000,Good,0,On-Time,315100,Auto Loan,1.22,0,Medium
+TIE-1686,48,1091000,Business,1.2,164000,Good,2,On-Time,368900,Business Loan,0.15,0,Low
+TIE-1687,34,671000,Salaried,10.5,1047000,Good,2,On-Time,186200,Auto Loan,1.56,0,Medium
+TIE-1688,37,1208000,Salaried,2.2,1534000,Good,1,On-Time,630800,Home Loan,1.27,0,Low
+TIE-1689,38,888000,Salaried,2.7,258000,Good,1,On-Time,224200,Personal Loan,0.29,0,Low
+TIE-1690,42,1129000,Salaried,1.3,169000,Good,1,On-Time,528600,Home Loan,0.15,0,Low
+TIE-1691,51,573000,Self-Employed,1.1,86000,Good,1,On-Time,223600,Home Loan,0.15,1,Low
+TIE-1692,51,1195000,Salaried,7.2,1565000,Good,0,On-Time,409400,Auto Loan,1.31,0,Low
+TIE-1693,28,500000,Salaried,1.9,355000,Good,2,1-2 Missed,147700,Home Loan,0.71,0,Medium
+TIE-1694,43,1526000,Business,4.0,1144000,Good,1,On-Time,839500,Education Loan,0.75,0,Low
+TIE-1695,48,1039000,Business,4.8,1507000,Good,1,1-2 Missed,344700,Home Loan,1.45,0,Medium
+TIE-1696,39,804000,Salaried,6.5,410000,Poor,0,On-Time,153100,Personal Loan,0.51,0,Medium
+TIE-1697,42,533000,Salaried,0.3,736000,Good,0,On-Time,226200,Home Loan,1.38,0,Low
+TIE-1698,36,5000000,Self-Employed,7.7,1700000,Good,1,On-Time,1927100,Education Loan,0.34,0,Low
+TIE-1699,51,685000,Business,1.1,144000,Good,1,On-Time,394900,Home Loan,0.21,0,Low
+TIE-1700,37,1006000,Business,1.8,1439000,Good,1,On-Time,190600,Auto Loan,1.43,0,Low
+TIE-1701,32,632000,Salaried,3.8,95000,Good,1,On-Time,312000,Home Loan,0.15,0,Low
+TIE-1702,62,621000,Salaried,19.3,1118000,Good,1,On-Time,329500,Home Loan,1.8,0,Low
+TIE-1703,48,956000,Salaried,3.1,143000,Poor,0,On-Time,521300,Home Loan,0.15,0,Medium
+TIE-1704,40,1884000,Salaried,1.5,471000,Good,0,1-2 Missed,709100,Personal Loan,0.25,0,Low
+TIE-1705,31,500000,Salaried,5.3,485000,Fair,1,1-2 Missed,173800,Home Loan,0.97,0,Medium
+TIE-1706,43,1014000,Salaried,6.7,233000,Good,1,On-Time,382900,Education Loan,0.23,0,Low
+TIE-1707,46,1172000,Salaried,7.7,2262000,Good,0,1-2 Missed,530000,Home Loan,1.93,0,Low
+TIE-1708,34,500000,Salaried,1.4,95000,Good,0,On-Time,257300,Auto Loan,0.19,0,Low
+TIE-1709,48,911000,Salaried,0.7,1066000,Good,0,On-Time,268700,Personal Loan,1.17,0,Low
+TIE-1710,57,924000,Salaried,22.5,1044000,Good,1,On-Time,368800,Business Loan,1.13,0,Low
+TIE-1711,50,1774000,Business,1.8,1135000,Fair,1,On-Time,686900,Home Loan,0.64,0,Low
+TIE-1712,52,785000,Salaried,7.2,165000,Poor,0,On-Time,178300,Auto Loan,0.21,0,Medium
+TIE-1713,47,1413000,Salaried,15.1,212000,Good,2,1-2 Missed,404900,Education Loan,0.15,0,Medium
+TIE-1714,57,755000,Salaried,8.0,906000,Good,0,On-Time,332400,Education Loan,1.2,0,Low
+TIE-1715,53,911000,Salaried,6.0,474000,Good,1,On-Time,370900,Home Loan,0.52,0,Low
+TIE-1716,45,1186000,Salaried,0.5,2348000,Fair,0,On-Time,580800,Auto Loan,1.98,0,Medium
+TIE-1717,44,500000,Salaried,7.2,505000,Good,0,On-Time,151600,Personal Loan,1.01,0,Low
+TIE-1718,44,1112000,Salaried,22.8,767000,Good,0,On-Time,317500,Personal Loan,0.69,0,Low
+TIE-1719,45,1854000,Salaried,2.9,1020000,Fair,1,On-Time,505500,Education Loan,0.55,0,Low
+TIE-1720,39,1128000,Salaried,2.3,846000,Good,0,On-Time,592200,Personal Loan,0.75,0,Low
+TIE-1721,34,1524000,Salaried,0.5,1707000,Poor,1,On-Time,249200,Home Loan,1.12,1,High
+TIE-1722,58,2346000,Salaried,0.4,1642000,Good,2,1-2 Missed,593000,Home Loan,0.7,1,Medium
+TIE-1723,56,1477000,Salaried,6.3,1462000,Good,0,On-Time,309200,Education Loan,0.99,0,Low
+TIE-1724,42,500000,Business,8.4,420000,Fair,0,On-Time,180700,Home Loan,0.84,0,Low
+TIE-1725,40,1042000,Self-Employed,1.3,250000,Good,1,On-Time,485500,Personal Loan,0.24,0,Low
+TIE-1726,39,2177000,Business,1.9,327000,Good,0,On-Time,1121300,Home Loan,0.15,0,Low
+TIE-1727,57,4213000,Salaried,3.6,8000000,Good,2,Frequent,2266500,Education Loan,2.13,1,High
+TIE-1728,47,1070000,Self-Employed,3.6,1338000,Good,0,1-2 Missed,519800,Personal Loan,1.25,0,Low
+TIE-1729,50,3237000,Salaried,4.9,3496000,Good,3,On-Time,1230600,Auto Loan,1.08,0,Low
+TIE-1730,40,534000,Salaried,3.9,80000,Good,0,On-Time,110400,Business Loan,0.15,0,Low
+TIE-1731,47,1802000,Salaried,9.9,1009000,Poor,2,1-2 Missed,409900,Home Loan,0.56,1,High
+TIE-1732,39,1095000,Salaried,1.3,537000,Good,1,On-Time,365200,Home Loan,0.49,0,Low
+TIE-1733,48,1951000,Salaried,21.5,2556000,Fair,2,On-Time,1003600,Education Loan,1.31,1,Medium
+TIE-1734,49,1254000,Salaried,21.1,978000,Good,2,On-Time,231000,Personal Loan,0.78,0,Low
+TIE-1735,51,1825000,Self-Employed,0.5,1387000,Good,1,On-Time,1021700,Education Loan,0.76,0,Low
+TIE-1736,33,1861000,Salaried,7.5,2401000,Fair,0,On-Time,1056200,Personal Loan,1.29,0,Low
+TIE-1737,41,1074000,Salaried,0.6,2599000,Good,1,On-Time,399100,Business Loan,2.42,0,Medium
+TIE-1738,42,1179000,Salaried,2.0,861000,Good,0,On-Time,305300,Home Loan,0.73,0,Low
+TIE-1739,34,975000,Salaried,2.5,1355000,Good,0,On-Time,210300,Home Loan,1.39,0,Low
+TIE-1740,44,2466000,Salaried,2.9,666000,Good,0,On-Time,833700,Business Loan,0.27,0,Low
+TIE-1741,33,2239000,Business,4.3,3426000,Good,1,On-Time,878200,Personal Loan,1.53,0,Low
+TIE-1742,55,1475000,Business,14.1,944000,Good,0,On-Time,388800,Auto Loan,0.64,0,Low
+TIE-1743,40,504000,Salaried,2.2,141000,Good,0,1-2 Missed,222700,Auto Loan,0.28,0,Low
+TIE-1744,54,2445000,Salaried,4.8,807000,Fair,2,On-Time,852200,Auto Loan,0.33,0,Medium
+TIE-1745,37,1676000,Salaried,15.9,788000,Good,2,1-2 Missed,295400,Business Loan,0.47,0,Medium
+TIE-1746,53,500000,Salaried,16.0,250000,Good,2,On-Time,263000,Home Loan,0.5,0,Low
+TIE-1747,48,808000,Salaried,12.4,137000,Good,2,On-Time,408900,Personal Loan,0.17,0,Low
+TIE-1748,36,1012000,Salaried,8.3,607000,Good,0,1-2 Missed,157200,Home Loan,0.6,0,Low
+TIE-1749,41,1097000,Salaried,11.0,592000,Good,3,1-2 Missed,280800,Auto Loan,0.54,0,Medium
+TIE-1750,28,1469000,Salaried,1.2,661000,Good,0,On-Time,330800,Home Loan,0.45,0,Low
+TIE-1751,44,1196000,Salaried,4.3,1124000,Good,0,On-Time,501300,Home Loan,0.94,0,Low
+TIE-1752,44,758000,Self-Employed,4.8,1410000,Good,1,1-2 Missed,396400,Education Loan,1.86,0,Low
+TIE-1753,48,721000,Salaried,9.1,173000,Good,0,On-Time,142000,Home Loan,0.24,0,Low
+TIE-1754,43,742000,Salaried,3.4,1143000,Good,2,On-Time,196900,Home Loan,1.54,0,Medium
+TIE-1755,47,2291000,Salaried,9.0,504000,Fair,2,1-2 Missed,1281100,Personal Loan,0.22,0,Medium
+TIE-1756,43,1711000,Salaried,14.4,1489000,Poor,0,1-2 Missed,338200,Home Loan,0.87,1,High
+TIE-1757,46,1216000,Salaried,2.8,182000,Good,1,On-Time,416400,Business Loan,0.15,0,Low
+TIE-1758,44,1467000,Self-Employed,2.8,2978000,Good,0,On-Time,325900,Personal Loan,2.03,0,Medium
+TIE-1759,32,1909000,Salaried,1.9,3513000,Good,0,On-Time,810700,Business Loan,1.84,0,Low
+TIE-1760,32,1961000,Salaried,13.5,1196000,Good,0,1-2 Missed,1039600,Home Loan,0.61,0,Low
+TIE-1761,46,644000,Salaried,2.8,567000,Good,0,On-Time,106300,Personal Loan,0.88,0,Low
+TIE-1762,34,2410000,Business,0.4,4025000,Good,2,On-Time,439900,Auto Loan,1.67,0,Medium
+TIE-1763,41,2142000,Business,3.6,321000,Good,0,On-Time,370800,Home Loan,0.15,0,Low
+TIE-1764,49,837000,Salaried,1.1,234000,Poor,0,1-2 Missed,278700,Home Loan,0.28,1,High
+TIE-1765,44,1453000,Salaried,1.8,567000,Good,0,On-Time,478500,Home Loan,0.39,0,Low
+TIE-1766,36,1280000,Business,6.7,614000,Good,1,On-Time,333900,Business Loan,0.48,0,Low
+TIE-1767,61,1485000,Self-Employed,13.1,1797000,Good,0,On-Time,718300,Home Loan,1.21,0,Low
+TIE-1768,45,699000,Salaried,0.7,336000,Good,2,On-Time,110700,Home Loan,0.48,1,Medium
+TIE-1769,43,500000,Salaried,2.7,335000,Fair,1,On-Time,120100,Home Loan,0.67,0,Low
+TIE-1770,38,1270000,Salaried,13.0,190000,Good,1,1-2 Missed,336200,Home Loan,0.15,0,Low
+TIE-1771,39,1717000,Business,2.9,446000,Good,0,On-Time,705700,Business Loan,0.26,0,Low
+TIE-1772,43,1265000,Salaried,2.2,190000,Good,2,On-Time,740300,Home Loan,0.15,0,Low
+TIE-1773,53,3343000,Salaried,6.6,3911000,Fair,0,On-Time,1578000,Education Loan,1.17,0,Low
+TIE-1774,36,790000,Salaried,2.4,916000,Fair,0,On-Time,289400,Personal Loan,1.16,0,Low
+TIE-1775,39,500000,Salaried,6.0,275000,Fair,3,On-Time,259700,Home Loan,0.55,0,Low
+TIE-1776,34,2600000,Salaried,4.8,4810000,Good,0,On-Time,754800,Auto Loan,1.85,1,Low
+TIE-1777,30,1110000,Business,2.9,1421000,Good,2,On-Time,338900,Home Loan,1.28,0,Medium
+TIE-1778,50,689000,Salaried,2.4,593000,Good,2,Frequent,377600,Home Loan,0.86,0,Medium
+TIE-1779,50,617000,Self-Employed,1.5,210000,Good,1,On-Time,241800,Business Loan,0.34,0,Low
+TIE-1780,46,2168000,Salaried,3.2,1908000,Fair,0,On-Time,815100,Home Loan,0.88,0,Low
+TIE-1781,44,1307000,Salaried,1.8,1294000,Good,2,1-2 Missed,313700,Home Loan,0.99,0,Medium
+TIE-1782,45,1690000,Salaried,26.9,2062000,Good,0,1-2 Missed,844600,Business Loan,1.22,0,Low
+TIE-1783,45,500000,Salaried,6.3,185000,Good,1,On-Time,253100,Personal Loan,0.37,0,Low
+TIE-1784,50,738000,Business,1.3,376000,Fair,3,1-2 Missed,208400,Auto Loan,0.51,1,High
+TIE-1785,41,1502000,Business,2.4,1081000,Poor,1,On-Time,808600,Personal Loan,0.72,1,Medium
+TIE-1786,45,4428000,Salaried,1.1,3100000,Fair,0,On-Time,1516700,Home Loan,0.7,0,Low
+TIE-1787,36,2184000,Salaried,2.9,655000,Good,0,On-Time,1035900,Personal Loan,0.3,0,Low
+TIE-1788,45,856000,Salaried,17.2,642000,Fair,0,On-Time,404600,Home Loan,0.75,0,Low
+TIE-1789,49,985000,Business,0.8,1320000,Good,0,On-Time,213700,Personal Loan,1.34,0,Medium
+TIE-1790,41,2154000,Business,0.0,2326000,Good,2,On-Time,441900,Home Loan,1.08,1,Medium
+TIE-1791,42,1051000,Salaried,11.2,2060000,Good,3,On-Time,552700,Education Loan,1.96,0,Low
+TIE-1792,34,2502000,Salaried,0.0,926000,Good,1,1-2 Missed,1432100,Home Loan,0.37,1,Medium
+TIE-1793,47,1021000,Salaried,2.0,204000,Good,1,On-Time,331000,Home Loan,0.2,0,Low
+TIE-1794,40,772000,Business,7.1,162000,Good,1,On-Time,286600,Personal Loan,0.21,0,Low
+TIE-1795,34,1728000,Business,0.5,294000,Fair,1,1-2 Missed,534400,Auto Loan,0.17,0,Medium
+TIE-1796,56,1067000,Business,7.4,213000,Fair,0,On-Time,386300,Education Loan,0.2,0,Low
+TIE-1797,53,725000,Business,24.2,123000,Good,1,On-Time,264200,Education Loan,0.17,0,Low
+TIE-1798,47,943000,Business,9.6,811000,Good,0,On-Time,144400,Home Loan,0.86,0,Low
+TIE-1799,38,1595000,Salaried,0.1,558000,Fair,1,On-Time,243100,Business Loan,0.35,0,Medium
+TIE-1800,55,1519000,Salaried,3.7,760000,Good,0,1-2 Missed,381600,Personal Loan,0.5,0,Low

@@ -1,0 +1,1501 @@
+Applicant_ID,Age,Annual_Income,Employment_Status,Employment_Years,Loan_Amount,Credit_History,Existing_Loans,Repayment_History,Account_Balance,Loan_Purpose,Loan_to_Income_Ratio,Historical_Default,Risk_Level
+FIN-1001,39,300000,Salaried,0.7,51000,Good,1,On-Time,30800,Home Loan,0.17,0,Low
+FIN-1002,22,370000,Salaried,0.6,973000,Poor,0,1-2 Missed,37800,Personal Loan,2.63,1,High
+FIN-1003,30,543000,Salaried,2.9,586000,Good,2,1-2 Missed,50400,Personal Loan,1.08,0,Medium
+FIN-1004,35,695000,Salaried,2.5,118000,Good,2,1-2 Missed,186600,Personal Loan,0.17,0,Medium
+FIN-1005,27,842000,Salaried,0.4,632000,Good,3,1-2 Missed,207800,Education Loan,0.75,1,High
+FIN-1006,38,778000,Salaried,5.7,568000,Poor,1,1-2 Missed,147300,Personal Loan,0.73,1,High
+FIN-1007,27,616000,Self-Employed,4.3,136000,Good,0,On-Time,45400,Personal Loan,0.22,0,Low
+FIN-1008,31,240000,Salaried,4.8,293000,Good,0,On-Time,40000,Personal Loan,1.22,0,Low
+FIN-1009,27,289000,Salaried,3.6,280000,Good,1,1-2 Missed,48700,Personal Loan,0.97,0,Low
+FIN-1010,27,240000,Self-Employed,4.3,89000,Fair,1,Frequent,57100,Business Loan,0.37,1,High
+FIN-1011,32,640000,Self-Employed,5.5,614000,Fair,0,On-Time,119100,Personal Loan,0.96,0,Low
+FIN-1012,29,482000,Self-Employed,5.2,641000,Good,2,1-2 Missed,63700,Personal Loan,1.33,0,Medium
+FIN-1013,25,323000,Salaried,3.9,129000,Poor,2,1-2 Missed,49600,Personal Loan,0.4,1,High
+FIN-1014,38,481000,Self-Employed,1.5,399000,Fair,1,On-Time,134000,Auto Loan,0.83,0,Low
+FIN-1015,27,882000,Salaried,0.3,441000,Good,1,On-Time,148000,Personal Loan,0.5,0,Low
+FIN-1016,38,689000,Salaried,6.2,282000,Poor,2,On-Time,76900,Education Loan,0.41,0,Medium
+FIN-1017,29,1179000,Salaried,3.0,365000,Good,0,1-2 Missed,345400,Education Loan,0.31,0,Low
+FIN-1018,36,461000,Self-Employed,0.9,553000,Fair,0,1-2 Missed,56500,Auto Loan,1.2,0,Medium
+FIN-1019,35,294000,Salaried,3.7,394000,Good,0,On-Time,22600,Auto Loan,1.34,0,Low
+FIN-1020,31,502000,Salaried,2.6,462000,Fair,1,1-2 Missed,36900,Education Loan,0.92,0,Medium
+FIN-1021,43,934000,Salaried,11.6,1130000,Fair,2,1-2 Missed,75800,Education Loan,1.21,1,High
+FIN-1022,35,1047000,Salaried,4.3,440000,Poor,0,Frequent,264200,Personal Loan,0.42,0,High
+FIN-1023,35,625000,Salaried,2.0,1088000,Fair,3,On-Time,177800,Personal Loan,1.74,0,Medium
+FIN-1024,36,392000,Self-Employed,0.3,133000,Good,1,On-Time,68300,Education Loan,0.34,0,Low
+FIN-1025,37,301000,Self-Employed,4.1,202000,Good,0,On-Time,63000,Personal Loan,0.67,0,Low
+FIN-1026,32,605000,Salaried,1.2,387000,Fair,0,On-Time,102100,Personal Loan,0.64,0,Low
+FIN-1027,24,920000,Salaried,0.4,828000,Good,2,On-Time,189400,Personal Loan,0.9,0,Medium
+FIN-1028,31,688000,Self-Employed,0.2,929000,Good,2,1-2 Missed,159900,Education Loan,1.35,0,High
+FIN-1029,25,577000,Salaried,0.1,427000,Fair,1,On-Time,29400,Personal Loan,0.74,0,Medium
+FIN-1030,24,362000,Salaried,0.2,518000,Fair,0,1-2 Missed,45000,Education Loan,1.43,1,High
+FIN-1031,40,544000,Salaried,7.8,544000,Good,1,1-2 Missed,54600,Education Loan,1.0,0,Low
+FIN-1032,25,343000,Salaried,1.8,161000,Fair,0,On-Time,36300,Personal Loan,0.47,0,Low
+FIN-1033,29,574000,Self-Employed,1.9,413000,Poor,0,Frequent,129800,Education Loan,0.72,1,High
+FIN-1034,28,1279000,Salaried,5.3,1509000,Good,2,On-Time,245300,Personal Loan,1.18,0,Low
+FIN-1035,30,258000,Salaried,1.0,132000,Fair,2,On-Time,22100,Education Loan,0.51,0,Medium
+FIN-1036,29,593000,Self-Employed,1.6,516000,Fair,1,On-Time,146700,Education Loan,0.87,0,Low
+FIN-1037,31,1318000,Salaried,1.2,2359000,Fair,1,On-Time,362900,Personal Loan,1.79,1,Medium
+FIN-1038,29,463000,Salaried,1.4,1278000,Fair,1,On-Time,99100,Education Loan,2.76,0,Medium
+FIN-1039,34,427000,Salaried,0.5,487000,Poor,1,On-Time,90600,Education Loan,1.14,1,High
+FIN-1040,35,455000,Salaried,0.7,218000,Fair,2,Frequent,51500,Personal Loan,0.48,1,High
+FIN-1041,41,475000,Salaried,1.1,309000,Good,1,On-Time,129700,Education Loan,0.65,0,Low
+FIN-1042,27,942000,Salaried,6.5,1837000,Fair,2,On-Time,247600,Auto Loan,1.95,0,Medium
+FIN-1043,28,697000,Salaried,5.6,1136000,Fair,1,Frequent,191300,Personal Loan,1.63,1,High
+FIN-1044,35,397000,Salaried,5.1,496000,Fair,2,On-Time,65800,Auto Loan,1.25,0,Medium
+FIN-1045,26,690000,Salaried,0.1,1145000,Good,2,On-Time,61700,Personal Loan,1.66,1,Medium
+FIN-1046,29,645000,Salaried,1.0,877000,Fair,3,On-Time,78900,Education Loan,1.36,0,Medium
+FIN-1047,27,1133000,Self-Employed,1.2,476000,Fair,1,On-Time,162600,Auto Loan,0.42,0,Low
+FIN-1048,21,671000,Salaried,0.5,322000,Good,1,Frequent,40600,Personal Loan,0.48,1,High
+FIN-1049,32,472000,Salaried,2.1,850000,Good,1,1-2 Missed,117200,Education Loan,1.8,0,Medium
+FIN-1050,30,420000,Unemployed,0.0,563000,Good,0,Frequent,122600,Personal Loan,1.34,0,High
+FIN-1051,29,620000,Salaried,4.8,682000,Good,0,On-Time,146500,Personal Loan,1.1,0,Low
+FIN-1052,26,348000,Salaried,3.1,167000,Fair,0,On-Time,33700,Education Loan,0.48,0,Low
+FIN-1053,31,545000,Salaried,1.1,518000,Good,1,Frequent,144900,Personal Loan,0.95,0,Medium
+FIN-1054,37,837000,Self-Employed,2.8,352000,Good,3,On-Time,181800,Personal Loan,0.42,0,Low
+FIN-1055,26,335000,Salaried,1.6,302000,Good,3,On-Time,74000,Education Loan,0.9,0,Low
+FIN-1056,28,492000,Salaried,1.1,561000,Good,1,1-2 Missed,102200,Personal Loan,1.14,0,Low
+FIN-1057,33,358000,Salaried,2.3,662000,Fair,1,On-Time,98500,Education Loan,1.85,0,Medium
+FIN-1058,26,457000,Salaried,0.4,640000,Fair,0,On-Time,33700,Education Loan,1.4,1,Medium
+FIN-1059,21,240000,Self-Employed,3.0,247000,Good,1,On-Time,13300,Business Loan,1.03,0,Low
+FIN-1060,34,1048000,Salaried,2.7,933000,Good,1,1-2 Missed,293900,Education Loan,0.89,0,Low
+FIN-1061,24,506000,Salaried,4.4,96000,Good,2,1-2 Missed,124500,Personal Loan,0.19,0,Medium
+FIN-1062,29,520000,Salaried,0.4,692000,Fair,0,On-Time,112200,Education Loan,1.33,0,Medium
+FIN-1063,32,240000,Salaried,1.3,576000,Poor,1,On-Time,36900,Personal Loan,2.4,1,High
+FIN-1064,35,744000,Self-Employed,8.4,640000,Good,1,Frequent,178300,Personal Loan,0.86,0,Medium
+FIN-1065,33,390000,Salaried,1.3,374000,Fair,2,Frequent,102900,Auto Loan,0.96,1,High
+FIN-1066,29,413000,Self-Employed,0.5,165000,Fair,2,On-Time,103700,Personal Loan,0.4,1,Medium
+FIN-1067,26,983000,Salaried,0.1,442000,Good,1,On-Time,264800,Auto Loan,0.45,0,Low
+FIN-1068,37,1113000,Salaried,0.4,2315000,Fair,3,On-Time,135400,Personal Loan,2.08,1,High
+FIN-1069,28,470000,Salaried,2.1,630000,Good,0,Frequent,107400,Auto Loan,1.34,1,High
+FIN-1070,30,713000,Self-Employed,6.7,1070000,Good,1,Frequent,135700,Personal Loan,1.5,1,High
+FIN-1071,28,781000,Salaried,0.5,672000,Good,2,On-Time,131400,Education Loan,0.86,0,Medium
+FIN-1072,24,282000,Salaried,0.6,56000,Fair,3,On-Time,30500,Education Loan,0.2,1,Medium
+FIN-1073,27,1366000,Salaried,9.0,1503000,Poor,1,Frequent,264100,Business Loan,1.1,0,High
+FIN-1074,30,813000,Self-Employed,0.9,276000,Fair,0,On-Time,122500,Personal Loan,0.34,0,Medium
+FIN-1075,37,440000,Salaried,10.4,836000,Good,0,1-2 Missed,51300,Auto Loan,1.9,0,Medium
+FIN-1076,30,296000,Self-Employed,6.1,157000,Fair,3,On-Time,70500,Personal Loan,0.53,0,Medium
+FIN-1077,24,258000,Salaried,2.7,173000,Fair,0,On-Time,45500,Auto Loan,0.67,1,Low
+FIN-1078,25,777000,Salaried,0.5,117000,Poor,1,On-Time,223900,Auto Loan,0.15,1,High
+FIN-1079,29,648000,Salaried,2.3,272000,Poor,1,On-Time,107100,Education Loan,0.42,0,Medium
+FIN-1080,35,623000,Salaried,0.3,1221000,Poor,1,On-Time,115100,Personal Loan,1.96,1,High
+FIN-1081,31,309000,Unemployed,0.0,281000,Good,0,On-Time,50400,Home Loan,0.91,0,Low
+FIN-1082,42,532000,Salaried,7.8,426000,Poor,1,On-Time,104800,Auto Loan,0.8,0,Medium
+FIN-1083,27,322000,Salaried,2.7,48000,Fair,1,Frequent,85100,Auto Loan,0.15,1,High
+FIN-1084,22,765000,Salaried,0.7,1033000,Fair,0,On-Time,129400,Education Loan,1.35,1,Medium
+FIN-1085,41,896000,Unemployed,0.0,152000,Good,1,On-Time,57600,Education Loan,0.17,0,Low
+FIN-1086,26,880000,Salaried,5.5,695000,Fair,0,Frequent,233000,Personal Loan,0.79,0,High
+FIN-1087,27,1424000,Self-Employed,5.8,1339000,Fair,3,1-2 Missed,350100,Personal Loan,0.94,1,High
+FIN-1088,25,535000,Salaried,0.2,637000,Fair,0,On-Time,75300,Personal Loan,1.19,0,Medium
+FIN-1089,28,462000,Salaried,3.1,638000,Fair,2,On-Time,81900,Personal Loan,1.38,0,Medium
+FIN-1090,27,743000,Salaried,0.4,691000,Good,1,Frequent,49600,Personal Loan,0.93,1,High
+FIN-1091,23,768000,Salaried,0.1,338000,Good,1,On-Time,203400,Personal Loan,0.44,0,Low
+FIN-1092,28,348000,Salaried,0.8,66000,Good,0,1-2 Missed,57100,Auto Loan,0.19,0,Medium
+FIN-1093,27,1042000,Self-Employed,2.2,552000,Fair,1,On-Time,158600,Education Loan,0.53,0,Low
+FIN-1094,36,1460000,Salaried,2.3,1840000,Good,1,On-Time,194400,Education Loan,1.26,0,Low
+FIN-1095,25,1035000,Salaried,0.3,1118000,Fair,3,On-Time,140500,Personal Loan,1.08,0,Medium
+FIN-1096,36,240000,Salaried,5.5,250000,Fair,1,1-2 Missed,57600,Business Loan,1.04,0,Medium
+FIN-1097,24,669000,Salaried,0.0,903000,Fair,1,1-2 Missed,184000,Personal Loan,1.35,1,High
+FIN-1098,36,240000,Salaried,1.4,374000,Good,0,On-Time,40100,Business Loan,1.56,0,Low
+FIN-1099,40,402000,Self-Employed,17.9,225000,Fair,0,On-Time,99600,Personal Loan,0.56,0,Low
+FIN-1100,29,404000,Salaried,0.7,659000,Good,1,1-2 Missed,54600,Education Loan,1.63,0,Medium
+FIN-1101,32,449000,Salaried,3.4,714000,Poor,0,On-Time,89800,Personal Loan,1.59,0,Medium
+FIN-1102,29,464000,Salaried,0.8,264000,Fair,3,On-Time,103400,Education Loan,0.57,1,Medium
+FIN-1103,24,284000,Salaried,0.1,770000,Fair,2,Frequent,22600,Personal Loan,2.71,1,High
+FIN-1104,26,2056000,Salaried,1.2,2858000,Good,2,On-Time,370200,Personal Loan,1.39,0,Medium
+FIN-1105,27,334000,Salaried,3.0,234000,Fair,0,On-Time,64600,Personal Loan,0.7,0,Low
+FIN-1106,27,421000,Self-Employed,6.4,274000,Fair,2,On-Time,94500,Education Loan,0.65,0,Medium
+FIN-1107,35,512000,Salaried,1.4,911000,Good,1,1-2 Missed,105000,Personal Loan,1.78,0,Medium
+FIN-1108,26,2200000,Self-Employed,1.0,748000,Fair,1,On-Time,261400,Education Loan,0.34,0,Low
+FIN-1109,42,753000,Salaried,10.2,542000,Fair,1,On-Time,87200,Auto Loan,0.72,0,Low
+FIN-1110,28,402000,Salaried,1.1,60000,Fair,1,1-2 Missed,25700,Education Loan,0.15,0,Medium
+FIN-1111,29,306000,Salaried,1.3,168000,Fair,1,On-Time,82700,Personal Loan,0.55,0,Low
+FIN-1112,35,482000,Salaried,0.8,116000,Fair,1,On-Time,139100,Personal Loan,0.24,1,Medium
+FIN-1113,41,244000,Unemployed,0.0,163000,Good,0,1-2 Missed,15700,Personal Loan,0.67,0,Medium
+FIN-1114,29,471000,Salaried,11.0,71000,Good,1,On-Time,55400,Personal Loan,0.15,0,Low
+FIN-1115,30,722000,Salaried,0.4,635000,Fair,2,On-Time,171500,Education Loan,0.88,0,Medium
+FIN-1116,24,747000,Salaried,0.1,867000,Poor,1,On-Time,49000,Auto Loan,1.16,1,High
+FIN-1117,26,497000,Salaried,2.1,507000,Good,3,On-Time,38600,Personal Loan,1.02,0,Low
+FIN-1118,28,474000,Salaried,0.4,81000,Fair,1,1-2 Missed,133700,Personal Loan,0.17,1,Medium
+FIN-1119,32,468000,Salaried,0.1,89000,Fair,0,On-Time,97900,Education Loan,0.19,1,Medium
+FIN-1120,30,1072000,Unemployed,0.0,397000,Fair,1,Frequent,134900,Auto Loan,0.37,1,High
+FIN-1121,32,376000,Salaried,3.0,244000,Poor,3,On-Time,27800,Education Loan,0.65,1,High
+FIN-1122,27,528000,Salaried,1.6,649000,Poor,0,On-Time,47800,Personal Loan,1.23,0,Medium
+FIN-1123,23,1048000,Salaried,0.1,231000,Fair,0,1-2 Missed,203900,Personal Loan,0.22,0,Medium
+FIN-1124,28,691000,Unemployed,0.0,594000,Poor,3,1-2 Missed,139600,Auto Loan,0.86,1,High
+FIN-1125,29,446000,Salaried,2.3,419000,Poor,0,On-Time,93600,Personal Loan,0.94,1,Medium
+FIN-1126,29,758000,Unemployed,0.0,682000,Fair,2,On-Time,119300,Personal Loan,0.9,0,Medium
+FIN-1127,29,483000,Salaried,1.7,285000,Fair,1,On-Time,37000,Auto Loan,0.59,0,Low
+FIN-1128,31,655000,Salaried,5.7,255000,Fair,0,On-Time,173200,Education Loan,0.39,0,Low
+FIN-1129,40,823000,Salaried,9.9,230000,Fair,0,On-Time,82300,Personal Loan,0.28,0,Low
+FIN-1130,26,529000,Salaried,4.9,243000,Fair,1,On-Time,80800,Personal Loan,0.46,0,Low
+FIN-1131,31,939000,Salaried,3.9,1859000,Poor,2,On-Time,239600,Auto Loan,1.98,1,High
+FIN-1132,24,347000,Unemployed,0.0,326000,Good,2,On-Time,57000,Business Loan,0.94,0,Medium
+FIN-1133,26,337000,Salaried,1.9,276000,Good,1,1-2 Missed,30600,Personal Loan,0.82,0,Low
+FIN-1134,24,391000,Salaried,0.9,293000,Good,0,On-Time,60300,Education Loan,0.75,0,Low
+FIN-1135,32,392000,Salaried,1.1,431000,Fair,3,1-2 Missed,81300,Education Loan,1.1,1,High
+FIN-1136,31,1267000,Salaried,0.3,2952000,Fair,1,On-Time,155300,Personal Loan,2.33,1,High
+FIN-1137,32,602000,Salaried,0.3,752000,Good,2,On-Time,164000,Education Loan,1.25,1,Medium
+FIN-1138,33,1479000,Salaried,1.2,1864000,Fair,0,1-2 Missed,238400,Auto Loan,1.26,0,Medium
+FIN-1139,35,389000,Salaried,5.5,1027000,Poor,1,On-Time,75500,Personal Loan,2.64,1,High
+FIN-1140,35,387000,Salaried,0.8,472000,Fair,2,1-2 Missed,39800,Auto Loan,1.22,1,High
+FIN-1141,24,256000,Salaried,0.0,456000,Good,3,1-2 Missed,58700,Auto Loan,1.78,1,High
+FIN-1142,22,619000,Salaried,0.3,483000,Fair,1,1-2 Missed,176200,Business Loan,0.78,0,Medium
+FIN-1143,36,957000,Salaried,4.4,641000,Good,0,On-Time,263600,Education Loan,0.67,0,Low
+FIN-1144,27,417000,Self-Employed,2.8,334000,Fair,2,On-Time,76500,Education Loan,0.8,0,Medium
+FIN-1145,30,643000,Salaried,7.2,611000,Fair,1,1-2 Missed,71400,Personal Loan,0.95,0,Medium
+FIN-1146,34,516000,Salaried,3.3,155000,Good,1,On-Time,101900,Home Loan,0.3,0,Low
+FIN-1147,27,493000,Salaried,0.2,340000,Good,0,On-Time,61400,Education Loan,0.69,0,Low
+FIN-1148,26,465000,Salaried,1.2,414000,Good,2,1-2 Missed,96400,Personal Loan,0.89,0,Medium
+FIN-1149,29,463000,Salaried,2.0,458000,Good,2,1-2 Missed,43400,Education Loan,0.99,0,Medium
+FIN-1150,34,388000,Self-Employed,2.5,547000,Good,2,On-Time,110500,Personal Loan,1.41,0,Medium
+FIN-1151,27,492000,Unemployed,0.0,615000,Poor,1,On-Time,51400,Education Loan,1.25,1,High
+FIN-1152,37,386000,Unemployed,0.0,413000,Good,0,1-2 Missed,42300,Personal Loan,1.07,1,Medium
+FIN-1153,30,623000,Unemployed,0.0,343000,Poor,1,Frequent,64100,Home Loan,0.55,1,High
+FIN-1154,41,949000,Salaried,10.1,2705000,Good,1,On-Time,88100,Education Loan,2.85,0,Medium
+FIN-1155,36,432000,Salaried,4.6,674000,Fair,0,Frequent,22800,Education Loan,1.56,1,High
+FIN-1156,28,389000,Salaried,0.1,257000,Good,2,On-Time,49500,Education Loan,0.66,0,Medium
+FIN-1157,26,280000,Salaried,5.9,213000,Good,2,On-Time,37100,Education Loan,0.76,0,Low
+FIN-1158,23,478000,Salaried,0.1,707000,Fair,0,On-Time,90400,Education Loan,1.48,0,Medium
+FIN-1159,32,481000,Self-Employed,4.7,616000,Fair,0,On-Time,92600,Personal Loan,1.28,0,Medium
+FIN-1160,37,360000,Self-Employed,2.6,583000,Poor,0,On-Time,65800,Auto Loan,1.62,0,Medium
+FIN-1161,31,240000,Salaried,0.1,103000,Fair,2,On-Time,21300,Personal Loan,0.43,0,Medium
+FIN-1162,26,240000,Self-Employed,0.0,329000,Good,1,On-Time,23100,Personal Loan,1.37,0,Medium
+FIN-1163,37,502000,Salaried,0.7,658000,Fair,0,1-2 Missed,103500,Personal Loan,1.31,1,High
+FIN-1164,26,248000,Salaried,1.4,248000,Good,1,On-Time,73100,Auto Loan,1.0,0,Low
+FIN-1165,29,540000,Salaried,1.0,432000,Fair,1,On-Time,92400,Education Loan,0.8,0,Low
+FIN-1166,34,431000,Salaried,16.0,254000,Good,2,On-Time,105400,Education Loan,0.59,0,Low
+FIN-1167,32,756000,Salaried,0.3,325000,Fair,0,1-2 Missed,185900,Business Loan,0.43,0,Medium
+FIN-1168,34,670000,Salaried,1.9,1038000,Fair,0,On-Time,127100,Personal Loan,1.55,0,Medium
+FIN-1169,22,870000,Salaried,1.7,600000,Good,1,On-Time,246200,Home Loan,0.69,0,Low
+FIN-1170,37,546000,Unemployed,0.0,502000,Good,2,On-Time,42800,Auto Loan,0.92,0,Medium
+FIN-1171,41,280000,Salaried,1.8,157000,Fair,0,On-Time,67400,Auto Loan,0.56,0,Low
+FIN-1172,32,452000,Salaried,1.4,556000,Good,0,On-Time,125700,Personal Loan,1.23,0,Low
+FIN-1173,27,361000,Salaried,2.2,260000,Good,0,Frequent,18700,Auto Loan,0.72,1,Medium
+FIN-1174,23,608000,Salaried,1.3,1654000,Fair,1,On-Time,60700,Personal Loan,2.72,0,Medium
+FIN-1175,29,434000,Self-Employed,1.0,247000,Fair,2,On-Time,66900,Education Loan,0.57,0,Medium
+FIN-1176,33,385000,Self-Employed,2.3,381000,Good,0,Frequent,76200,Personal Loan,0.99,0,Medium
+FIN-1177,38,1140000,Self-Employed,4.1,832000,Good,1,On-Time,143000,Education Loan,0.73,0,Low
+FIN-1178,29,240000,Salaried,11.0,142000,Poor,2,1-2 Missed,20400,Education Loan,0.59,1,High
+FIN-1179,31,542000,Self-Employed,0.9,656000,Good,2,On-Time,30800,Home Loan,1.21,0,Medium
+FIN-1180,39,449000,Self-Employed,3.5,67000,Fair,1,On-Time,93700,Personal Loan,0.15,0,Low
+FIN-1181,31,736000,Salaried,0.7,920000,Good,2,Frequent,188800,Personal Loan,1.25,1,High
+FIN-1182,24,240000,Salaried,4.0,223000,Fair,0,On-Time,32200,Education Loan,0.93,0,Low
+FIN-1183,27,339000,Salaried,6.0,759000,Good,0,On-Time,51000,Auto Loan,2.24,0,Medium
+FIN-1184,25,754000,Salaried,2.0,467000,Poor,3,1-2 Missed,85600,Personal Loan,0.62,1,High
+FIN-1185,32,601000,Salaried,0.4,583000,Fair,2,1-2 Missed,99400,Business Loan,0.97,1,High
+FIN-1186,25,431000,Unemployed,0.0,375000,Fair,0,On-Time,81600,Education Loan,0.87,0,Medium
+FIN-1187,29,441000,Salaried,3.9,573000,Good,0,On-Time,80800,Business Loan,1.3,0,Low
+FIN-1188,40,657000,Salaried,13.1,335000,Good,3,1-2 Missed,132500,Education Loan,0.51,1,Medium
+FIN-1189,32,334000,Salaried,6.5,745000,Good,0,On-Time,37900,Home Loan,2.23,0,Medium
+FIN-1190,24,331000,Self-Employed,0.1,301000,Good,0,On-Time,71400,Auto Loan,0.91,0,Low
+FIN-1191,36,378000,Salaried,2.0,83000,Good,0,On-Time,87600,Education Loan,0.22,0,Low
+FIN-1192,40,594000,Salaried,0.3,665000,Good,0,On-Time,79900,Home Loan,1.12,0,Low
+FIN-1193,30,566000,Salaried,0.2,515000,Fair,2,1-2 Missed,39000,Personal Loan,0.91,1,High
+FIN-1194,29,399000,Salaried,1.2,595000,Good,1,On-Time,82900,Education Loan,1.49,0,Low
+FIN-1195,31,510000,Salaried,1.6,760000,Fair,0,On-Time,34700,Personal Loan,1.49,1,Medium
+FIN-1196,29,693000,Salaried,2.3,2280000,Good,0,Frequent,197300,Personal Loan,3.29,1,High
+FIN-1197,25,838000,Salaried,0.7,344000,Good,2,On-Time,221200,Auto Loan,0.41,1,Medium
+FIN-1198,26,855000,Unemployed,0.0,1060000,Poor,1,On-Time,179000,Business Loan,1.24,0,High
+FIN-1199,34,411000,Self-Employed,2.9,514000,Fair,1,On-Time,112000,Personal Loan,1.25,1,Medium
+FIN-1200,30,663000,Salaried,1.7,656000,Good,1,Frequent,38400,Auto Loan,0.99,0,Medium
+FIN-1201,24,806000,Salaried,2.5,121000,Good,0,1-2 Missed,102100,Auto Loan,0.15,0,Low
+FIN-1202,28,454000,Self-Employed,5.5,400000,Poor,0,On-Time,33900,Personal Loan,0.88,0,Medium
+FIN-1203,31,924000,Salaried,0.3,711000,Good,0,1-2 Missed,188700,Auto Loan,0.77,0,Medium
+FIN-1204,21,304000,Salaried,0.2,264000,Fair,1,Frequent,85900,Education Loan,0.87,1,High
+FIN-1205,39,412000,Salaried,2.5,165000,Fair,2,1-2 Missed,44200,Business Loan,0.4,1,Medium
+FIN-1206,28,1236000,Salaried,0.1,2966000,Poor,1,1-2 Missed,285400,Education Loan,2.4,1,High
+FIN-1207,35,280000,Salaried,1.8,778000,Good,2,On-Time,82300,Personal Loan,2.78,1,Medium
+FIN-1208,33,627000,Salaried,0.1,1072000,Good,1,On-Time,65700,Auto Loan,1.71,1,Medium
+FIN-1209,30,411000,Salaried,2.8,107000,Good,0,On-Time,31600,Auto Loan,0.26,0,Low
+FIN-1210,28,1156000,Salaried,5.8,879000,Fair,1,Frequent,281700,Education Loan,0.76,1,High
+FIN-1211,35,633000,Salaried,0.5,823000,Fair,0,On-Time,93400,Education Loan,1.3,0,Medium
+FIN-1212,26,512000,Salaried,0.1,256000,Good,2,On-Time,148800,Personal Loan,0.5,0,Medium
+FIN-1213,27,275000,Self-Employed,2.0,366000,Good,2,On-Time,16000,Auto Loan,1.33,1,Medium
+FIN-1214,25,1817000,Salaried,0.5,273000,Good,1,Frequent,427100,Personal Loan,0.15,1,High
+FIN-1215,31,353000,Salaried,1.8,473000,Good,0,On-Time,38600,Education Loan,1.34,0,Low
+FIN-1216,26,330000,Salaried,2.5,168000,Fair,2,On-Time,34600,Education Loan,0.51,1,Medium
+FIN-1217,32,312000,Self-Employed,1.8,449000,Fair,1,Frequent,30100,Personal Loan,1.44,1,High
+FIN-1218,25,718000,Salaried,0.1,474000,Fair,0,1-2 Missed,50400,Personal Loan,0.66,0,Medium
+FIN-1219,23,259000,Salaried,0.3,215000,Fair,1,1-2 Missed,73500,Personal Loan,0.83,0,Medium
+FIN-1220,29,774000,Self-Employed,0.7,1246000,Good,1,On-Time,210800,Education Loan,1.61,0,Medium
+FIN-1221,31,300000,Salaried,0.3,45000,Good,1,1-2 Missed,75200,Education Loan,0.15,0,Medium
+FIN-1222,42,732000,Salaried,5.7,732000,Good,0,On-Time,217000,Education Loan,1.0,0,Low
+FIN-1223,33,936000,Salaried,0.1,636000,Fair,1,On-Time,160000,Education Loan,0.68,0,Medium
+FIN-1224,26,896000,Salaried,0.9,690000,Fair,3,On-Time,245200,Auto Loan,0.77,0,Medium
+FIN-1225,24,652000,Salaried,1.2,189000,Good,0,1-2 Missed,100100,Education Loan,0.29,0,Low
+FIN-1226,32,398000,Salaried,1.6,362000,Poor,2,Frequent,20200,Education Loan,0.91,1,High
+FIN-1227,23,787000,Salaried,0.4,197000,Good,2,On-Time,94400,Personal Loan,0.25,0,Medium
+FIN-1228,28,1253000,Salaried,1.3,388000,Poor,2,On-Time,284500,Home Loan,0.31,0,Medium
+FIN-1229,35,256000,Salaried,1.9,49000,Fair,0,Frequent,63200,Education Loan,0.19,1,High
+FIN-1230,29,647000,Salaried,3.2,1410000,Good,2,On-Time,83900,Personal Loan,2.18,0,Medium
+FIN-1231,24,650000,Self-Employed,0.4,234000,Fair,1,On-Time,145000,Personal Loan,0.36,1,Medium
+FIN-1232,38,760000,Salaried,0.3,2265000,Fair,1,1-2 Missed,118000,Business Loan,2.98,1,High
+FIN-1233,31,670000,Salaried,3.8,456000,Fair,0,1-2 Missed,64600,Business Loan,0.68,0,Medium
+FIN-1234,29,1044000,Self-Employed,1.7,480000,Poor,0,On-Time,285300,Personal Loan,0.46,0,Medium
+FIN-1235,26,389000,Salaried,0.7,373000,Fair,1,On-Time,70000,Auto Loan,0.96,0,Medium
+FIN-1236,33,346000,Salaried,0.6,170000,Fair,0,On-Time,26900,Education Loan,0.49,0,Medium
+FIN-1237,25,358000,Self-Employed,0.7,637000,Fair,0,On-Time,46500,Personal Loan,1.78,0,Medium
+FIN-1238,27,352000,Salaried,0.8,461000,Good,0,On-Time,27100,Personal Loan,1.31,1,Medium
+FIN-1239,32,1140000,Unemployed,0.0,1220000,Poor,0,On-Time,82900,Personal Loan,1.07,0,High
+FIN-1240,35,366000,Salaried,2.9,278000,Fair,0,On-Time,29800,Auto Loan,0.76,0,Low
+FIN-1241,27,893000,Salaried,2.6,839000,Fair,0,On-Time,151500,Home Loan,0.94,0,Low
+FIN-1242,30,793000,Salaried,0.3,1911000,Fair,1,On-Time,77900,Personal Loan,2.41,1,High
+FIN-1243,30,471000,Self-Employed,3.0,410000,Good,3,On-Time,119300,Education Loan,0.87,1,Low
+FIN-1244,25,268000,Salaried,0.4,745000,Poor,0,Frequent,70500,Personal Loan,2.78,1,High
+FIN-1245,35,358000,Salaried,8.0,512000,Fair,0,On-Time,46900,Personal Loan,1.43,0,Medium
+FIN-1246,28,648000,Unemployed,0.0,266000,Good,1,On-Time,37500,Education Loan,0.41,0,Low
+FIN-1247,35,708000,Self-Employed,1.0,630000,Good,0,On-Time,86300,Personal Loan,0.89,0,Low
+FIN-1248,33,494000,Salaried,0.2,800000,Poor,0,On-Time,48600,Education Loan,1.62,1,High
+FIN-1249,32,452000,Self-Employed,3.9,68000,Fair,1,On-Time,60500,Personal Loan,0.15,0,Low
+FIN-1250,26,769000,Salaried,0.7,577000,Good,0,1-2 Missed,76200,Personal Loan,0.75,0,Medium
+FIN-1251,31,598000,Salaried,0.9,496000,Good,0,On-Time,76000,Education Loan,0.83,0,Low
+FIN-1252,32,1111000,Self-Employed,0.4,1978000,Good,3,1-2 Missed,105900,Education Loan,1.78,1,High
+FIN-1253,39,243000,Salaried,7.5,80000,Fair,1,On-Time,39100,Education Loan,0.33,0,Low
+FIN-1254,24,1124000,Self-Employed,0.5,360000,Good,2,On-Time,66000,Education Loan,0.32,0,Medium
+FIN-1255,33,404000,Salaried,3.9,250000,Fair,2,On-Time,70500,Personal Loan,0.62,0,Medium
+FIN-1256,28,656000,Salaried,2.6,243000,Fair,1,On-Time,147000,Auto Loan,0.37,0,Low
+FIN-1257,43,395000,Salaried,5.2,423000,Good,2,On-Time,58700,Education Loan,1.07,0,Low
+FIN-1258,35,769000,Salaried,1.2,2053000,Fair,0,On-Time,183200,Personal Loan,2.67,0,Medium
+FIN-1259,30,526000,Salaried,6.6,352000,Fair,2,On-Time,68700,Education Loan,0.67,0,Medium
+FIN-1260,40,321000,Salaried,3.6,388000,Poor,0,On-Time,55000,Auto Loan,1.21,0,Medium
+FIN-1261,29,1091000,Salaried,1.7,1527000,Good,2,On-Time,88500,Personal Loan,1.4,1,Medium
+FIN-1262,26,490000,Self-Employed,1.3,554000,Fair,2,On-Time,67100,Auto Loan,1.13,0,Medium
+FIN-1263,32,537000,Salaried,3.3,430000,Good,0,On-Time,83000,Business Loan,0.8,0,Low
+FIN-1264,31,371000,Salaried,0.0,260000,Good,0,On-Time,50600,Education Loan,0.7,1,Low
+FIN-1265,32,816000,Salaried,5.2,685000,Fair,0,On-Time,168600,Business Loan,0.84,0,Low
+FIN-1266,32,1161000,Salaried,14.0,2264000,Good,0,On-Time,166400,Personal Loan,1.95,0,Low
+FIN-1267,43,406000,Salaried,5.4,110000,Good,1,On-Time,75000,Personal Loan,0.27,0,Low
+FIN-1268,29,705000,Salaried,5.3,740000,Good,1,1-2 Missed,66100,Personal Loan,1.05,0,Low
+FIN-1269,27,598000,Self-Employed,2.4,431000,Good,0,Frequent,140700,Personal Loan,0.72,0,Medium
+FIN-1270,29,873000,Self-Employed,0.7,1231000,Fair,2,Frequent,217300,Personal Loan,1.41,1,High
+FIN-1271,26,240000,Unemployed,0.0,86000,Good,1,1-2 Missed,37100,Education Loan,0.36,1,Medium
+FIN-1272,28,359000,Unemployed,0.0,596000,Good,1,On-Time,51000,Personal Loan,1.66,0,Medium
+FIN-1273,22,811000,Salaried,0.0,616000,Good,1,On-Time,87100,Auto Loan,0.76,0,Low
+FIN-1274,30,389000,Salaried,2.5,245000,Good,0,On-Time,63600,Personal Loan,0.63,0,Low
+FIN-1275,32,561000,Self-Employed,2.2,443000,Good,0,On-Time,82600,Personal Loan,0.79,0,Low
+FIN-1276,27,348000,Salaried,0.9,442000,Good,0,On-Time,55000,Auto Loan,1.27,1,Medium
+FIN-1277,27,1617000,Salaried,0.1,873000,Fair,2,Frequent,401800,Business Loan,0.54,1,High
+FIN-1278,32,240000,Self-Employed,2.9,264000,Fair,1,On-Time,68100,Personal Loan,1.1,1,Low
+FIN-1279,23,527000,Self-Employed,1.3,638000,Good,1,1-2 Missed,152400,Personal Loan,1.21,0,Medium
+FIN-1280,30,703000,Self-Employed,1.3,330000,Good,1,On-Time,58600,Home Loan,0.47,0,Low
+FIN-1281,32,309000,Salaried,5.3,232000,Good,0,On-Time,50100,Personal Loan,0.75,0,Low
+FIN-1282,33,777000,Salaried,2.6,233000,Good,1,On-Time,193400,Personal Loan,0.3,0,Low
+FIN-1283,36,462000,Salaried,0.5,1418000,Fair,1,On-Time,50700,Education Loan,3.07,0,High
+FIN-1284,27,545000,Salaried,0.5,360000,Poor,0,On-Time,50000,Personal Loan,0.66,1,High
+FIN-1285,35,383000,Salaried,17.0,1471000,Fair,0,On-Time,44500,Education Loan,3.84,0,Medium
+FIN-1286,29,1080000,Salaried,0.2,616000,Good,2,1-2 Missed,105900,Auto Loan,0.57,0,Medium
+FIN-1287,32,421000,Salaried,4.0,354000,Fair,2,On-Time,71600,Auto Loan,0.84,0,Medium
+FIN-1288,38,540000,Salaried,0.7,578000,Poor,0,On-Time,96300,Education Loan,1.07,1,High
+FIN-1289,32,901000,Salaried,2.8,541000,Fair,0,On-Time,48100,Education Loan,0.6,0,Low
+FIN-1290,28,674000,Salaried,1.4,1092000,Fair,0,1-2 Missed,50000,Education Loan,1.62,0,Medium
+FIN-1291,33,784000,Salaried,5.5,1388000,Poor,0,1-2 Missed,212800,Personal Loan,1.77,0,High
+FIN-1292,27,603000,Salaried,0.1,380000,Fair,0,1-2 Missed,90900,Home Loan,0.63,0,Medium
+FIN-1293,41,617000,Salaried,1.3,561000,Fair,2,On-Time,164600,Personal Loan,0.91,0,Medium
+FIN-1294,31,531000,Salaried,0.9,159000,Good,0,On-Time,42200,Personal Loan,0.3,0,Low
+FIN-1295,34,578000,Unemployed,0.0,277000,Good,1,On-Time,69400,Education Loan,0.48,0,Low
+FIN-1296,31,714000,Salaried,4.4,328000,Fair,1,On-Time,138200,Personal Loan,0.46,0,Low
+FIN-1297,30,887000,Salaried,4.9,1330000,Fair,0,Frequent,232400,Business Loan,1.5,1,High
+FIN-1298,28,292000,Salaried,3.7,213000,Good,1,1-2 Missed,39400,Auto Loan,0.73,0,Low
+FIN-1299,27,287000,Salaried,0.9,201000,Fair,0,1-2 Missed,57400,Education Loan,0.7,0,Medium
+FIN-1300,39,511000,Self-Employed,1.1,235000,Poor,0,Frequent,101400,Auto Loan,0.46,1,High
+FIN-1301,32,407000,Self-Employed,0.6,94000,Fair,1,1-2 Missed,54000,Education Loan,0.23,0,Medium
+FIN-1302,27,298000,Salaried,3.1,209000,Good,1,On-Time,71100,Education Loan,0.7,0,Low
+FIN-1303,24,407000,Salaried,1.4,61000,Good,0,On-Time,118500,Personal Loan,0.15,0,Low
+FIN-1304,36,683000,Salaried,5.4,225000,Fair,1,On-Time,114900,Personal Loan,0.33,0,Low
+FIN-1305,29,749000,Salaried,4.9,1513000,Fair,0,On-Time,224600,Home Loan,2.02,0,Medium
+FIN-1306,25,819000,Salaried,2.0,1605000,Good,1,On-Time,207800,Personal Loan,1.96,0,Low
+FIN-1307,41,458000,Salaried,3.5,192000,Good,1,1-2 Missed,116200,Auto Loan,0.42,0,Low
+FIN-1308,33,490000,Self-Employed,0.3,902000,Poor,0,On-Time,39100,Education Loan,1.84,1,High
+FIN-1309,26,329000,Self-Employed,0.2,464000,Good,1,On-Time,55700,Home Loan,1.41,0,Medium
+FIN-1310,28,1095000,Salaried,0.5,504000,Fair,2,On-Time,260000,Personal Loan,0.46,0,Medium
+FIN-1311,39,240000,Salaried,6.3,166000,Good,1,Frequent,39400,Education Loan,0.69,0,Medium
+FIN-1312,29,442000,Salaried,2.0,491000,Good,3,1-2 Missed,65000,Education Loan,1.11,0,Medium
+FIN-1313,30,801000,Self-Employed,0.2,176000,Fair,1,On-Time,96800,Education Loan,0.22,1,Medium
+FIN-1314,34,585000,Salaried,12.4,404000,Fair,0,On-Time,47200,Auto Loan,0.69,0,Low
+FIN-1315,38,686000,Salaried,2.2,563000,Fair,0,On-Time,99700,Education Loan,0.82,0,Low
+FIN-1316,28,402000,Salaried,2.6,289000,Good,2,Frequent,103700,Personal Loan,0.72,1,High
+FIN-1317,29,793000,Salaried,0.1,270000,Fair,1,On-Time,77800,Personal Loan,0.34,0,Medium
+FIN-1318,37,1129000,Salaried,7.0,689000,Fair,2,On-Time,273700,Personal Loan,0.61,0,Medium
+FIN-1319,26,1082000,Self-Employed,0.6,747000,Good,0,On-Time,288100,Personal Loan,0.69,0,Low
+FIN-1320,36,1181000,Self-Employed,0.4,921000,Fair,0,On-Time,204300,Personal Loan,0.78,0,Medium
+FIN-1321,28,580000,Self-Employed,1.2,197000,Fair,0,1-2 Missed,106000,Auto Loan,0.34,1,Medium
+FIN-1322,30,615000,Salaried,0.1,701000,Good,0,1-2 Missed,92800,Personal Loan,1.14,0,Medium
+FIN-1323,34,1144000,Salaried,0.0,526000,Fair,3,Frequent,245600,Home Loan,0.46,1,High
+FIN-1324,30,433000,Salaried,2.3,286000,Fair,2,On-Time,94400,Personal Loan,0.66,1,Medium
+FIN-1325,38,416000,Salaried,0.8,686000,Good,0,Frequent,83300,Education Loan,1.65,1,High
+FIN-1326,30,837000,Self-Employed,2.6,276000,Good,2,Frequent,244200,Home Loan,0.33,1,High
+FIN-1327,23,538000,Self-Employed,0.5,500000,Fair,2,1-2 Missed,160400,Personal Loan,0.93,1,High
+FIN-1328,36,348000,Salaried,0.2,275000,Good,0,1-2 Missed,19000,Personal Loan,0.79,0,Medium
+FIN-1329,28,390000,Salaried,2.2,495000,Good,2,On-Time,33200,Personal Loan,1.27,0,Medium
+FIN-1330,33,586000,Self-Employed,9.5,328000,Fair,2,On-Time,117500,Business Loan,0.56,0,Medium
+FIN-1331,30,375000,Salaried,4.1,840000,Fair,1,On-Time,80600,Home Loan,2.24,0,Medium
+FIN-1332,34,991000,Salaried,5.3,1060000,Good,1,On-Time,136000,Personal Loan,1.07,0,Low
+FIN-1333,29,531000,Salaried,3.4,271000,Good,2,1-2 Missed,72200,Personal Loan,0.51,1,Medium
+FIN-1334,28,1053000,Salaried,2.1,1927000,Fair,1,On-Time,195300,Education Loan,1.83,0,Medium
+FIN-1335,29,293000,Salaried,1.7,105000,Fair,0,On-Time,66100,Education Loan,0.36,0,Low
+FIN-1336,31,588000,Salaried,0.8,218000,Good,2,1-2 Missed,175600,Personal Loan,0.37,0,Medium
+FIN-1337,40,513000,Salaried,3.3,482000,Good,0,1-2 Missed,129000,Home Loan,0.94,0,Low
+FIN-1338,24,404000,Salaried,1.3,364000,Good,0,1-2 Missed,33000,Personal Loan,0.9,0,Low
+FIN-1339,26,240000,Self-Employed,7.1,523000,Good,1,On-Time,58300,Education Loan,2.18,1,Medium
+FIN-1340,26,274000,Self-Employed,0.1,164000,Good,1,On-Time,28100,Personal Loan,0.6,0,Low
+FIN-1341,32,487000,Salaried,3.3,580000,Good,2,1-2 Missed,109300,Personal Loan,1.19,0,Medium
+FIN-1342,36,1107000,Salaried,0.9,2015000,Fair,1,On-Time,235200,Auto Loan,1.82,1,Medium
+FIN-1343,27,636000,Salaried,0.0,1310000,Fair,0,On-Time,105400,Education Loan,2.06,1,High
+FIN-1344,32,968000,Salaried,0.2,281000,Good,1,On-Time,128600,Auto Loan,0.29,0,Low
+FIN-1345,29,388000,Self-Employed,4.9,376000,Fair,2,On-Time,72800,Personal Loan,0.97,0,Medium
+FIN-1346,35,593000,Self-Employed,0.8,231000,Good,0,On-Time,68900,Education Loan,0.39,0,Low
+FIN-1347,22,321000,Salaried,0.0,321000,Fair,2,On-Time,29400,Personal Loan,1.0,1,Medium
+FIN-1348,35,421000,Salaried,0.6,206000,Good,1,On-Time,80200,Personal Loan,0.49,0,Low
+FIN-1349,36,597000,Salaried,4.8,406000,Good,0,On-Time,61800,Education Loan,0.68,0,Low
+FIN-1350,26,1005000,Salaried,1.3,482000,Fair,2,1-2 Missed,292700,Personal Loan,0.48,0,Medium
+FIN-1351,22,515000,Salaried,0.1,417000,Fair,2,On-Time,136700,Education Loan,0.81,1,Medium
+FIN-1352,37,372000,Salaried,2.8,763000,Good,2,On-Time,21000,Education Loan,2.05,0,Medium
+FIN-1353,30,602000,Salaried,0.5,554000,Good,3,On-Time,87900,Education Loan,0.92,0,Medium
+FIN-1354,26,481000,Salaried,0.5,808000,Good,2,Frequent,35300,Business Loan,1.68,1,High
+FIN-1355,37,498000,Salaried,0.5,249000,Good,0,On-Time,145300,Personal Loan,0.5,0,Low
+FIN-1356,31,986000,Self-Employed,0.1,1518000,Fair,1,Frequent,62200,Personal Loan,1.54,1,High
+FIN-1357,34,316000,Salaried,2.2,47000,Good,0,On-Time,43700,Auto Loan,0.15,0,Low
+FIN-1358,34,1066000,Salaried,2.4,1087000,Good,1,On-Time,61000,Personal Loan,1.02,0,Low
+FIN-1359,41,449000,Salaried,0.3,584000,Fair,0,On-Time,128400,Education Loan,1.3,0,Medium
+FIN-1360,37,417000,Salaried,2.5,446000,Fair,0,On-Time,49500,Personal Loan,1.07,0,Low
+FIN-1361,33,633000,Salaried,4.6,2633000,Poor,3,Frequent,137600,Education Loan,4.16,1,High
+FIN-1362,37,458000,Salaried,1.7,820000,Good,1,On-Time,92000,Education Loan,1.79,0,Low
+FIN-1363,35,980000,Salaried,0.9,1009000,Fair,1,1-2 Missed,141300,Auto Loan,1.03,1,Medium
+FIN-1364,30,1402000,Salaried,7.9,210000,Poor,1,On-Time,94600,Personal Loan,0.15,0,Medium
+FIN-1365,29,598000,Self-Employed,8.1,1214000,Good,0,1-2 Missed,69800,Education Loan,2.03,0,Medium
+FIN-1366,35,240000,Salaried,2.3,410000,Good,2,Frequent,52900,Education Loan,1.71,1,High
+FIN-1367,24,390000,Self-Employed,0.1,355000,Good,1,Frequent,107100,Personal Loan,0.91,1,High
+FIN-1368,40,645000,Salaried,7.4,168000,Good,1,1-2 Missed,41700,Education Loan,0.26,0,Low
+FIN-1369,22,775000,Salaried,0.9,744000,Good,1,On-Time,192000,Personal Loan,0.96,0,Low
+FIN-1370,33,596000,Unemployed,0.0,89000,Good,0,On-Time,36300,Home Loan,0.15,0,Low
+FIN-1371,24,513000,Salaried,0.1,251000,Good,1,Frequent,89300,Personal Loan,0.49,1,High
+FIN-1372,38,622000,Unemployed,0.0,230000,Good,0,1-2 Missed,138400,Personal Loan,0.37,1,Medium
+FIN-1373,26,567000,Salaried,0.8,323000,Fair,1,On-Time,52700,Auto Loan,0.57,0,Medium
+FIN-1374,28,495000,Salaried,5.1,302000,Fair,2,On-Time,88300,Home Loan,0.61,0,Medium
+FIN-1375,24,875000,Salaried,0.8,875000,Poor,0,1-2 Missed,196800,Education Loan,1.0,1,High
+FIN-1376,37,670000,Salaried,13.7,616000,Poor,2,Frequent,170800,Education Loan,0.92,1,High
+FIN-1377,25,288000,Self-Employed,0.8,492000,Poor,1,On-Time,35300,Auto Loan,1.71,1,High
+FIN-1378,26,825000,Self-Employed,0.4,726000,Fair,1,On-Time,205500,Auto Loan,0.88,1,Medium
+FIN-1379,30,596000,Salaried,1.0,805000,Good,0,On-Time,110600,Education Loan,1.35,0,Low
+FIN-1380,26,806000,Salaried,0.1,1427000,Good,0,On-Time,72400,Business Loan,1.77,0,Medium
+FIN-1381,31,584000,Salaried,0.9,730000,Good,0,On-Time,60800,Personal Loan,1.25,0,Medium
+FIN-1382,36,939000,Salaried,2.8,573000,Poor,1,On-Time,192800,Personal Loan,0.61,1,Medium
+FIN-1383,29,500000,Salaried,0.0,540000,Good,2,On-Time,90800,Auto Loan,1.08,1,Medium
+FIN-1384,30,572000,Salaried,0.1,829000,Fair,1,On-Time,103400,Education Loan,1.45,1,Medium
+FIN-1385,35,240000,Unemployed,0.0,262000,Fair,1,On-Time,45100,Personal Loan,1.09,0,Medium
+FIN-1386,32,480000,Salaried,3.2,451000,Fair,0,On-Time,125600,Education Loan,0.94,0,Low
+FIN-1387,37,589000,Unemployed,0.0,1514000,Fair,2,On-Time,73000,Home Loan,2.57,1,High
+FIN-1388,25,868000,Salaried,0.2,486000,Fair,1,On-Time,231000,Personal Loan,0.56,1,Medium
+FIN-1389,28,863000,Salaried,0.2,1640000,Fair,2,On-Time,254200,Personal Loan,1.9,1,High
+FIN-1390,21,389000,Salaried,1.4,895000,Good,0,On-Time,80300,Education Loan,2.3,0,Medium
+FIN-1391,31,578000,Salaried,2.0,1185000,Good,0,On-Time,147300,Personal Loan,2.05,0,Medium
+FIN-1392,42,600000,Salaried,4.2,126000,Poor,1,On-Time,69700,Education Loan,0.21,1,Medium
+FIN-1393,29,289000,Salaried,4.9,367000,Poor,1,On-Time,45800,Personal Loan,1.27,1,Medium
+FIN-1394,32,298000,Unemployed,0.0,441000,Poor,1,On-Time,49400,Education Loan,1.48,1,High
+FIN-1395,30,463000,Salaried,0.1,162000,Fair,2,1-2 Missed,50400,Education Loan,0.35,1,High
+FIN-1396,34,280000,Salaried,4.6,484000,Good,2,On-Time,40700,Personal Loan,1.73,0,Medium
+FIN-1397,32,891000,Salaried,0.1,642000,Good,0,1-2 Missed,262000,Personal Loan,0.72,0,Medium
+FIN-1398,22,608000,Salaried,2.7,638000,Fair,2,1-2 Missed,169900,Education Loan,1.05,0,Medium
+FIN-1399,26,885000,Salaried,1.1,212000,Fair,1,Frequent,94000,Home Loan,0.24,1,High
+FIN-1400,33,1352000,Salaried,2.7,1609000,Fair,2,On-Time,169600,Personal Loan,1.19,1,Medium
+FIN-1401,28,1030000,Salaried,0.7,2008000,Good,2,On-Time,53900,Personal Loan,1.95,1,Medium
+FIN-1402,25,510000,Salaried,1.7,581000,Good,2,1-2 Missed,73100,Personal Loan,1.14,0,Medium
+FIN-1403,28,457000,Salaried,0.1,251000,Fair,0,On-Time,73100,Education Loan,0.55,1,Medium
+FIN-1404,24,299000,Self-Employed,0.9,170000,Fair,0,On-Time,32700,Auto Loan,0.57,1,Medium
+FIN-1405,27,399000,Salaried,3.1,211000,Fair,0,Frequent,36700,Personal Loan,0.53,1,High
+FIN-1406,29,430000,Salaried,5.9,271000,Good,0,1-2 Missed,47800,Personal Loan,0.63,0,Low
+FIN-1407,36,240000,Salaried,0.5,355000,Fair,1,On-Time,38800,Business Loan,1.48,0,Medium
+FIN-1408,26,509000,Salaried,1.8,1278000,Good,1,On-Time,43800,Personal Loan,2.51,0,Medium
+FIN-1409,25,1710000,Salaried,0.4,2086000,Good,0,On-Time,91400,Personal Loan,1.22,1,Medium
+FIN-1410,27,445000,Self-Employed,2.0,485000,Fair,0,On-Time,123200,Auto Loan,1.09,0,Low
+FIN-1411,36,609000,Self-Employed,3.0,420000,Good,3,1-2 Missed,60800,Home Loan,0.69,0,Medium
+FIN-1412,23,531000,Salaried,0.5,1020000,Good,1,1-2 Missed,74400,Personal Loan,1.92,1,Medium
+FIN-1413,24,621000,Salaried,1.8,2024000,Good,2,On-Time,120500,Personal Loan,3.26,0,Medium
+FIN-1414,29,1154000,Salaried,1.8,1512000,Good,2,On-Time,114900,Personal Loan,1.31,0,Medium
+FIN-1415,36,659000,Self-Employed,4.8,1054000,Fair,0,On-Time,98000,Personal Loan,1.6,0,Medium
+FIN-1416,26,1180000,Self-Employed,2.6,885000,Fair,0,On-Time,258400,Auto Loan,0.75,0,Low
+FIN-1417,32,591000,Salaried,4.9,437000,Good,0,On-Time,43300,Personal Loan,0.74,0,Low
+FIN-1418,38,656000,Salaried,1.9,866000,Good,2,1-2 Missed,90900,Education Loan,1.32,1,Medium
+FIN-1419,33,900000,Salaried,2.1,1467000,Fair,2,Frequent,223800,Education Loan,1.63,1,High
+FIN-1420,25,654000,Self-Employed,1.2,405000,Good,1,On-Time,112100,Education Loan,0.62,0,Low
+FIN-1421,30,492000,Unemployed,0.0,841000,Good,0,On-Time,102900,Education Loan,1.71,0,Medium
+FIN-1422,27,443000,Salaried,0.2,323000,Fair,0,1-2 Missed,59800,Personal Loan,0.73,1,Medium
+FIN-1423,28,869000,Self-Employed,1.2,209000,Good,0,Frequent,85200,Personal Loan,0.24,0,Medium
+FIN-1424,31,986000,Salaried,4.8,148000,Fair,2,1-2 Missed,82100,Personal Loan,0.15,0,Medium
+FIN-1425,37,628000,Salaried,2.3,509000,Poor,1,On-Time,60800,Auto Loan,0.81,0,Medium
+FIN-1426,28,558000,Salaried,0.4,435000,Fair,0,On-Time,154700,Education Loan,0.78,0,Medium
+FIN-1427,30,532000,Salaried,1.8,415000,Fair,1,On-Time,62700,Personal Loan,0.78,0,Low
+FIN-1428,32,468000,Salaried,1.9,379000,Fair,1,On-Time,134800,Auto Loan,0.81,0,Low
+FIN-1429,34,244000,Unemployed,0.0,95000,Good,0,1-2 Missed,23000,Auto Loan,0.39,0,Medium
+FIN-1430,36,1054000,Salaried,3.4,769000,Good,0,1-2 Missed,266200,Personal Loan,0.73,0,Low
+FIN-1431,25,352000,Salaried,1.5,532000,Good,3,On-Time,45800,Personal Loan,1.51,0,Medium
+FIN-1432,33,683000,Self-Employed,1.1,669000,Fair,0,Frequent,110000,Education Loan,0.98,1,High
+FIN-1433,30,366000,Salaried,6.1,289000,Fair,1,On-Time,73800,Personal Loan,0.79,0,Low
+FIN-1434,22,1171000,Salaried,0.5,1862000,Good,0,On-Time,271800,Personal Loan,1.59,0,Medium
+FIN-1435,27,980000,Salaried,2.2,1588000,Good,0,1-2 Missed,79000,Auto Loan,1.62,1,Medium
+FIN-1436,36,240000,Salaried,0.4,857000,Good,3,1-2 Missed,41900,Education Loan,3.57,1,High
+FIN-1437,24,729000,Salaried,0.1,175000,Good,0,1-2 Missed,199600,Education Loan,0.24,0,Medium
+FIN-1438,24,837000,Salaried,2.0,134000,Fair,0,On-Time,153800,Personal Loan,0.16,0,Low
+FIN-1439,25,640000,Salaried,0.7,147000,Fair,1,On-Time,183600,Auto Loan,0.23,0,Medium
+FIN-1440,27,421000,Self-Employed,2.0,181000,Fair,1,On-Time,66300,Home Loan,0.43,0,Low
+FIN-1441,25,1356000,Salaried,0.5,909000,Good,1,On-Time,147900,Personal Loan,0.67,0,Low
+FIN-1442,22,240000,Salaried,0.6,293000,Poor,0,On-Time,69800,Personal Loan,1.22,1,High
+FIN-1443,27,400000,Salaried,1.2,156000,Good,0,1-2 Missed,47600,Education Loan,0.39,0,Low
+FIN-1444,32,802000,Unemployed,0.0,337000,Poor,1,On-Time,208800,Personal Loan,0.42,1,High
+FIN-1445,22,437000,Salaried,2.3,267000,Fair,1,On-Time,32400,Personal Loan,0.61,0,Low
+FIN-1446,24,279000,Salaried,0.4,912000,Poor,1,On-Time,14700,Education Loan,3.27,1,High
+FIN-1447,36,1020000,Salaried,0.0,490000,Good,1,On-Time,105500,Auto Loan,0.48,0,Low
+FIN-1448,29,460000,Salaried,0.1,87000,Fair,1,On-Time,41300,Personal Loan,0.19,1,Medium
+FIN-1449,31,358000,Salaried,1.1,272000,Good,1,1-2 Missed,95300,Personal Loan,0.76,0,Low
+FIN-1450,28,566000,Unemployed,0.0,719000,Good,1,Frequent,46100,Personal Loan,1.27,1,High
+FIN-1451,30,1631000,Salaried,1.5,930000,Poor,2,On-Time,224100,Personal Loan,0.57,0,Medium
+FIN-1452,33,336000,Self-Employed,1.1,477000,Fair,1,On-Time,59900,Personal Loan,1.42,0,Medium
+FIN-1453,29,310000,Salaried,1.0,124000,Fair,2,On-Time,40500,Auto Loan,0.4,0,Medium
+FIN-1454,34,536000,Salaried,2.8,236000,Good,1,On-Time,138100,Personal Loan,0.44,0,Low
+FIN-1455,36,355000,Self-Employed,2.1,795000,Fair,1,On-Time,63600,Personal Loan,2.24,0,Medium
+FIN-1456,34,1265000,Unemployed,0.0,658000,Fair,0,Frequent,171400,Personal Loan,0.52,1,High
+FIN-1457,38,497000,Salaried,0.9,492000,Fair,1,On-Time,27500,Auto Loan,0.99,0,Medium
+FIN-1458,39,327000,Salaried,2.4,373000,Good,1,Frequent,59900,Personal Loan,1.14,0,Medium
+FIN-1459,26,476000,Salaried,0.3,1109000,Good,1,On-Time,84200,Personal Loan,2.33,1,Medium
+FIN-1460,30,1000000,Salaried,0.8,490000,Good,3,Frequent,193600,Business Loan,0.49,0,High
+FIN-1461,28,308000,Salaried,6.4,83000,Good,0,On-Time,34300,Home Loan,0.27,0,Low
+FIN-1462,28,692000,Salaried,0.2,657000,Good,1,On-Time,85500,Personal Loan,0.95,0,Low
+FIN-1463,28,546000,Self-Employed,0.1,732000,Good,1,Frequent,64500,Personal Loan,1.34,1,High
+FIN-1464,26,402000,Salaried,1.3,237000,Good,2,On-Time,52900,Auto Loan,0.59,0,Low
+FIN-1465,34,930000,Salaried,1.0,1460000,Poor,1,On-Time,143900,Auto Loan,1.57,0,Medium
+FIN-1466,36,494000,Salaried,4.1,375000,Poor,2,On-Time,71300,Personal Loan,0.76,0,Medium
+FIN-1467,26,704000,Salaried,3.1,134000,Good,0,On-Time,193300,Personal Loan,0.19,0,Low
+FIN-1468,41,901000,Self-Employed,0.6,2207000,Fair,0,On-Time,149800,Auto Loan,2.45,1,High
+FIN-1469,24,558000,Salaried,3.4,324000,Good,1,On-Time,107300,Personal Loan,0.58,0,Low
+FIN-1470,27,363000,Salaried,0.2,759000,Fair,0,On-Time,65600,Education Loan,2.09,1,High
+FIN-1471,39,390000,Salaried,0.6,218000,Fair,1,On-Time,112200,Personal Loan,0.56,1,Medium
+FIN-1472,27,430000,Salaried,1.2,400000,Fair,0,1-2 Missed,34000,Auto Loan,0.93,1,Medium
+FIN-1473,24,240000,Salaried,0.4,106000,Fair,1,On-Time,45800,Education Loan,0.44,0,Medium
+FIN-1474,30,934000,Salaried,0.8,700000,Good,1,1-2 Missed,228500,Education Loan,0.75,0,Medium
+FIN-1475,31,645000,Salaried,0.4,97000,Good,0,On-Time,37500,Education Loan,0.15,0,Low
+FIN-1476,33,916000,Salaried,13.0,614000,Good,2,On-Time,188400,Personal Loan,0.67,0,Low
+FIN-1477,36,971000,Salaried,6.9,194000,Good,2,Frequent,188100,Personal Loan,0.2,1,High
+FIN-1478,30,1073000,Salaried,0.9,1277000,Fair,0,On-Time,74500,Education Loan,1.19,0,Medium
+FIN-1479,36,821000,Salaried,0.6,566000,Poor,2,On-Time,158800,Home Loan,0.69,1,High
+FIN-1480,36,381000,Salaried,9.1,301000,Fair,2,On-Time,69600,Personal Loan,0.79,0,Medium
+FIN-1481,29,527000,Self-Employed,0.2,1070000,Good,1,On-Time,76800,Personal Loan,2.03,1,Medium
+FIN-1482,36,867000,Salaried,1.9,1361000,Good,1,1-2 Missed,225400,Auto Loan,1.57,0,Medium
+FIN-1483,24,635000,Salaried,0.8,1403000,Fair,2,On-Time,51100,Auto Loan,2.21,0,High
+FIN-1484,25,838000,Self-Employed,2.0,126000,Poor,1,On-Time,59300,Personal Loan,0.15,0,Medium
+FIN-1485,28,551000,Unemployed,0.0,2480000,Poor,1,On-Time,82100,Personal Loan,4.5,1,High
+FIN-1486,33,592000,Salaried,2.3,403000,Good,0,On-Time,85500,Auto Loan,0.68,0,Low
+FIN-1487,32,1100000,Unemployed,0.0,1078000,Fair,2,1-2 Missed,279400,Personal Loan,0.98,1,High
+FIN-1488,28,265000,Salaried,0.3,193000,Fair,1,On-Time,60800,Personal Loan,0.73,0,Medium
+FIN-1489,35,325000,Self-Employed,0.1,205000,Good,2,1-2 Missed,31900,Auto Loan,0.63,0,Medium
+FIN-1490,30,428000,Salaried,5.6,107000,Good,0,On-Time,128100,Personal Loan,0.25,0,Low
+FIN-1491,32,1213000,Salaried,2.0,412000,Poor,0,1-2 Missed,115400,Personal Loan,0.34,1,High
+FIN-1492,31,468000,Salaried,0.8,262000,Fair,2,On-Time,117100,Education Loan,0.56,0,Medium
+FIN-1493,32,240000,Salaried,2.4,206000,Fair,1,Frequent,53700,Auto Loan,0.86,1,High
+FIN-1494,32,421000,Unemployed,0.0,261000,Good,1,On-Time,103400,Education Loan,0.62,0,Low
+FIN-1495,29,867000,Unemployed,0.0,815000,Fair,0,On-Time,222200,Education Loan,0.94,0,Medium
+FIN-1496,27,268000,Salaried,0.8,450000,Good,1,On-Time,57800,Auto Loan,1.68,0,Medium
+FIN-1497,25,768000,Salaried,0.2,353000,Fair,0,On-Time,193800,Auto Loan,0.46,1,Medium
+FIN-1498,27,302000,Self-Employed,2.0,368000,Poor,0,On-Time,65000,Auto Loan,1.22,0,Medium
+FIN-1499,28,246000,Salaried,2.1,111000,Good,0,On-Time,17600,Personal Loan,0.45,0,Low
+FIN-1500,31,417000,Self-Employed,4.8,830000,Poor,1,On-Time,34400,Education Loan,1.99,0,Medium
+FIN-1501,30,414000,Salaried,1.3,1056000,Poor,2,1-2 Missed,22100,Education Loan,2.55,1,High
+FIN-1502,38,472000,Salaried,4.6,118000,Fair,0,On-Time,99900,Personal Loan,0.25,0,Low
+FIN-1503,21,240000,Salaried,0.7,408000,Poor,2,1-2 Missed,40700,Personal Loan,1.7,1,High
+FIN-1504,28,453000,Salaried,0.6,757000,Good,1,On-Time,91300,Auto Loan,1.67,0,Medium
+FIN-1505,34,539000,Salaried,9.5,1191000,Good,1,On-Time,28100,Education Loan,2.21,0,Medium
+FIN-1506,30,756000,Salaried,0.3,113000,Fair,1,On-Time,145800,Auto Loan,0.15,0,Medium
+FIN-1507,25,603000,Salaried,0.8,904000,Fair,2,On-Time,76200,Personal Loan,1.5,1,High
+FIN-1508,34,912000,Self-Employed,1.5,1532000,Fair,0,Frequent,263600,Personal Loan,1.68,1,High
+FIN-1509,32,1252000,Self-Employed,1.9,2704000,Good,2,On-Time,317900,Business Loan,2.16,0,Medium
+FIN-1510,22,687000,Unemployed,0.0,158000,Good,1,1-2 Missed,77400,Education Loan,0.23,1,Medium
+FIN-1511,39,318000,Salaried,5.5,175000,Fair,0,On-Time,93300,Education Loan,0.55,0,Low
+FIN-1512,30,304000,Salaried,1.9,362000,Good,0,1-2 Missed,33700,Education Loan,1.19,0,Low
+FIN-1513,27,654000,Salaried,1.0,916000,Good,1,On-Time,120900,Auto Loan,1.4,0,Low
+FIN-1514,26,832000,Self-Employed,1.6,125000,Poor,0,On-Time,112600,Personal Loan,0.15,0,Medium
+FIN-1515,23,409000,Salaried,2.1,168000,Good,0,On-Time,52200,Education Loan,0.41,0,Low
+FIN-1516,26,273000,Salaried,1.0,186000,Poor,2,On-Time,65600,Education Loan,0.68,0,Medium
+FIN-1517,21,246000,Salaried,0.6,458000,Poor,1,On-Time,64700,Personal Loan,1.86,1,High
+FIN-1518,27,439000,Self-Employed,4.9,66000,Poor,0,On-Time,126100,Auto Loan,0.15,1,Medium
+FIN-1519,30,721000,Self-Employed,2.1,858000,Fair,2,On-Time,112700,Personal Loan,1.19,0,Medium
+FIN-1520,32,444000,Salaried,0.1,289000,Good,1,On-Time,115800,Home Loan,0.65,0,Low
+FIN-1521,40,731000,Salaried,1.2,548000,Good,3,Frequent,211000,Education Loan,0.75,1,High
+FIN-1522,33,424000,Salaried,3.3,517000,Fair,1,1-2 Missed,97200,Business Loan,1.22,1,Medium
+FIN-1523,39,1622000,Self-Employed,2.5,1736000,Fair,1,On-Time,199100,Education Loan,1.07,0,Low
+FIN-1524,30,780000,Salaried,1.1,1810000,Fair,1,On-Time,108700,Personal Loan,2.32,0,Medium
+FIN-1525,36,429000,Salaried,0.3,112000,Good,2,On-Time,78800,Personal Loan,0.26,1,Medium
+FIN-1526,25,1501000,Salaried,0.2,961000,Good,2,On-Time,199800,Personal Loan,0.64,0,Medium
+FIN-1527,26,909000,Salaried,2.4,318000,Good,1,On-Time,111900,Education Loan,0.35,1,Low
+FIN-1528,24,711000,Self-Employed,5.1,562000,Good,1,On-Time,59600,Personal Loan,0.79,0,Low
+FIN-1529,30,240000,Salaried,3.5,82000,Fair,1,On-Time,47200,Business Loan,0.34,0,Low
+FIN-1530,26,240000,Salaried,0.3,269000,Good,1,1-2 Missed,16700,Education Loan,1.12,0,Medium
+FIN-1531,28,577000,Salaried,4.8,340000,Good,3,Frequent,32900,Education Loan,0.59,1,High
+FIN-1532,33,394000,Salaried,5.0,615000,Good,1,On-Time,32000,Education Loan,1.56,0,Low
+FIN-1533,33,1003000,Salaried,1.0,2207000,Good,1,On-Time,255000,Personal Loan,2.2,0,Medium
+FIN-1534,31,589000,Self-Employed,13.0,306000,Fair,0,On-Time,119900,Personal Loan,0.52,0,Low
+FIN-1535,27,509000,Salaried,1.4,76000,Fair,0,1-2 Missed,90100,Auto Loan,0.15,0,Medium
+FIN-1536,28,481000,Salaried,1.5,423000,Fair,2,1-2 Missed,37700,Business Loan,0.88,0,Medium
+FIN-1537,28,677000,Self-Employed,1.5,135000,Good,0,On-Time,153300,Personal Loan,0.2,0,Low
+FIN-1538,28,675000,Salaried,4.7,891000,Good,0,On-Time,48600,Education Loan,1.32,0,Low
+FIN-1539,33,929000,Salaried,3.2,1328000,Poor,0,On-Time,198200,Education Loan,1.43,0,Medium
+FIN-1540,31,517000,Salaried,3.8,279000,Good,0,On-Time,75800,Personal Loan,0.54,0,Low
+FIN-1541,32,1007000,Self-Employed,8.6,1601000,Good,2,On-Time,185800,Education Loan,1.59,1,Medium
+FIN-1542,28,889000,Salaried,1.2,462000,Good,1,On-Time,58900,Auto Loan,0.52,0,Low
+FIN-1543,42,1089000,Salaried,24.0,4639000,Good,0,On-Time,73900,Education Loan,4.26,0,Medium
+FIN-1544,31,833000,Salaried,1.1,441000,Poor,1,On-Time,153700,Education Loan,0.53,1,Medium
+FIN-1545,29,363000,Salaried,0.9,381000,Good,1,On-Time,87900,Personal Loan,1.05,0,Low
+FIN-1546,39,1366000,Salaried,1.4,287000,Fair,2,On-Time,300500,Personal Loan,0.21,0,Medium
+FIN-1547,25,286000,Salaried,0.5,220000,Fair,0,1-2 Missed,16100,Education Loan,0.77,1,Medium
+FIN-1548,28,1057000,Self-Employed,2.6,877000,Fair,0,On-Time,197400,Education Loan,0.83,0,Low
+FIN-1549,24,681000,Salaried,0.6,742000,Fair,0,On-Time,67800,Personal Loan,1.09,0,Medium
+FIN-1550,28,285000,Self-Employed,0.3,251000,Fair,1,On-Time,48100,Education Loan,0.88,0,Medium
+FIN-1551,32,1161000,Salaried,1.0,1335000,Fair,1,On-Time,306500,Education Loan,1.15,0,Low
+FIN-1552,30,552000,Self-Employed,4.2,602000,Good,1,On-Time,87300,Education Loan,1.09,0,Low
+FIN-1553,28,527000,Salaried,1.1,1386000,Good,1,On-Time,54600,Auto Loan,2.63,1,Medium
+FIN-1554,36,692000,Salaried,15.4,166000,Fair,2,1-2 Missed,177700,Personal Loan,0.24,0,Medium
+FIN-1555,27,265000,Salaried,0.2,66000,Poor,1,On-Time,44500,Education Loan,0.25,0,High
+FIN-1556,32,537000,Unemployed,0.0,247000,Fair,0,On-Time,144300,Personal Loan,0.46,0,Medium
+FIN-1557,29,417000,Self-Employed,10.8,692000,Good,2,On-Time,36000,Personal Loan,1.66,1,Medium
+FIN-1558,28,475000,Salaried,2.1,798000,Fair,1,On-Time,107200,Personal Loan,1.68,0,Medium
+FIN-1559,27,240000,Salaried,0.9,329000,Good,1,On-Time,35000,Personal Loan,1.37,0,Medium
+FIN-1560,27,986000,Salaried,1.3,1302000,Good,0,On-Time,200800,Personal Loan,1.32,0,Low
+FIN-1561,29,431000,Salaried,0.1,556000,Good,1,Frequent,90500,Personal Loan,1.29,1,High
+FIN-1562,30,389000,Salaried,0.3,778000,Fair,0,1-2 Missed,45100,Auto Loan,2.0,0,High
+FIN-1563,39,996000,Self-Employed,1.4,518000,Good,0,On-Time,176100,Education Loan,0.52,0,Low
+FIN-1564,25,661000,Salaried,1.1,126000,Fair,1,Frequent,151800,Education Loan,0.19,1,High
+FIN-1565,33,334000,Salaried,6.0,504000,Poor,1,On-Time,68700,Personal Loan,1.51,0,Medium
+FIN-1566,30,547000,Salaried,12.0,853000,Fair,2,On-Time,108900,Education Loan,1.56,0,Medium
+FIN-1567,24,623000,Salaried,0.2,218000,Fair,2,On-Time,156900,Education Loan,0.35,1,Medium
+FIN-1568,23,584000,Salaried,0.4,496000,Fair,0,On-Time,97400,Education Loan,0.85,0,Medium
+FIN-1569,33,716000,Salaried,6.2,1131000,Good,2,On-Time,74100,Education Loan,1.58,1,Medium
+FIN-1570,39,1093000,Salaried,21.0,1257000,Good,3,On-Time,179300,Education Loan,1.15,0,Low
+FIN-1571,37,774000,Salaried,5.9,2051000,Good,1,On-Time,135100,Auto Loan,2.65,0,Medium
+FIN-1572,28,595000,Salaried,1.9,1339000,Good,0,On-Time,77500,Auto Loan,2.25,0,Medium
+FIN-1573,34,840000,Salaried,4.9,664000,Poor,2,1-2 Missed,87000,Education Loan,0.79,1,High
+FIN-1574,34,465000,Salaried,1.4,391000,Fair,3,On-Time,44500,Personal Loan,0.84,1,Medium
+FIN-1575,37,372000,Salaried,0.9,703000,Good,2,On-Time,81700,Personal Loan,1.89,1,Medium
+FIN-1576,22,651000,Salaried,1.2,98000,Good,0,Frequent,97400,Personal Loan,0.15,1,Medium
+FIN-1577,27,791000,Self-Employed,2.0,483000,Fair,0,On-Time,105000,Personal Loan,0.61,0,Low
+FIN-1578,24,369000,Salaried,0.1,92000,Good,0,On-Time,25100,Education Loan,0.25,0,Low
+FIN-1579,28,459000,Salaried,8.4,271000,Good,0,On-Time,34900,Education Loan,0.59,0,Low
+FIN-1580,29,828000,Unemployed,0.0,2368000,Fair,0,On-Time,193400,Business Loan,2.86,1,High
+FIN-1581,42,435000,Salaried,3.5,196000,Good,1,Frequent,72400,Education Loan,0.45,1,Medium
+FIN-1582,35,360000,Salaried,8.7,137000,Fair,0,1-2 Missed,92500,Personal Loan,0.38,1,Medium
+FIN-1583,28,363000,Salaried,0.4,167000,Fair,0,On-Time,88000,Personal Loan,0.46,0,Medium
+FIN-1584,27,240000,Self-Employed,3.9,252000,Good,2,On-Time,38200,Education Loan,1.05,0,Low
+FIN-1585,40,602000,Salaried,2.6,752000,Poor,1,On-Time,155800,Auto Loan,1.25,0,Medium
+FIN-1586,36,529000,Salaried,1.6,730000,Fair,1,1-2 Missed,29300,Education Loan,1.38,1,Medium
+FIN-1587,32,548000,Salaried,0.2,395000,Poor,0,On-Time,85500,Education Loan,0.72,1,High
+FIN-1588,43,292000,Salaried,6.6,58000,Fair,1,On-Time,77100,Education Loan,0.2,0,Low
+FIN-1589,32,372000,Salaried,0.9,368000,Fair,0,On-Time,43600,Business Loan,0.99,0,Medium
+FIN-1590,22,257000,Salaried,0.6,134000,Good,2,On-Time,65900,Personal Loan,0.52,0,Medium
+FIN-1591,28,859000,Self-Employed,2.5,644000,Fair,0,On-Time,185000,Personal Loan,0.75,0,Low
+FIN-1592,29,1343000,Self-Employed,1.5,631000,Fair,0,On-Time,279200,Personal Loan,0.47,0,Low
+FIN-1593,32,355000,Salaried,1.2,284000,Fair,2,On-Time,69400,Education Loan,0.8,0,Medium
+FIN-1594,42,662000,Salaried,7.2,583000,Good,2,On-Time,126000,Personal Loan,0.88,0,Low
+FIN-1595,24,438000,Salaried,3.7,215000,Good,2,On-Time,73100,Personal Loan,0.49,0,Low
+FIN-1596,27,240000,Self-Employed,4.5,89000,Good,0,On-Time,56800,Auto Loan,0.37,0,Low
+FIN-1597,26,797000,Salaried,1.7,1363000,Poor,0,1-2 Missed,213600,Education Loan,1.71,1,High
+FIN-1598,26,362000,Salaried,0.8,510000,Good,0,On-Time,79600,Personal Loan,1.41,0,Medium
+FIN-1599,25,434000,Salaried,0.2,122000,Good,0,1-2 Missed,115100,Education Loan,0.28,0,Medium
+FIN-1600,28,433000,Salaried,0.1,498000,Good,0,Frequent,119900,Education Loan,1.15,0,High
+FIN-1601,30,359000,Salaried,0.9,54000,Good,0,On-Time,44300,Personal Loan,0.15,0,Low
+FIN-1602,26,712000,Salaried,0.4,890000,Good,1,On-Time,205200,Personal Loan,1.25,0,Medium
+FIN-1603,41,411000,Self-Employed,14.9,637000,Good,0,On-Time,42400,Auto Loan,1.55,0,Low
+FIN-1604,30,274000,Salaried,1.1,636000,Fair,0,On-Time,57000,Education Loan,2.32,0,Medium
+FIN-1605,36,1335000,Self-Employed,5.9,1268000,Good,1,Frequent,357100,Home Loan,0.95,0,Medium
+FIN-1606,37,694000,Self-Employed,1.4,250000,Fair,0,On-Time,51800,Personal Loan,0.36,0,Low
+FIN-1607,27,685000,Self-Employed,0.1,1534000,Good,2,1-2 Missed,183100,Home Loan,2.24,1,High
+FIN-1608,31,548000,Salaried,0.1,1058000,Good,0,On-Time,158500,Personal Loan,1.93,0,Medium
+FIN-1609,40,462000,Salaried,5.1,578000,Good,1,1-2 Missed,122800,Auto Loan,1.25,0,Medium
+FIN-1610,29,731000,Salaried,1.3,592000,Good,0,On-Time,79300,Personal Loan,0.81,0,Low
+FIN-1611,30,398000,Salaried,5.9,100000,Poor,2,On-Time,45400,Personal Loan,0.25,1,Medium
+FIN-1612,32,409000,Self-Employed,0.9,61000,Fair,2,On-Time,58700,Personal Loan,0.15,1,Medium
+FIN-1613,39,994000,Salaried,2.9,626000,Good,0,On-Time,245600,Personal Loan,0.63,0,Low
+FIN-1614,44,269000,Salaried,9.7,134000,Fair,1,On-Time,30700,Personal Loan,0.5,0,Low
+FIN-1615,39,632000,Salaried,0.0,594000,Poor,3,On-Time,56200,Personal Loan,0.94,1,High
+FIN-1616,28,450000,Salaried,0.7,86000,Fair,1,On-Time,73700,Education Loan,0.19,0,Medium
+FIN-1617,39,240000,Salaried,3.5,216000,Fair,1,On-Time,58700,Education Loan,0.9,0,Low
+FIN-1618,43,346000,Self-Employed,1.4,246000,Good,0,On-Time,49900,Personal Loan,0.71,0,Low
+FIN-1619,35,748000,Self-Employed,2.0,920000,Fair,2,On-Time,77400,Education Loan,1.23,0,Medium
+FIN-1620,25,273000,Salaried,2.2,106000,Poor,2,1-2 Missed,51500,Education Loan,0.39,1,High
+FIN-1621,36,631000,Salaried,10.2,1123000,Fair,0,On-Time,166900,Personal Loan,1.78,1,Medium
+FIN-1622,27,1102000,Salaried,0.4,2854000,Poor,0,On-Time,232000,Education Loan,2.59,1,High
+FIN-1623,34,479000,Salaried,3.3,508000,Fair,2,Frequent,107900,Personal Loan,1.06,1,High
+FIN-1624,35,758000,Salaried,1.3,371000,Fair,0,On-Time,78500,Business Loan,0.49,0,Low
+FIN-1625,29,588000,Salaried,3.8,276000,Poor,0,On-Time,80600,Auto Loan,0.47,0,Medium
+FIN-1626,34,299000,Salaried,2.4,305000,Fair,0,On-Time,43700,Education Loan,1.02,0,Low
+FIN-1627,28,360000,Salaried,3.1,223000,Fair,1,On-Time,86100,Personal Loan,0.62,0,Low
+FIN-1628,36,1970000,Salaried,4.5,591000,Good,2,On-Time,315200,Auto Loan,0.3,0,Low
+FIN-1629,28,449000,Salaried,0.8,1010000,Fair,3,On-Time,109500,Personal Loan,2.25,1,High
+FIN-1630,28,1099000,Salaried,1.2,2374000,Good,0,On-Time,204100,Education Loan,2.16,1,Medium
+FIN-1631,21,522000,Salaried,0.9,230000,Good,1,On-Time,105900,Personal Loan,0.44,0,Low
+FIN-1632,31,543000,Unemployed,0.0,87000,Good,1,On-Time,56000,Education Loan,0.16,0,Low
+FIN-1633,37,878000,Salaried,1.2,500000,Good,1,Frequent,261800,Auto Loan,0.57,0,Medium
+FIN-1634,22,1281000,Self-Employed,0.2,1063000,Good,1,On-Time,322500,Personal Loan,0.83,0,Low
+FIN-1635,41,563000,Salaried,7.5,343000,Fair,1,On-Time,138400,Personal Loan,0.61,1,Low
+FIN-1636,36,386000,Self-Employed,5.8,884000,Poor,2,On-Time,83900,Education Loan,2.29,1,High
+FIN-1637,26,367000,Self-Employed,2.5,150000,Fair,0,1-2 Missed,23000,Personal Loan,0.41,0,Medium
+FIN-1638,35,403000,Salaried,6.7,294000,Good,2,On-Time,48000,Personal Loan,0.73,0,Low
+FIN-1639,42,969000,Salaried,0.1,2074000,Fair,2,On-Time,94000,Auto Loan,2.14,1,High
+FIN-1640,32,807000,Salaried,3.6,508000,Good,1,On-Time,221600,Education Loan,0.63,0,Low
+FIN-1641,24,1211000,Salaried,0.3,2192000,Good,0,On-Time,234000,Personal Loan,1.81,0,Medium
+FIN-1642,28,441000,Salaried,2.4,115000,Poor,3,On-Time,113900,Education Loan,0.26,0,High
+FIN-1643,25,411000,Salaried,0.5,193000,Good,0,On-Time,82900,Business Loan,0.47,0,Low
+FIN-1644,29,1004000,Salaried,7.2,532000,Good,3,Frequent,211300,Home Loan,0.53,1,High
+FIN-1645,28,313000,Salaried,2.7,200000,Poor,0,On-Time,66100,Education Loan,0.64,0,Medium
+FIN-1646,35,1365000,Salaried,15.6,3713000,Fair,1,On-Time,334300,Personal Loan,2.72,0,Medium
+FIN-1647,40,666000,Salaried,2.8,1432000,Fair,1,On-Time,49100,Home Loan,2.15,0,Medium
+FIN-1648,27,596000,Salaried,2.8,381000,Fair,0,On-Time,119300,Personal Loan,0.64,0,Low
+FIN-1649,31,728000,Self-Employed,0.2,197000,Fair,0,On-Time,99700,Personal Loan,0.27,0,Medium
+FIN-1650,30,577000,Unemployed,0.0,560000,Good,0,Frequent,140800,Home Loan,0.97,1,High
+FIN-1651,39,269000,Salaried,3.2,140000,Fair,0,On-Time,44500,Auto Loan,0.52,0,Low
+FIN-1652,34,454000,Salaried,5.0,577000,Good,0,On-Time,42200,Business Loan,1.27,0,Low
+FIN-1653,38,674000,Salaried,0.4,398000,Poor,2,On-Time,108700,Education Loan,0.59,1,High
+FIN-1654,23,509000,Self-Employed,0.4,132000,Good,1,1-2 Missed,116500,Education Loan,0.26,1,Medium
+FIN-1655,27,878000,Salaried,0.5,1378000,Fair,1,On-Time,152000,Personal Loan,1.57,0,Medium
+FIN-1656,40,2200000,Self-Employed,5.3,2420000,Good,0,1-2 Missed,555800,Education Loan,1.1,0,Low
+FIN-1657,29,421000,Self-Employed,0.3,434000,Good,0,On-Time,49400,Personal Loan,1.03,0,Low
+FIN-1658,21,498000,Salaried,0.2,1086000,Fair,0,On-Time,33200,Personal Loan,2.18,1,High
+FIN-1659,27,302000,Salaried,0.2,528000,Good,2,1-2 Missed,59200,Personal Loan,1.75,1,High
+FIN-1660,27,599000,Salaried,5.9,629000,Good,1,On-Time,158800,Education Loan,1.05,0,Low
+FIN-1661,29,1000000,Salaried,1.5,1350000,Poor,0,1-2 Missed,81100,Education Loan,1.35,1,High
+FIN-1662,29,826000,Self-Employed,3.4,785000,Fair,2,On-Time,72100,Education Loan,0.95,0,Medium
+FIN-1663,35,383000,Salaried,1.8,341000,Poor,2,On-Time,69500,Education Loan,0.89,0,Medium
+FIN-1664,33,539000,Salaried,5.2,474000,Good,0,Frequent,72100,Personal Loan,0.88,1,Medium
+FIN-1665,38,329000,Self-Employed,1.5,135000,Fair,2,1-2 Missed,23700,Personal Loan,0.41,0,Medium
+FIN-1666,23,240000,Salaried,0.4,204000,Good,1,On-Time,52400,Education Loan,0.85,0,Low
+FIN-1667,34,452000,Salaried,5.9,425000,Good,0,On-Time,110200,Personal Loan,0.94,0,Low
+FIN-1668,26,968000,Salaried,2.3,1481000,Fair,3,1-2 Missed,104600,Personal Loan,1.53,1,High
+FIN-1669,25,422000,Salaried,2.9,156000,Poor,2,1-2 Missed,119200,Education Loan,0.37,1,High
+FIN-1670,29,790000,Salaried,0.1,672000,Fair,0,1-2 Missed,162200,Personal Loan,0.85,0,Medium
+FIN-1671,25,949000,Salaried,0.7,209000,Poor,1,On-Time,197200,Education Loan,0.22,0,High
+FIN-1672,38,607000,Salaried,10.9,571000,Fair,1,On-Time,113300,Personal Loan,0.94,0,Low
+FIN-1673,32,319000,Unemployed,0.0,443000,Good,0,1-2 Missed,21000,Auto Loan,1.39,0,Medium
+FIN-1674,26,681000,Salaried,0.3,511000,Good,0,1-2 Missed,127700,Personal Loan,0.75,0,Medium
+FIN-1675,29,737000,Unemployed,0.0,671000,Fair,1,On-Time,106000,Personal Loan,0.91,1,Medium
+FIN-1676,31,275000,Salaried,9.9,267000,Good,1,Frequent,23000,Auto Loan,0.97,1,Medium
+FIN-1677,35,516000,Salaried,2.1,537000,Fair,0,On-Time,134000,Personal Loan,1.04,0,Low
+FIN-1678,29,380000,Salaried,3.6,365000,Poor,3,On-Time,112300,Personal Loan,0.96,1,High
+FIN-1679,36,686000,Salaried,5.2,432000,Fair,2,On-Time,121600,Personal Loan,0.63,0,Medium
+FIN-1680,35,980000,Salaried,0.1,2205000,Poor,3,On-Time,101300,Business Loan,2.25,1,High
+FIN-1681,35,810000,Salaried,4.3,583000,Fair,0,1-2 Missed,189900,Home Loan,0.72,0,Medium
+FIN-1682,42,364000,Salaried,0.2,244000,Good,0,On-Time,22900,Home Loan,0.67,0,Low
+FIN-1683,31,759000,Self-Employed,0.9,220000,Fair,1,On-Time,134300,Education Loan,0.29,0,Medium
+FIN-1684,42,325000,Salaried,1.1,686000,Good,2,1-2 Missed,32600,Auto Loan,2.11,1,High
+FIN-1685,29,413000,Self-Employed,8.4,843000,Good,0,On-Time,82900,Education Loan,2.04,0,Medium
+FIN-1686,35,670000,Salaried,7.7,730000,Good,3,Frequent,129700,Education Loan,1.09,1,High
+FIN-1687,29,564000,Salaried,0.5,141000,Good,1,On-Time,86000,Personal Loan,0.25,0,Low
+FIN-1688,28,458000,Self-Employed,0.5,142000,Good,0,On-Time,130200,Personal Loan,0.31,0,Low
+FIN-1689,32,448000,Salaried,1.2,340000,Fair,1,On-Time,23200,Business Loan,0.76,0,Low
+FIN-1690,33,359000,Salaried,0.5,438000,Good,1,1-2 Missed,66200,Home Loan,1.22,0,Medium
+FIN-1691,26,397000,Salaried,1.6,286000,Fair,3,On-Time,70200,Personal Loan,0.72,1,Medium
+FIN-1692,25,240000,Salaried,0.3,283000,Poor,2,On-Time,64400,Business Loan,1.18,1,High
+FIN-1693,35,730000,Salaried,5.1,197000,Fair,0,On-Time,135500,Education Loan,0.27,0,Low
+FIN-1694,34,249000,Salaried,7.5,80000,Fair,1,On-Time,32200,Personal Loan,0.32,0,Low
+FIN-1695,30,243000,Self-Employed,3.3,177000,Fair,0,On-Time,21500,Personal Loan,0.73,0,Low
+FIN-1696,26,610000,Salaried,0.1,1049000,Good,2,1-2 Missed,113500,Personal Loan,1.72,1,High
+FIN-1697,28,498000,Self-Employed,0.7,105000,Good,1,On-Time,48600,Personal Loan,0.21,0,Low
+FIN-1698,28,878000,Salaried,6.2,351000,Fair,2,1-2 Missed,108900,Personal Loan,0.4,0,Medium
+FIN-1699,27,561000,Salaried,2.6,842000,Poor,1,Frequent,44000,Personal Loan,1.5,1,High
+FIN-1700,37,544000,Self-Employed,0.2,239000,Fair,2,1-2 Missed,134000,Personal Loan,0.44,1,High
+FIN-1701,42,544000,Salaried,16.6,479000,Good,3,1-2 Missed,122000,Education Loan,0.88,0,Medium
+FIN-1702,25,462000,Unemployed,0.0,388000,Fair,0,On-Time,94200,Business Loan,0.84,1,Medium
+FIN-1703,36,409000,Salaried,9.2,98000,Good,0,1-2 Missed,29300,Home Loan,0.24,0,Low
+FIN-1704,31,539000,Salaried,4.5,906000,Poor,0,On-Time,93400,Personal Loan,1.68,1,Medium
+FIN-1705,30,487000,Salaried,0.4,73000,Fair,1,1-2 Missed,41100,Personal Loan,0.15,0,Medium
+FIN-1706,30,307000,Self-Employed,0.5,107000,Fair,0,On-Time,32800,Education Loan,0.35,0,Medium
+FIN-1707,36,753000,Self-Employed,2.6,670000,Fair,1,1-2 Missed,192400,Personal Loan,0.89,0,Medium
+FIN-1708,33,448000,Unemployed,0.0,90000,Poor,2,1-2 Missed,88700,Personal Loan,0.2,1,High
+FIN-1709,27,731000,Salaried,0.0,190000,Fair,0,On-Time,121600,Personal Loan,0.26,1,Medium
+FIN-1710,40,433000,Unemployed,0.0,329000,Good,2,On-Time,60300,Auto Loan,0.76,0,Medium
+FIN-1711,29,438000,Salaried,3.8,1336000,Good,2,On-Time,66900,Education Loan,3.05,1,Medium
+FIN-1712,33,240000,Salaried,1.4,331000,Good,2,Frequent,14000,Auto Loan,1.38,1,High
+FIN-1713,27,240000,Salaried,1.7,310000,Good,0,On-Time,64600,Education Loan,1.29,0,Low
+FIN-1714,38,300000,Salaried,4.8,669000,Good,0,On-Time,18700,Personal Loan,2.23,0,Medium
+FIN-1715,38,430000,Salaried,13.9,219000,Poor,3,On-Time,36100,Business Loan,0.51,1,High
+FIN-1716,40,1315000,Self-Employed,6.4,197000,Good,3,1-2 Missed,69000,Auto Loan,0.15,0,Medium
+FIN-1717,33,577000,Self-Employed,4.1,519000,Poor,0,1-2 Missed,63300,Auto Loan,0.9,1,High
+FIN-1718,28,470000,Self-Employed,4.2,244000,Good,1,On-Time,67700,Education Loan,0.52,0,Low
+FIN-1719,22,258000,Salaried,0.6,170000,Good,1,On-Time,76800,Auto Loan,0.66,0,Low
+FIN-1720,39,314000,Salaried,2.4,192000,Good,0,1-2 Missed,86400,Education Loan,0.61,0,Low
+FIN-1721,36,672000,Salaried,9.1,309000,Good,0,Frequent,66200,Personal Loan,0.46,0,Medium
+FIN-1722,33,799000,Salaried,2.4,855000,Fair,0,On-Time,52000,Personal Loan,1.07,0,Low
+FIN-1723,25,288000,Self-Employed,2.6,193000,Fair,1,Frequent,86000,Personal Loan,0.67,0,High
+FIN-1724,30,514000,Unemployed,0.0,571000,Fair,0,On-Time,125800,Personal Loan,1.11,1,Medium
+FIN-1725,29,777000,Salaried,4.2,264000,Good,1,On-Time,58500,Personal Loan,0.34,0,Low
+FIN-1726,38,505000,Salaried,20.0,394000,Good,0,On-Time,67100,Education Loan,0.78,1,Low
+FIN-1727,35,388000,Salaried,1.4,93000,Good,2,On-Time,32500,Education Loan,0.24,0,Low
+FIN-1728,38,292000,Unemployed,0.0,201000,Fair,1,On-Time,84100,Education Loan,0.69,0,Medium
+FIN-1729,41,342000,Self-Employed,2.5,267000,Good,0,Frequent,89700,Personal Loan,0.78,1,Medium
+FIN-1730,37,350000,Self-Employed,0.0,70000,Fair,0,On-Time,93800,Education Loan,0.2,0,Medium
+FIN-1731,27,604000,Salaried,1.6,664000,Fair,2,1-2 Missed,56300,Auto Loan,1.1,1,Medium
+FIN-1732,40,390000,Salaried,5.4,402000,Fair,1,On-Time,36800,Auto Loan,1.03,0,Low
+FIN-1733,32,690000,Salaried,1.0,310000,Good,2,1-2 Missed,114700,Personal Loan,0.45,0,Medium
+FIN-1734,30,240000,Salaried,1.9,60000,Good,0,Frequent,46700,Personal Loan,0.25,0,Medium
+FIN-1735,25,703000,Salaried,1.2,387000,Fair,0,On-Time,179900,Personal Loan,0.55,0,Low
+FIN-1736,35,1148000,Salaried,2.7,964000,Good,1,On-Time,245500,Personal Loan,0.84,0,Low
+FIN-1737,30,643000,Salaried,1.3,791000,Poor,1,On-Time,51200,Personal Loan,1.23,0,Medium
+FIN-1738,24,769000,Unemployed,0.0,792000,Fair,0,Frequent,118000,Education Loan,1.03,1,High
+FIN-1739,39,338000,Salaried,1.9,297000,Fair,1,On-Time,24300,Education Loan,0.88,0,Low
+FIN-1740,36,414000,Salaried,9.7,650000,Good,0,1-2 Missed,23600,Auto Loan,1.57,1,Medium
+FIN-1741,41,626000,Salaried,2.1,883000,Good,1,On-Time,99500,Education Loan,1.41,0,Low
+FIN-1742,31,340000,Salaried,6.4,371000,Good,3,On-Time,46300,Personal Loan,1.09,0,Low
+FIN-1743,30,245000,Self-Employed,4.7,132000,Good,0,On-Time,21000,Personal Loan,0.54,0,Low
+FIN-1744,40,509000,Salaried,5.8,280000,Fair,3,1-2 Missed,114300,Personal Loan,0.55,1,High
+FIN-1745,34,472000,Unemployed,0.0,109000,Fair,1,1-2 Missed,111400,Personal Loan,0.23,0,Medium
+FIN-1746,27,242000,Salaried,1.5,319000,Fair,1,On-Time,19600,Personal Loan,1.32,0,Medium
+FIN-1747,28,460000,Self-Employed,2.1,69000,Poor,2,1-2 Missed,76600,Education Loan,0.15,1,High
+FIN-1748,34,949000,Salaried,0.4,721000,Fair,1,On-Time,69800,Auto Loan,0.76,0,Medium
+FIN-1749,34,909000,Salaried,15.9,1109000,Fair,1,On-Time,179600,Auto Loan,1.22,0,Medium
+FIN-1750,29,987000,Self-Employed,0.3,957000,Good,0,On-Time,246600,Education Loan,0.97,0,Low
+FIN-1751,31,576000,Self-Employed,0.2,507000,Good,2,On-Time,73200,Education Loan,0.88,0,Medium
+FIN-1752,44,755000,Unemployed,0.0,438000,Poor,1,On-Time,189300,Personal Loan,0.58,1,High
+FIN-1753,33,327000,Salaried,5.0,219000,Good,1,Frequent,74400,Education Loan,0.67,0,Medium
+FIN-1754,30,358000,Salaried,0.7,863000,Good,1,On-Time,95300,Home Loan,2.41,1,Medium
+FIN-1755,30,330000,Salaried,1.8,393000,Good,1,On-Time,27300,Personal Loan,1.19,0,Low
+FIN-1756,40,512000,Salaried,11.4,77000,Fair,3,1-2 Missed,115000,Personal Loan,0.15,1,High
+FIN-1757,28,1133000,Self-Employed,1.1,1473000,Poor,2,Frequent,237100,Auto Loan,1.3,1,High
+FIN-1758,25,291000,Salaried,1.3,236000,Good,0,On-Time,25700,Business Loan,0.81,0,Low
+FIN-1759,28,582000,Salaried,0.4,332000,Fair,1,On-Time,95800,Personal Loan,0.57,0,Medium
+FIN-1760,25,244000,Salaried,2.5,37000,Good,0,On-Time,16800,Personal Loan,0.15,0,Low
+FIN-1761,28,441000,Salaried,0.1,309000,Good,2,1-2 Missed,52800,Education Loan,0.7,0,Medium
+FIN-1762,27,756000,Salaried,2.1,370000,Poor,3,On-Time,115600,Personal Loan,0.49,1,High
+FIN-1763,33,1707000,Salaried,2.4,393000,Good,2,On-Time,229400,Education Loan,0.23,0,Low
+FIN-1764,28,306000,Self-Employed,1.5,679000,Fair,2,On-Time,64500,Personal Loan,2.22,1,High
+FIN-1765,29,812000,Salaried,2.1,650000,Good,1,On-Time,123300,Personal Loan,0.8,0,Low
+FIN-1766,23,850000,Self-Employed,0.5,450000,Good,2,On-Time,234400,Personal Loan,0.53,1,Medium
+FIN-1767,24,834000,Salaried,0.6,367000,Poor,1,On-Time,234900,Personal Loan,0.44,1,High
+FIN-1768,33,556000,Salaried,0.9,1940000,Good,1,On-Time,121200,Personal Loan,3.49,1,Medium
+FIN-1769,26,494000,Salaried,2.0,346000,Good,3,On-Time,45500,Education Loan,0.7,0,Low
+FIN-1770,33,383000,Salaried,3.1,130000,Fair,2,On-Time,89900,Personal Loan,0.34,0,Medium
+FIN-1771,32,324000,Salaried,4.6,269000,Good,1,1-2 Missed,65200,Personal Loan,0.83,0,Low
+FIN-1772,32,738000,Salaried,1.4,2052000,Good,1,Frequent,38300,Personal Loan,2.78,1,High
+FIN-1773,34,597000,Salaried,2.6,496000,Fair,1,On-Time,112800,Personal Loan,0.83,0,Low
+FIN-1774,27,611000,Salaried,1.5,752000,Poor,2,On-Time,85500,Education Loan,1.23,0,High
+FIN-1775,38,504000,Salaried,1.3,166000,Good,0,1-2 Missed,71500,Auto Loan,0.33,0,Low
+FIN-1776,24,632000,Self-Employed,2.0,1087000,Poor,3,1-2 Missed,166000,Education Loan,1.72,1,High
+FIN-1777,26,612000,Salaried,0.6,704000,Good,0,On-Time,144700,Personal Loan,1.15,0,Low
+FIN-1778,35,385000,Salaried,3.4,462000,Good,2,On-Time,110100,Personal Loan,1.2,0,Low
+FIN-1779,27,370000,Salaried,1.5,166000,Poor,1,On-Time,109800,Auto Loan,0.45,0,Medium
+FIN-1780,27,569000,Salaried,0.4,108000,Good,1,1-2 Missed,126500,Personal Loan,0.19,0,Medium
+FIN-1781,28,426000,Self-Employed,3.1,1129000,Good,0,1-2 Missed,24000,Personal Loan,2.65,0,Medium
+FIN-1782,34,456000,Salaried,14.5,319000,Fair,2,On-Time,134000,Auto Loan,0.7,0,Medium
+FIN-1783,37,1071000,Salaried,2.2,1167000,Good,3,On-Time,224000,Education Loan,1.09,0,Low
+FIN-1784,33,422000,Salaried,2.9,603000,Good,0,On-Time,84600,Business Loan,1.43,0,Low
+FIN-1785,27,958000,Self-Employed,0.5,613000,Good,2,On-Time,202800,Education Loan,0.64,0,Medium
+FIN-1786,27,702000,Self-Employed,0.1,793000,Good,1,On-Time,118700,Education Loan,1.13,0,Low
+FIN-1787,26,373000,Salaried,0.5,142000,Good,1,1-2 Missed,48800,Personal Loan,0.38,0,Medium
+FIN-1788,30,705000,Salaried,0.7,627000,Good,0,1-2 Missed,44900,Education Loan,0.89,0,Medium
+FIN-1789,22,883000,Salaried,1.2,468000,Fair,1,On-Time,48900,Education Loan,0.53,0,Low
+FIN-1790,34,474000,Salaried,3.7,578000,Good,2,On-Time,113900,Personal Loan,1.22,0,Medium
+FIN-1791,32,992000,Salaried,0.1,2172000,Good,2,Frequent,185200,Auto Loan,2.19,1,High
+FIN-1792,40,284000,Self-Employed,5.7,222000,Fair,1,On-Time,52900,Home Loan,0.78,0,Low
+FIN-1793,26,503000,Self-Employed,0.7,206000,Good,3,Frequent,117600,Business Loan,0.41,1,High
+FIN-1794,27,497000,Salaried,0.1,552000,Good,0,On-Time,86200,Personal Loan,1.11,0,Low
+FIN-1795,35,708000,Salaried,0.7,368000,Fair,2,Frequent,59700,Auto Loan,0.52,1,High
+FIN-1796,41,923000,Salaried,1.2,443000,Fair,0,On-Time,85800,Education Loan,0.48,0,Low
+FIN-1797,34,649000,Salaried,2.7,247000,Fair,1,1-2 Missed,58100,Personal Loan,0.38,0,Medium
+FIN-1798,27,699000,Self-Employed,0.6,405000,Fair,1,On-Time,64800,Home Loan,0.58,0,Medium
+FIN-1799,30,408000,Salaried,2.6,318000,Fair,1,1-2 Missed,90700,Personal Loan,0.78,1,Medium
+FIN-1800,33,866000,Salaried,2.0,260000,Poor,1,1-2 Missed,84700,Personal Loan,0.3,1,High
+FIN-1801,28,403000,Salaried,2.2,105000,Poor,1,On-Time,30300,Auto Loan,0.26,0,Medium
+FIN-1802,27,964000,Salaried,1.0,607000,Fair,2,1-2 Missed,97300,Personal Loan,0.63,0,Medium
+FIN-1803,34,496000,Salaried,6.2,298000,Poor,2,Frequent,107400,Personal Loan,0.6,1,High
+FIN-1804,31,270000,Salaried,1.7,73000,Good,1,On-Time,77700,Education Loan,0.27,0,Low
+FIN-1805,29,352000,Salaried,1.2,141000,Fair,1,On-Time,62200,Personal Loan,0.4,0,Low
+FIN-1806,32,240000,Salaried,2.8,53000,Good,1,On-Time,46600,Education Loan,0.22,0,Low
+FIN-1807,37,254000,Self-Employed,1.2,76000,Good,1,Frequent,26200,Education Loan,0.3,1,Medium
+FIN-1808,40,1114000,Salaried,8.2,345000,Fair,0,1-2 Missed,313100,Auto Loan,0.31,0,Medium
+FIN-1809,33,682000,Salaried,3.9,191000,Good,2,Frequent,186400,Education Loan,0.28,1,High
+FIN-1810,33,639000,Self-Employed,2.6,767000,Poor,1,On-Time,91500,Auto Loan,1.2,0,Medium
+FIN-1811,32,240000,Salaried,7.2,223000,Good,3,On-Time,51800,Business Loan,0.93,0,Low
+FIN-1812,30,420000,Salaried,1.6,479000,Good,0,On-Time,56200,Education Loan,1.14,0,Low
+FIN-1813,28,566000,Salaried,4.0,266000,Good,0,On-Time,165400,Education Loan,0.47,0,Low
+FIN-1814,25,260000,Self-Employed,1.1,208000,Good,1,On-Time,59600,Personal Loan,0.8,0,Low
+FIN-1815,36,582000,Salaried,4.9,180000,Fair,0,On-Time,134500,Auto Loan,0.31,0,Low
+FIN-1816,31,1361000,Salaried,0.1,1388000,Good,3,On-Time,341900,Education Loan,1.02,0,Medium
+FIN-1817,29,637000,Self-Employed,1.4,140000,Good,1,On-Time,87900,Education Loan,0.22,0,Low
+FIN-1818,41,1344000,Salaried,5.6,1519000,Good,0,On-Time,121500,Personal Loan,1.13,0,Low
+FIN-1819,26,833000,Salaried,0.2,925000,Good,0,On-Time,235200,Education Loan,1.11,0,Low
+FIN-1820,30,952000,Salaried,0.6,162000,Good,1,1-2 Missed,214200,Education Loan,0.17,0,Medium
+FIN-1821,34,326000,Salaried,1.0,254000,Fair,0,On-Time,83100,Education Loan,0.78,0,Low
+FIN-1822,27,503000,Self-Employed,0.4,151000,Poor,1,On-Time,115200,Education Loan,0.3,1,High
+FIN-1823,37,1028000,Unemployed,0.0,905000,Fair,2,On-Time,262900,Home Loan,0.88,0,Medium
+FIN-1824,35,921000,Salaried,2.2,1492000,Poor,1,On-Time,231200,Education Loan,1.62,0,Medium
+FIN-1825,22,852000,Salaried,1.5,1184000,Poor,1,1-2 Missed,241600,Education Loan,1.39,1,High
+FIN-1826,31,240000,Salaried,2.0,252000,Good,1,Frequent,43600,Personal Loan,1.05,1,Medium
+FIN-1827,38,926000,Salaried,4.0,222000,Good,1,On-Time,229000,Personal Loan,0.24,0,Low
+FIN-1828,24,352000,Salaried,1.1,894000,Fair,3,On-Time,37700,Personal Loan,2.54,0,High
+FIN-1829,28,272000,Salaried,2.0,462000,Good,1,On-Time,41800,Auto Loan,1.7,0,Low
+FIN-1830,29,932000,Salaried,2.3,690000,Good,2,On-Time,154300,Personal Loan,0.74,0,Low
+FIN-1831,25,873000,Salaried,3.4,1510000,Good,1,On-Time,50400,Education Loan,1.73,0,Low
+FIN-1832,33,776000,Salaried,4.2,908000,Fair,2,On-Time,70500,Personal Loan,1.17,0,Medium
+FIN-1833,35,364000,Salaried,1.4,484000,Fair,1,On-Time,57100,Education Loan,1.33,0,Medium
+FIN-1834,32,255000,Salaried,1.4,360000,Good,0,On-Time,41400,Personal Loan,1.41,0,Low
+FIN-1835,25,1056000,Self-Employed,0.1,1668000,Good,1,On-Time,159300,Education Loan,1.58,0,Medium
+FIN-1836,42,492000,Salaried,2.1,551000,Good,1,On-Time,144100,Auto Loan,1.12,0,Low
+FIN-1837,23,564000,Salaried,0.6,857000,Good,0,On-Time,112400,Personal Loan,1.52,0,Medium
+FIN-1838,39,345000,Salaried,8.0,317000,Poor,0,1-2 Missed,71600,Home Loan,0.92,1,High
+FIN-1839,27,504000,Salaried,2.3,660000,Fair,1,On-Time,94400,Auto Loan,1.31,1,Medium
+FIN-1840,27,494000,Salaried,0.4,538000,Good,2,On-Time,65000,Personal Loan,1.09,0,Medium
+FIN-1841,28,483000,Salaried,1.5,671000,Fair,0,On-Time,137400,Education Loan,1.39,1,Medium
+FIN-1842,36,704000,Salaried,6.1,2513000,Fair,2,On-Time,39300,Personal Loan,3.57,1,High
+FIN-1843,26,240000,Unemployed,0.0,180000,Fair,1,On-Time,19400,Education Loan,0.75,0,Medium
+FIN-1844,34,709000,Salaried,0.3,645000,Poor,0,On-Time,179800,Education Loan,0.91,1,High
+FIN-1845,43,567000,Salaried,7.0,232000,Poor,0,On-Time,79700,Education Loan,0.41,1,Medium
+FIN-1846,36,1315000,Salaried,5.5,1157000,Good,2,On-Time,192600,Education Loan,0.88,0,Low
+FIN-1847,28,348000,Salaried,1.7,223000,Good,0,On-Time,43100,Personal Loan,0.64,0,Low
+FIN-1848,33,386000,Salaried,1.0,656000,Fair,2,On-Time,114700,Personal Loan,1.7,0,Medium
+FIN-1849,33,744000,Salaried,1.5,320000,Poor,0,On-Time,112000,Personal Loan,0.43,0,Medium
+FIN-1850,35,673000,Self-Employed,5.2,875000,Good,3,On-Time,148300,Education Loan,1.3,1,Medium
+FIN-1851,37,348000,Salaried,1.3,421000,Fair,1,Frequent,98900,Personal Loan,1.21,1,High
+FIN-1852,26,730000,Salaried,1.5,474000,Fair,0,1-2 Missed,214800,Personal Loan,0.65,0,Medium
+FIN-1853,33,433000,Salaried,0.3,126000,Poor,1,On-Time,26000,Personal Loan,0.29,1,High
+FIN-1854,42,454000,Salaried,4.4,663000,Fair,0,1-2 Missed,129800,Personal Loan,1.46,0,Medium
+FIN-1855,39,374000,Salaried,4.1,310000,Good,2,On-Time,29000,Education Loan,0.83,0,Low
+FIN-1856,32,686000,Salaried,0.2,185000,Poor,1,On-Time,136200,Home Loan,0.27,1,High
+FIN-1857,41,778000,Salaried,0.2,700000,Fair,0,On-Time,158300,Education Loan,0.9,0,Medium
+FIN-1858,27,457000,Self-Employed,0.3,622000,Good,2,On-Time,89000,Personal Loan,1.36,0,Medium
+FIN-1859,36,620000,Salaried,5.0,279000,Good,2,On-Time,170300,Personal Loan,0.45,1,Low
+FIN-1860,37,254000,Salaried,2.3,84000,Fair,3,On-Time,72200,Education Loan,0.33,0,Medium
+FIN-1861,33,467000,Salaried,15.0,229000,Fair,0,1-2 Missed,132300,Auto Loan,0.49,0,Medium
+FIN-1862,39,465000,Salaried,6.6,1502000,Poor,1,Frequent,102600,Education Loan,3.23,1,High
+FIN-1863,43,371000,Salaried,4.2,920000,Fair,2,On-Time,32900,Auto Loan,2.48,1,High
+FIN-1864,42,752000,Salaried,1.2,429000,Poor,0,On-Time,83800,Auto Loan,0.57,0,Medium
+FIN-1865,29,290000,Salaried,0.3,276000,Fair,2,On-Time,85600,Personal Loan,0.95,1,Medium
+FIN-1866,35,415000,Salaried,9.3,137000,Good,0,On-Time,53800,Personal Loan,0.33,0,Low
+FIN-1867,28,254000,Salaried,6.2,84000,Good,1,On-Time,71900,Personal Loan,0.33,0,Low
+FIN-1868,22,747000,Salaried,0.6,1389000,Good,1,On-Time,134600,Personal Loan,1.86,0,Medium
+FIN-1869,24,1458000,Salaried,1.0,423000,Good,2,On-Time,325100,Personal Loan,0.29,0,Low
+FIN-1870,33,1405000,Salaried,5.2,2543000,Fair,1,Frequent,348100,Personal Loan,1.81,1,High
+FIN-1871,39,240000,Salaried,1.0,144000,Good,1,On-Time,48100,Auto Loan,0.6,0,Low
+FIN-1872,35,347000,Salaried,1.5,548000,Good,1,Frequent,71700,Education Loan,1.58,1,High
+FIN-1873,31,503000,Self-Employed,0.1,870000,Poor,2,On-Time,77500,Education Loan,1.73,1,High
+FIN-1874,26,620000,Salaried,0.5,1426000,Fair,0,On-Time,178700,Auto Loan,2.3,1,High
+FIN-1875,25,665000,Salaried,0.6,1829000,Fair,3,Frequent,181000,Education Loan,2.75,1,High
+FIN-1876,26,1057000,Salaried,1.4,634000,Fair,1,On-Time,112300,Business Loan,0.6,0,Low
+FIN-1877,31,715000,Salaried,2.0,315000,Good,1,On-Time,196400,Home Loan,0.44,0,Low
+FIN-1878,38,391000,Salaried,0.0,442000,Good,1,1-2 Missed,108000,Personal Loan,1.13,0,Medium
+FIN-1879,26,436000,Salaried,0.3,719000,Fair,2,On-Time,47900,Personal Loan,1.65,1,High
+FIN-1880,29,974000,Salaried,2.6,351000,Good,0,Frequent,195500,Education Loan,0.36,0,Medium
+FIN-1881,29,942000,Salaried,1.3,1658000,Good,2,On-Time,70700,Personal Loan,1.76,0,Medium
+FIN-1882,38,280000,Salaried,0.1,272000,Good,2,1-2 Missed,73000,Personal Loan,0.97,1,Medium
+FIN-1883,36,344000,Salaried,6.6,52000,Fair,2,On-Time,25200,Education Loan,0.15,1,Medium
+FIN-1884,30,601000,Self-Employed,0.2,174000,Fair,2,Frequent,140700,Personal Loan,0.29,1,High
+FIN-1885,30,558000,Salaried,3.8,329000,Good,1,1-2 Missed,131300,Personal Loan,0.59,0,Low
+FIN-1886,21,457000,Salaried,1.1,425000,Fair,0,On-Time,25000,Home Loan,0.93,0,Low
+FIN-1887,25,370000,Unemployed,0.0,437000,Good,1,1-2 Missed,46700,Personal Loan,1.18,0,Medium
+FIN-1888,27,338000,Salaried,9.0,149000,Good,2,On-Time,43300,Personal Loan,0.44,0,Low
+FIN-1889,33,240000,Salaried,1.5,70000,Good,1,On-Time,25000,Personal Loan,0.29,0,Low
+FIN-1890,24,373000,Salaried,1.1,410000,Good,2,On-Time,22900,Education Loan,1.1,0,Low
+FIN-1891,24,310000,Self-Employed,0.5,257000,Fair,2,On-Time,53300,Personal Loan,0.83,1,Medium
+FIN-1892,28,302000,Salaried,2.7,353000,Fair,1,On-Time,65900,Personal Loan,1.17,0,Low
+FIN-1893,34,292000,Salaried,7.3,269000,Fair,1,On-Time,61800,Auto Loan,0.92,0,Low
+FIN-1894,33,1025000,Salaried,0.7,297000,Good,1,On-Time,179600,Personal Loan,0.29,0,Low
+FIN-1895,23,1295000,Salaried,0.1,2176000,Good,2,1-2 Missed,109500,Personal Loan,1.68,1,High
+FIN-1896,25,605000,Salaried,4.3,932000,Good,1,1-2 Missed,78300,Education Loan,1.54,0,Medium
+FIN-1897,31,501000,Salaried,4.2,541000,Fair,0,On-Time,52000,Personal Loan,1.08,0,Low
+FIN-1898,31,240000,Salaried,3.3,590000,Good,0,On-Time,46100,Auto Loan,2.46,1,Medium
+FIN-1899,28,248000,Salaried,3.4,243000,Fair,0,1-2 Missed,63400,Education Loan,0.98,0,Medium
+FIN-1900,24,272000,Salaried,1.2,258000,Fair,1,1-2 Missed,78000,Personal Loan,0.95,1,Medium
+FIN-1901,38,1013000,Salaried,5.4,638000,Good,0,1-2 Missed,216600,Education Loan,0.63,0,Low
+FIN-1902,33,787000,Self-Employed,4.3,630000,Good,0,Frequent,109900,Personal Loan,0.8,0,Medium
+FIN-1903,39,709000,Salaried,11.8,1219000,Good,1,On-Time,81500,Personal Loan,1.72,0,Low
+FIN-1904,28,479000,Salaried,1.0,235000,Good,0,1-2 Missed,45800,Personal Loan,0.49,0,Low
+FIN-1905,32,240000,Unemployed,0.0,185000,Fair,0,On-Time,14800,Education Loan,0.77,0,Medium
+FIN-1906,25,421000,Salaried,0.1,173000,Fair,1,1-2 Missed,121100,Personal Loan,0.41,0,Medium
+FIN-1907,28,316000,Salaried,2.5,300000,Fair,2,On-Time,77800,Auto Loan,0.95,0,Medium
+FIN-1908,35,645000,Self-Employed,1.5,780000,Fair,0,On-Time,124900,Education Loan,1.21,1,Medium
+FIN-1909,36,699000,Salaried,7.9,874000,Good,2,On-Time,61800,Personal Loan,1.25,0,Medium
+FIN-1910,34,679000,Self-Employed,0.5,136000,Good,0,On-Time,130100,Personal Loan,0.2,0,Low
+FIN-1911,34,376000,Salaried,6.3,447000,Fair,0,On-Time,85600,Auto Loan,1.19,0,Low
+FIN-1912,32,536000,Unemployed,0.0,214000,Fair,2,On-Time,104800,Personal Loan,0.4,0,Medium
+FIN-1913,39,434000,Salaried,7.4,365000,Fair,0,Frequent,65500,Personal Loan,0.84,1,High
+FIN-1914,31,756000,Self-Employed,1.5,1210000,Fair,0,1-2 Missed,68900,Auto Loan,1.6,0,Medium
+FIN-1915,27,588000,Unemployed,0.0,1047000,Poor,2,1-2 Missed,86700,Personal Loan,1.78,1,High
+FIN-1916,35,542000,Self-Employed,0.3,152000,Fair,2,1-2 Missed,38900,Auto Loan,0.28,1,High
+FIN-1917,40,650000,Salaried,1.2,208000,Fair,3,On-Time,53900,Personal Loan,0.32,0,Medium
+FIN-1918,32,918000,Salaried,0.3,707000,Good,0,On-Time,80000,Personal Loan,0.77,0,Low
+FIN-1919,29,730000,Salaried,2.2,1475000,Fair,0,On-Time,126100,Auto Loan,2.02,0,Medium
+FIN-1920,25,299000,Salaried,3.2,299000,Good,0,On-Time,51400,Education Loan,1.0,0,Low
+FIN-1921,25,892000,Salaried,0.2,437000,Fair,0,On-Time,170200,Personal Loan,0.49,0,Medium
+FIN-1922,34,698000,Salaried,2.3,565000,Good,1,1-2 Missed,187100,Personal Loan,0.81,0,Low
+FIN-1923,25,797000,Self-Employed,0.7,550000,Good,2,On-Time,116600,Education Loan,0.69,1,Medium
+FIN-1924,33,703000,Salaried,1.0,562000,Poor,2,Frequent,162900,Personal Loan,0.8,1,High
+FIN-1925,36,478000,Salaried,4.6,282000,Fair,2,On-Time,76200,Personal Loan,0.59,1,Medium
+FIN-1926,34,1081000,Salaried,1.8,4702000,Good,1,On-Time,189300,Personal Loan,4.35,0,Medium
+FIN-1927,29,426000,Salaried,11.0,413000,Fair,1,Frequent,109000,Personal Loan,0.97,1,High
+FIN-1928,28,397000,Salaried,1.0,111000,Good,1,On-Time,64300,Personal Loan,0.28,0,Low
+FIN-1929,30,240000,Salaried,5.3,250000,Good,1,On-Time,24400,Auto Loan,1.04,0,Low
+FIN-1930,27,532000,Salaried,2.5,936000,Fair,0,On-Time,113900,Education Loan,1.76,0,Medium
+FIN-1931,35,624000,Salaried,1.6,537000,Good,2,On-Time,77200,Home Loan,0.86,0,Low
+FIN-1932,36,920000,Salaried,0.8,497000,Good,0,On-Time,190700,Education Loan,0.54,0,Low
+FIN-1933,26,607000,Salaried,0.6,1809000,Fair,1,1-2 Missed,82500,Education Loan,2.98,1,High
+FIN-1934,42,415000,Salaried,13.1,307000,Good,0,On-Time,110600,Auto Loan,0.74,0,Low
+FIN-1935,21,361000,Salaried,0.5,856000,Good,1,1-2 Missed,39100,Personal Loan,2.37,1,High
+FIN-1936,33,550000,Salaried,2.9,1150000,Good,0,On-Time,73800,Personal Loan,2.09,0,Medium
+FIN-1937,36,739000,Salaried,1.2,473000,Good,0,On-Time,143600,Personal Loan,0.64,1,Low
+FIN-1938,25,724000,Salaried,1.4,724000,Good,0,On-Time,49600,Personal Loan,1.0,0,Low
+FIN-1939,33,493000,Self-Employed,0.4,104000,Poor,0,1-2 Missed,63700,Home Loan,0.21,1,High
+FIN-1940,24,477000,Salaried,0.4,95000,Good,1,On-Time,92000,Personal Loan,0.2,0,Low
+FIN-1941,28,240000,Salaried,1.1,307000,Good,0,Frequent,53900,Personal Loan,1.28,1,High
+FIN-1942,27,240000,Self-Employed,2.3,924000,Fair,2,On-Time,13800,Auto Loan,3.85,1,High
+FIN-1943,36,791000,Self-Employed,2.1,854000,Fair,0,1-2 Missed,149900,Personal Loan,1.08,1,Medium
+FIN-1944,33,851000,Self-Employed,0.3,1957000,Poor,0,On-Time,199600,Education Loan,2.3,1,High
+FIN-1945,35,330000,Self-Employed,3.6,119000,Fair,0,1-2 Missed,70500,Home Loan,0.36,0,Medium
+FIN-1946,33,439000,Self-Employed,3.6,246000,Good,1,On-Time,39000,Personal Loan,0.56,0,Low
+FIN-1947,30,1084000,Salaried,0.3,694000,Good,1,On-Time,304500,Education Loan,0.64,0,Low
+FIN-1948,38,402000,Salaried,3.8,675000,Good,3,1-2 Missed,77300,Personal Loan,1.68,1,High
+FIN-1949,23,406000,Self-Employed,0.4,905000,Fair,0,On-Time,113300,Personal Loan,2.23,1,High
+FIN-1950,30,609000,Salaried,4.1,262000,Good,0,Frequent,118400,Business Loan,0.43,0,Medium
+FIN-1951,34,369000,Salaried,1.6,218000,Poor,1,1-2 Missed,89100,Education Loan,0.59,1,High
+FIN-1952,28,875000,Unemployed,0.0,271000,Poor,2,On-Time,230500,Auto Loan,0.31,0,High
+FIN-1953,32,370000,Salaried,7.1,178000,Fair,0,1-2 Missed,29300,Personal Loan,0.48,0,Medium
+FIN-1954,26,456000,Salaried,1.7,310000,Fair,2,Frequent,132000,Personal Loan,0.68,0,High
+FIN-1955,35,372000,Salaried,0.6,249000,Fair,3,1-2 Missed,73800,Education Loan,0.67,1,High
+FIN-1956,33,945000,Salaried,2.1,690000,Fair,0,Frequent,159500,Education Loan,0.73,0,High
+FIN-1957,30,470000,Salaried,1.4,202000,Good,3,1-2 Missed,131500,Education Loan,0.43,0,Medium
+FIN-1958,27,404000,Salaried,6.1,380000,Fair,3,1-2 Missed,42000,Education Loan,0.94,1,High
+FIN-1959,37,360000,Salaried,3.4,443000,Good,2,1-2 Missed,70100,Auto Loan,1.23,1,Medium
+FIN-1960,28,385000,Salaried,0.9,227000,Fair,0,Frequent,25000,Auto Loan,0.59,1,High
+FIN-1961,35,240000,Salaried,1.8,571000,Good,1,On-Time,21000,Education Loan,2.38,0,Medium
+FIN-1962,25,385000,Salaried,0.2,108000,Good,2,1-2 Missed,37900,Personal Loan,0.28,0,Medium
+FIN-1963,36,1182000,Self-Employed,0.3,626000,Good,1,On-Time,105800,Education Loan,0.53,0,Low
+FIN-1964,36,483000,Salaried,1.9,82000,Fair,1,On-Time,77200,Education Loan,0.17,0,Low
+FIN-1965,25,1395000,Salaried,2.0,1088000,Fair,1,Frequent,217600,Home Loan,0.78,1,High
+FIN-1966,31,240000,Self-Employed,1.1,187000,Fair,1,On-Time,32200,Education Loan,0.78,0,Low
+FIN-1967,31,412000,Self-Employed,2.0,400000,Fair,1,1-2 Missed,104200,Personal Loan,0.97,0,Medium
+FIN-1968,25,261000,Salaried,0.1,431000,Good,0,On-Time,77900,Personal Loan,1.65,0,Medium
+FIN-1969,27,470000,Self-Employed,0.7,733000,Fair,0,On-Time,51100,Education Loan,1.56,1,Medium
+FIN-1970,30,1423000,Salaried,2.2,1494000,Good,2,On-Time,116200,Personal Loan,1.05,0,Low
+FIN-1971,29,856000,Salaried,1.4,728000,Good,2,Frequent,126000,Education Loan,0.85,1,High
+FIN-1972,37,350000,Salaried,3.3,161000,Good,2,Frequent,73100,Education Loan,0.46,0,High
+FIN-1973,33,906000,Salaried,0.4,788000,Good,1,Frequent,243600,Education Loan,0.87,1,High
+FIN-1974,34,445000,Self-Employed,3.3,120000,Good,0,1-2 Missed,82900,Personal Loan,0.27,0,Low
+FIN-1975,25,1091000,Salaried,1.0,338000,Poor,1,Frequent,150500,Auto Loan,0.31,1,High
+FIN-1976,28,375000,Salaried,1.0,176000,Poor,2,1-2 Missed,55400,Personal Loan,0.47,1,High
+FIN-1977,27,666000,Unemployed,0.0,440000,Fair,2,On-Time,191000,Auto Loan,0.66,1,Medium
+FIN-1978,26,240000,Self-Employed,1.4,365000,Good,1,On-Time,54400,Personal Loan,1.52,0,Low
+FIN-1979,33,735000,Unemployed,0.0,728000,Fair,1,On-Time,55200,Auto Loan,0.99,0,Medium
+FIN-1980,32,902000,Salaried,5.4,1957000,Good,0,Frequent,164200,Education Loan,2.17,1,High
+FIN-1981,28,396000,Salaried,2.0,539000,Fair,1,1-2 Missed,89800,Education Loan,1.36,0,Medium
+FIN-1982,41,440000,Salaried,6.6,598000,Poor,1,1-2 Missed,46300,Personal Loan,1.36,1,High
+FIN-1983,34,373000,Salaried,2.2,366000,Fair,0,On-Time,46000,Personal Loan,0.98,0,Low
+FIN-1984,26,1477000,Unemployed,0.0,901000,Poor,2,1-2 Missed,354200,Education Loan,0.61,0,High
+FIN-1985,29,310000,Salaried,3.4,152000,Good,0,1-2 Missed,46500,Personal Loan,0.49,0,Low
+FIN-1986,31,388000,Salaried,4.0,58000,Good,1,On-Time,64400,Auto Loan,0.15,0,Low
+FIN-1987,38,431000,Salaried,0.4,392000,Good,3,1-2 Missed,66500,Personal Loan,0.91,1,High
+FIN-1988,26,509000,Salaried,2.2,708000,Good,1,On-Time,97900,Education Loan,1.39,0,Low
+FIN-1989,30,598000,Salaried,0.9,478000,Poor,0,1-2 Missed,113800,Personal Loan,0.8,1,High
+FIN-1990,24,527000,Salaried,1.2,126000,Fair,2,On-Time,44500,Personal Loan,0.24,0,Medium
+FIN-1991,24,487000,Self-Employed,2.4,209000,Good,1,On-Time,49900,Personal Loan,0.43,0,Low
+FIN-1992,31,874000,Self-Employed,1.9,411000,Poor,0,1-2 Missed,177100,Personal Loan,0.47,1,High
+FIN-1993,30,1282000,Salaried,0.2,1000000,Good,0,On-Time,272900,Personal Loan,0.78,0,Low
+FIN-1994,35,641000,Unemployed,0.0,269000,Poor,1,On-Time,40400,Education Loan,0.42,1,High
+FIN-1995,34,570000,Salaried,0.5,1140000,Poor,1,On-Time,76100,Education Loan,2.0,1,High
+FIN-1996,43,757000,Salaried,1.7,871000,Good,0,1-2 Missed,62500,Auto Loan,1.15,0,Low
+FIN-1997,30,578000,Salaried,2.6,376000,Good,2,1-2 Missed,112700,Auto Loan,0.65,1,Medium
+FIN-1998,37,686000,Self-Employed,0.8,1406000,Poor,0,On-Time,160300,Home Loan,2.05,0,High
+FIN-1999,24,295000,Salaried,2.3,634000,Good,2,On-Time,76400,Education Loan,2.15,0,Medium
+FIN-2000,27,674000,Salaried,1.3,863000,Fair,2,1-2 Missed,119200,Auto Loan,1.28,0,High
+FIN-2001,27,1535000,Self-Employed,0.0,568000,Good,0,On-Time,303200,Education Loan,0.37,0,Low
+FIN-2002,27,642000,Salaried,0.8,1008000,Fair,0,On-Time,161000,Personal Loan,1.57,0,Medium
+FIN-2003,33,355000,Salaried,0.9,170000,Fair,1,On-Time,74700,Education Loan,0.48,0,Medium
+FIN-2004,27,370000,Salaried,1.9,348000,Fair,0,On-Time,99200,Personal Loan,0.94,0,Low
+FIN-2005,27,1185000,Salaried,3.2,1007000,Poor,1,1-2 Missed,172200,Education Loan,0.85,1,High
+FIN-2006,32,649000,Salaried,1.2,1428000,Good,2,On-Time,59100,Personal Loan,2.2,0,Medium
+FIN-2007,32,683000,Salaried,1.2,389000,Good,1,1-2 Missed,129300,Education Loan,0.57,1,Low
+FIN-2008,24,991000,Salaried,0.2,2041000,Poor,1,1-2 Missed,129400,Personal Loan,2.06,1,High
+FIN-2009,44,748000,Salaried,4.2,1489000,Good,0,On-Time,51300,Auto Loan,1.99,0,Low
+FIN-2010,39,948000,Unemployed,0.0,967000,Fair,0,On-Time,58700,Auto Loan,1.02,1,Medium
+FIN-2011,34,435000,Self-Employed,2.6,426000,Poor,1,On-Time,36400,Education Loan,0.98,0,Medium
+FIN-2012,39,750000,Unemployed,0.0,270000,Good,0,On-Time,43200,Personal Loan,0.36,0,Low
+FIN-2013,35,1089000,Salaried,0.1,490000,Good,1,On-Time,322900,Personal Loan,0.45,0,Low
+FIN-2014,26,630000,Self-Employed,0.2,800000,Good,0,1-2 Missed,132800,Auto Loan,1.27,0,Medium
+FIN-2015,26,438000,Unemployed,0.0,403000,Good,2,On-Time,50100,Personal Loan,0.92,1,Medium
+FIN-2016,24,290000,Salaried,1.5,331000,Good,3,On-Time,70500,Personal Loan,1.14,0,Low
+FIN-2017,39,990000,Salaried,0.5,703000,Good,2,On-Time,210400,Education Loan,0.71,0,Medium
+FIN-2018,29,240000,Unemployed,0.0,715000,Poor,0,1-2 Missed,17700,Business Loan,2.98,1,High
+FIN-2019,21,1789000,Self-Employed,2.9,1485000,Poor,2,On-Time,190500,Personal Loan,0.83,0,Medium
+FIN-2020,29,450000,Salaried,1.5,468000,Good,1,Frequent,55200,Personal Loan,1.04,0,Medium
+FIN-2021,30,254000,Self-Employed,0.3,333000,Fair,2,On-Time,51800,Auto Loan,1.31,1,High
+FIN-2022,38,340000,Salaried,0.3,734000,Poor,2,On-Time,31500,Personal Loan,2.16,0,High
+FIN-2023,24,790000,Self-Employed,1.9,750000,Fair,2,On-Time,232700,Auto Loan,0.95,0,Medium
+FIN-2024,31,327000,Salaried,2.4,428000,Good,1,On-Time,64300,Personal Loan,1.31,0,Low
+FIN-2025,28,678000,Self-Employed,3.8,563000,Fair,2,On-Time,105400,Education Loan,0.83,0,Medium
+FIN-2026,25,673000,Salaried,0.4,397000,Fair,0,On-Time,79500,Auto Loan,0.59,0,Medium
+FIN-2027,27,437000,Salaried,1.3,424000,Good,0,On-Time,91700,Personal Loan,0.97,0,Low
+FIN-2028,43,386000,Salaried,9.9,232000,Good,0,On-Time,82900,Auto Loan,0.6,0,Low
+FIN-2029,30,595000,Self-Employed,1.7,1154000,Good,2,On-Time,45800,Auto Loan,1.94,0,Medium
+FIN-2030,34,292000,Salaried,8.4,879000,Fair,0,On-Time,39800,Education Loan,3.01,0,Medium
+FIN-2031,23,412000,Salaried,0.2,190000,Good,3,On-Time,66600,Education Loan,0.46,0,Medium
+FIN-2032,29,886000,Salaried,0.6,133000,Good,1,On-Time,221100,Personal Loan,0.15,0,Low
+FIN-2033,36,495000,Self-Employed,4.2,604000,Fair,0,On-Time,89800,Personal Loan,1.22,0,Medium
+FIN-2034,40,514000,Salaried,5.0,77000,Good,2,1-2 Missed,127100,Education Loan,0.15,0,Medium
+FIN-2035,34,357000,Salaried,0.6,250000,Good,1,On-Time,80800,Auto Loan,0.7,0,Low
+FIN-2036,24,942000,Unemployed,0.0,1714000,Good,0,On-Time,165300,Education Loan,1.82,0,Medium
+FIN-2037,26,420000,Self-Employed,3.1,286000,Good,0,Frequent,84100,Education Loan,0.68,0,Medium
+FIN-2038,21,528000,Self-Employed,1.8,380000,Good,0,On-Time,60100,Education Loan,0.72,0,Low
+FIN-2039,21,510000,Salaried,1.5,76000,Fair,0,1-2 Missed,74300,Auto Loan,0.15,1,Medium
+FIN-2040,28,829000,Salaried,2.5,124000,Poor,1,On-Time,42100,Personal Loan,0.15,0,Medium
+FIN-2041,28,624000,Salaried,1.5,112000,Good,1,1-2 Missed,100800,Auto Loan,0.18,0,Low
+FIN-2042,34,404000,Salaried,0.7,158000,Good,1,1-2 Missed,54700,Auto Loan,0.39,0,Medium
+FIN-2043,28,375000,Salaried,0.9,304000,Good,1,On-Time,58300,Home Loan,0.81,0,Low
+FIN-2044,37,448000,Salaried,1.1,260000,Good,0,On-Time,129200,Personal Loan,0.58,0,Low
+FIN-2045,25,736000,Salaried,0.3,1111000,Good,1,Frequent,72100,Education Loan,1.51,1,High
+FIN-2046,27,950000,Salaried,0.8,446000,Fair,0,On-Time,185200,Education Loan,0.47,0,Medium
+FIN-2047,28,501000,Salaried,3.7,992000,Fair,1,Frequent,25700,Education Loan,1.98,1,High
+FIN-2048,30,390000,Salaried,1.4,148000,Fair,1,On-Time,95300,Education Loan,0.38,0,Low
+FIN-2049,29,265000,Salaried,2.7,40000,Poor,0,1-2 Missed,16100,Education Loan,0.15,1,High
+FIN-2050,41,464000,Self-Employed,1.6,339000,Good,0,1-2 Missed,103900,Auto Loan,0.73,0,Low
+FIN-2051,23,447000,Self-Employed,0.9,326000,Good,1,On-Time,57600,Education Loan,0.73,0,Low
+FIN-2052,32,352000,Salaried,0.5,560000,Fair,0,1-2 Missed,26900,Auto Loan,1.59,1,High
+FIN-2053,32,456000,Salaried,5.9,315000,Fair,2,On-Time,65800,Education Loan,0.69,0,Medium
+FIN-2054,27,678000,Salaried,4.7,129000,Good,0,On-Time,151300,Auto Loan,0.19,0,Low
+FIN-2055,23,487000,Self-Employed,0.1,589000,Fair,0,On-Time,98000,Home Loan,1.21,0,Medium
+FIN-2056,32,352000,Salaried,3.9,109000,Poor,2,Frequent,104800,Personal Loan,0.31,0,High
+FIN-2057,35,753000,Salaried,1.0,369000,Good,2,1-2 Missed,220700,Personal Loan,0.49,0,Medium
+FIN-2058,28,341000,Salaried,10.0,51000,Poor,1,On-Time,60100,Personal Loan,0.15,0,Medium
+FIN-2059,34,1232000,Salaried,0.1,936000,Fair,0,Frequent,219300,Personal Loan,0.76,1,High
+FIN-2060,32,790000,Salaried,0.7,340000,Good,0,1-2 Missed,40900,Auto Loan,0.43,0,Medium
+FIN-2061,37,369000,Salaried,7.4,188000,Good,0,On-Time,70900,Personal Loan,0.51,0,Low
+FIN-2062,27,402000,Salaried,4.6,322000,Fair,0,1-2 Missed,33300,Home Loan,0.8,0,Medium
+FIN-2063,31,733000,Salaried,0.9,418000,Good,0,1-2 Missed,163500,Personal Loan,0.57,0,Medium
+FIN-2064,26,489000,Salaried,0.3,440000,Fair,2,Frequent,129700,Home Loan,0.9,1,High
+FIN-2065,31,326000,Salaried,1.2,209000,Good,3,1-2 Missed,88700,Education Loan,0.64,1,Medium
+FIN-2066,41,858000,Salaried,3.1,558000,Good,2,Frequent,156500,Auto Loan,0.65,1,High
+FIN-2067,28,516000,Salaried,6.7,1166000,Good,2,Frequent,153800,Auto Loan,2.26,1,High
+FIN-2068,27,713000,Self-Employed,5.3,171000,Good,1,1-2 Missed,179600,Education Loan,0.24,0,Low
+FIN-2069,28,1509000,Salaried,3.0,785000,Good,1,Frequent,406700,Personal Loan,0.52,0,Medium
+FIN-2070,28,347000,Self-Employed,1.1,191000,Fair,1,On-Time,103500,Auto Loan,0.55,1,Low
+FIN-2071,39,790000,Salaried,1.9,269000,Poor,1,Frequent,90600,Personal Loan,0.34,1,High
+FIN-2072,31,501000,Salaried,3.8,401000,Fair,1,1-2 Missed,87200,Education Loan,0.8,0,Medium
+FIN-2073,29,804000,Salaried,2.3,716000,Good,3,On-Time,112900,Personal Loan,0.89,0,Low
+FIN-2074,27,299000,Salaried,1.6,287000,Good,0,On-Time,52200,Personal Loan,0.96,0,Low
+FIN-2075,34,426000,Salaried,3.2,290000,Good,3,On-Time,94800,Education Loan,0.68,0,Low
+FIN-2076,24,448000,Salaried,1.3,67000,Fair,1,Frequent,84100,Auto Loan,0.15,1,High
+FIN-2077,27,702000,Salaried,4.3,344000,Fair,2,On-Time,155500,Auto Loan,0.49,0,Medium
+FIN-2078,40,347000,Unemployed,0.0,205000,Good,0,Frequent,25000,Education Loan,0.59,1,High
+FIN-2079,39,423000,Self-Employed,0.2,630000,Poor,1,1-2 Missed,40500,Personal Loan,1.49,1,High
+FIN-2080,32,519000,Self-Employed,1.8,311000,Poor,2,On-Time,51100,Personal Loan,0.6,0,Medium
+FIN-2081,30,250000,Salaried,1.6,225000,Poor,2,1-2 Missed,55300,Personal Loan,0.9,1,High
+FIN-2082,36,539000,Salaried,1.0,291000,Poor,0,1-2 Missed,108500,Personal Loan,0.54,1,High
+FIN-2083,38,1242000,Salaried,3.3,1379000,Fair,3,1-2 Missed,316700,Education Loan,1.11,1,High
+FIN-2084,27,1317000,Salaried,3.3,198000,Good,0,Frequent,140600,Personal Loan,0.15,0,Medium
+FIN-2085,31,445000,Salaried,1.9,587000,Good,0,On-Time,118000,Personal Loan,1.32,0,Low
+FIN-2086,38,547000,Salaried,7.7,131000,Fair,1,On-Time,148300,Education Loan,0.24,0,Low
+FIN-2087,33,568000,Self-Employed,1.6,204000,Fair,1,On-Time,120000,Education Loan,0.36,0,Low
+FIN-2088,33,743000,Salaried,1.5,2043000,Poor,1,1-2 Missed,206600,Education Loan,2.75,0,High
+FIN-2089,27,791000,Salaried,0.5,1709000,Good,2,1-2 Missed,81300,Personal Loan,2.16,1,High
+FIN-2090,31,1192000,Self-Employed,0.8,1287000,Fair,0,1-2 Missed,90600,Personal Loan,1.08,0,Medium
+FIN-2091,30,483000,Salaried,2.8,396000,Fair,1,On-Time,122200,Personal Loan,0.82,0,Low
+FIN-2092,25,518000,Self-Employed,0.5,140000,Fair,0,On-Time,146400,Personal Loan,0.27,0,Medium
+FIN-2093,41,477000,Salaried,1.3,181000,Fair,1,1-2 Missed,134100,Personal Loan,0.38,0,Medium
+FIN-2094,28,413000,Salaried,3.6,256000,Good,2,1-2 Missed,60800,Personal Loan,0.62,0,Medium
+FIN-2095,33,537000,Salaried,0.9,585000,Good,1,On-Time,77500,Personal Loan,1.09,0,Low
+FIN-2096,28,461000,Salaried,0.3,369000,Fair,0,On-Time,89600,Personal Loan,0.8,0,Medium
+FIN-2097,32,839000,Salaried,1.8,1267000,Good,1,On-Time,127800,Education Loan,1.51,0,Low
+FIN-2098,28,494000,Salaried,0.2,756000,Good,3,On-Time,132600,Auto Loan,1.53,0,Medium
+FIN-2099,32,312000,Salaried,0.6,187000,Fair,0,On-Time,33100,Auto Loan,0.6,0,Medium
+FIN-2100,30,557000,Salaried,9.8,84000,Fair,1,1-2 Missed,61100,Auto Loan,0.15,0,Medium
+FIN-2101,30,345000,Self-Employed,0.5,207000,Fair,1,1-2 Missed,32900,Personal Loan,0.6,0,Medium
+FIN-2102,28,347000,Self-Employed,0.1,222000,Poor,1,1-2 Missed,30000,Business Loan,0.64,1,High
+FIN-2103,33,311000,Self-Employed,2.6,781000,Fair,0,On-Time,21700,Personal Loan,2.51,1,Medium
+FIN-2104,29,629000,Self-Employed,1.9,428000,Good,1,On-Time,154500,Personal Loan,0.68,0,Low
+FIN-2105,34,263000,Salaried,2.4,274000,Good,0,On-Time,19500,Personal Loan,1.04,0,Low
+FIN-2106,27,761000,Self-Employed,0.7,320000,Fair,0,On-Time,173800,Personal Loan,0.42,0,Medium
+FIN-2107,43,666000,Salaried,4.5,486000,Fair,1,On-Time,160000,Personal Loan,0.73,0,Low
+FIN-2108,27,760000,Salaried,1.4,798000,Good,1,On-Time,225100,Education Loan,1.05,0,Low
+FIN-2109,31,421000,Salaried,1.9,152000,Good,0,On-Time,45900,Business Loan,0.36,0,Low
+FIN-2110,40,286000,Salaried,9.7,166000,Poor,0,On-Time,58400,Personal Loan,0.58,1,Medium
+FIN-2111,36,745000,Salaried,0.3,112000,Fair,1,1-2 Missed,183000,Personal Loan,0.15,1,Medium
+FIN-2112,26,781000,Salaried,0.0,1101000,Poor,0,1-2 Missed,153000,Education Loan,1.41,1,High
+FIN-2113,31,318000,Unemployed,0.0,149000,Good,2,On-Time,36200,Personal Loan,0.47,0,Medium
+FIN-2114,31,585000,Salaried,6.1,240000,Fair,0,On-Time,138100,Education Loan,0.41,0,Low
+FIN-2115,30,317000,Salaried,7.6,79000,Good,1,Frequent,84300,Personal Loan,0.25,0,Medium
+FIN-2116,26,240000,Salaried,0.4,132000,Good,0,1-2 Missed,61500,Auto Loan,0.55,0,Medium
+FIN-2117,29,409000,Salaried,2.4,135000,Good,3,On-Time,31500,Personal Loan,0.33,0,Low
+FIN-2118,28,722000,Unemployed,0.0,2022000,Fair,0,On-Time,195300,Auto Loan,2.8,1,High
+FIN-2119,30,465000,Salaried,3.8,219000,Good,2,On-Time,104300,Auto Loan,0.47,0,Low
+FIN-2120,38,938000,Self-Employed,7.6,657000,Fair,0,On-Time,55200,Personal Loan,0.7,0,Low
+FIN-2121,30,533000,Self-Employed,3.5,309000,Good,0,On-Time,92500,Auto Loan,0.58,0,Low
+FIN-2122,27,886000,Salaried,0.6,1223000,Good,2,Frequent,58800,Personal Loan,1.38,1,High
+FIN-2123,27,456000,Salaried,0.6,898000,Fair,0,On-Time,38500,Auto Loan,1.97,0,Medium
+FIN-2124,27,366000,Salaried,2.4,458000,Good,0,On-Time,95000,Personal Loan,1.25,0,Low
+FIN-2125,27,1104000,Salaried,1.4,762000,Good,0,On-Time,156400,Education Loan,0.69,0,Low
+FIN-2126,29,452000,Salaried,4.6,231000,Fair,1,On-Time,60600,Auto Loan,0.51,0,Low
+FIN-2127,27,504000,Salaried,2.7,232000,Poor,1,On-Time,90900,Education Loan,0.46,0,Medium
+FIN-2128,24,484000,Self-Employed,0.0,711000,Fair,0,On-Time,128500,Auto Loan,1.47,0,Medium
+FIN-2129,25,272000,Self-Employed,0.4,95000,Good,0,1-2 Missed,18200,Personal Loan,0.35,0,Medium
+FIN-2130,26,474000,Salaried,1.7,702000,Fair,0,1-2 Missed,105100,Personal Loan,1.48,0,Medium
+FIN-2131,32,455000,Self-Employed,2.3,118000,Good,0,On-Time,58500,Auto Loan,0.26,0,Low
+FIN-2132,29,493000,Salaried,0.2,414000,Good,1,On-Time,91800,Personal Loan,0.84,0,Low
+FIN-2133,35,888000,Salaried,5.3,284000,Good,1,On-Time,99900,Home Loan,0.32,0,Low
+FIN-2134,23,760000,Salaried,0.1,304000,Poor,1,On-Time,176600,Education Loan,0.4,1,High
+FIN-2135,26,761000,Salaried,3.6,723000,Fair,0,On-Time,136500,Personal Loan,0.95,0,Low
+FIN-2136,42,763000,Unemployed,0.0,786000,Good,1,On-Time,153800,Personal Loan,1.03,0,Low
+FIN-2137,26,356000,Self-Employed,0.1,274000,Good,0,1-2 Missed,27900,Auto Loan,0.77,0,Medium
+FIN-2138,38,823000,Salaried,0.6,313000,Good,3,1-2 Missed,42000,Personal Loan,0.38,1,High
+FIN-2139,31,278000,Self-Employed,0.6,386000,Good,0,On-Time,42200,Auto Loan,1.39,0,Medium
+FIN-2140,35,257000,Self-Employed,6.2,316000,Fair,1,Frequent,31000,Auto Loan,1.23,1,High
+FIN-2141,33,791000,Salaried,0.8,704000,Good,1,On-Time,41900,Business Loan,0.89,0,Low
+FIN-2142,35,834000,Salaried,2.1,350000,Good,0,1-2 Missed,104600,Education Loan,0.42,0,Low
+FIN-2143,31,532000,Salaried,1.3,830000,Good,3,On-Time,41400,Personal Loan,1.56,1,Medium
+FIN-2144,28,358000,Salaried,1.8,258000,Poor,0,On-Time,25800,Education Loan,0.72,0,Medium
+FIN-2145,26,825000,Salaried,1.3,346000,Fair,2,1-2 Missed,193200,Auto Loan,0.42,0,Medium
+FIN-2146,30,662000,Salaried,2.3,444000,Poor,0,On-Time,98700,Education Loan,0.67,0,Medium
+FIN-2147,44,578000,Salaried,1.8,249000,Fair,1,On-Time,133100,Personal Loan,0.43,0,Low
+FIN-2148,26,387000,Salaried,0.5,232000,Good,0,On-Time,79300,Education Loan,0.6,0,Low
+FIN-2149,22,1008000,Salaried,0.5,2097000,Good,0,On-Time,161200,Personal Loan,2.08,0,Medium
+FIN-2150,38,296000,Self-Employed,6.2,882000,Fair,0,1-2 Missed,41900,Personal Loan,2.98,0,High
+FIN-2151,24,520000,Self-Employed,0.4,140000,Fair,2,On-Time,27800,Education Loan,0.27,0,Medium
+FIN-2152,39,636000,Salaried,1.8,642000,Good,0,1-2 Missed,40100,Education Loan,1.01,0,Low
+FIN-2153,35,644000,Self-Employed,2.6,1166000,Good,1,1-2 Missed,125700,Education Loan,1.81,0,Medium
+FIN-2154,37,427000,Salaried,0.6,243000,Fair,2,On-Time,73300,Auto Loan,0.57,1,Medium
+FIN-2155,35,363000,Salaried,0.9,610000,Fair,0,On-Time,33700,Personal Loan,1.68,1,Medium
+FIN-2156,26,576000,Salaried,0.9,225000,Fair,0,On-Time,145400,Education Loan,0.39,0,Medium
+FIN-2157,22,406000,Self-Employed,0.2,625000,Good,3,On-Time,43800,Personal Loan,1.54,0,Medium
+FIN-2158,25,468000,Salaried,1.6,234000,Fair,1,On-Time,122500,Education Loan,0.5,0,Low
+FIN-2159,41,621000,Salaried,0.9,93000,Poor,1,On-Time,117200,Education Loan,0.15,1,High
+FIN-2160,32,870000,Salaried,8.6,696000,Poor,1,1-2 Missed,120400,Personal Loan,0.8,1,High
+FIN-2161,31,1260000,Salaried,0.1,365000,Good,1,On-Time,316100,Personal Loan,0.29,1,Low
+FIN-2162,30,710000,Salaried,3.6,312000,Good,1,1-2 Missed,188400,Personal Loan,0.44,0,Low
+FIN-2163,31,366000,Self-Employed,1.1,121000,Fair,0,On-Time,55600,Personal Loan,0.33,0,Low
+FIN-2164,25,971000,Salaried,1.1,534000,Good,0,1-2 Missed,133600,Education Loan,0.55,0,Low
+FIN-2165,35,384000,Unemployed,0.0,403000,Good,1,1-2 Missed,84800,Personal Loan,1.05,0,Medium
+FIN-2166,25,242000,Salaried,1.4,240000,Good,1,Frequent,63100,Auto Loan,0.99,0,Medium
+FIN-2167,33,240000,Unemployed,0.0,216000,Good,2,On-Time,71400,Personal Loan,0.9,0,Medium
+FIN-2168,25,280000,Salaried,1.1,98000,Fair,3,On-Time,55500,Education Loan,0.35,0,Medium
+FIN-2169,39,578000,Salaried,3.2,277000,Fair,1,On-Time,57900,Personal Loan,0.48,0,Low
+FIN-2170,25,574000,Salaried,0.2,144000,Fair,0,On-Time,163100,Home Loan,0.25,0,Medium
+FIN-2171,32,353000,Salaried,10.3,533000,Good,0,On-Time,73300,Education Loan,1.51,0,Low
+FIN-2172,33,665000,Salaried,3.6,1889000,Fair,1,On-Time,57700,Personal Loan,2.84,0,Medium
+FIN-2173,34,396000,Salaried,8.4,91000,Good,2,On-Time,32900,Personal Loan,0.23,0,Low
+FIN-2174,35,904000,Self-Employed,1.3,1012000,Fair,0,On-Time,205900,Education Loan,1.12,0,Low
+FIN-2175,34,755000,Salaried,2.9,310000,Fair,0,On-Time,225900,Personal Loan,0.41,0,Low
+FIN-2176,39,465000,Salaried,7.6,70000,Fair,2,1-2 Missed,92700,Personal Loan,0.15,0,Medium
+FIN-2177,21,832000,Self-Employed,0.3,1290000,Poor,3,On-Time,136200,Personal Loan,1.55,1,High
+FIN-2178,38,430000,Salaried,5.3,232000,Good,0,On-Time,54100,Personal Loan,0.54,0,Low
+FIN-2179,32,840000,Salaried,1.0,638000,Fair,0,1-2 Missed,100000,Education Loan,0.76,0,Medium
+FIN-2180,29,715000,Self-Employed,0.2,143000,Good,0,On-Time,141600,Business Loan,0.2,0,Low
+FIN-2181,28,958000,Salaried,1.3,1035000,Good,2,On-Time,238000,Auto Loan,1.08,0,Low
+FIN-2182,29,519000,Self-Employed,0.5,436000,Good,0,On-Time,107900,Personal Loan,0.84,0,Low
+FIN-2183,30,819000,Salaried,1.5,2621000,Good,0,On-Time,182900,Auto Loan,3.2,0,Medium
+FIN-2184,35,315000,Salaried,3.1,293000,Fair,2,Frequent,82300,Personal Loan,0.93,1,High
+FIN-2185,40,480000,Self-Employed,4.0,749000,Good,0,On-Time,69500,Education Loan,1.56,0,Low
+FIN-2186,39,455000,Unemployed,0.0,1602000,Good,1,On-Time,97600,Education Loan,3.52,0,Medium
+FIN-2187,34,944000,Salaried,2.3,1010000,Poor,1,1-2 Missed,275300,Auto Loan,1.07,1,High
+FIN-2188,31,435000,Salaried,1.3,940000,Good,1,On-Time,48800,Personal Loan,2.16,0,Medium
+FIN-2189,28,483000,Salaried,0.8,840000,Fair,0,On-Time,39800,Auto Loan,1.74,0,Medium
+FIN-2190,33,692000,Salaried,1.3,1073000,Fair,1,On-Time,45700,Personal Loan,1.55,1,Medium
+FIN-2191,28,391000,Salaried,3.5,293000,Fair,1,On-Time,95400,Personal Loan,0.75,0,Low
+FIN-2192,25,515000,Salaried,5.0,175000,Fair,1,On-Time,117200,Education Loan,0.34,0,Low
+FIN-2193,29,334000,Salaried,0.2,825000,Good,1,On-Time,89200,Education Loan,2.47,0,Medium
+FIN-2194,32,277000,Salaried,5.9,330000,Good,2,1-2 Missed,71900,Personal Loan,1.19,0,Medium
+FIN-2195,29,796000,Self-Employed,5.0,1274000,Good,2,On-Time,217300,Personal Loan,1.6,0,Medium
+FIN-2196,33,306000,Salaried,13.8,193000,Good,1,On-Time,21800,Education Loan,0.63,0,Low
+FIN-2197,42,766000,Salaried,9.8,475000,Poor,1,On-Time,211700,Personal Loan,0.62,0,Medium
+FIN-2198,33,632000,Salaried,1.0,1536000,Fair,2,On-Time,102700,Business Loan,2.43,1,High
+FIN-2199,29,704000,Salaried,1.8,1014000,Good,2,On-Time,98800,Personal Loan,1.44,1,Medium
+FIN-2200,29,348000,Salaried,2.5,738000,Fair,3,On-Time,62800,Personal Loan,2.12,1,High
+FIN-2201,24,539000,Salaried,0.7,539000,Fair,0,On-Time,157600,Education Loan,1.0,0,Medium
+FIN-2202,33,517000,Unemployed,0.0,212000,Fair,2,1-2 Missed,39900,Education Loan,0.41,1,High
+FIN-2203,33,599000,Salaried,10.5,1551000,Poor,3,On-Time,140300,Home Loan,2.59,1,High
+FIN-2204,29,1360000,Salaried,2.7,1632000,Fair,2,Frequent,143400,Education Loan,1.2,0,High
+FIN-2205,25,432000,Unemployed,0.0,367000,Fair,1,1-2 Missed,91900,Education Loan,0.85,0,Medium
+FIN-2206,32,432000,Self-Employed,1.1,298000,Good,0,On-Time,24100,Personal Loan,0.69,0,Low
+FIN-2207,29,544000,Salaried,6.6,250000,Poor,0,On-Time,89400,Personal Loan,0.46,0,Medium
+FIN-2208,39,708000,Salaried,1.8,1154000,Fair,2,On-Time,116000,Education Loan,1.63,0,Medium
+FIN-2209,33,585000,Salaried,0.1,1100000,Good,0,On-Time,93700,Personal Loan,1.88,1,Medium
+FIN-2210,26,240000,Self-Employed,0.3,98000,Good,1,1-2 Missed,12300,Personal Loan,0.41,0,Medium
+FIN-2211,28,1323000,Salaried,5.0,450000,Fair,2,On-Time,225800,Personal Loan,0.34,0,Medium
+FIN-2212,23,240000,Salaried,0.3,451000,Fair,2,1-2 Missed,64400,Education Loan,1.88,1,High
+FIN-2213,27,240000,Salaried,0.8,149000,Good,0,On-Time,55200,Personal Loan,0.62,0,Low
+FIN-2214,41,381000,Self-Employed,6.8,297000,Good,0,1-2 Missed,31100,Personal Loan,0.78,1,Low
+FIN-2215,30,698000,Salaried,2.4,1557000,Fair,0,1-2 Missed,107000,Personal Loan,2.23,0,High
+FIN-2216,26,951000,Salaried,3.4,1037000,Poor,1,1-2 Missed,62000,Personal Loan,1.09,1,High
+FIN-2217,27,240000,Salaried,1.6,137000,Fair,2,On-Time,19900,Education Loan,0.57,0,Medium
+FIN-2218,28,798000,Salaried,0.2,1117000,Fair,2,1-2 Missed,148800,Personal Loan,1.4,0,High
+FIN-2219,29,1508000,Salaried,2.1,709000,Good,2,On-Time,231600,Personal Loan,0.47,0,Low
+FIN-2220,27,483000,Salaried,0.2,642000,Good,1,Frequent,31400,Personal Loan,1.33,1,High
+FIN-2221,31,390000,Salaried,0.7,359000,Good,1,On-Time,109400,Home Loan,0.92,0,Low
+FIN-2222,26,781000,Salaried,0.1,445000,Fair,2,On-Time,43900,Auto Loan,0.57,1,Medium
+FIN-2223,29,1985000,Self-Employed,0.3,2104000,Poor,1,Frequent,495300,Personal Loan,1.06,1,High
+FIN-2224,28,613000,Salaried,2.7,392000,Fair,2,On-Time,86800,Auto Loan,0.64,1,Medium
+FIN-2225,23,682000,Salaried,0.0,2332000,Good,2,On-Time,141200,Personal Loan,3.42,0,High
+FIN-2226,39,347000,Salaried,4.5,468000,Poor,0,On-Time,85100,Education Loan,1.35,0,Medium
+FIN-2227,37,537000,Salaried,4.3,81000,Fair,0,On-Time,41200,Education Loan,0.15,1,Low
+FIN-2228,25,240000,Salaried,0.4,91000,Fair,0,1-2 Missed,52100,Auto Loan,0.38,0,Medium
+FIN-2229,30,481000,Salaried,2.7,135000,Fair,0,On-Time,124100,Education Loan,0.28,0,Low
+FIN-2230,29,405000,Salaried,0.1,664000,Good,1,On-Time,47500,Personal Loan,1.64,0,Medium
+FIN-2231,26,765000,Salaried,0.9,191000,Fair,2,1-2 Missed,61800,Personal Loan,0.25,1,High
+FIN-2232,37,762000,Self-Employed,7.6,1265000,Fair,2,Frequent,217100,Personal Loan,1.66,1,High
+FIN-2233,33,240000,Salaried,0.1,89000,Good,0,Frequent,38900,Business Loan,0.37,1,High
+FIN-2234,24,881000,Salaried,0.1,1418000,Good,0,On-Time,120500,Auto Loan,1.61,1,Medium
+FIN-2235,33,300000,Salaried,2.2,162000,Fair,0,Frequent,85400,Auto Loan,0.54,1,High
+FIN-2236,38,1260000,Salaried,8.9,3994000,Good,3,On-Time,311000,Education Loan,3.17,0,Medium
+FIN-2237,28,874000,Salaried,0.5,454000,Good,1,On-Time,101400,Personal Loan,0.52,0,Low
+FIN-2238,28,810000,Self-Employed,2.0,1336000,Good,2,On-Time,130900,Personal Loan,1.65,1,Medium
+FIN-2239,26,415000,Self-Employed,2.6,498000,Fair,1,On-Time,111100,Personal Loan,1.2,0,Low
+FIN-2240,33,670000,Salaried,4.2,369000,Poor,1,1-2 Missed,146500,Education Loan,0.55,1,High
+FIN-2241,25,534000,Salaried,0.6,812000,Poor,2,On-Time,103900,Auto Loan,1.52,1,High
+FIN-2242,27,240000,Salaried,0.2,257000,Fair,1,On-Time,47300,Education Loan,1.07,0,Medium
+FIN-2243,42,1140000,Salaried,1.0,239000,Poor,3,On-Time,97000,Education Loan,0.21,0,High
+FIN-2244,25,240000,Salaried,1.7,108000,Poor,1,On-Time,38900,Education Loan,0.45,1,Medium
+FIN-2245,42,1715000,Salaried,10.5,1080000,Fair,1,On-Time,118300,Education Loan,0.63,0,Low
+FIN-2246,37,241000,Salaried,4.4,436000,Fair,3,On-Time,36800,Education Loan,1.81,1,Medium
+FIN-2247,23,240000,Unemployed,0.0,336000,Good,0,On-Time,46800,Auto Loan,1.4,0,Medium
+FIN-2248,24,387000,Salaried,1.5,209000,Poor,1,Frequent,59500,Education Loan,0.54,1,High
+FIN-2249,28,588000,Self-Employed,0.7,500000,Poor,2,On-Time,159200,Home Loan,0.85,1,High
+FIN-2250,28,731000,Salaried,1.1,738000,Poor,3,On-Time,51700,Personal Loan,1.01,1,High
+FIN-2251,35,672000,Salaried,0.7,1109000,Poor,1,On-Time,77500,Education Loan,1.65,1,High
+FIN-2252,34,1569000,Self-Employed,2.2,4409000,Good,1,On-Time,273900,Personal Loan,2.81,0,Medium
+FIN-2253,31,550000,Salaried,0.4,891000,Good,0,On-Time,85800,Auto Loan,1.62,1,Medium
+FIN-2254,30,1067000,Self-Employed,2.9,598000,Good,0,1-2 Missed,148400,Education Loan,0.56,0,Low
+FIN-2255,38,320000,Unemployed,0.0,528000,Good,0,On-Time,92300,Auto Loan,1.65,1,Medium
+FIN-2256,28,554000,Salaried,1.4,537000,Good,1,On-Time,77400,Auto Loan,0.97,0,Low
+FIN-2257,40,441000,Salaried,0.5,322000,Good,0,1-2 Missed,70100,Education Loan,0.73,0,Medium
+FIN-2258,35,455000,Salaried,1.0,291000,Good,1,On-Time,30300,Education Loan,0.64,0,Low
+FIN-2259,34,417000,Salaried,1.1,659000,Good,1,Frequent,22200,Home Loan,1.58,1,High
+FIN-2260,22,402000,Salaried,1.1,297000,Good,0,1-2 Missed,98300,Personal Loan,0.74,0,Low
+FIN-2261,38,723000,Salaried,1.4,868000,Good,1,On-Time,153900,Home Loan,1.2,0,Low
+FIN-2262,33,480000,Unemployed,0.0,144000,Good,0,On-Time,28200,Personal Loan,0.3,0,Low
+FIN-2263,40,416000,Salaried,4.5,711000,Good,2,1-2 Missed,102200,Auto Loan,1.71,0,Medium
+FIN-2264,23,311000,Salaried,0.1,432000,Poor,3,On-Time,28200,Personal Loan,1.39,1,High
+FIN-2265,28,327000,Self-Employed,1.1,844000,Good,1,1-2 Missed,48800,Personal Loan,2.58,0,Medium
+FIN-2266,40,626000,Salaried,3.7,401000,Fair,1,1-2 Missed,70400,Education Loan,0.64,0,Medium
+FIN-2267,36,398000,Salaried,3.4,143000,Good,2,1-2 Missed,103400,Education Loan,0.36,0,Medium
+FIN-2268,37,630000,Salaried,1.3,573000,Poor,2,1-2 Missed,92500,Education Loan,0.91,1,High
+FIN-2269,34,462000,Salaried,2.3,425000,Fair,3,On-Time,33900,Personal Loan,0.92,0,Medium
+FIN-2270,28,794000,Salaried,0.2,532000,Good,0,On-Time,209800,Auto Loan,0.67,0,Low
+FIN-2271,28,248000,Salaried,4.8,424000,Good,0,1-2 Missed,17200,Personal Loan,1.71,0,Medium
+FIN-2272,39,625000,Salaried,5.3,138000,Good,0,1-2 Missed,48200,Education Loan,0.22,0,Low
+FIN-2273,33,534000,Salaried,0.2,806000,Good,0,On-Time,85900,Personal Loan,1.51,0,Medium
+FIN-2274,33,278000,Unemployed,0.0,78000,Fair,1,On-Time,15600,Personal Loan,0.28,0,Medium
+FIN-2275,28,507000,Salaried,5.0,345000,Good,1,On-Time,98300,Personal Loan,0.68,0,Low
+FIN-2276,35,421000,Unemployed,0.0,105000,Good,0,On-Time,49400,Home Loan,0.25,0,Low
+FIN-2277,28,443000,Unemployed,0.0,864000,Fair,2,On-Time,126800,Personal Loan,1.95,1,High
+FIN-2278,34,478000,Salaried,0.7,72000,Fair,2,On-Time,88700,Personal Loan,0.15,1,Medium
+FIN-2279,38,1274000,Salaried,3.0,956000,Good,1,1-2 Missed,169800,Education Loan,0.75,0,Low
+FIN-2280,21,664000,Salaried,0.6,750000,Good,0,1-2 Missed,52600,Auto Loan,1.13,0,Medium
+FIN-2281,33,803000,Self-Employed,0.8,1333000,Good,1,Frequent,232800,Education Loan,1.66,1,High
+FIN-2282,30,997000,Salaried,5.9,668000,Fair,2,On-Time,244300,Personal Loan,0.67,0,Medium
+FIN-2283,33,1064000,Salaried,2.3,500000,Good,1,1-2 Missed,302200,Business Loan,0.47,0,Low
+FIN-2284,29,371000,Salaried,0.5,352000,Good,1,On-Time,102800,Personal Loan,0.95,0,Low
+FIN-2285,39,348000,Salaried,5.1,94000,Poor,0,On-Time,62000,Personal Loan,0.27,0,Medium
+FIN-2286,39,1168000,Self-Employed,1.2,491000,Good,2,On-Time,208200,Personal Loan,0.42,0,Low
+FIN-2287,32,421000,Salaried,3.1,269000,Poor,0,On-Time,88800,Auto Loan,0.64,1,Medium
+FIN-2288,31,381000,Unemployed,0.0,164000,Good,1,On-Time,67100,Education Loan,0.43,0,Low
+FIN-2289,24,1545000,Self-Employed,0.2,1931000,Fair,1,On-Time,452200,Education Loan,1.25,1,Medium
+FIN-2290,36,240000,Self-Employed,4.7,110000,Fair,0,On-Time,23600,Education Loan,0.46,0,Low
+FIN-2291,30,1436000,Self-Employed,3.2,3734000,Good,2,On-Time,249000,Personal Loan,2.6,0,Medium
+FIN-2292,27,563000,Self-Employed,0.7,180000,Poor,1,Frequent,49800,Personal Loan,0.32,1,High
+FIN-2293,32,603000,Salaried,4.4,211000,Fair,3,On-Time,148200,Auto Loan,0.35,0,Medium
+FIN-2294,32,823000,Salaried,1.3,2913000,Fair,0,On-Time,217500,Education Loan,3.54,0,Medium
+FIN-2295,27,240000,Salaried,2.2,434000,Fair,1,On-Time,49800,Personal Loan,1.81,0,Medium
+FIN-2296,28,432000,Salaried,0.8,1387000,Good,1,On-Time,96000,Personal Loan,3.21,0,Medium
+FIN-2297,31,422000,Salaried,0.6,266000,Fair,1,On-Time,49500,Auto Loan,0.63,0,Medium
+FIN-2298,32,340000,Salaried,3.3,337000,Poor,3,1-2 Missed,20600,Education Loan,0.99,1,High
+FIN-2299,38,240000,Salaried,7.0,250000,Good,3,On-Time,64700,Personal Loan,1.04,0,Low
+FIN-2300,29,658000,Salaried,0.9,750000,Good,1,1-2 Missed,113400,Education Loan,1.14,0,Medium
+FIN-2301,33,393000,Self-Employed,3.1,684000,Good,1,On-Time,61500,Personal Loan,1.74,0,Low
+FIN-2302,21,1188000,Salaried,0.7,249000,Good,1,On-Time,259100,Personal Loan,0.21,0,Low
+FIN-2303,32,302000,Salaried,1.0,362000,Good,0,On-Time,70700,Education Loan,1.2,0,Low
+FIN-2304,25,564000,Self-Employed,2.3,85000,Good,2,Frequent,44300,Education Loan,0.15,1,High
+FIN-2305,28,627000,Self-Employed,1.8,489000,Good,1,On-Time,179800,Auto Loan,0.78,0,Low
+FIN-2306,22,980000,Self-Employed,0.5,1588000,Fair,1,On-Time,235100,Education Loan,1.62,0,Medium
+FIN-2307,30,397000,Self-Employed,0.1,167000,Good,3,On-Time,50300,Personal Loan,0.42,0,Medium
+FIN-2308,34,264000,Salaried,10.3,129000,Good,3,On-Time,19500,Home Loan,0.49,0,Low
+FIN-2309,25,1047000,Self-Employed,3.2,157000,Good,0,On-Time,169200,Auto Loan,0.15,0,Low
+FIN-2310,34,395000,Salaried,1.3,912000,Poor,0,On-Time,67600,Personal Loan,2.31,0,High
+FIN-2311,29,984000,Salaried,2.2,915000,Good,1,Frequent,220200,Education Loan,0.93,0,Medium
+FIN-2312,29,483000,Salaried,2.9,396000,Fair,0,1-2 Missed,131300,Education Loan,0.82,0,Medium
+FIN-2313,25,705000,Salaried,0.2,282000,Good,2,1-2 Missed,211200,Personal Loan,0.4,1,Medium
+FIN-2314,29,545000,Salaried,0.4,1215000,Good,0,On-Time,146100,Personal Loan,2.23,0,Medium
+FIN-2315,26,1243000,Salaried,3.2,1964000,Fair,2,Frequent,83600,Education Loan,1.58,1,High
+FIN-2316,28,334000,Salaried,6.0,321000,Good,1,1-2 Missed,22300,Auto Loan,0.96,0,Low
+FIN-2317,31,470000,Salaried,1.6,461000,Fair,1,On-Time,67700,Personal Loan,0.98,0,Low
+FIN-2318,35,726000,Salaried,1.4,1604000,Good,1,1-2 Missed,166100,Personal Loan,2.21,0,Medium
+FIN-2319,30,484000,Salaried,0.2,624000,Good,1,On-Time,97800,Auto Loan,1.29,0,Medium
+FIN-2320,30,384000,Self-Employed,1.9,88000,Good,1,On-Time,77200,Personal Loan,0.23,0,Low
+FIN-2321,22,777000,Salaried,1.8,886000,Good,0,On-Time,118500,Education Loan,1.14,0,Low
+FIN-2322,34,540000,Salaried,8.2,448000,Fair,0,On-Time,157200,Personal Loan,0.83,1,Low
+FIN-2323,36,683000,Salaried,0.7,1031000,Fair,1,On-Time,84300,Personal Loan,1.51,1,Medium
+FIN-2324,27,421000,Unemployed,0.0,274000,Good,1,On-Time,28700,Education Loan,0.65,0,Low
+FIN-2325,28,253000,Salaried,0.5,101000,Good,0,On-Time,30700,Personal Loan,0.4,0,Low
+FIN-2326,31,308000,Salaried,0.7,203000,Fair,0,On-Time,61400,Education Loan,0.66,0,Medium
+FIN-2327,27,426000,Salaried,1.7,422000,Fair,0,On-Time,79200,Personal Loan,0.99,0,Low
+FIN-2328,34,405000,Salaried,4.3,474000,Good,0,On-Time,66500,Personal Loan,1.17,0,Low
+FIN-2329,37,377000,Self-Employed,3.0,196000,Good,0,On-Time,71500,Personal Loan,0.52,0,Low
+FIN-2330,39,811000,Salaried,3.0,324000,Poor,0,On-Time,238500,Business Loan,0.4,0,Medium
+FIN-2331,23,889000,Salaried,0.3,231000,Good,1,On-Time,153100,Education Loan,0.26,0,Low
+FIN-2332,28,854000,Salaried,1.3,1512000,Poor,0,1-2 Missed,77900,Personal Loan,1.77,1,High
+FIN-2333,29,356000,Salaried,8.6,395000,Good,1,On-Time,62100,Auto Loan,1.11,0,Low
+FIN-2334,32,339000,Self-Employed,6.5,224000,Poor,1,1-2 Missed,38200,Education Loan,0.66,0,High
+FIN-2335,33,592000,Salaried,0.7,1166000,Fair,0,1-2 Missed,40900,Education Loan,1.97,1,High
+FIN-2336,28,352000,Salaried,3.4,317000,Fair,1,On-Time,55800,Personal Loan,0.9,0,Low
+FIN-2337,28,948000,Salaried,10.0,275000,Fair,2,Frequent,247000,Education Loan,0.29,0,High
+FIN-2338,27,360000,Salaried,0.9,788000,Fair,0,On-Time,49800,Education Loan,2.19,1,High
+FIN-2339,41,297000,Self-Employed,3.5,419000,Good,1,On-Time,33700,Education Loan,1.41,0,Low
+FIN-2340,28,305000,Salaried,2.5,424000,Fair,3,On-Time,51800,Home Loan,1.39,0,Medium
+FIN-2341,25,1202000,Salaried,1.2,240000,Good,0,On-Time,68100,Personal Loan,0.2,0,Low
+FIN-2342,22,819000,Self-Employed,0.3,213000,Fair,0,On-Time,161200,Home Loan,0.26,0,Medium
+FIN-2343,27,544000,Salaried,0.0,462000,Fair,1,1-2 Missed,130900,Personal Loan,0.85,0,Medium
+FIN-2344,36,708000,Self-Employed,0.6,1883000,Poor,1,On-Time,66900,Personal Loan,2.66,1,High
+FIN-2345,27,676000,Salaried,3.1,128000,Fair,3,On-Time,165600,Education Loan,0.19,1,Medium
+FIN-2346,35,601000,Salaried,3.3,1761000,Good,0,On-Time,128900,Business Loan,2.93,0,Medium
+FIN-2347,30,248000,Salaried,0.1,427000,Fair,0,Frequent,40600,Education Loan,1.72,1,High
+FIN-2348,27,459000,Salaried,2.4,390000,Fair,2,On-Time,98600,Education Loan,0.85,1,Medium
+FIN-2349,23,518000,Salaried,0.2,409000,Good,2,On-Time,147100,Education Loan,0.79,0,Medium
+FIN-2350,33,1538000,Self-Employed,4.1,1400000,Good,1,1-2 Missed,454800,Personal Loan,0.91,0,Low
+FIN-2351,28,805000,Salaried,2.0,491000,Good,0,1-2 Missed,64100,Education Loan,0.61,0,Low
+FIN-2352,32,804000,Salaried,2.2,691000,Good,2,Frequent,178300,Personal Loan,0.86,1,High
+FIN-2353,28,675000,Salaried,4.5,148000,Good,1,1-2 Missed,189100,Education Loan,0.22,0,Low
+FIN-2354,28,363000,Salaried,5.8,167000,Good,2,Frequent,65400,Education Loan,0.46,1,High
+FIN-2355,36,404000,Self-Employed,1.1,202000,Poor,1,1-2 Missed,110500,Personal Loan,0.5,1,High
+FIN-2356,35,441000,Salaried,2.0,198000,Poor,1,On-Time,101900,Personal Loan,0.45,1,Medium
+FIN-2357,34,348000,Self-Employed,3.3,505000,Fair,0,On-Time,91200,Education Loan,1.45,0,Medium
+FIN-2358,39,430000,Salaried,1.3,284000,Poor,1,On-Time,100400,Personal Loan,0.66,0,Medium
+FIN-2359,29,740000,Salaried,0.8,318000,Good,1,1-2 Missed,146900,Auto Loan,0.43,0,Medium
+FIN-2360,39,567000,Salaried,3.2,692000,Good,2,On-Time,39800,Business Loan,1.22,1,Medium
+FIN-2361,33,497000,Self-Employed,1.6,507000,Poor,2,On-Time,48900,Personal Loan,1.02,1,Medium
+FIN-2362,26,361000,Self-Employed,0.6,473000,Good,0,On-Time,64000,Personal Loan,1.31,0,Medium
+FIN-2363,31,640000,Salaried,3.3,787000,Good,1,1-2 Missed,154900,Personal Loan,1.23,0,Medium
+FIN-2364,25,248000,Self-Employed,0.5,164000,Good,0,Frequent,50400,Education Loan,0.66,1,High
+FIN-2365,28,404000,Unemployed,0.0,364000,Good,0,1-2 Missed,37300,Personal Loan,0.9,0,Medium
+FIN-2366,38,273000,Salaried,0.6,491000,Poor,1,1-2 Missed,23400,Personal Loan,1.8,1,High
+FIN-2367,31,240000,Self-Employed,1.1,190000,Fair,2,On-Time,40300,Personal Loan,0.79,0,Medium
+FIN-2368,32,417000,Salaried,3.2,138000,Fair,1,1-2 Missed,39900,Home Loan,0.33,0,Medium
+FIN-2369,24,606000,Salaried,1.7,848000,Good,0,On-Time,129500,Personal Loan,1.4,0,Low
+FIN-2370,31,427000,Salaried,0.5,260000,Good,1,On-Time,52900,Auto Loan,0.61,0,Low
+FIN-2371,35,240000,Salaried,0.3,403000,Good,1,On-Time,24000,Auto Loan,1.68,0,Medium
+FIN-2372,37,1437000,Salaried,5.0,1336000,Good,1,On-Time,106400,Personal Loan,0.93,0,Low
+FIN-2373,40,549000,Unemployed,0.0,274000,Poor,1,Frequent,55100,Personal Loan,0.5,0,High
+FIN-2374,24,1110000,Salaried,0.7,844000,Good,0,On-Time,319400,Personal Loan,0.76,0,Low
+FIN-2375,38,910000,Salaried,4.1,482000,Poor,1,On-Time,200700,Personal Loan,0.53,0,Medium
+FIN-2376,30,599000,Self-Employed,0.8,713000,Good,1,1-2 Missed,96100,Personal Loan,1.19,0,Medium
+FIN-2377,26,430000,Self-Employed,0.2,280000,Good,0,On-Time,47200,Education Loan,0.65,0,Low
+FIN-2378,41,1047000,Salaried,5.6,1194000,Good,0,1-2 Missed,134400,Personal Loan,1.14,0,Low
+FIN-2379,25,364000,Self-Employed,0.0,604000,Fair,1,1-2 Missed,53000,Education Loan,1.66,0,High
+FIN-2380,33,786000,Salaried,1.9,1800000,Fair,0,1-2 Missed,191900,Personal Loan,2.29,1,High
+FIN-2381,25,534000,Salaried,0.0,518000,Fair,1,On-Time,91700,Home Loan,0.97,0,Medium
+FIN-2382,25,802000,Salaried,0.4,120000,Poor,0,Frequent,206000,Personal Loan,0.15,1,High
+FIN-2383,26,381000,Salaried,3.3,301000,Fair,0,On-Time,32000,Education Loan,0.79,0,Low
+FIN-2384,31,867000,Salaried,3.8,425000,Fair,0,1-2 Missed,145400,Education Loan,0.49,1,Medium
+FIN-2385,30,305000,Salaried,1.9,140000,Good,1,On-Time,82100,Personal Loan,0.46,0,Low
+FIN-2386,33,792000,Salaried,0.2,1283000,Good,0,On-Time,174300,Home Loan,1.62,1,Medium
+FIN-2387,35,415000,Salaried,1.4,407000,Good,2,Frequent,100100,Personal Loan,0.98,1,High
+FIN-2388,30,296000,Salaried,0.2,219000,Good,1,On-Time,52500,Personal Loan,0.74,0,Low
+FIN-2389,31,489000,Self-Employed,7.1,337000,Good,2,On-Time,38100,Business Loan,0.69,0,Low
+FIN-2390,31,298000,Salaried,2.0,122000,Good,2,On-Time,21400,Auto Loan,0.41,0,Low
+FIN-2391,29,354000,Self-Employed,6.4,53000,Fair,0,1-2 Missed,23400,Education Loan,0.15,0,Medium
+FIN-2392,32,240000,Self-Employed,1.1,103000,Good,1,On-Time,59400,Personal Loan,0.43,0,Low
+FIN-2393,28,622000,Salaried,3.0,137000,Poor,1,Frequent,177700,Education Loan,0.22,0,High
+FIN-2394,33,951000,Self-Employed,7.2,456000,Fair,1,Frequent,136300,Home Loan,0.48,1,High
+FIN-2395,34,240000,Salaried,2.2,322000,Fair,0,On-Time,63200,Personal Loan,1.34,0,Medium
+FIN-2396,34,379000,Salaried,4.6,447000,Good,3,Frequent,52800,Personal Loan,1.18,1,High
+FIN-2397,33,1119000,Salaried,4.9,716000,Fair,0,Frequent,91700,Personal Loan,0.64,0,High
+FIN-2398,41,597000,Salaried,2.0,597000,Poor,2,On-Time,37100,Education Loan,1.0,0,Medium
+FIN-2399,40,668000,Unemployed,0.0,1109000,Poor,0,On-Time,37600,Personal Loan,1.66,1,High
+FIN-2400,39,529000,Salaried,9.9,101000,Good,1,Frequent,63100,Education Loan,0.19,0,Medium
+FIN-2401,33,349000,Salaried,0.9,925000,Good,0,On-Time,39800,Personal Loan,2.65,0,Medium
+FIN-2402,22,501000,Salaried,0.2,446000,Good,1,1-2 Missed,47300,Education Loan,0.89,0,Medium
+FIN-2403,43,677000,Self-Employed,0.9,379000,Fair,3,On-Time,133600,Auto Loan,0.56,1,Medium
+FIN-2404,26,240000,Self-Employed,7.0,456000,Poor,1,On-Time,36500,Auto Loan,1.9,0,Medium
+FIN-2405,30,453000,Salaried,0.2,680000,Good,1,On-Time,38200,Auto Loan,1.5,1,Medium
+FIN-2406,29,901000,Salaried,0.0,180000,Poor,1,1-2 Missed,61900,Personal Loan,0.2,0,High
+FIN-2407,37,637000,Salaried,1.7,1108000,Fair,0,On-Time,147200,Education Loan,1.74,1,Medium
+FIN-2408,26,704000,Salaried,0.7,1971000,Fair,1,On-Time,56900,Education Loan,2.8,1,High
+FIN-2409,28,945000,Salaried,0.1,397000,Fair,2,On-Time,136600,Education Loan,0.42,1,Medium
+FIN-2410,25,584000,Salaried,1.1,514000,Poor,1,On-Time,167300,Education Loan,0.88,0,Medium
+FIN-2411,30,427000,Salaried,0.6,295000,Good,0,On-Time,93800,Auto Loan,0.69,0,Low
+FIN-2412,28,406000,Self-Employed,1.2,532000,Fair,1,Frequent,51500,Personal Loan,1.31,1,High
+FIN-2413,32,546000,Salaried,6.5,98000,Poor,1,1-2 Missed,140700,Education Loan,0.18,0,High
+FIN-2414,29,415000,Salaried,0.2,295000,Good,1,On-Time,26300,Business Loan,0.71,0,Low
+FIN-2415,39,1113000,Salaried,1.6,512000,Fair,0,On-Time,260100,Education Loan,0.46,0,Low
+FIN-2416,40,810000,Salaried,11.2,421000,Good,3,Frequent,194500,Auto Loan,0.52,1,High
+FIN-2417,31,342000,Salaried,1.9,72000,Good,0,On-Time,78700,Personal Loan,0.21,0,Low
+FIN-2418,36,744000,Salaried,1.9,491000,Fair,1,On-Time,90300,Personal Loan,0.66,0,Low
+FIN-2419,27,843000,Salaried,3.2,514000,Good,2,On-Time,50800,Business Loan,0.61,0,Low
+FIN-2420,35,753000,Salaried,5.5,1370000,Poor,1,Frequent,184700,Education Loan,1.82,1,High
+FIN-2421,31,246000,Salaried,4.1,519000,Good,0,On-Time,14300,Auto Loan,2.11,0,Medium
+FIN-2422,25,352000,Salaried,1.1,236000,Good,3,On-Time,82200,Personal Loan,0.67,0,Low
+FIN-2423,37,315000,Self-Employed,1.7,989000,Poor,1,On-Time,87200,Personal Loan,3.14,1,High
+FIN-2424,33,503000,Salaried,4.7,372000,Fair,1,On-Time,128100,Education Loan,0.74,0,Low
+FIN-2425,29,391000,Salaried,2.6,446000,Poor,1,Frequent,83600,Home Loan,1.14,1,High
+FIN-2426,30,394000,Unemployed,0.0,335000,Good,0,1-2 Missed,42900,Education Loan,0.85,1,Medium
+FIN-2427,23,545000,Salaried,2.9,338000,Good,1,On-Time,138200,Education Loan,0.62,0,Low
+FIN-2428,30,1182000,Self-Employed,0.1,827000,Good,2,On-Time,333300,Personal Loan,0.7,0,Medium
+FIN-2429,34,1126000,Salaried,3.1,270000,Good,0,On-Time,94400,Personal Loan,0.24,0,Low
+FIN-2430,25,971000,Salaried,0.0,418000,Good,2,On-Time,171100,Personal Loan,0.43,0,Medium
+FIN-2431,41,399000,Unemployed,0.0,192000,Good,1,On-Time,43100,Personal Loan,0.48,0,Low
+FIN-2432,39,417000,Salaried,5.8,67000,Good,1,On-Time,29300,Auto Loan,0.16,0,Low
+FIN-2433,24,415000,Salaried,0.0,540000,Fair,0,Frequent,64000,Auto Loan,1.3,1,High
+FIN-2434,32,388000,Salaried,0.5,380000,Fair,0,1-2 Missed,38900,Personal Loan,0.98,0,Medium
+FIN-2435,36,451000,Salaried,1.1,140000,Good,1,On-Time,62700,Personal Loan,0.31,0,Low
+FIN-2436,31,431000,Salaried,0.6,340000,Good,1,On-Time,99500,Personal Loan,0.79,0,Low
+FIN-2437,22,410000,Salaried,0.6,316000,Good,2,Frequent,105800,Education Loan,0.77,1,High
+FIN-2438,26,463000,Salaried,0.2,732000,Good,0,1-2 Missed,64900,Personal Loan,1.58,0,Medium
+FIN-2439,30,420000,Salaried,0.3,302000,Poor,1,On-Time,33300,Personal Loan,0.72,0,High
+FIN-2440,25,695000,Self-Employed,1.4,1348000,Good,1,On-Time,193800,Personal Loan,1.94,0,Low
+FIN-2441,26,240000,Salaried,1.2,310000,Fair,1,Frequent,61600,Personal Loan,1.29,1,High
+FIN-2442,43,518000,Salaried,1.7,300000,Fair,0,Frequent,126700,Personal Loan,0.58,1,High
+FIN-2443,32,333000,Self-Employed,0.6,120000,Good,2,On-Time,62700,Education Loan,0.36,0,Medium
+FIN-2444,30,425000,Salaried,0.7,208000,Good,0,On-Time,37000,Personal Loan,0.49,0,Low
+FIN-2445,30,908000,Salaried,0.2,1907000,Poor,2,On-Time,160200,Auto Loan,2.1,1,High
+FIN-2446,28,592000,Salaried,2.0,539000,Good,0,On-Time,41700,Personal Loan,0.91,0,Low
+FIN-2447,22,413000,Salaried,0.4,227000,Good,1,On-Time,54200,Education Loan,0.55,0,Low
+FIN-2448,42,401000,Salaried,12.1,1311000,Poor,0,1-2 Missed,69100,Auto Loan,3.27,1,High
+FIN-2449,33,879000,Salaried,1.8,826000,Good,2,1-2 Missed,57100,Personal Loan,0.94,0,Medium
+FIN-2450,29,358000,Salaried,2.0,243000,Good,1,On-Time,31000,Education Loan,0.68,0,Low
+FIN-2451,39,310000,Salaried,0.8,344000,Good,0,On-Time,17800,Auto Loan,1.11,0,Low
+FIN-2452,35,1163000,Salaried,8.0,291000,Good,0,On-Time,199600,Personal Loan,0.25,0,Low
+FIN-2453,30,487000,Salaried,0.0,399000,Fair,1,On-Time,94400,Personal Loan,0.82,1,Medium
+FIN-2454,28,1059000,Salaried,9.6,360000,Good,1,On-Time,210700,Auto Loan,0.34,0,Low
+FIN-2455,36,395000,Salaried,1.4,474000,Fair,0,1-2 Missed,49500,Auto Loan,1.2,0,Medium
+FIN-2456,26,393000,Self-Employed,2.1,715000,Good,0,On-Time,41100,Personal Loan,1.82,0,Low
+FIN-2457,30,380000,Self-Employed,0.6,604000,Poor,0,On-Time,83900,Education Loan,1.59,1,High
+FIN-2458,42,538000,Salaried,2.1,350000,Good,1,1-2 Missed,85500,Personal Loan,0.65,0,Low
+FIN-2459,27,316000,Salaried,1.8,92000,Good,0,On-Time,30100,Personal Loan,0.29,0,Low
+FIN-2460,28,480000,Self-Employed,2.2,379000,Good,2,1-2 Missed,46000,Education Loan,0.79,0,Medium
+FIN-2461,25,771000,Salaried,0.9,609000,Fair,3,On-Time,84400,Personal Loan,0.79,0,Medium
+FIN-2462,38,449000,Salaried,5.2,530000,Good,2,On-Time,49200,Personal Loan,1.18,0,Low
+FIN-2463,38,410000,Salaried,2.7,656000,Fair,0,Frequent,28100,Auto Loan,1.6,1,High
+FIN-2464,25,928000,Self-Employed,0.1,278000,Good,1,1-2 Missed,261400,Home Loan,0.3,0,Medium
+FIN-2465,26,966000,Self-Employed,0.8,889000,Good,2,On-Time,77100,Home Loan,0.92,0,Medium
+FIN-2466,29,471000,Salaried,1.6,452000,Good,0,1-2 Missed,29700,Education Loan,0.96,0,Low
+FIN-2467,25,533000,Self-Employed,2.3,480000,Fair,1,1-2 Missed,99600,Personal Loan,0.9,0,Medium
+FIN-2468,28,847000,Salaried,2.9,805000,Fair,2,Frequent,87800,Business Loan,0.95,1,High
+FIN-2469,29,258000,Salaried,10.5,248000,Good,1,Frequent,61500,Personal Loan,0.96,0,Medium
+FIN-2470,36,438000,Salaried,3.4,1183000,Good,3,On-Time,125600,Education Loan,2.7,1,Medium
+FIN-2471,43,390000,Salaried,1.5,581000,Poor,0,Frequent,107300,Education Loan,1.49,1,High
+FIN-2472,28,667000,Salaried,0.9,320000,Poor,1,On-Time,126300,Auto Loan,0.48,1,High
+FIN-2473,26,1021000,Salaried,0.2,694000,Fair,0,On-Time,209700,Auto Loan,0.68,1,Medium
+FIN-2474,30,702000,Salaried,2.0,281000,Fair,2,Frequent,118900,Auto Loan,0.4,1,High
+FIN-2475,37,882000,Self-Employed,1.6,547000,Poor,0,On-Time,242400,Personal Loan,0.62,0,Medium
+FIN-2476,29,314000,Salaried,0.9,72000,Good,1,1-2 Missed,50500,Auto Loan,0.23,1,Medium
+FIN-2477,26,536000,Self-Employed,0.5,273000,Poor,1,On-Time,86100,Education Loan,0.51,1,High
+FIN-2478,33,625000,Salaried,1.6,300000,Good,0,On-Time,72700,Auto Loan,0.48,0,Low
+FIN-2479,32,370000,Self-Employed,2.8,192000,Fair,1,On-Time,47700,Personal Loan,0.52,0,Low
+FIN-2480,34,1308000,Salaried,1.7,1203000,Fair,1,On-Time,232200,Personal Loan,0.92,0,Low
+FIN-2481,26,804000,Salaried,0.5,748000,Good,1,On-Time,217300,Home Loan,0.93,0,Low
+FIN-2482,23,937000,Salaried,1.0,487000,Good,1,Frequent,147000,Personal Loan,0.52,1,Medium
+FIN-2483,35,664000,Salaried,4.6,2191000,Poor,1,On-Time,165700,Auto Loan,3.3,1,High
+FIN-2484,41,415000,Salaried,15.6,266000,Good,0,On-Time,123100,Education Loan,0.64,1,Low
+FIN-2485,27,314000,Salaried,0.9,267000,Fair,0,On-Time,45000,Personal Loan,0.85,0,Medium
+FIN-2486,30,1025000,Self-Employed,0.6,277000,Fair,3,1-2 Missed,300300,Education Loan,0.27,1,High
+FIN-2487,27,476000,Salaried,8.9,124000,Good,2,1-2 Missed,124100,Education Loan,0.26,0,Medium
+FIN-2488,33,447000,Salaried,3.6,264000,Good,0,On-Time,109400,Personal Loan,0.59,0,Low
+FIN-2489,26,896000,Salaried,0.5,1147000,Poor,2,On-Time,219200,Business Loan,1.28,1,High
+FIN-2490,23,492000,Salaried,2.6,128000,Fair,2,Frequent,118100,Personal Loan,0.26,1,High
+FIN-2491,38,1403000,Self-Employed,5.2,1389000,Poor,0,1-2 Missed,126800,Education Loan,0.99,1,High
+FIN-2492,33,323000,Salaried,0.4,242000,Fair,3,On-Time,85400,Personal Loan,0.75,0,Medium
+FIN-2493,33,409000,Salaried,15.0,618000,Fair,1,On-Time,81600,Education Loan,1.51,1,Medium
+FIN-2494,30,551000,Self-Employed,11.9,568000,Fair,3,On-Time,123400,Personal Loan,1.03,0,Medium
+FIN-2495,27,479000,Salaried,4.0,632000,Poor,0,1-2 Missed,118700,Personal Loan,1.32,0,High
+FIN-2496,29,695000,Salaried,0.6,313000,Good,0,On-Time,77500,Personal Loan,0.45,0,Low
+FIN-2497,27,631000,Salaried,0.6,416000,Good,0,On-Time,131100,Business Loan,0.66,0,Low
+FIN-2498,26,1124000,Salaried,0.9,922000,Good,2,On-Time,99600,Personal Loan,0.82,0,Medium
+FIN-2499,22,404000,Self-Employed,0.1,962000,Good,2,On-Time,91500,Personal Loan,2.38,1,High
+FIN-2500,34,589000,Unemployed,0.0,954000,Poor,0,On-Time,154600,Education Loan,1.62,1,High

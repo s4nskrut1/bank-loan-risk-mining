@@ -1,0 +1,1001 @@
+Applicant_ID,Age,Annual_Income,Employment_Status,Employment_Years,Loan_Amount,Credit_History,Existing_Loans,Repayment_History,Account_Balance,Loan_Purpose,Loan_to_Income_Ratio,Historical_Default,Risk_Level
+MIC-1001,42,341000,Self-Employed,0.0,150000,Good,1,On-Time,53200,Business Loan,0.44,0,Low
+MIC-1002,36,462000,Self-Employed,0.2,69000,Fair,2,1-2 Missed,76500,Business Loan,0.15,0,High
+MIC-1003,48,321000,Business,2.5,128000,Poor,1,On-Time,61500,Auto Loan,0.4,1,Medium
+MIC-1004,42,154000,Business,3.0,35000,Good,2,On-Time,34000,Auto Loan,0.23,0,Low
+MIC-1005,45,360000,Self-Employed,1.2,202000,Good,0,1-2 Missed,44800,Education Loan,0.56,0,Low
+MIC-1006,32,305000,Self-Employed,0.1,149000,Good,2,On-Time,29300,Business Loan,0.49,1,Medium
+MIC-1007,34,571000,Salaried,4.4,777000,Fair,0,Frequent,106200,Auto Loan,1.36,1,High
+MIC-1008,25,266000,Self-Employed,1.3,481000,Fair,1,Frequent,49500,Business Loan,1.81,1,High
+MIC-1009,40,616000,Salaried,2.5,246000,Good,1,1-2 Missed,73300,Personal Loan,0.4,0,Low
+MIC-1010,49,319000,Business,6.9,96000,Good,1,On-Time,50300,Education Loan,0.3,0,Low
+MIC-1011,40,203000,Self-Employed,7.2,59000,Fair,2,1-2 Missed,32500,Auto Loan,0.29,0,Medium
+MIC-1012,43,433000,Salaried,1.1,225000,Fair,0,On-Time,100100,Personal Loan,0.52,0,Low
+MIC-1013,45,201000,Self-Employed,4.6,181000,Good,0,On-Time,23100,Business Loan,0.9,0,Low
+MIC-1014,26,294000,Self-Employed,0.2,165000,Poor,2,1-2 Missed,39300,Education Loan,0.56,1,High
+MIC-1015,44,554000,Business,1.3,410000,Fair,3,On-Time,88900,Business Loan,0.74,0,Medium
+MIC-1016,47,396000,Self-Employed,5.3,127000,Fair,1,On-Time,96800,Personal Loan,0.32,0,Low
+MIC-1017,58,349000,Self-Employed,8.4,161000,Poor,2,On-Time,68300,Business Loan,0.46,0,Medium
+MIC-1018,48,264000,Self-Employed,2.6,77000,Good,4,On-Time,25100,Business Loan,0.29,0,Low
+MIC-1019,42,224000,Self-Employed,2.9,276000,Poor,0,1-2 Missed,22000,Auto Loan,1.23,1,High
+MIC-1020,42,276000,Self-Employed,2.1,41000,Fair,3,Frequent,38900,Home Loan,0.15,1,High
+MIC-1021,52,247000,Salaried,2.4,151000,Poor,3,On-Time,32800,Business Loan,0.61,1,High
+MIC-1022,55,279000,Self-Employed,5.7,120000,Fair,1,On-Time,34300,Business Loan,0.43,1,Low
+MIC-1023,33,220000,Self-Employed,2.2,33000,Fair,0,On-Time,43600,Personal Loan,0.15,0,Low
+MIC-1024,34,130000,Salaried,0.5,30000,Good,3,1-2 Missed,20000,Auto Loan,0.17,0,High
+MIC-1025,40,784000,Business,0.6,267000,Good,2,On-Time,113000,Personal Loan,0.34,0,Medium
+MIC-1026,51,427000,Self-Employed,7.1,145000,Good,1,Frequent,67900,Business Loan,0.34,0,Medium
+MIC-1027,32,463000,Business,4.7,255000,Good,3,Frequent,52300,Personal Loan,0.55,0,High
+MIC-1028,50,621000,Self-Employed,0.4,540000,Fair,1,1-2 Missed,101600,Personal Loan,0.87,0,Medium
+MIC-1029,32,222000,Business,2.8,56000,Fair,0,1-2 Missed,28700,Business Loan,0.25,0,Medium
+MIC-1030,44,252000,Business,1.2,58000,Fair,2,On-Time,56200,Personal Loan,0.23,0,Medium
+MIC-1031,30,242000,Self-Employed,2.6,160000,Poor,1,On-Time,40000,Auto Loan,0.66,0,Medium
+MIC-1032,44,339000,Salaried,1.9,258000,Good,1,1-2 Missed,84400,Business Loan,0.76,0,Low
+MIC-1033,49,139000,Self-Employed,0.1,56000,Fair,4,On-Time,32700,Personal Loan,0.4,0,Medium
+MIC-1034,38,429000,Self-Employed,3.8,129000,Fair,2,On-Time,66100,Personal Loan,0.3,1,Medium
+MIC-1035,39,160000,Business,7.0,38000,Good,0,1-2 Missed,38300,Business Loan,0.24,0,Low
+MIC-1036,34,304000,Self-Employed,2.6,52000,Good,0,On-Time,25700,Business Loan,0.17,0,Low
+MIC-1037,48,146000,Self-Employed,8.7,30000,Good,1,On-Time,22700,Business Loan,0.15,0,Low
+MIC-1038,42,523000,Business,4.2,361000,Poor,1,On-Time,109800,Education Loan,0.69,1,Medium
+MIC-1039,51,282000,Self-Employed,3.1,82000,Fair,0,On-Time,51900,Business Loan,0.29,0,Low
+MIC-1040,52,335000,Salaried,2.8,157000,Good,1,On-Time,60000,Business Loan,0.47,0,Low
+MIC-1041,30,226000,Salaried,0.3,231000,Good,0,On-Time,45200,Business Loan,1.02,0,Low
+MIC-1042,53,543000,Business,2.9,744000,Poor,4,Frequent,126700,Personal Loan,1.37,1,High
+MIC-1043,38,267000,Business,3.4,176000,Good,2,Frequent,27700,Business Loan,0.66,1,High
+MIC-1044,38,343000,Business,3.6,120000,Good,0,On-Time,39600,Business Loan,0.35,0,Low
+MIC-1045,38,340000,Salaried,6.2,51000,Fair,0,1-2 Missed,47300,Auto Loan,0.15,0,Medium
+MIC-1046,53,223000,Self-Employed,7.9,36000,Poor,2,1-2 Missed,37800,Personal Loan,0.16,1,High
+MIC-1047,41,193000,Self-Employed,2.4,185000,Good,2,1-2 Missed,24200,Education Loan,0.96,0,Medium
+MIC-1048,39,320000,Business,8.8,198000,Good,1,Frequent,54900,Auto Loan,0.62,0,Medium
+MIC-1049,39,626000,Self-Employed,0.0,94000,Fair,3,On-Time,73000,Personal Loan,0.15,1,Medium
+MIC-1050,24,321000,Business,0.2,225000,Fair,0,Frequent,65600,Auto Loan,0.7,1,High
+MIC-1051,39,372000,Self-Employed,14.7,71000,Poor,4,1-2 Missed,60000,Business Loan,0.19,1,High
+MIC-1052,32,164000,Salaried,0.3,71000,Fair,2,On-Time,16400,Education Loan,0.43,0,Medium
+MIC-1053,54,366000,Self-Employed,6.0,55000,Fair,1,On-Time,57600,Personal Loan,0.15,0,Low
+MIC-1054,37,319000,Business,1.9,278000,Fair,0,On-Time,36100,Personal Loan,0.87,0,Low
+MIC-1055,34,120000,Business,7.3,188000,Fair,1,On-Time,22000,Education Loan,1.57,0,Medium
+MIC-1056,31,174000,Business,1.1,141000,Good,2,On-Time,20600,Business Loan,0.81,0,Low
+MIC-1057,42,242000,Business,3.5,36000,Good,2,On-Time,52000,Personal Loan,0.15,0,Low
+MIC-1058,40,237000,Salaried,6.1,81000,Good,1,1-2 Missed,50700,Personal Loan,0.34,0,Low
+MIC-1059,31,294000,Self-Employed,1.1,44000,Good,2,On-Time,26900,Business Loan,0.15,0,Low
+MIC-1060,29,176000,Self-Employed,1.0,139000,Fair,2,On-Time,35200,Education Loan,0.79,0,Medium
+MIC-1061,45,467000,Self-Employed,3.5,121000,Good,1,1-2 Missed,39400,Business Loan,0.26,0,Low
+MIC-1062,40,267000,Self-Employed,0.6,40000,Poor,3,On-Time,50900,Auto Loan,0.15,0,High
+MIC-1063,39,199000,Salaried,1.6,223000,Good,1,On-Time,37100,Business Loan,1.12,0,Low
+MIC-1064,41,292000,Business,0.8,219000,Good,1,On-Time,27600,Business Loan,0.75,0,Low
+MIC-1065,46,436000,Self-Employed,3.0,266000,Good,1,Frequent,68200,Education Loan,0.61,1,Medium
+MIC-1066,53,210000,Self-Employed,0.7,336000,Fair,1,On-Time,46000,Home Loan,1.6,0,Medium
+MIC-1067,29,139000,Business,1.0,30000,Good,1,On-Time,23300,Education Loan,0.16,0,Low
+MIC-1068,43,308000,Business,3.1,71000,Good,0,1-2 Missed,71200,Business Loan,0.23,0,Low
+MIC-1069,30,719000,Self-Employed,3.2,338000,Good,2,On-Time,83800,Business Loan,0.47,0,Low
+MIC-1070,41,164000,Business,3.0,49000,Poor,0,On-Time,13700,Business Loan,0.3,0,Medium
+MIC-1071,36,170000,Business,0.2,30000,Good,0,Frequent,35900,Personal Loan,0.15,1,High
+MIC-1072,51,240000,Business,6.3,293000,Good,1,On-Time,33600,Business Loan,1.22,0,Low
+MIC-1073,31,560000,Self-Employed,1.4,610000,Good,2,1-2 Missed,87500,Business Loan,1.09,0,Medium
+MIC-1074,39,547000,Business,10.0,492000,Good,0,On-Time,47800,Business Loan,0.9,0,Low
+MIC-1075,43,409000,Self-Employed,11.7,290000,Poor,1,1-2 Missed,71900,Education Loan,0.71,1,High
+MIC-1076,42,235000,Salaried,5.6,108000,Fair,1,On-Time,45800,Business Loan,0.46,0,Low
+MIC-1077,51,293000,Salaried,3.9,246000,Fair,3,On-Time,47600,Auto Loan,0.84,0,Medium
+MIC-1078,31,446000,Self-Employed,0.9,210000,Good,2,1-2 Missed,107300,Business Loan,0.47,0,Medium
+MIC-1079,53,314000,Business,21.3,499000,Good,0,1-2 Missed,45700,Auto Loan,1.59,1,Medium
+MIC-1080,25,311000,Business,5.5,62000,Fair,0,Frequent,62800,Business Loan,0.2,1,High
+MIC-1081,50,281000,Self-Employed,2.3,93000,Fair,1,On-Time,28800,Business Loan,0.33,0,Low
+MIC-1082,36,255000,Self-Employed,3.8,61000,Fair,2,On-Time,61700,Business Loan,0.24,1,Medium
+MIC-1083,36,493000,Self-Employed,1.5,532000,Poor,3,On-Time,103700,Auto Loan,1.08,1,High
+MIC-1084,30,333000,Business,1.9,383000,Good,1,On-Time,58900,Business Loan,1.15,0,Low
+MIC-1085,40,160000,Business,2.9,37000,Fair,2,On-Time,35500,Auto Loan,0.23,0,Medium
+MIC-1086,50,349000,Business,2.5,468000,Good,3,On-Time,68700,Business Loan,1.34,0,Medium
+MIC-1087,54,168000,Self-Employed,12.5,57000,Good,1,1-2 Missed,25300,Business Loan,0.34,0,Low
+MIC-1088,54,330000,Business,2.5,56000,Poor,1,1-2 Missed,56400,Home Loan,0.17,1,High
+MIC-1089,39,290000,Business,13.4,165000,Fair,2,Frequent,24700,Business Loan,0.57,0,High
+MIC-1090,47,543000,Salaried,0.6,581000,Good,2,1-2 Missed,57600,Personal Loan,1.07,0,Medium
+MIC-1091,31,360000,Self-Employed,1.8,112000,Good,2,On-Time,75000,Business Loan,0.31,0,Low
+MIC-1092,47,179000,Business,7.3,68000,Poor,1,On-Time,34600,Auto Loan,0.38,0,Medium
+MIC-1093,28,473000,Salaried,1.1,147000,Fair,1,Frequent,73200,Business Loan,0.31,1,High
+MIC-1094,30,169000,Self-Employed,1.9,134000,Fair,0,On-Time,38600,Personal Loan,0.79,0,Low
+MIC-1095,32,253000,Self-Employed,1.3,428000,Fair,3,1-2 Missed,59000,Personal Loan,1.69,0,High
+MIC-1096,25,374000,Self-Employed,0.4,153000,Fair,2,On-Time,86800,Business Loan,0.41,1,Medium
+MIC-1097,53,204000,Self-Employed,6.8,67000,Good,1,On-Time,37300,Business Loan,0.33,0,Low
+MIC-1098,34,200000,Business,3.1,30000,Fair,0,1-2 Missed,16400,Auto Loan,0.15,1,Medium
+MIC-1099,44,235000,Self-Employed,4.8,35000,Good,4,On-Time,24500,Business Loan,0.15,0,Low
+MIC-1100,30,120000,Salaried,7.2,121000,Fair,1,On-Time,28900,Business Loan,1.01,0,Low
+MIC-1101,34,213000,Self-Employed,6.3,32000,Poor,3,On-Time,43500,Personal Loan,0.15,1,High
+MIC-1102,36,301000,Self-Employed,2.0,123000,Good,1,Frequent,72800,Business Loan,0.41,1,Medium
+MIC-1103,32,238000,Self-Employed,1.0,283000,Fair,0,On-Time,56300,Business Loan,1.19,0,Low
+MIC-1104,47,493000,Self-Employed,1.9,173000,Good,1,Frequent,116700,Business Loan,0.35,1,Medium
+MIC-1105,48,371000,Self-Employed,9.5,171000,Good,1,On-Time,77300,Business Loan,0.46,0,Low
+MIC-1106,35,211000,Business,17.0,108000,Good,2,On-Time,38800,Business Loan,0.51,0,Low
+MIC-1107,46,172000,Self-Employed,1.0,230000,Poor,2,On-Time,31000,Personal Loan,1.34,1,High
+MIC-1108,40,184000,Self-Employed,0.4,75000,Good,3,On-Time,26500,Business Loan,0.41,0,Medium
+MIC-1109,45,446000,Self-Employed,0.7,259000,Good,0,On-Time,83200,Business Loan,0.58,0,Low
+MIC-1110,48,126000,Salaried,15.4,94000,Good,2,On-Time,29300,Auto Loan,0.75,1,Low
+MIC-1111,50,129000,Self-Employed,7.3,63000,Good,1,On-Time,30200,Business Loan,0.49,0,Low
+MIC-1112,29,235000,Business,0.9,113000,Fair,3,On-Time,21100,Personal Loan,0.48,0,Medium
+MIC-1113,38,272000,Business,0.9,446000,Fair,1,1-2 Missed,47500,Education Loan,1.64,1,High
+MIC-1114,38,359000,Self-Employed,2.3,169000,Good,2,On-Time,62000,Education Loan,0.47,0,Low
+MIC-1115,37,510000,Self-Employed,19.0,479000,Good,2,On-Time,117400,Personal Loan,0.94,0,Low
+MIC-1116,36,234000,Self-Employed,3.6,89000,Fair,0,On-Time,46900,Business Loan,0.38,0,Low
+MIC-1117,25,404000,Self-Employed,0.1,679000,Poor,2,On-Time,99000,Home Loan,1.68,0,High
+MIC-1118,30,317000,Self-Employed,4.8,168000,Fair,0,1-2 Missed,69000,Auto Loan,0.53,0,Medium
+MIC-1119,38,386000,Self-Employed,13.1,340000,Fair,2,1-2 Missed,70700,Education Loan,0.88,0,Medium
+MIC-1120,48,275000,Self-Employed,13.2,41000,Good,1,1-2 Missed,22200,Auto Loan,0.15,0,Low
+MIC-1121,46,217000,Self-Employed,3.8,89000,Good,3,1-2 Missed,42400,Business Loan,0.41,1,Medium
+MIC-1122,34,221000,Salaried,4.4,340000,Good,2,1-2 Missed,35400,Business Loan,1.54,0,Medium
+MIC-1123,35,432000,Salaried,6.0,65000,Fair,2,On-Time,104300,Business Loan,0.15,0,Medium
+MIC-1124,47,273000,Self-Employed,1.2,131000,Good,4,On-Time,23000,Business Loan,0.48,0,Low
+MIC-1125,26,230000,Salaried,0.2,34000,Good,0,On-Time,48100,Auto Loan,0.15,0,Low
+MIC-1126,38,314000,Salaried,10.9,279000,Good,2,1-2 Missed,50800,Auto Loan,0.89,0,Medium
+MIC-1127,48,308000,Self-Employed,9.1,99000,Good,2,On-Time,43400,Education Loan,0.32,0,Low
+MIC-1128,32,240000,Salaried,2.8,36000,Poor,2,1-2 Missed,51100,Auto Loan,0.15,1,High
+MIC-1129,49,185000,Business,0.2,37000,Poor,0,On-Time,24500,Business Loan,0.2,1,High
+MIC-1130,33,227000,Self-Employed,0.9,120000,Good,1,1-2 Missed,43400,Personal Loan,0.53,0,Medium
+MIC-1131,47,254000,Self-Employed,4.2,165000,Poor,0,On-Time,41700,Personal Loan,0.65,0,Medium
+MIC-1132,31,325000,Salaried,1.3,195000,Poor,2,On-Time,48600,Personal Loan,0.6,0,Medium
+MIC-1133,28,175000,Self-Employed,0.3,184000,Fair,1,On-Time,26200,Personal Loan,1.05,0,Medium
+MIC-1134,31,304000,Self-Employed,1.0,88000,Good,2,1-2 Missed,57600,Business Loan,0.29,0,Medium
+MIC-1135,36,130000,Salaried,6.7,38000,Good,0,On-Time,12900,Education Loan,0.29,0,Low
+MIC-1136,46,222000,Self-Employed,10.8,33000,Poor,2,On-Time,22000,Education Loan,0.15,1,Medium
+MIC-1137,38,157000,Self-Employed,0.0,152000,Good,0,On-Time,18500,Business Loan,0.97,0,Low
+MIC-1138,31,422000,Business,1.0,253000,Fair,2,1-2 Missed,96200,Business Loan,0.6,0,Medium
+MIC-1139,38,416000,Self-Employed,20.0,333000,Fair,0,Frequent,67000,Personal Loan,0.8,1,High
+MIC-1140,32,156000,Salaried,14.0,30000,Fair,0,On-Time,15300,Business Loan,0.15,0,Low
+MIC-1141,33,221000,Self-Employed,2.7,60000,Fair,3,On-Time,42400,Auto Loan,0.27,0,Medium
+MIC-1142,48,182000,Salaried,1.3,30000,Fair,2,1-2 Missed,43000,Education Loan,0.15,1,Medium
+MIC-1143,42,248000,Self-Employed,0.1,146000,Poor,4,1-2 Missed,22500,Business Loan,0.59,1,High
+MIC-1144,36,312000,Self-Employed,3.0,527000,Fair,3,1-2 Missed,25700,Business Loan,1.69,0,High
+MIC-1145,47,273000,Business,29.0,123000,Good,2,1-2 Missed,65300,Business Loan,0.45,0,Medium
+MIC-1146,43,265000,Self-Employed,1.1,350000,Fair,0,On-Time,34600,Education Loan,1.32,0,Medium
+MIC-1147,44,120000,Self-Employed,0.4,62000,Fair,0,On-Time,29500,Business Loan,0.52,0,Medium
+MIC-1148,45,366000,Self-Employed,3.5,348000,Poor,0,1-2 Missed,86500,Business Loan,0.95,0,High
+MIC-1149,51,307000,Self-Employed,0.8,221000,Good,0,Frequent,25700,Auto Loan,0.72,1,High
+MIC-1150,44,196000,Self-Employed,2.9,116000,Fair,0,On-Time,31800,Home Loan,0.59,0,Low
+MIC-1151,34,219000,Self-Employed,2.8,256000,Poor,0,On-Time,43400,Business Loan,1.17,0,Medium
+MIC-1152,44,270000,Salaried,20.6,240000,Good,1,On-Time,42400,Business Loan,0.89,0,Low
+MIC-1153,34,231000,Self-Employed,1.7,148000,Good,1,Frequent,54500,Auto Loan,0.64,0,Medium
+MIC-1154,31,269000,Self-Employed,1.4,124000,Good,2,On-Time,64800,Personal Loan,0.46,0,Low
+MIC-1155,55,312000,Self-Employed,9.3,140000,Good,1,1-2 Missed,74200,Auto Loan,0.45,0,Low
+MIC-1156,38,363000,Business,1.1,138000,Good,0,1-2 Missed,33400,Auto Loan,0.38,0,Low
+MIC-1157,50,263000,Self-Employed,10.4,200000,Good,1,On-Time,36200,Business Loan,0.76,0,Low
+MIC-1158,51,143000,Salaried,6.3,94000,Fair,2,On-Time,22500,Business Loan,0.66,1,Medium
+MIC-1159,37,220000,Self-Employed,4.5,51000,Fair,2,On-Time,33900,Personal Loan,0.23,0,Medium
+MIC-1160,55,311000,Business,23.3,470000,Good,3,Frequent,42000,Auto Loan,1.51,1,High
+MIC-1161,31,257000,Salaried,0.6,208000,Good,1,1-2 Missed,47900,Home Loan,0.81,1,Medium
+MIC-1162,28,380000,Business,1.9,57000,Good,0,On-Time,85200,Business Loan,0.15,0,Low
+MIC-1163,32,311000,Business,1.6,264000,Poor,1,1-2 Missed,69700,Business Loan,0.85,1,High
+MIC-1164,38,266000,Business,1.4,138000,Poor,1,On-Time,57500,Business Loan,0.52,0,Medium
+MIC-1165,36,658000,Salaried,1.6,99000,Good,2,Frequent,104500,Business Loan,0.15,1,High
+MIC-1166,35,437000,Business,0.4,109000,Fair,2,Frequent,48000,Auto Loan,0.25,1,High
+MIC-1167,26,225000,Self-Employed,0.2,34000,Fair,0,On-Time,21000,Auto Loan,0.15,1,Medium
+MIC-1168,37,368000,Self-Employed,1.8,883000,Poor,1,1-2 Missed,52100,Auto Loan,2.4,0,High
+MIC-1169,27,252000,Business,1.2,141000,Good,1,Frequent,37900,Home Loan,0.56,0,Medium
+MIC-1170,45,293000,Self-Employed,5.6,820000,Poor,1,On-Time,45800,Business Loan,2.8,1,High
+MIC-1171,35,168000,Business,0.5,217000,Good,3,On-Time,30000,Auto Loan,1.29,1,Medium
+MIC-1172,42,298000,Salaried,5.5,158000,Fair,0,1-2 Missed,40500,Home Loan,0.53,1,Medium
+MIC-1173,33,488000,Self-Employed,1.3,239000,Fair,2,On-Time,120100,Personal Loan,0.49,1,Medium
+MIC-1174,39,238000,Salaried,0.5,226000,Poor,0,Frequent,23600,Home Loan,0.95,1,High
+MIC-1175,33,271000,Business,4.9,152000,Fair,1,On-Time,47500,Education Loan,0.56,0,Low
+MIC-1176,57,480000,Self-Employed,13.9,154000,Good,2,On-Time,48100,Business Loan,0.32,0,Low
+MIC-1177,53,180000,Self-Employed,11.1,247000,Fair,1,On-Time,44700,Personal Loan,1.37,0,Medium
+MIC-1178,35,364000,Self-Employed,0.3,360000,Good,4,On-Time,58200,Personal Loan,0.99,0,Medium
+MIC-1179,39,192000,Self-Employed,13.7,121000,Good,3,1-2 Missed,24300,Education Loan,0.63,0,Medium
+MIC-1180,32,366000,Business,1.3,597000,Fair,1,On-Time,41000,Home Loan,1.63,0,Medium
+MIC-1181,38,158000,Business,6.9,117000,Poor,2,On-Time,39100,Business Loan,0.74,0,Medium
+MIC-1182,36,481000,Self-Employed,4.3,255000,Good,1,1-2 Missed,104900,Personal Loan,0.53,0,Low
+MIC-1183,28,335000,Salaried,0.6,50000,Fair,2,On-Time,70900,Personal Loan,0.15,0,Medium
+MIC-1184,47,430000,Self-Employed,6.3,64000,Poor,1,On-Time,95900,Home Loan,0.15,0,Medium
+MIC-1185,37,325000,Business,0.3,133000,Fair,1,Frequent,57700,Education Loan,0.41,1,High
+MIC-1186,39,349000,Self-Employed,15.1,84000,Fair,2,Frequent,79600,Business Loan,0.24,1,High
+MIC-1187,42,282000,Self-Employed,7.5,42000,Good,4,On-Time,26000,Home Loan,0.15,0,Low
+MIC-1188,56,241000,Salaried,1.4,174000,Good,2,On-Time,34300,Business Loan,0.72,0,Low
+MIC-1189,31,591000,Business,1.7,213000,Good,4,1-2 Missed,52200,Business Loan,0.36,0,Medium
+MIC-1190,34,266000,Self-Employed,0.7,234000,Poor,3,1-2 Missed,31800,Personal Loan,0.88,1,High
+MIC-1191,40,359000,Business,0.1,129000,Good,0,On-Time,57300,Auto Loan,0.36,0,Low
+MIC-1192,32,201000,Self-Employed,0.7,233000,Fair,2,1-2 Missed,39300,Personal Loan,1.16,1,High
+MIC-1193,44,168000,Self-Employed,1.9,47000,Poor,0,1-2 Missed,15300,Business Loan,0.28,1,High
+MIC-1194,37,340000,Self-Employed,1.7,289000,Good,2,Frequent,58500,Business Loan,0.85,1,High
+MIC-1195,48,166000,Salaried,7.7,272000,Good,1,Frequent,41200,Personal Loan,1.64,1,High
+MIC-1196,47,167000,Salaried,3.7,30000,Fair,0,On-Time,30900,Personal Loan,0.15,0,Low
+MIC-1197,43,532000,Self-Employed,2.2,351000,Fair,0,On-Time,49700,Auto Loan,0.66,0,Low
+MIC-1198,33,171000,Self-Employed,0.3,301000,Poor,0,On-Time,22100,Business Loan,1.76,1,High
+MIC-1199,40,392000,Business,5.1,251000,Good,3,1-2 Missed,57100,Business Loan,0.64,0,Medium
+MIC-1200,28,395000,Business,0.3,59000,Fair,0,On-Time,85400,Business Loan,0.15,0,Medium
+MIC-1201,48,408000,Self-Employed,2.1,371000,Fair,2,Frequent,59500,Auto Loan,0.91,1,High
+MIC-1202,26,201000,Business,0.9,452000,Fair,1,On-Time,44100,Auto Loan,2.25,1,High
+MIC-1203,51,558000,Salaried,17.1,112000,Fair,0,On-Time,59400,Business Loan,0.2,0,Low
+MIC-1204,50,183000,Salaried,1.7,30000,Poor,2,On-Time,29900,Home Loan,0.16,1,Medium
+MIC-1205,40,196000,Business,1.2,206000,Fair,2,On-Time,41100,Business Loan,1.05,0,Medium
+MIC-1206,38,342000,Self-Employed,1.0,280000,Good,1,On-Time,44300,Personal Loan,0.82,0,Low
+MIC-1207,24,296000,Self-Employed,1.6,272000,Fair,1,On-Time,65700,Business Loan,0.92,0,Low
+MIC-1208,30,147000,Self-Employed,0.2,41000,Fair,2,On-Time,30400,Personal Loan,0.28,0,Medium
+MIC-1209,46,280000,Self-Employed,1.5,291000,Good,1,1-2 Missed,50600,Business Loan,1.04,0,Low
+MIC-1210,48,273000,Business,6.7,177000,Good,1,On-Time,56900,Business Loan,0.65,0,Low
+MIC-1211,51,242000,Self-Employed,12.4,36000,Good,1,1-2 Missed,24400,Personal Loan,0.15,0,Low
+MIC-1212,46,220000,Business,0.4,48000,Poor,3,1-2 Missed,47900,Business Loan,0.22,1,High
+MIC-1213,35,282000,Self-Employed,1.5,42000,Fair,1,On-Time,66800,Business Loan,0.15,0,Low
+MIC-1214,41,319000,Self-Employed,1.1,128000,Fair,1,On-Time,27100,Personal Loan,0.4,0,Low
+MIC-1215,27,319000,Business,3.2,354000,Good,2,On-Time,48300,Business Loan,1.11,0,Low
+MIC-1216,41,237000,Business,14.4,43000,Fair,1,On-Time,37800,Auto Loan,0.18,0,Low
+MIC-1217,53,154000,Business,5.4,142000,Good,2,On-Time,13300,Business Loan,0.92,0,Low
+MIC-1218,37,303000,Self-Employed,0.8,258000,Fair,1,1-2 Missed,53000,Home Loan,0.85,0,Medium
+MIC-1219,27,257000,Business,3.0,62000,Fair,1,On-Time,33600,Home Loan,0.24,1,Low
+MIC-1220,30,171000,Business,8.1,135000,Fair,2,On-Time,40800,Personal Loan,0.79,0,Medium
+MIC-1221,25,120000,Self-Employed,0.1,30000,Good,2,On-Time,28300,Auto Loan,0.16,1,Medium
+MIC-1222,35,222000,Salaried,3.2,33000,Good,3,Frequent,20900,Education Loan,0.15,1,High
+MIC-1223,38,253000,Salaried,3.4,38000,Fair,0,On-Time,34600,Business Loan,0.15,0,Low
+MIC-1224,38,209000,Self-Employed,6.8,36000,Fair,3,1-2 Missed,29900,Home Loan,0.17,0,High
+MIC-1225,38,219000,Business,4.9,33000,Fair,1,On-Time,21800,Home Loan,0.15,0,Low
+MIC-1226,36,293000,Salaried,6.1,190000,Poor,0,On-Time,48000,Business Loan,0.65,0,Medium
+MIC-1227,24,626000,Salaried,0.3,419000,Fair,3,1-2 Missed,108900,Business Loan,0.67,0,High
+MIC-1228,30,405000,Business,1.7,672000,Fair,0,Frequent,61800,Business Loan,1.66,1,High
+MIC-1229,37,147000,Self-Employed,3.1,197000,Fair,1,On-Time,28200,Business Loan,1.34,0,Medium
+MIC-1230,28,331000,Self-Employed,0.7,377000,Fair,1,On-Time,56200,Personal Loan,1.14,0,Medium
+MIC-1231,29,166000,Self-Employed,4.3,30000,Fair,3,Frequent,22900,Business Loan,0.15,1,High
+MIC-1232,26,375000,Business,0.3,664000,Good,3,On-Time,82000,Personal Loan,1.77,0,Medium
+MIC-1233,45,218000,Self-Employed,0.2,181000,Fair,3,On-Time,30200,Business Loan,0.83,0,Medium
+MIC-1234,23,197000,Self-Employed,0.0,106000,Good,3,On-Time,39000,Business Loan,0.54,0,Medium
+MIC-1235,27,384000,Salaried,0.0,177000,Fair,4,Frequent,41200,Personal Loan,0.46,1,High
+MIC-1236,43,328000,Business,1.1,190000,Fair,4,On-Time,58700,Business Loan,0.58,0,Medium
+MIC-1237,44,314000,Self-Employed,0.0,91000,Good,0,On-Time,27400,Business Loan,0.29,0,Low
+MIC-1238,38,199000,Business,7.9,36000,Good,0,1-2 Missed,34900,Business Loan,0.18,0,Low
+MIC-1239,53,217000,Business,2.6,124000,Fair,2,On-Time,28000,Personal Loan,0.57,0,Medium
+MIC-1240,37,512000,Business,10.5,835000,Good,0,Frequent,88300,Business Loan,1.63,1,High
+MIC-1241,48,398000,Salaried,2.2,306000,Fair,0,1-2 Missed,32100,Personal Loan,0.77,0,Medium
+MIC-1242,44,162000,Self-Employed,1.1,57000,Poor,0,Frequent,14500,Personal Loan,0.35,1,High
+MIC-1243,33,183000,Business,4.1,49000,Good,4,Frequent,20000,Personal Loan,0.27,1,High
+MIC-1244,29,593000,Self-Employed,0.9,89000,Poor,2,On-Time,51800,Home Loan,0.15,1,High
+MIC-1245,30,542000,Self-Employed,2.8,461000,Fair,2,On-Time,135000,Business Loan,0.85,1,Medium
+MIC-1246,51,195000,Self-Employed,0.9,30000,Poor,2,1-2 Missed,40900,Personal Loan,0.15,1,High
+MIC-1247,23,163000,Self-Employed,0.2,41000,Poor,1,On-Time,29500,Education Loan,0.25,1,High
+MIC-1248,36,255000,Self-Employed,3.3,76000,Fair,1,On-Time,56900,Personal Loan,0.3,0,Low
+MIC-1249,46,136000,Self-Employed,0.6,35000,Good,1,On-Time,30500,Personal Loan,0.26,0,Low
+MIC-1250,55,209000,Business,7.2,90000,Poor,1,On-Time,23300,Home Loan,0.43,0,Medium
+MIC-1251,41,270000,Salaried,5.2,394000,Good,2,1-2 Missed,29400,Personal Loan,1.46,0,Medium
+MIC-1252,26,124000,Business,2.7,45000,Good,2,Frequent,28800,Auto Loan,0.36,1,High
+MIC-1253,38,212000,Self-Employed,0.2,148000,Fair,2,On-Time,50600,Personal Loan,0.7,0,Medium
+MIC-1254,57,409000,Business,3.8,462000,Fair,2,On-Time,63400,Personal Loan,1.13,0,Medium
+MIC-1255,33,225000,Self-Employed,0.1,92000,Fair,2,On-Time,45400,Education Loan,0.41,0,Medium
+MIC-1256,25,250000,Self-Employed,0.2,155000,Fair,1,On-Time,49400,Auto Loan,0.62,0,Medium
+MIC-1257,47,287000,Self-Employed,5.5,80000,Poor,1,On-Time,34400,Education Loan,0.28,1,Medium
+MIC-1258,41,190000,Self-Employed,3.8,274000,Fair,2,1-2 Missed,35700,Education Loan,1.44,0,High
+MIC-1259,53,124000,Self-Employed,1.7,73000,Fair,0,On-Time,20000,Business Loan,0.59,0,Low
+MIC-1260,44,374000,Self-Employed,6.5,56000,Fair,1,On-Time,91000,Personal Loan,0.15,0,Low
+MIC-1261,40,244000,Business,9.7,300000,Good,2,On-Time,21400,Personal Loan,1.23,0,Medium
+MIC-1262,41,482000,Self-Employed,3.0,72000,Poor,3,On-Time,91300,Home Loan,0.15,1,High
+MIC-1263,26,177000,Self-Employed,0.7,37000,Good,0,1-2 Missed,39600,Business Loan,0.21,0,Medium
+MIC-1264,50,196000,Business,17.2,280000,Good,1,1-2 Missed,30500,Personal Loan,1.43,0,Medium
+MIC-1265,32,349000,Business,0.6,154000,Poor,0,On-Time,60500,Auto Loan,0.44,1,High
+MIC-1266,24,222000,Salaried,1.1,71000,Good,3,1-2 Missed,24700,Business Loan,0.32,1,Medium
+MIC-1267,33,120000,Self-Employed,0.5,59000,Poor,2,Frequent,28600,Personal Loan,0.49,1,High
+MIC-1268,44,375000,Salaried,9.6,503000,Good,3,On-Time,48600,Education Loan,1.34,0,Medium
+MIC-1269,55,206000,Self-Employed,13.2,89000,Fair,2,Frequent,24400,Business Loan,0.43,1,High
+MIC-1270,41,420000,Business,1.1,328000,Good,2,On-Time,35000,Personal Loan,0.78,0,Low
+MIC-1271,35,461000,Salaried,0.8,664000,Fair,2,On-Time,55300,Auto Loan,1.44,1,High
+MIC-1272,42,202000,Self-Employed,2.2,67000,Fair,3,On-Time,40000,Home Loan,0.33,0,Medium
+MIC-1273,29,265000,Business,10.7,575000,Good,0,1-2 Missed,33200,Auto Loan,2.17,0,Medium
+MIC-1274,37,307000,Salaried,0.4,485000,Fair,0,On-Time,30900,Business Loan,1.58,0,Medium
+MIC-1275,48,188000,Self-Employed,6.3,175000,Fair,1,On-Time,30000,Business Loan,0.93,0,Low
+MIC-1276,35,268000,Self-Employed,1.0,338000,Good,0,On-Time,63100,Auto Loan,1.26,0,Low
+MIC-1277,35,288000,Self-Employed,1.1,392000,Good,3,On-Time,25600,Business Loan,1.36,1,Medium
+MIC-1278,44,219000,Business,4.8,180000,Good,1,1-2 Missed,24600,Business Loan,0.82,0,Low
+MIC-1279,40,120000,Self-Employed,2.2,160000,Good,1,On-Time,29000,Business Loan,1.33,0,Low
+MIC-1280,26,626000,Salaried,1.1,1027000,Fair,2,Frequent,66400,Personal Loan,1.64,1,High
+MIC-1281,47,291000,Self-Employed,0.1,99000,Poor,1,On-Time,50700,Personal Loan,0.34,1,High
+MIC-1282,54,149000,Self-Employed,1.9,30000,Good,2,On-Time,17700,Auto Loan,0.18,0,Low
+MIC-1283,51,120000,Self-Employed,1.1,221000,Good,0,On-Time,19500,Personal Loan,1.84,0,Low
+MIC-1284,42,261000,Self-Employed,2.9,76000,Poor,0,On-Time,27300,Business Loan,0.29,0,Medium
+MIC-1285,49,268000,Business,4.3,456000,Fair,1,1-2 Missed,50800,Business Loan,1.7,0,Medium
+MIC-1286,43,390000,Self-Employed,6.6,58000,Fair,4,On-Time,55200,Auto Loan,0.15,1,Medium
+MIC-1287,28,237000,Business,0.6,410000,Poor,1,On-Time,55100,Business Loan,1.73,1,High
+MIC-1288,26,387000,Self-Employed,0.5,213000,Poor,1,On-Time,92900,Business Loan,0.55,1,High
+MIC-1289,40,320000,Business,1.0,218000,Fair,0,On-Time,67100,Personal Loan,0.68,0,Low
+MIC-1290,29,273000,Salaried,0.8,90000,Fair,1,1-2 Missed,43900,Personal Loan,0.33,0,Medium
+MIC-1291,34,234000,Salaried,5.6,35000,Good,0,On-Time,40900,Business Loan,0.15,0,Low
+MIC-1292,29,240000,Self-Employed,3.1,62000,Poor,2,Frequent,26900,Personal Loan,0.26,1,High
+MIC-1293,36,204000,Salaried,6.2,45000,Fair,3,On-Time,25800,Home Loan,0.22,0,Medium
+MIC-1294,43,340000,Self-Employed,2.2,71000,Good,0,On-Time,38300,Education Loan,0.21,0,Low
+MIC-1295,48,354000,Self-Employed,4.4,184000,Poor,1,1-2 Missed,33500,Education Loan,0.52,1,High
+MIC-1296,33,235000,Business,5.5,221000,Poor,1,On-Time,50400,Business Loan,0.94,0,Medium
+MIC-1297,24,342000,Self-Employed,0.3,72000,Good,2,1-2 Missed,41900,Personal Loan,0.21,0,Medium
+MIC-1298,46,200000,Salaried,12.4,114000,Fair,0,Frequent,48800,Auto Loan,0.57,1,High
+MIC-1299,31,324000,Self-Employed,0.9,84000,Good,0,On-Time,58400,Personal Loan,0.26,0,Low
+MIC-1300,39,231000,Business,0.6,69000,Good,0,On-Time,37700,Home Loan,0.3,0,Low
+MIC-1301,39,203000,Self-Employed,0.7,30000,Fair,0,1-2 Missed,33900,Personal Loan,0.15,1,Medium
+MIC-1302,38,315000,Self-Employed,3.4,76000,Good,4,On-Time,30400,Personal Loan,0.24,0,Low
+MIC-1303,28,276000,Self-Employed,0.7,339000,Good,2,Frequent,53500,Business Loan,1.23,1,High
+MIC-1304,42,486000,Self-Employed,5.7,209000,Good,1,On-Time,67500,Business Loan,0.43,0,Low
+MIC-1305,39,620000,Self-Employed,1.4,205000,Fair,0,On-Time,121600,Business Loan,0.33,0,Low
+MIC-1306,35,278000,Business,3.4,272000,Poor,1,On-Time,60700,Business Loan,0.98,0,Medium
+MIC-1307,40,354000,Self-Employed,9.7,152000,Poor,1,On-Time,81800,Auto Loan,0.43,0,Medium
+MIC-1308,48,301000,Self-Employed,1.3,184000,Good,1,On-Time,33500,Home Loan,0.61,0,Low
+MIC-1309,49,133000,Salaried,0.5,172000,Fair,2,On-Time,27900,Auto Loan,1.29,0,High
+MIC-1310,31,221000,Self-Employed,0.8,91000,Good,1,On-Time,51400,Business Loan,0.41,0,Low
+MIC-1311,56,224000,Self-Employed,9.4,143000,Good,3,On-Time,19300,Business Loan,0.64,0,Low
+MIC-1312,56,151000,Self-Employed,13.0,86000,Fair,1,On-Time,20600,Home Loan,0.57,0,Low
+MIC-1313,30,221000,Self-Employed,8.0,206000,Good,0,On-Time,21500,Home Loan,0.93,0,Low
+MIC-1314,33,391000,Self-Employed,8.0,145000,Good,0,1-2 Missed,37200,Business Loan,0.37,0,Low
+MIC-1315,47,248000,Business,4.7,243000,Poor,1,Frequent,52400,Personal Loan,0.98,1,High
+MIC-1316,54,304000,Self-Employed,3.7,116000,Fair,2,On-Time,25100,Home Loan,0.38,1,Medium
+MIC-1317,38,272000,Self-Employed,3.8,147000,Good,1,On-Time,28000,Home Loan,0.54,0,Low
+MIC-1318,43,212000,Self-Employed,13.9,89000,Fair,2,On-Time,38200,Personal Loan,0.42,0,Medium
+MIC-1319,39,233000,Salaried,7.0,317000,Fair,2,On-Time,53500,Business Loan,1.36,0,Medium
+MIC-1320,48,294000,Self-Employed,3.0,44000,Good,1,1-2 Missed,29600,Personal Loan,0.15,0,Low
+MIC-1321,32,211000,Self-Employed,4.1,63000,Good,4,On-Time,30900,Auto Loan,0.3,0,Low
+MIC-1322,44,326000,Salaried,7.0,610000,Fair,1,1-2 Missed,42900,Business Loan,1.87,0,Medium
+MIC-1323,41,358000,Self-Employed,9.3,104000,Good,1,On-Time,48300,Auto Loan,0.29,0,Low
+MIC-1324,58,275000,Self-Employed,9.9,124000,Fair,2,1-2 Missed,27300,Business Loan,0.45,0,Medium
+MIC-1325,26,146000,Self-Employed,1.8,30000,Good,2,On-Time,25800,Personal Loan,0.15,0,Low
+MIC-1326,40,424000,Business,5.4,199000,Poor,0,On-Time,88500,Business Loan,0.47,0,Medium
+MIC-1327,42,256000,Salaried,0.1,95000,Fair,3,On-Time,27900,Auto Loan,0.37,0,Medium
+MIC-1328,26,288000,Business,2.5,300000,Good,1,On-Time,65900,Personal Loan,1.04,0,Low
+MIC-1329,38,135000,Self-Employed,15.7,148000,Good,2,On-Time,13100,Home Loan,1.1,0,Low
+MIC-1330,46,150000,Business,5.4,176000,Fair,2,1-2 Missed,23700,Business Loan,1.17,0,Medium
+MIC-1331,25,260000,Self-Employed,4.0,234000,Good,0,On-Time,31800,Auto Loan,0.9,0,Low
+MIC-1332,58,230000,Self-Employed,6.9,750000,Good,0,On-Time,22400,Business Loan,3.26,1,Medium
+MIC-1333,51,489000,Salaried,28.9,235000,Good,3,1-2 Missed,109900,Auto Loan,0.48,0,Medium
+MIC-1334,29,289000,Self-Employed,3.1,416000,Poor,3,On-Time,30600,Home Loan,1.44,1,High
+MIC-1335,49,260000,Self-Employed,12.8,55000,Good,1,Frequent,42900,Auto Loan,0.21,1,Medium
+MIC-1336,37,352000,Self-Employed,1.0,176000,Fair,2,Frequent,69400,Business Loan,0.5,1,High
+MIC-1337,44,155000,Self-Employed,11.8,39000,Good,0,On-Time,33000,Business Loan,0.25,0,Low
+MIC-1338,23,367000,Self-Employed,1.2,279000,Good,2,On-Time,38500,Personal Loan,0.76,0,Low
+MIC-1339,34,181000,Self-Employed,1.8,42000,Fair,0,On-Time,41500,Home Loan,0.23,0,Low
+MIC-1340,25,585000,Business,1.1,88000,Good,0,On-Time,58100,Personal Loan,0.15,0,Low
+MIC-1341,55,164000,Business,37.0,41000,Good,3,On-Time,40600,Home Loan,0.25,0,Low
+MIC-1342,38,120000,Self-Employed,2.0,56000,Good,1,On-Time,29700,Personal Loan,0.47,0,Low
+MIC-1343,49,175000,Salaried,11.3,193000,Fair,2,Frequent,42600,Business Loan,1.1,0,High
+MIC-1344,45,316000,Business,4.6,246000,Good,1,Frequent,41300,Personal Loan,0.78,0,Medium
+MIC-1345,49,387000,Business,7.5,58000,Poor,2,On-Time,64100,Education Loan,0.15,0,Medium
+MIC-1346,26,182000,Business,0.1,89000,Fair,0,On-Time,15800,Business Loan,0.49,0,Medium
+MIC-1347,38,218000,Business,7.2,33000,Fair,2,1-2 Missed,53400,Personal Loan,0.15,0,Medium
+MIC-1348,40,333000,Business,0.5,490000,Good,0,On-Time,83000,Business Loan,1.47,1,Medium
+MIC-1349,50,212000,Salaried,3.3,70000,Good,1,On-Time,22200,Business Loan,0.33,0,Low
+MIC-1350,38,534000,Salaried,3.1,459000,Good,4,On-Time,76500,Auto Loan,0.86,0,Low
+MIC-1351,30,274000,Business,3.7,241000,Good,4,Frequent,26000,Business Loan,0.88,1,High
+MIC-1352,40,240000,Salaried,18.1,50000,Fair,1,On-Time,22200,Auto Loan,0.21,0,Low
+MIC-1353,49,204000,Self-Employed,2.9,149000,Good,1,1-2 Missed,42900,Auto Loan,0.73,0,Low
+MIC-1354,39,337000,Business,11.0,182000,Fair,1,Frequent,80400,Business Loan,0.54,0,High
+MIC-1355,46,208000,Self-Employed,1.7,31000,Fair,1,Frequent,44400,Business Loan,0.15,0,High
+MIC-1356,33,231000,Self-Employed,1.4,35000,Fair,4,On-Time,20800,Auto Loan,0.15,0,Medium
+MIC-1357,31,165000,Business,0.8,59000,Fair,1,On-Time,24900,Auto Loan,0.36,0,Medium
+MIC-1358,42,373000,Business,5.8,90000,Poor,1,On-Time,61500,Education Loan,0.24,0,Medium
+MIC-1359,27,230000,Business,0.1,329000,Good,3,Frequent,48600,Auto Loan,1.43,1,High
+MIC-1360,54,255000,Self-Employed,16.3,38000,Good,1,On-Time,22200,Auto Loan,0.15,0,Low
+MIC-1361,47,309000,Self-Employed,8.9,198000,Poor,4,Frequent,45600,Business Loan,0.64,1,High
+MIC-1362,34,451000,Self-Employed,1.1,379000,Fair,2,On-Time,66000,Business Loan,0.84,0,Medium
+MIC-1363,44,317000,Self-Employed,13.0,82000,Fair,1,Frequent,45300,Business Loan,0.26,1,High
+MIC-1364,40,154000,Self-Employed,1.6,34000,Fair,2,On-Time,28100,Personal Loan,0.22,0,Medium
+MIC-1365,38,307000,Business,4.6,522000,Fair,1,1-2 Missed,70600,Business Loan,1.7,0,Medium
+MIC-1366,41,289000,Self-Employed,4.1,460000,Poor,2,1-2 Missed,33800,Business Loan,1.59,1,High
+MIC-1367,47,184000,Self-Employed,5.2,107000,Fair,1,1-2 Missed,30300,Business Loan,0.58,1,Medium
+MIC-1368,47,172000,Self-Employed,0.3,146000,Poor,0,On-Time,34700,Personal Loan,0.85,1,High
+MIC-1369,32,205000,Self-Employed,4.3,94000,Good,2,1-2 Missed,23100,Personal Loan,0.46,1,Medium
+MIC-1370,37,323000,Self-Employed,4.4,465000,Fair,1,On-Time,28900,Auto Loan,1.44,1,Medium
+MIC-1371,41,307000,Self-Employed,14.2,92000,Good,1,On-Time,72300,Business Loan,0.3,0,Low
+MIC-1372,40,174000,Salaried,13.5,137000,Good,3,On-Time,39600,Auto Loan,0.79,0,Low
+MIC-1373,42,186000,Business,3.1,84000,Fair,4,On-Time,22600,Personal Loan,0.45,0,Medium
+MIC-1374,40,182000,Self-Employed,7.4,511000,Good,3,On-Time,15100,Auto Loan,2.81,0,Medium
+MIC-1375,37,311000,Self-Employed,17.0,513000,Fair,0,On-Time,50200,Business Loan,1.65,0,Medium
+MIC-1376,55,120000,Salaried,7.6,196000,Fair,3,On-Time,18900,Auto Loan,1.63,0,Medium
+MIC-1377,44,238000,Self-Employed,10.9,48000,Fair,2,Frequent,57100,Personal Loan,0.2,1,High
+MIC-1378,41,212000,Self-Employed,9.2,102000,Good,1,On-Time,33100,Auto Loan,0.48,1,Low
+MIC-1379,40,137000,Self-Employed,0.0,30000,Good,2,On-Time,25600,Business Loan,0.15,0,Medium
+MIC-1380,40,183000,Business,2.8,53000,Fair,1,On-Time,21600,Auto Loan,0.29,0,Low
+MIC-1381,41,543000,Business,8.1,81000,Fair,0,1-2 Missed,86700,Business Loan,0.15,0,Medium
+MIC-1382,44,499000,Business,11.1,429000,Fair,0,1-2 Missed,97200,Auto Loan,0.86,1,Medium
+MIC-1383,38,138000,Self-Employed,2.4,218000,Fair,3,On-Time,27100,Home Loan,1.58,0,Medium
+MIC-1384,33,203000,Business,2.0,227000,Good,3,Frequent,39900,Auto Loan,1.12,1,High
+MIC-1385,47,248000,Self-Employed,0.5,37000,Good,0,On-Time,23100,Personal Loan,0.15,0,Low
+MIC-1386,48,283000,Self-Employed,4.9,192000,Fair,0,On-Time,60200,Auto Loan,0.68,0,Low
+MIC-1387,40,138000,Business,11.9,77000,Good,1,Frequent,14000,Auto Loan,0.56,1,Medium
+MIC-1388,40,372000,Business,2.1,320000,Fair,0,On-Time,37600,Personal Loan,0.86,0,Low
+MIC-1389,60,323000,Self-Employed,5.8,48000,Good,1,1-2 Missed,58300,Business Loan,0.15,0,Low
+MIC-1390,49,225000,Business,3.6,387000,Good,2,On-Time,34500,Personal Loan,1.72,0,Medium
+MIC-1391,42,270000,Salaried,3.7,84000,Fair,0,On-Time,53500,Business Loan,0.31,0,Low
+MIC-1392,36,225000,Salaried,1.9,90000,Fair,3,1-2 Missed,53900,Education Loan,0.4,1,High
+MIC-1393,37,502000,Business,4.5,75000,Fair,0,On-Time,56000,Personal Loan,0.15,0,Low
+MIC-1394,41,373000,Self-Employed,1.2,190000,Poor,2,On-Time,42100,Business Loan,0.51,0,Medium
+MIC-1395,49,308000,Self-Employed,10.8,370000,Good,3,1-2 Missed,26800,Business Loan,1.2,0,Medium
+MIC-1396,48,159000,Self-Employed,4.5,67000,Good,2,On-Time,32100,Education Loan,0.42,0,Low
+MIC-1397,38,405000,Self-Employed,3.1,288000,Poor,2,On-Time,42000,Business Loan,0.71,1,Medium
+MIC-1398,38,322000,Self-Employed,0.7,142000,Fair,2,On-Time,33500,Business Loan,0.44,0,Medium
+MIC-1399,34,237000,Business,0.1,128000,Good,1,On-Time,46000,Auto Loan,0.54,0,Low
+MIC-1400,30,364000,Self-Employed,0.3,138000,Good,2,On-Time,57400,Auto Loan,0.38,0,Medium
+MIC-1401,39,300000,Self-Employed,3.9,78000,Fair,3,Frequent,27600,Auto Loan,0.26,1,High
+MIC-1402,31,263000,Business,3.7,226000,Poor,1,On-Time,46500,Home Loan,0.86,0,Medium
+MIC-1403,42,220000,Self-Employed,1.8,70000,Good,4,On-Time,51700,Home Loan,0.32,0,Low
+MIC-1404,30,641000,Self-Employed,0.8,647000,Poor,1,1-2 Missed,127400,Business Loan,1.01,1,High
+MIC-1405,46,213000,Salaried,0.8,215000,Good,2,On-Time,26000,Business Loan,1.01,0,Medium
+MIC-1406,36,322000,Self-Employed,3.0,113000,Good,0,On-Time,57600,Business Loan,0.35,0,Low
+MIC-1407,30,120000,Business,0.9,64000,Good,0,On-Time,12000,Personal Loan,0.53,0,Low
+MIC-1408,40,272000,Self-Employed,5.6,201000,Fair,0,Frequent,34900,Personal Loan,0.74,1,High
+MIC-1409,37,120000,Business,10.4,76000,Fair,0,On-Time,19600,Auto Loan,0.63,0,Low
+MIC-1410,46,153000,Self-Employed,0.6,86000,Good,1,On-Time,34600,Home Loan,0.56,0,Low
+MIC-1411,38,383000,Salaried,12.6,134000,Poor,2,On-Time,90400,Auto Loan,0.35,1,Medium
+MIC-1412,39,184000,Self-Employed,4.1,70000,Fair,4,On-Time,19600,Personal Loan,0.38,0,Medium
+MIC-1413,34,264000,Business,1.1,140000,Fair,3,1-2 Missed,56300,Personal Loan,0.53,1,High
+MIC-1414,43,218000,Business,10.3,33000,Good,2,On-Time,26100,Home Loan,0.15,1,Low
+MIC-1415,42,715000,Self-Employed,7.7,293000,Fair,4,On-Time,171000,Business Loan,0.41,0,Medium
+MIC-1416,39,120000,Self-Employed,6.4,109000,Poor,2,On-Time,23800,Business Loan,0.91,0,Medium
+MIC-1417,47,306000,Salaried,1.7,532000,Good,2,On-Time,28400,Business Loan,1.74,0,Medium
+MIC-1418,50,191000,Self-Employed,1.4,155000,Good,2,On-Time,34300,Business Loan,0.81,0,Low
+MIC-1419,27,244000,Business,1.8,173000,Poor,0,On-Time,58400,Education Loan,0.71,0,Medium
+MIC-1420,40,245000,Self-Employed,6.1,37000,Good,2,On-Time,54300,Auto Loan,0.15,0,Low
+MIC-1421,34,652000,Salaried,1.7,287000,Fair,1,Frequent,87500,Business Loan,0.44,1,High
+MIC-1422,31,256000,Self-Employed,0.6,133000,Fair,0,On-Time,49000,Business Loan,0.52,0,Medium
+MIC-1423,49,292000,Self-Employed,0.1,131000,Poor,0,1-2 Missed,35900,Auto Loan,0.45,0,High
+MIC-1424,31,216000,Business,7.0,229000,Good,1,1-2 Missed,42400,Business Loan,1.06,0,Low
+MIC-1425,49,376000,Self-Employed,2.8,75000,Fair,3,On-Time,49700,Business Loan,0.2,0,Medium
+MIC-1426,31,226000,Self-Employed,1.1,212000,Fair,0,1-2 Missed,51300,Personal Loan,0.94,0,Medium
+MIC-1427,57,183000,Business,11.9,48000,Good,0,1-2 Missed,41500,Personal Loan,0.26,0,Low
+MIC-1428,42,259000,Self-Employed,2.3,39000,Good,0,On-Time,64300,Education Loan,0.15,0,Low
+MIC-1429,39,235000,Salaried,0.1,193000,Fair,1,On-Time,51900,Business Loan,0.82,0,Medium
+MIC-1430,43,579000,Business,10.4,156000,Good,1,1-2 Missed,140200,Personal Loan,0.27,0,Low
+MIC-1431,33,288000,Business,4.2,300000,Good,2,On-Time,47500,Personal Loan,1.04,0,Low
+MIC-1432,38,339000,Self-Employed,7.5,122000,Poor,2,Frequent,48100,Business Loan,0.36,1,High
+MIC-1433,49,261000,Business,3.5,39000,Fair,2,Frequent,41500,Home Loan,0.15,1,High
+MIC-1434,37,259000,Self-Employed,4.0,306000,Good,2,1-2 Missed,43900,Education Loan,1.18,1,Medium
+MIC-1435,43,229000,Salaried,0.6,179000,Fair,1,On-Time,34500,Personal Loan,0.78,1,Medium
+MIC-1436,46,241000,Business,7.2,36000,Fair,1,On-Time,23500,Home Loan,0.15,0,Low
+MIC-1437,48,357000,Salaried,15.9,54000,Good,0,On-Time,59800,Personal Loan,0.15,0,Low
+MIC-1438,39,284000,Salaried,4.0,122000,Fair,2,On-Time,61100,Business Loan,0.43,0,Medium
+MIC-1439,37,299000,Self-Employed,3.4,114000,Good,0,On-Time,57300,Business Loan,0.38,0,Low
+MIC-1440,43,210000,Self-Employed,2.0,48000,Poor,2,On-Time,26200,Personal Loan,0.23,0,Medium
+MIC-1441,44,347000,Business,4.8,621000,Good,1,Frequent,60000,Business Loan,1.79,0,High
+MIC-1442,38,320000,Self-Employed,8.3,285000,Good,3,1-2 Missed,73700,Personal Loan,0.89,0,Medium
+MIC-1443,39,373000,Salaried,5.4,138000,Good,2,1-2 Missed,59000,Auto Loan,0.37,0,Medium
+MIC-1444,35,261000,Self-Employed,10.5,209000,Good,0,On-Time,55200,Personal Loan,0.8,0,Low
+MIC-1445,34,324000,Self-Employed,14.3,87000,Good,1,On-Time,64200,Business Loan,0.27,0,Low
+MIC-1446,26,156000,Business,0.1,264000,Fair,2,Frequent,20600,Education Loan,1.69,0,High
+MIC-1447,36,395000,Business,0.0,383000,Good,3,On-Time,43500,Business Loan,0.97,0,Medium
+MIC-1448,29,351000,Self-Employed,1.7,274000,Fair,0,On-Time,52500,Home Loan,0.78,0,Low
+MIC-1449,38,366000,Self-Employed,0.2,505000,Poor,3,On-Time,29300,Business Loan,1.38,1,High
+MIC-1450,46,648000,Self-Employed,8.7,162000,Good,0,Frequent,104600,Business Loan,0.25,0,Medium
+MIC-1451,33,252000,Business,5.0,108000,Good,2,On-Time,34700,Auto Loan,0.43,0,Low
+MIC-1452,45,353000,Salaried,6.9,586000,Good,0,On-Time,55700,Business Loan,1.66,0,Low
+MIC-1453,37,252000,Salaried,7.7,38000,Good,1,On-Time,43800,Home Loan,0.15,0,Low
+MIC-1454,32,379000,Business,2.9,57000,Good,3,On-Time,93400,Business Loan,0.15,0,Low
+MIC-1455,43,306000,Self-Employed,25.0,208000,Good,1,1-2 Missed,37500,Personal Loan,0.68,0,Low
+MIC-1456,55,207000,Business,5.4,174000,Good,3,On-Time,21200,Personal Loan,0.84,0,Low
+MIC-1457,35,217000,Business,2.3,39000,Fair,0,Frequent,21500,Home Loan,0.18,1,High
+MIC-1458,45,252000,Self-Employed,7.1,174000,Good,3,On-Time,54100,Education Loan,0.69,0,Low
+MIC-1459,35,286000,Self-Employed,3.1,120000,Good,0,On-Time,61900,Education Loan,0.42,0,Low
+MIC-1460,39,254000,Salaried,10.6,239000,Good,1,On-Time,51500,Business Loan,0.94,0,Low
+MIC-1461,38,282000,Self-Employed,4.9,68000,Fair,1,On-Time,26600,Business Loan,0.24,0,Low
+MIC-1462,34,181000,Business,0.3,67000,Good,1,1-2 Missed,28600,Business Loan,0.37,1,Medium
+MIC-1463,24,375000,Self-Employed,0.3,199000,Good,0,1-2 Missed,73800,Personal Loan,0.53,0,Medium
+MIC-1464,54,218000,Self-Employed,5.9,146000,Good,3,1-2 Missed,19000,Home Loan,0.67,0,Medium
+MIC-1465,34,415000,Self-Employed,0.9,158000,Good,0,On-Time,99000,Business Loan,0.38,0,Low
+MIC-1466,30,241000,Business,1.3,195000,Fair,3,Frequent,29000,Auto Loan,0.81,1,High
+MIC-1467,51,142000,Self-Employed,15.3,30000,Good,0,Frequent,21200,Home Loan,0.15,0,Medium
+MIC-1468,32,150000,Self-Employed,6.3,30000,Good,1,On-Time,18100,Business Loan,0.15,0,Low
+MIC-1469,47,222000,Salaried,0.8,33000,Fair,1,1-2 Missed,38100,Home Loan,0.15,0,Medium
+MIC-1470,47,170000,Business,2.1,30000,Fair,2,On-Time,39100,Home Loan,0.15,0,Medium
+MIC-1471,40,471000,Business,9.7,659000,Good,3,1-2 Missed,109100,Business Loan,1.4,1,High
+MIC-1472,36,255000,Salaried,1.5,163000,Good,1,Frequent,61100,Home Loan,0.64,0,Medium
+MIC-1473,45,523000,Business,14.7,167000,Good,0,On-Time,88300,Auto Loan,0.32,0,Low
+MIC-1474,36,265000,Self-Employed,18.0,170000,Fair,4,Frequent,43300,Business Loan,0.64,1,High
+MIC-1475,38,151000,Business,3.2,183000,Poor,0,On-Time,34300,Auto Loan,1.21,0,Medium
+MIC-1476,41,378000,Self-Employed,8.7,57000,Poor,3,On-Time,53400,Business Loan,0.15,0,High
+MIC-1477,31,467000,Business,4.0,285000,Fair,2,1-2 Missed,65500,Business Loan,0.61,0,Medium
+MIC-1478,25,512000,Self-Employed,0.2,189000,Fair,0,On-Time,49000,Home Loan,0.37,0,Medium
+MIC-1479,41,208000,Salaried,10.9,98000,Good,0,1-2 Missed,36300,Personal Loan,0.47,0,Low
+MIC-1480,59,283000,Business,17.7,342000,Poor,1,On-Time,55800,Auto Loan,1.21,0,Medium
+MIC-1481,57,291000,Self-Employed,4.6,387000,Good,0,On-Time,61800,Personal Loan,1.33,0,Low
+MIC-1482,48,259000,Self-Employed,1.2,39000,Poor,3,1-2 Missed,62000,Personal Loan,0.15,1,High
+MIC-1483,34,218000,Business,4.0,61000,Fair,1,Frequent,51100,Auto Loan,0.28,1,High
+MIC-1484,53,157000,Salaried,0.5,74000,Fair,0,Frequent,24600,Personal Loan,0.47,0,High
+MIC-1485,56,150000,Self-Employed,1.0,141000,Poor,1,Frequent,26400,Personal Loan,0.94,1,High
+MIC-1486,38,400000,Self-Employed,0.3,92000,Fair,1,1-2 Missed,60600,Business Loan,0.23,0,Medium
+MIC-1487,58,209000,Self-Employed,10.0,125000,Poor,1,Frequent,37200,Auto Loan,0.6,1,High
+MIC-1488,32,226000,Salaried,7.2,34000,Fair,3,On-Time,43900,Business Loan,0.15,0,Medium
+MIC-1489,27,229000,Salaried,1.7,121000,Good,2,1-2 Missed,48600,Business Loan,0.53,1,Medium
+MIC-1490,57,290000,Salaried,0.7,130000,Good,0,Frequent,47700,Auto Loan,0.45,1,High
+MIC-1491,43,305000,Self-Employed,7.3,113000,Fair,3,On-Time,31900,Business Loan,0.37,1,Medium
+MIC-1492,48,392000,Self-Employed,0.3,71000,Fair,3,On-Time,61500,Business Loan,0.18,0,Medium
+MIC-1493,42,396000,Self-Employed,1.2,59000,Fair,0,1-2 Missed,54500,Auto Loan,0.15,1,Medium
+MIC-1494,34,510000,Self-Employed,16.0,184000,Fair,2,On-Time,120900,Education Loan,0.36,1,Medium
+MIC-1495,47,293000,Salaried,5.9,44000,Fair,2,Frequent,62800,Personal Loan,0.15,1,High
+MIC-1496,40,445000,Self-Employed,5.0,503000,Fair,2,On-Time,110700,Business Loan,1.13,1,Medium
+MIC-1497,25,205000,Self-Employed,0.3,152000,Good,3,On-Time,33900,Business Loan,0.74,0,Medium
+MIC-1498,43,310000,Self-Employed,2.4,415000,Good,1,On-Time,57900,Business Loan,1.34,0,Low
+MIC-1499,34,542000,Self-Employed,2.4,970000,Fair,3,Frequent,131700,Business Loan,1.79,0,High
+MIC-1500,34,219000,Self-Employed,0.0,153000,Fair,3,1-2 Missed,41600,Business Loan,0.7,1,High
+MIC-1501,36,285000,Self-Employed,1.9,296000,Fair,0,On-Time,50100,Personal Loan,1.04,0,Low
+MIC-1502,46,376000,Self-Employed,20.8,274000,Fair,2,On-Time,53200,Personal Loan,0.73,0,Medium
+MIC-1503,37,270000,Self-Employed,2.1,40000,Good,2,On-Time,40600,Auto Loan,0.15,0,Low
+MIC-1504,33,367000,Self-Employed,2.1,334000,Fair,1,On-Time,83800,Personal Loan,0.91,0,Low
+MIC-1505,44,273000,Self-Employed,0.1,60000,Good,1,On-Time,43200,Business Loan,0.22,0,Low
+MIC-1506,55,174000,Business,13.9,30000,Poor,0,On-Time,28600,Business Loan,0.15,0,Medium
+MIC-1507,43,120000,Business,8.7,176000,Fair,2,On-Time,14900,Personal Loan,1.47,0,Medium
+MIC-1508,40,170000,Business,2.9,187000,Good,2,1-2 Missed,21100,Personal Loan,1.1,0,Medium
+MIC-1509,44,406000,Self-Employed,3.0,532000,Good,0,1-2 Missed,97200,Business Loan,1.31,0,Medium
+MIC-1510,52,419000,Self-Employed,0.2,163000,Good,2,Frequent,87200,Personal Loan,0.39,1,High
+MIC-1511,27,235000,Business,0.4,167000,Fair,2,On-Time,28300,Personal Loan,0.71,0,Medium
+MIC-1512,35,428000,Self-Employed,0.3,146000,Good,1,On-Time,91700,Home Loan,0.34,0,Low
+MIC-1513,37,301000,Self-Employed,18.4,172000,Good,1,On-Time,40300,Home Loan,0.57,0,Low
+MIC-1514,36,231000,Salaried,1.4,60000,Fair,0,On-Time,33000,Education Loan,0.26,0,Low
+MIC-1515,33,608000,Self-Employed,6.7,109000,Fair,2,Frequent,60200,Personal Loan,0.18,1,High
+MIC-1516,49,635000,Business,4.2,1245000,Good,2,Frequent,118900,Personal Loan,1.96,1,High
+MIC-1517,38,432000,Self-Employed,4.3,683000,Good,2,On-Time,74700,Business Loan,1.58,0,Medium
+MIC-1518,59,267000,Self-Employed,1.7,69000,Good,3,Frequent,36600,Business Loan,0.26,1,High
+MIC-1519,48,367000,Self-Employed,16.3,382000,Fair,4,1-2 Missed,48000,Personal Loan,1.04,1,High
+MIC-1520,52,223000,Salaried,10.5,152000,Good,2,On-Time,38400,Business Loan,0.68,0,Low
+MIC-1521,37,243000,Self-Employed,0.2,160000,Good,2,1-2 Missed,37500,Business Loan,0.66,1,Medium
+MIC-1522,32,482000,Business,1.5,704000,Fair,0,Frequent,83800,Business Loan,1.46,0,High
+MIC-1523,33,120000,Self-Employed,0.9,84000,Fair,0,On-Time,16200,Home Loan,0.7,0,Medium
+MIC-1524,41,237000,Salaried,3.5,337000,Fair,1,1-2 Missed,29900,Personal Loan,1.42,0,Medium
+MIC-1525,39,246000,Self-Employed,8.3,54000,Good,2,1-2 Missed,31800,Business Loan,0.22,0,Medium
+MIC-1526,40,184000,Self-Employed,0.2,66000,Good,3,Frequent,30700,Education Loan,0.36,1,High
+MIC-1527,33,164000,Self-Employed,3.2,149000,Fair,1,On-Time,21800,Business Loan,0.91,0,Low
+MIC-1528,42,571000,Self-Employed,0.2,86000,Poor,0,1-2 Missed,131600,Personal Loan,0.15,1,High
+MIC-1529,35,454000,Self-Employed,4.7,1176000,Fair,2,On-Time,87600,Business Loan,2.59,1,High
+MIC-1530,44,505000,Self-Employed,15.2,409000,Fair,2,On-Time,68600,Auto Loan,0.81,0,Medium
+MIC-1531,55,253000,Self-Employed,3.1,167000,Good,2,On-Time,53000,Business Loan,0.66,0,Low
+MIC-1532,26,716000,Self-Employed,0.4,866000,Poor,1,Frequent,123700,Business Loan,1.21,1,High
+MIC-1533,40,276000,Salaried,1.2,157000,Poor,2,On-Time,30700,Business Loan,0.57,0,Medium
+MIC-1534,33,592000,Business,1.8,237000,Fair,0,On-Time,140200,Personal Loan,0.4,0,Low
+MIC-1535,48,284000,Self-Employed,10.0,43000,Poor,2,Frequent,57700,Education Loan,0.15,1,High
+MIC-1536,43,251000,Self-Employed,2.8,264000,Good,1,On-Time,45200,Auto Loan,1.05,0,Low
+MIC-1537,51,279000,Self-Employed,27.0,234000,Good,0,On-Time,30300,Home Loan,0.84,0,Low
+MIC-1538,41,381000,Business,11.2,316000,Good,2,Frequent,35100,Business Loan,0.83,1,High
+MIC-1539,52,435000,Self-Employed,3.2,65000,Fair,0,1-2 Missed,73800,Personal Loan,0.15,1,Medium
+MIC-1540,40,286000,Self-Employed,0.6,69000,Fair,1,On-Time,63600,Business Loan,0.24,1,Medium
+MIC-1541,42,247000,Salaried,13.0,138000,Fair,2,1-2 Missed,48300,Business Loan,0.56,0,Medium
+MIC-1542,36,372000,Self-Employed,4.8,153000,Fair,2,Frequent,31900,Business Loan,0.41,1,High
+MIC-1543,38,172000,Self-Employed,2.1,34000,Fair,0,On-Time,33300,Business Loan,0.2,0,Low
+MIC-1544,25,276000,Business,0.1,367000,Good,1,On-Time,60200,Business Loan,1.33,0,Medium
+MIC-1545,40,317000,Business,1.5,155000,Fair,0,On-Time,70100,Business Loan,0.49,0,Low
+MIC-1546,28,338000,Salaried,0.7,149000,Good,2,On-Time,82600,Auto Loan,0.44,1,Medium
+MIC-1547,52,322000,Self-Employed,0.3,196000,Fair,4,On-Time,70800,Business Loan,0.61,1,Medium
+MIC-1548,46,216000,Salaried,1.2,384000,Good,2,1-2 Missed,28800,Personal Loan,1.78,1,Medium
+MIC-1549,32,141000,Self-Employed,6.3,55000,Fair,1,On-Time,22800,Personal Loan,0.39,0,Low
+MIC-1550,50,310000,Self-Employed,7.7,146000,Poor,0,On-Time,35400,Business Loan,0.47,0,Medium
+MIC-1551,42,366000,Business,9.7,388000,Fair,2,On-Time,58700,Personal Loan,1.06,0,Medium
+MIC-1552,44,163000,Salaried,0.6,158000,Fair,4,On-Time,36600,Personal Loan,0.97,1,Medium
+MIC-1553,35,339000,Salaried,0.3,129000,Fair,1,On-Time,45400,Education Loan,0.38,0,Medium
+MIC-1554,45,299000,Business,13.7,117000,Poor,1,Frequent,43300,Business Loan,0.39,1,High
+MIC-1555,53,323000,Self-Employed,2.8,459000,Good,2,On-Time,66100,Personal Loan,1.42,0,Medium
+MIC-1556,39,377000,Business,5.1,128000,Fair,1,On-Time,84500,Auto Loan,0.34,0,Low
+MIC-1557,30,302000,Self-Employed,0.6,936000,Good,1,On-Time,71100,Education Loan,3.1,1,Medium
+MIC-1558,41,270000,Self-Employed,3.3,86000,Fair,0,On-Time,52500,Business Loan,0.32,0,Low
+MIC-1559,48,516000,Salaried,9.6,1275000,Good,2,On-Time,69500,Education Loan,2.47,1,Medium
+MIC-1560,31,467000,Salaried,1.7,112000,Good,1,Frequent,99300,Business Loan,0.24,0,Medium
+MIC-1561,40,284000,Self-Employed,9.9,156000,Fair,1,On-Time,24400,Business Loan,0.55,0,Low
+MIC-1562,43,209000,Business,7.5,90000,Fair,2,1-2 Missed,39100,Auto Loan,0.43,0,Medium
+MIC-1563,43,198000,Self-Employed,4.5,87000,Good,0,On-Time,42800,Auto Loan,0.44,0,Low
+MIC-1564,31,189000,Business,4.0,30000,Fair,4,On-Time,45700,Education Loan,0.15,0,Medium
+MIC-1565,48,395000,Salaried,6.4,486000,Poor,2,1-2 Missed,47300,Auto Loan,1.23,1,High
+MIC-1566,40,277000,Business,7.7,144000,Poor,2,1-2 Missed,36000,Education Loan,0.52,1,High
+MIC-1567,42,270000,Salaried,9.8,146000,Good,0,On-Time,30200,Home Loan,0.54,0,Low
+MIC-1568,38,413000,Business,16.7,95000,Fair,0,On-Time,48000,Auto Loan,0.23,0,Low
+MIC-1569,22,216000,Business,0.4,67000,Good,0,On-Time,36900,Home Loan,0.31,0,Low
+MIC-1570,41,212000,Self-Employed,0.5,375000,Fair,2,On-Time,47000,Business Loan,1.77,1,High
+MIC-1571,42,295000,Self-Employed,0.8,94000,Fair,0,On-Time,50500,Business Loan,0.32,0,Medium
+MIC-1572,56,291000,Business,6.7,47000,Fair,2,1-2 Missed,60900,Business Loan,0.16,0,Medium
+MIC-1573,33,467000,Salaried,0.3,149000,Good,1,On-Time,85500,Home Loan,0.32,0,Low
+MIC-1574,48,149000,Self-Employed,5.8,310000,Good,2,Frequent,30900,Business Loan,2.08,1,High
+MIC-1575,46,374000,Self-Employed,2.2,157000,Good,1,On-Time,84400,Education Loan,0.42,0,Low
+MIC-1576,34,320000,Business,0.5,48000,Good,1,On-Time,68800,Personal Loan,0.15,0,Low
+MIC-1577,42,365000,Self-Employed,3.3,69000,Good,1,Frequent,67000,Business Loan,0.19,0,Medium
+MIC-1578,42,228000,Self-Employed,0.4,388000,Fair,0,On-Time,49100,Home Loan,1.7,0,Medium
+MIC-1579,42,466000,Self-Employed,3.9,368000,Fair,3,1-2 Missed,69100,Auto Loan,0.79,1,High
+MIC-1580,42,269000,Business,4.4,86000,Fair,2,On-Time,49400,Personal Loan,0.32,0,Medium
+MIC-1581,33,194000,Self-Employed,4.3,52000,Fair,1,On-Time,37300,Auto Loan,0.27,0,Low
+MIC-1582,43,297000,Business,6.1,110000,Good,1,On-Time,35300,Business Loan,0.37,0,Low
+MIC-1583,41,271000,Self-Employed,8.3,141000,Fair,2,Frequent,31700,Personal Loan,0.52,1,High
+MIC-1584,24,170000,Business,0.4,187000,Poor,2,On-Time,35400,Personal Loan,1.1,1,High
+MIC-1585,36,340000,Self-Employed,6.0,493000,Fair,3,Frequent,72500,Auto Loan,1.45,0,High
+MIC-1586,37,178000,Salaried,5.2,135000,Good,2,1-2 Missed,34600,Personal Loan,0.76,0,Medium
+MIC-1587,30,140000,Self-Employed,0.4,62000,Good,1,Frequent,20600,Education Loan,0.44,1,High
+MIC-1588,53,214000,Salaried,3.8,43000,Good,4,On-Time,27300,Business Loan,0.2,0,Low
+MIC-1589,42,120000,Business,3.2,38000,Fair,3,1-2 Missed,12600,Personal Loan,0.32,1,High
+MIC-1590,31,120000,Self-Employed,11.1,72000,Fair,1,On-Time,20400,Business Loan,0.6,0,Low
+MIC-1591,28,177000,Self-Employed,1.9,67000,Fair,1,1-2 Missed,14700,Business Loan,0.38,0,Medium
+MIC-1592,47,239000,Self-Employed,2.8,36000,Good,2,Frequent,25000,Education Loan,0.15,0,High
+MIC-1593,45,226000,Self-Employed,11.9,131000,Fair,3,On-Time,27300,Personal Loan,0.58,0,Medium
+MIC-1594,29,134000,Business,2.6,288000,Poor,1,On-Time,12400,Education Loan,2.15,1,High
+MIC-1595,54,274000,Business,6.6,140000,Fair,2,On-Time,30500,Education Loan,0.51,0,Medium
+MIC-1596,52,363000,Salaried,5.7,54000,Poor,3,Frequent,37600,Business Loan,0.15,0,High
+MIC-1597,37,516000,Self-Employed,6.4,310000,Fair,1,1-2 Missed,116500,Education Loan,0.6,0,Medium
+MIC-1598,30,270000,Self-Employed,3.3,122000,Good,4,1-2 Missed,51000,Business Loan,0.45,0,Medium
+MIC-1599,29,297000,Business,2.1,285000,Fair,4,Frequent,53100,Personal Loan,0.96,1,High
+MIC-1600,47,301000,Self-Employed,0.4,178000,Good,2,On-Time,40500,Personal Loan,0.59,0,Medium
+MIC-1601,41,244000,Self-Employed,5.4,259000,Good,2,1-2 Missed,27100,Personal Loan,1.06,0,Medium
+MIC-1602,47,206000,Self-Employed,7.2,109000,Good,1,On-Time,31200,Auto Loan,0.53,0,Low
+MIC-1603,37,175000,Business,2.0,37000,Fair,0,Frequent,15000,Business Loan,0.21,0,High
+MIC-1604,58,473000,Self-Employed,6.0,473000,Poor,1,1-2 Missed,75000,Business Loan,1.0,1,High
+MIC-1605,39,602000,Self-Employed,0.9,885000,Fair,0,On-Time,146200,Business Loan,1.47,1,Medium
+MIC-1606,45,263000,Self-Employed,27.0,42000,Poor,2,On-Time,23800,Business Loan,0.16,1,Medium
+MIC-1607,52,196000,Self-Employed,4.8,41000,Fair,1,On-Time,16300,Business Loan,0.21,0,Low
+MIC-1608,30,309000,Business,2.1,90000,Good,2,On-Time,61800,Personal Loan,0.29,0,Low
+MIC-1609,56,297000,Self-Employed,17.3,347000,Good,1,Frequent,26900,Business Loan,1.17,1,Medium
+MIC-1610,48,360000,Business,14.5,140000,Fair,4,On-Time,73800,Home Loan,0.39,0,Medium
+MIC-1611,30,294000,Self-Employed,3.3,171000,Good,1,On-Time,35700,Business Loan,0.58,0,Low
+MIC-1612,36,418000,Self-Employed,7.3,259000,Good,2,On-Time,67600,Education Loan,0.62,0,Low
+MIC-1613,39,280000,Business,2.7,87000,Good,0,On-Time,54200,Business Loan,0.31,0,Low
+MIC-1614,27,578000,Salaried,0.5,220000,Good,1,On-Time,57800,Personal Loan,0.38,0,Low
+MIC-1615,42,186000,Self-Employed,1.0,238000,Fair,1,On-Time,15500,Business Loan,1.28,0,Medium
+MIC-1616,48,328000,Business,12.4,69000,Fair,0,1-2 Missed,46000,Business Loan,0.21,1,Medium
+MIC-1617,41,212000,Self-Employed,0.1,49000,Fair,1,On-Time,49300,Auto Loan,0.23,0,Medium
+MIC-1618,45,183000,Salaried,0.2,443000,Fair,3,Frequent,22900,Personal Loan,2.42,0,High
+MIC-1619,39,180000,Self-Employed,5.8,32000,Good,1,On-Time,33000,Personal Loan,0.18,0,Low
+MIC-1620,43,186000,Business,1.5,56000,Good,2,On-Time,21800,Personal Loan,0.3,0,Low
+MIC-1621,43,351000,Self-Employed,1.2,183000,Good,1,On-Time,75100,Business Loan,0.52,0,Low
+MIC-1622,24,241000,Salaried,0.4,36000,Poor,4,1-2 Missed,44400,Auto Loan,0.15,1,High
+MIC-1623,60,227000,Business,12.1,295000,Good,0,On-Time,48700,Home Loan,1.3,0,Low
+MIC-1624,35,120000,Self-Employed,2.0,101000,Good,1,On-Time,15500,Business Loan,0.84,0,Low
+MIC-1625,43,509000,Self-Employed,4.4,346000,Fair,2,On-Time,122200,Business Loan,0.68,1,Medium
+MIC-1626,44,122000,Self-Employed,12.3,30000,Good,0,Frequent,19600,Business Loan,0.15,0,Medium
+MIC-1627,38,308000,Business,2.8,296000,Good,2,On-Time,38700,Business Loan,0.96,0,Low
+MIC-1628,54,289000,Business,9.1,402000,Good,3,On-Time,60200,Education Loan,1.39,0,Medium
+MIC-1629,31,212000,Business,4.3,70000,Poor,1,1-2 Missed,39200,Education Loan,0.33,1,High
+MIC-1630,36,618000,Self-Employed,3.4,93000,Fair,1,On-Time,142400,Business Loan,0.15,0,Low
+MIC-1631,54,221000,Self-Employed,27.6,33000,Fair,1,1-2 Missed,33800,Personal Loan,0.15,1,Medium
+MIC-1632,43,186000,Self-Employed,7.6,30000,Good,2,On-Time,29500,Personal Loan,0.15,0,Low
+MIC-1633,32,289000,Business,2.0,381000,Good,3,On-Time,24000,Education Loan,1.32,0,Medium
+MIC-1634,42,252000,Business,7.1,280000,Good,2,On-Time,57700,Personal Loan,1.11,0,Low
+MIC-1635,53,335000,Business,1.6,281000,Poor,3,On-Time,45600,Home Loan,0.84,1,High
+MIC-1636,35,359000,Business,11.8,337000,Fair,2,1-2 Missed,59700,Business Loan,0.94,0,Medium
+MIC-1637,34,307000,Business,10.5,629000,Fair,3,On-Time,48000,Home Loan,2.05,1,High
+MIC-1638,44,236000,Business,0.9,165000,Fair,2,On-Time,54600,Auto Loan,0.7,0,Medium
+MIC-1639,38,231000,Self-Employed,10.0,381000,Fair,3,1-2 Missed,51100,Business Loan,1.65,0,High
+MIC-1640,50,329000,Self-Employed,14.0,49000,Fair,1,On-Time,64400,Business Loan,0.15,0,Low
+MIC-1641,39,474000,Self-Employed,1.3,100000,Fair,1,On-Time,82000,Education Loan,0.21,0,Low
+MIC-1642,55,240000,Self-Employed,0.1,144000,Good,2,On-Time,23800,Personal Loan,0.6,0,Medium
+MIC-1643,32,198000,Self-Employed,0.3,107000,Good,3,On-Time,40200,Business Loan,0.54,0,Medium
+MIC-1644,56,209000,Business,8.4,31000,Poor,2,On-Time,34300,Auto Loan,0.15,0,Medium
+MIC-1645,40,222000,Self-Employed,6.9,155000,Good,1,1-2 Missed,19800,Auto Loan,0.7,0,Low
+MIC-1646,36,245000,Business,4.3,196000,Good,1,On-Time,49300,Home Loan,0.8,0,Low
+MIC-1647,47,301000,Business,8.9,253000,Good,1,Frequent,34500,Personal Loan,0.84,0,Medium
+MIC-1648,53,343000,Self-Employed,0.7,79000,Good,0,Frequent,29700,Personal Loan,0.23,1,High
+MIC-1649,30,151000,Self-Employed,3.5,240000,Good,1,On-Time,31800,Business Loan,1.59,0,Low
+MIC-1650,39,171000,Salaried,4.6,82000,Fair,2,On-Time,21900,Personal Loan,0.48,1,Medium
+MIC-1651,41,241000,Business,2.1,72000,Fair,2,On-Time,53400,Business Loan,0.3,1,Medium
+MIC-1652,39,284000,Business,7.1,74000,Fair,1,1-2 Missed,27800,Business Loan,0.26,0,Medium
+MIC-1653,32,356000,Self-Employed,1.1,53000,Good,2,On-Time,34400,Education Loan,0.15,0,Low
+MIC-1654,33,423000,Self-Employed,0.2,144000,Good,1,On-Time,88900,Personal Loan,0.34,0,Low
+MIC-1655,35,598000,Self-Employed,10.5,951000,Fair,2,On-Time,63600,Auto Loan,1.59,0,Medium
+MIC-1656,47,296000,Business,7.5,104000,Fair,1,Frequent,28100,Auto Loan,0.35,0,High
+MIC-1657,41,184000,Self-Employed,19.2,83000,Fair,1,On-Time,40800,Business Loan,0.45,0,Low
+MIC-1658,55,285000,Self-Employed,12.0,43000,Poor,2,On-Time,47200,Business Loan,0.15,0,Medium
+MIC-1659,35,327000,Self-Employed,7.3,49000,Fair,4,On-Time,64800,Personal Loan,0.15,1,Medium
+MIC-1660,44,251000,Business,1.6,53000,Good,2,On-Time,53300,Education Loan,0.21,0,Low
+MIC-1661,38,174000,Self-Employed,14.5,44000,Fair,1,1-2 Missed,37900,Business Loan,0.25,0,Medium
+MIC-1662,50,348000,Business,11.3,289000,Poor,2,On-Time,36400,Education Loan,0.83,1,Medium
+MIC-1663,31,236000,Self-Employed,2.7,54000,Good,1,Frequent,32300,Business Loan,0.23,0,Medium
+MIC-1664,45,240000,Business,18.3,168000,Fair,0,On-Time,58400,Education Loan,0.7,0,Low
+MIC-1665,46,431000,Self-Employed,0.1,470000,Poor,1,On-Time,42900,Business Loan,1.09,1,High
+MIC-1666,37,387000,Business,0.0,271000,Fair,0,On-Time,89100,Business Loan,0.7,0,Medium
+MIC-1667,42,463000,Self-Employed,18.8,394000,Poor,0,On-Time,84100,Business Loan,0.85,1,Medium
+MIC-1668,37,221000,Business,2.0,40000,Fair,2,On-Time,45500,Home Loan,0.18,0,Medium
+MIC-1669,42,236000,Self-Employed,8.3,35000,Good,0,1-2 Missed,32100,Auto Loan,0.15,0,Low
+MIC-1670,39,243000,Self-Employed,3.9,78000,Good,2,On-Time,38800,Auto Loan,0.32,0,Low
+MIC-1671,48,289000,Business,1.0,384000,Good,0,On-Time,48500,Business Loan,1.33,0,Low
+MIC-1672,38,222000,Salaried,3.9,33000,Fair,4,On-Time,51000,Business Loan,0.15,0,Medium
+MIC-1673,39,321000,Self-Employed,1.7,132000,Good,2,On-Time,53900,Business Loan,0.41,0,Low
+MIC-1674,30,491000,Self-Employed,0.3,79000,Good,2,1-2 Missed,85000,Education Loan,0.16,1,Medium
+MIC-1675,38,484000,Self-Employed,2.8,165000,Good,1,On-Time,44600,Personal Loan,0.34,0,Low
+MIC-1676,55,423000,Self-Employed,20.4,110000,Fair,0,On-Time,66600,Personal Loan,0.26,0,Low
+MIC-1677,40,212000,Self-Employed,11.2,254000,Poor,2,On-Time,29000,Business Loan,1.2,0,Medium
+MIC-1678,38,186000,Salaried,0.2,441000,Poor,1,On-Time,36400,Business Loan,2.37,1,High
+MIC-1679,43,239000,Self-Employed,12.2,48000,Fair,1,1-2 Missed,25200,Personal Loan,0.2,1,Medium
+MIC-1680,45,327000,Business,3.8,72000,Good,2,On-Time,32500,Business Loan,0.22,0,Low
+MIC-1681,32,391000,Business,0.6,536000,Good,2,On-Time,80300,Business Loan,1.37,1,Medium
+MIC-1682,24,175000,Self-Employed,0.8,201000,Fair,2,On-Time,38800,Personal Loan,1.15,0,Medium
+MIC-1683,40,146000,Business,4.7,264000,Poor,0,On-Time,26800,Business Loan,1.81,0,Medium
+MIC-1684,39,246000,Salaried,6.2,98000,Good,2,1-2 Missed,32000,Education Loan,0.4,0,Medium
+MIC-1685,39,312000,Salaried,7.7,225000,Good,1,1-2 Missed,38000,Education Loan,0.72,0,Low
+MIC-1686,44,165000,Salaried,9.0,35000,Fair,2,1-2 Missed,30000,Business Loan,0.21,1,Medium
+MIC-1687,54,355000,Self-Employed,6.6,170000,Fair,0,1-2 Missed,58900,Business Loan,0.48,0,Medium
+MIC-1688,44,298000,Business,1.2,298000,Good,2,On-Time,31000,Auto Loan,1.0,0,Low
+MIC-1689,41,482000,Business,6.1,684000,Good,2,On-Time,68000,Business Loan,1.42,0,Medium
+MIC-1690,45,255000,Self-Employed,10.6,82000,Fair,2,1-2 Missed,62300,Business Loan,0.32,1,Medium
+MIC-1691,45,233000,Self-Employed,15.9,126000,Fair,2,Frequent,19000,Personal Loan,0.54,1,High
+MIC-1692,29,270000,Business,4.5,40000,Poor,3,On-Time,42400,Personal Loan,0.15,0,High
+MIC-1693,37,120000,Business,19.0,66000,Poor,1,On-Time,13000,Business Loan,0.55,1,Medium
+MIC-1694,41,200000,Business,1.3,70000,Good,2,On-Time,16600,Personal Loan,0.35,0,Low
+MIC-1695,36,296000,Business,1.7,207000,Poor,2,On-Time,61400,Education Loan,0.7,0,Medium
+MIC-1696,46,346000,Business,11.2,90000,Good,2,On-Time,79800,Business Loan,0.26,0,Low
+MIC-1697,54,265000,Business,12.8,170000,Poor,1,On-Time,52400,Business Loan,0.64,0,Medium
+MIC-1698,57,448000,Self-Employed,5.1,246000,Fair,1,Frequent,40100,Business Loan,0.55,1,High
+MIC-1699,55,251000,Self-Employed,0.8,120000,Good,0,On-Time,60800,Personal Loan,0.48,0,Low
+MIC-1700,52,404000,Business,14.1,679000,Fair,1,Frequent,51400,Business Loan,1.68,1,High
+MIC-1701,52,257000,Salaried,2.3,85000,Poor,1,Frequent,48800,Business Loan,0.33,1,High
+MIC-1702,43,253000,Self-Employed,8.8,38000,Poor,1,On-Time,32100,Education Loan,0.15,1,Medium
+MIC-1703,31,199000,Self-Employed,4.3,173000,Good,1,On-Time,39600,Home Loan,0.87,0,Low
+MIC-1704,52,220000,Self-Employed,4.2,92000,Good,2,1-2 Missed,30700,Business Loan,0.42,0,Medium
+MIC-1705,29,232000,Self-Employed,1.8,35000,Fair,1,1-2 Missed,23000,Auto Loan,0.15,0,Medium
+MIC-1706,39,264000,Self-Employed,2.7,272000,Fair,0,On-Time,42000,Education Loan,1.03,0,Low
+MIC-1707,43,259000,Self-Employed,9.6,557000,Poor,0,On-Time,50800,Home Loan,2.15,1,High
+MIC-1708,37,264000,Self-Employed,4.1,496000,Poor,2,On-Time,30900,Business Loan,1.88,1,High
+MIC-1709,52,262000,Business,0.8,84000,Poor,4,On-Time,23500,Business Loan,0.32,1,High
+MIC-1710,40,304000,Self-Employed,11.6,277000,Fair,3,On-Time,57200,Personal Loan,0.91,0,Medium
+MIC-1711,33,166000,Self-Employed,0.8,63000,Fair,0,On-Time,32600,Business Loan,0.38,0,Medium
+MIC-1712,51,461000,Self-Employed,0.0,512000,Fair,1,On-Time,88700,Business Loan,1.11,0,Medium
+MIC-1713,31,188000,Self-Employed,0.0,85000,Fair,0,1-2 Missed,22300,Personal Loan,0.45,0,Medium
+MIC-1714,48,162000,Self-Employed,0.6,52000,Good,2,1-2 Missed,16700,Personal Loan,0.32,0,Medium
+MIC-1715,45,204000,Self-Employed,2.1,88000,Good,0,On-Time,19900,Business Loan,0.43,0,Low
+MIC-1716,54,453000,Self-Employed,8.2,68000,Good,1,Frequent,107600,Personal Loan,0.15,0,Medium
+MIC-1717,38,335000,Salaried,0.1,640000,Good,1,On-Time,55600,Personal Loan,1.91,1,Medium
+MIC-1718,38,136000,Self-Employed,0.0,30000,Poor,4,On-Time,26500,Home Loan,0.21,1,High
+MIC-1719,53,407000,Salaried,4.9,301000,Good,0,On-Time,61000,Personal Loan,0.74,0,Low
+MIC-1720,38,227000,Self-Employed,4.7,123000,Good,3,1-2 Missed,42700,Personal Loan,0.54,0,Medium
+MIC-1721,47,430000,Business,0.3,155000,Fair,2,On-Time,78800,Personal Loan,0.36,0,Medium
+MIC-1722,53,305000,Self-Employed,7.5,95000,Good,4,On-Time,56800,Education Loan,0.31,0,Low
+MIC-1723,40,120000,Self-Employed,2.2,30000,Fair,0,1-2 Missed,10300,Personal Loan,0.15,0,Medium
+MIC-1724,49,240000,Business,19.2,168000,Good,1,1-2 Missed,44800,Personal Loan,0.7,0,Low
+MIC-1725,35,264000,Self-Employed,9.1,304000,Good,1,On-Time,61100,Personal Loan,1.15,0,Low
+MIC-1726,40,425000,Business,0.6,85000,Good,2,On-Time,66900,Education Loan,0.2,1,Medium
+MIC-1727,48,177000,Business,0.2,48000,Fair,0,Frequent,27900,Personal Loan,0.27,1,High
+MIC-1728,40,250000,Self-Employed,6.3,355000,Poor,3,Frequent,53100,Business Loan,1.42,1,High
+MIC-1729,33,287000,Business,4.1,155000,Fair,0,Frequent,38900,Education Loan,0.54,1,High
+MIC-1730,25,305000,Self-Employed,2.5,146000,Poor,1,Frequent,73700,Home Loan,0.48,1,High
+MIC-1731,43,215000,Self-Employed,4.1,312000,Good,2,Frequent,52400,Personal Loan,1.45,1,High
+MIC-1732,40,149000,Self-Employed,1.0,33000,Good,2,On-Time,24100,Education Loan,0.22,0,Low
+MIC-1733,52,460000,Salaried,9.2,248000,Poor,3,Frequent,41800,Business Loan,0.54,1,High
+MIC-1734,48,232000,Self-Employed,2.7,35000,Poor,0,On-Time,23500,Auto Loan,0.15,0,Medium
+MIC-1735,32,256000,Self-Employed,7.4,253000,Fair,0,Frequent,30700,Auto Loan,0.99,1,High
+MIC-1736,53,439000,Business,0.4,66000,Fair,2,1-2 Missed,82500,Personal Loan,0.15,0,High
+MIC-1737,45,327000,Salaried,1.0,255000,Fair,2,On-Time,68500,Business Loan,0.78,0,Medium
+MIC-1738,34,310000,Self-Employed,0.6,567000,Fair,1,1-2 Missed,36400,Personal Loan,1.83,1,High
+MIC-1739,56,333000,Self-Employed,0.2,170000,Poor,1,On-Time,30900,Personal Loan,0.51,1,High
+MIC-1740,50,378000,Business,26.6,238000,Fair,1,On-Time,84600,Business Loan,0.63,0,Low
+MIC-1741,47,332000,Self-Employed,5.9,50000,Poor,0,On-Time,30900,Auto Loan,0.15,0,Medium
+MIC-1742,49,325000,Self-Employed,0.7,221000,Poor,2,1-2 Missed,44800,Auto Loan,0.68,0,High
+MIC-1743,28,201000,Self-Employed,2.7,243000,Fair,1,1-2 Missed,42600,Education Loan,1.21,0,Medium
+MIC-1744,46,249000,Salaried,5.1,134000,Poor,1,On-Time,37500,Auto Loan,0.54,0,Medium
+MIC-1745,47,301000,Salaried,6.1,54000,Fair,1,On-Time,61100,Auto Loan,0.18,0,Low
+MIC-1746,45,200000,Self-Employed,2.2,216000,Good,0,On-Time,33300,Auto Loan,1.08,0,Low
+MIC-1747,38,331000,Self-Employed,5.1,132000,Fair,0,Frequent,54300,Auto Loan,0.4,1,High
+MIC-1748,38,481000,Salaried,0.4,72000,Good,2,On-Time,74700,Home Loan,0.15,0,Medium
+MIC-1749,51,774000,Self-Employed,1.9,604000,Good,1,Frequent,87200,Personal Loan,0.78,0,Medium
+MIC-1750,42,120000,Business,1.5,30000,Good,0,On-Time,16500,Business Loan,0.15,0,Low
+MIC-1751,42,224000,Salaried,2.8,217000,Good,4,On-Time,23200,Personal Loan,0.97,0,Low
+MIC-1752,28,358000,Self-Employed,0.3,125000,Poor,1,On-Time,87800,Personal Loan,0.35,1,High
+MIC-1753,34,214000,Self-Employed,1.0,246000,Poor,2,On-Time,23100,Auto Loan,1.15,0,Medium
+MIC-1754,37,287000,Salaried,5.4,169000,Good,1,Frequent,56200,Business Loan,0.59,0,Medium
+MIC-1755,24,351000,Salaried,1.2,53000,Good,2,1-2 Missed,64300,Personal Loan,0.15,0,Medium
+MIC-1756,41,208000,Self-Employed,10.9,189000,Fair,2,On-Time,26600,Personal Loan,0.91,0,Medium
+MIC-1757,41,157000,Salaried,7.4,319000,Good,1,Frequent,37400,Auto Loan,2.03,1,High
+MIC-1758,28,195000,Self-Employed,0.3,267000,Good,3,On-Time,27800,Business Loan,1.37,1,Medium
+MIC-1759,42,318000,Business,3.3,165000,Good,0,On-Time,44300,Personal Loan,0.52,0,Low
+MIC-1760,39,279000,Self-Employed,6.3,505000,Poor,2,On-Time,58000,Personal Loan,1.81,1,High
+MIC-1761,28,239000,Salaried,1.1,36000,Fair,0,On-Time,41300,Business Loan,0.15,0,Low
+MIC-1762,37,243000,Business,3.9,253000,Good,1,On-Time,50200,Personal Loan,1.04,0,Low
+MIC-1763,35,339000,Business,2.8,292000,Fair,1,On-Time,37700,Business Loan,0.86,0,Low
+MIC-1764,43,189000,Salaried,4.1,83000,Fair,0,On-Time,28100,Personal Loan,0.44,0,Low
+MIC-1765,51,145000,Business,23.5,512000,Poor,0,On-Time,18900,Auto Loan,3.53,1,High
+MIC-1766,34,584000,Self-Employed,7.0,420000,Fair,0,Frequent,47100,Auto Loan,0.72,1,High
+MIC-1767,43,175000,Self-Employed,11.0,86000,Fair,1,1-2 Missed,20000,Auto Loan,0.49,0,Medium
+MIC-1768,40,222000,Business,12.8,206000,Fair,1,On-Time,49300,Auto Loan,0.93,0,Low
+MIC-1769,28,257000,Business,0.5,80000,Fair,2,On-Time,50500,Auto Loan,0.31,0,Medium
+MIC-1770,42,262000,Self-Employed,3.4,189000,Fair,0,On-Time,41700,Home Loan,0.72,0,Low
+MIC-1771,30,133000,Self-Employed,1.4,92000,Fair,0,On-Time,28000,Business Loan,0.69,0,Low
+MIC-1772,39,120000,Self-Employed,3.3,56000,Fair,1,1-2 Missed,18000,Auto Loan,0.47,0,Medium
+MIC-1773,39,306000,Salaried,5.9,282000,Fair,0,Frequent,27200,Education Loan,0.92,0,High
+MIC-1774,38,280000,Business,1.7,42000,Poor,1,Frequent,38000,Auto Loan,0.15,1,High
+MIC-1775,30,206000,Salaried,6.5,297000,Poor,1,1-2 Missed,30100,Education Loan,1.44,1,High
+MIC-1776,42,294000,Self-Employed,0.1,68000,Fair,0,On-Time,68200,Business Loan,0.23,1,Medium
+MIC-1777,40,201000,Business,8.3,105000,Good,1,Frequent,48400,Home Loan,0.52,0,Medium
+MIC-1778,42,370000,Business,0.1,89000,Fair,4,On-Time,86000,Personal Loan,0.24,0,Medium
+MIC-1779,36,424000,Self-Employed,2.0,131000,Fair,2,On-Time,52700,Personal Loan,0.31,0,Medium
+MIC-1780,44,216000,Self-Employed,21.3,216000,Good,1,On-Time,23100,Business Loan,1.0,0,Low
+MIC-1781,41,328000,Business,0.2,243000,Good,1,On-Time,48100,Personal Loan,0.74,0,Low
+MIC-1782,40,379000,Self-Employed,9.2,102000,Fair,3,1-2 Missed,43800,Business Loan,0.27,1,High
+MIC-1783,45,354000,Business,6.1,53000,Good,1,On-Time,44000,Personal Loan,0.15,0,Low
+MIC-1784,37,200000,Salaried,6.2,104000,Good,1,1-2 Missed,49400,Business Loan,0.52,0,Low
+MIC-1785,50,209000,Self-Employed,10.2,142000,Fair,1,Frequent,24400,Personal Loan,0.68,1,High
+MIC-1786,28,254000,Self-Employed,2.5,53000,Fair,0,On-Time,51000,Auto Loan,0.21,0,Low
+MIC-1787,49,170000,Salaried,16.9,46000,Good,2,On-Time,15400,Education Loan,0.27,0,Low
+MIC-1788,34,386000,Self-Employed,4.7,85000,Good,2,1-2 Missed,54400,Personal Loan,0.22,1,Medium
+MIC-1789,41,464000,Self-Employed,0.9,70000,Fair,4,On-Time,84800,Business Loan,0.15,1,Medium
+MIC-1790,60,319000,Self-Employed,7.0,220000,Good,3,1-2 Missed,34400,Home Loan,0.69,0,Medium
+MIC-1791,35,486000,Self-Employed,6.3,549000,Poor,3,1-2 Missed,40500,Personal Loan,1.13,1,High
+MIC-1792,38,260000,Business,1.8,304000,Poor,2,On-Time,31300,Business Loan,1.17,0,Medium
+MIC-1793,46,267000,Salaried,13.6,53000,Good,0,On-Time,54500,Personal Loan,0.2,0,Low
+MIC-1794,44,532000,Salaried,0.7,245000,Good,0,On-Time,54900,Personal Loan,0.46,0,Low
+MIC-1795,52,151000,Self-Employed,3.1,127000,Fair,1,On-Time,15900,Home Loan,0.84,0,Low
+MIC-1796,30,237000,Business,1.2,154000,Fair,0,On-Time,55000,Home Loan,0.65,0,Low
+MIC-1797,46,178000,Self-Employed,12.7,212000,Good,3,On-Time,15600,Business Loan,1.19,0,Low
+MIC-1798,38,217000,Salaried,5.0,76000,Fair,2,1-2 Missed,51300,Auto Loan,0.35,0,Medium
+MIC-1799,43,540000,Self-Employed,1.0,81000,Fair,1,1-2 Missed,58400,Auto Loan,0.15,0,Medium
+MIC-1800,38,276000,Self-Employed,7.2,588000,Fair,0,On-Time,45700,Auto Loan,2.13,0,Medium
+MIC-1801,46,209000,Business,5.6,359000,Fair,0,Frequent,48900,Home Loan,1.72,1,High
+MIC-1802,35,184000,Salaried,6.6,129000,Fair,2,Frequent,30300,Business Loan,0.7,1,High
+MIC-1803,42,224000,Self-Employed,2.4,34000,Poor,1,Frequent,41000,Personal Loan,0.15,1,High
+MIC-1804,28,394000,Self-Employed,0.1,59000,Good,0,On-Time,48400,Personal Loan,0.15,0,Low
+MIC-1805,36,220000,Self-Employed,4.7,172000,Fair,0,Frequent,36100,Business Loan,0.78,1,High
+MIC-1806,27,347000,Self-Employed,0.4,52000,Fair,1,On-Time,64000,Business Loan,0.15,0,Medium
+MIC-1807,47,154000,Self-Employed,11.1,34000,Poor,0,Frequent,13500,Personal Loan,0.22,1,High
+MIC-1808,31,182000,Salaried,3.0,55000,Poor,0,On-Time,20600,Personal Loan,0.3,0,Medium
+MIC-1809,27,283000,Business,1.9,85000,Fair,0,On-Time,61000,Business Loan,0.3,0,Low
+MIC-1810,37,168000,Salaried,1.4,86000,Fair,0,On-Time,19700,Home Loan,0.51,0,Low
+MIC-1811,36,226000,Business,2.3,278000,Poor,3,On-Time,42000,Business Loan,1.23,1,High
+MIC-1812,38,298000,Business,1.8,158000,Fair,0,On-Time,29800,Business Loan,0.53,0,Low
+MIC-1813,35,386000,Salaried,5.7,100000,Good,0,On-Time,83900,Auto Loan,0.26,0,Low
+MIC-1814,37,218000,Self-Employed,4.1,257000,Poor,1,On-Time,48500,Business Loan,1.18,0,Medium
+MIC-1815,53,136000,Self-Employed,3.3,175000,Fair,4,On-Time,29100,Personal Loan,1.29,0,Medium
+MIC-1816,36,299000,Business,1.0,132000,Poor,1,Frequent,45300,Business Loan,0.44,1,High
+MIC-1817,48,381000,Self-Employed,1.2,206000,Fair,0,1-2 Missed,85100,Personal Loan,0.54,0,Medium
+MIC-1818,27,492000,Self-Employed,0.4,487000,Poor,1,On-Time,62700,Business Loan,0.99,1,High
+MIC-1819,23,356000,Self-Employed,4.2,417000,Fair,3,On-Time,43200,Personal Loan,1.17,1,Medium
+MIC-1820,46,524000,Self-Employed,6.8,844000,Good,1,1-2 Missed,109500,Home Loan,1.61,0,Medium
+MIC-1821,56,203000,Salaried,7.6,97000,Good,1,Frequent,26000,Auto Loan,0.48,0,Medium
+MIC-1822,42,449000,Self-Employed,1.6,202000,Good,4,On-Time,46100,Business Loan,0.45,0,Low
+MIC-1823,40,247000,Business,2.9,47000,Fair,3,On-Time,32700,Business Loan,0.19,0,Medium
+MIC-1824,35,184000,Business,1.0,30000,Fair,0,Frequent,25400,Home Loan,0.15,1,High
+MIC-1825,50,261000,Self-Employed,4.0,81000,Fair,1,1-2 Missed,62800,Business Loan,0.31,0,Medium
+MIC-1826,38,284000,Business,2.4,287000,Fair,1,1-2 Missed,52800,Personal Loan,1.01,0,Medium
+MIC-1827,54,236000,Self-Employed,14.0,224000,Fair,1,Frequent,39500,Home Loan,0.95,1,High
+MIC-1828,24,250000,Self-Employed,1.9,255000,Fair,2,On-Time,27000,Home Loan,1.02,1,Medium
+MIC-1829,35,392000,Self-Employed,4.2,59000,Good,3,On-Time,88600,Business Loan,0.15,0,Low
+MIC-1830,44,476000,Self-Employed,4.7,762000,Good,0,On-Time,67200,Home Loan,1.6,0,Low
+MIC-1831,30,327000,Self-Employed,0.4,128000,Good,0,On-Time,50500,Business Loan,0.39,0,Low
+MIC-1832,42,213000,Business,0.5,32000,Fair,1,1-2 Missed,29300,Business Loan,0.15,0,Medium
+MIC-1833,34,285000,Business,11.3,74000,Good,1,1-2 Missed,43800,Auto Loan,0.26,0,Low
+MIC-1834,39,527000,Business,1.0,153000,Good,2,On-Time,131300,Business Loan,0.29,0,Low
+MIC-1835,38,338000,Salaried,3.1,139000,Fair,2,On-Time,74100,Personal Loan,0.41,0,Medium
+MIC-1836,58,268000,Self-Employed,8.3,260000,Good,2,On-Time,24700,Personal Loan,0.97,1,Low
+MIC-1837,46,215000,Salaried,0.1,133000,Fair,0,1-2 Missed,50300,Business Loan,0.62,0,Medium
+MIC-1838,39,277000,Self-Employed,7.0,80000,Fair,0,On-Time,28700,Home Loan,0.29,0,Low
+MIC-1839,47,450000,Business,2.8,945000,Good,0,1-2 Missed,37000,Education Loan,2.1,0,Medium
+MIC-1840,42,351000,Self-Employed,7.0,442000,Good,0,On-Time,55100,Business Loan,1.26,0,Low
+MIC-1841,37,274000,Self-Employed,8.4,356000,Fair,0,On-Time,40800,Auto Loan,1.3,0,Medium
+MIC-1842,56,224000,Salaried,10.5,237000,Fair,0,On-Time,49500,Business Loan,1.06,0,Low
+MIC-1843,40,296000,Self-Employed,0.6,293000,Poor,1,On-Time,48800,Business Loan,0.99,1,High
+MIC-1844,44,233000,Salaried,17.9,114000,Poor,2,1-2 Missed,52100,Business Loan,0.49,1,High
+MIC-1845,37,261000,Salaried,0.4,164000,Good,0,On-Time,29500,Business Loan,0.63,0,Low
+MIC-1846,35,493000,Self-Employed,0.9,695000,Fair,1,On-Time,60300,Personal Loan,1.41,0,Medium
+MIC-1847,40,204000,Salaried,9.4,35000,Fair,1,1-2 Missed,19000,Auto Loan,0.17,0,Medium
+MIC-1848,35,251000,Self-Employed,0.5,153000,Good,1,On-Time,40500,Education Loan,0.61,0,Low
+MIC-1849,40,121000,Business,3.9,69000,Poor,4,1-2 Missed,23900,Auto Loan,0.57,1,High
+MIC-1850,44,272000,Salaried,2.4,163000,Poor,4,1-2 Missed,57600,Auto Loan,0.6,1,High
+MIC-1851,52,140000,Self-Employed,5.8,99000,Fair,1,On-Time,30400,Auto Loan,0.71,0,Low
+MIC-1852,36,194000,Salaried,2.8,192000,Fair,1,On-Time,26600,Education Loan,0.99,0,Low
+MIC-1853,26,193000,Salaried,1.4,50000,Poor,4,1-2 Missed,25700,Personal Loan,0.26,1,High
+MIC-1854,39,284000,Self-Employed,6.4,318000,Good,3,On-Time,63400,Education Loan,1.12,0,Low
+MIC-1855,29,516000,Self-Employed,0.6,227000,Fair,0,1-2 Missed,54000,Personal Loan,0.44,0,Medium
+MIC-1856,30,200000,Business,6.9,204000,Fair,0,1-2 Missed,45600,Home Loan,1.02,0,Medium
+MIC-1857,42,414000,Self-Employed,7.0,658000,Fair,0,Frequent,53000,Education Loan,1.59,1,High
+MIC-1858,52,178000,Business,5.2,77000,Good,0,On-Time,35100,Auto Loan,0.43,0,Low
+MIC-1859,39,456000,Self-Employed,12.3,1249000,Poor,1,On-Time,113500,Business Loan,2.74,1,High
+MIC-1860,58,294000,Business,2.2,44000,Fair,0,On-Time,67400,Personal Loan,0.15,0,Low
+MIC-1861,55,182000,Salaried,14.6,113000,Good,0,1-2 Missed,44600,Business Loan,0.62,0,Low
+MIC-1862,40,147000,Self-Employed,10.7,30000,Good,0,Frequent,14000,Business Loan,0.15,0,Medium
+MIC-1863,50,393000,Self-Employed,8.1,94000,Good,3,On-Time,51800,Business Loan,0.24,0,Low
+MIC-1864,36,280000,Business,5.7,339000,Poor,3,On-Time,41500,Business Loan,1.21,1,High
+MIC-1865,32,269000,Salaried,0.8,256000,Good,2,On-Time,28300,Education Loan,0.95,0,Medium
+MIC-1866,50,213000,Salaried,11.5,45000,Fair,2,Frequent,17600,Auto Loan,0.21,1,High
+MIC-1867,44,579000,Business,4.9,93000,Poor,1,Frequent,50100,Home Loan,0.16,1,High
+MIC-1868,43,366000,Business,5.8,146000,Good,2,1-2 Missed,76100,Business Loan,0.4,0,Medium
+MIC-1869,46,196000,Self-Employed,28.0,61000,Poor,2,Frequent,36600,Education Loan,0.31,0,High
+MIC-1870,44,212000,Salaried,2.3,231000,Poor,3,On-Time,29100,Business Loan,1.09,1,High
+MIC-1871,43,227000,Self-Employed,19.6,36000,Good,0,On-Time,52900,Personal Loan,0.16,0,Low
+MIC-1872,53,374000,Business,1.3,236000,Fair,2,On-Time,61300,Business Loan,0.63,1,Medium
+MIC-1873,46,283000,Self-Employed,3.9,195000,Fair,2,On-Time,45800,Business Loan,0.69,1,Medium
+MIC-1874,33,236000,Business,9.6,177000,Fair,0,On-Time,30900,Business Loan,0.75,0,Low
+MIC-1875,30,179000,Salaried,1.0,113000,Poor,1,1-2 Missed,32200,Personal Loan,0.63,1,High
+MIC-1876,36,557000,Business,1.0,301000,Fair,2,On-Time,99300,Business Loan,0.54,0,Medium
+MIC-1877,50,154000,Business,3.7,83000,Fair,1,On-Time,26700,Business Loan,0.54,0,Low
+MIC-1878,49,227000,Self-Employed,4.2,34000,Fair,2,On-Time,31700,Personal Loan,0.15,0,Medium
+MIC-1879,31,244000,Self-Employed,0.1,122000,Good,0,1-2 Missed,37600,Business Loan,0.5,0,Medium
+MIC-1880,35,258000,Salaried,1.5,124000,Fair,0,On-Time,41200,Business Loan,0.48,1,Low
+MIC-1881,47,414000,Self-Employed,4.4,642000,Good,0,On-Time,42600,Business Loan,1.55,0,Low
+MIC-1882,32,407000,Self-Employed,7.3,167000,Good,1,1-2 Missed,48800,Education Loan,0.41,0,Low
+MIC-1883,49,171000,Business,3.0,48000,Poor,1,On-Time,32500,Business Loan,0.28,1,Medium
+MIC-1884,56,346000,Business,1.6,723000,Good,4,1-2 Missed,43600,Business Loan,2.09,0,High
+MIC-1885,44,464000,Business,1.5,1304000,Poor,0,On-Time,43300,Business Loan,2.81,1,High
+MIC-1886,42,463000,Self-Employed,3.4,357000,Poor,0,On-Time,50500,Business Loan,0.77,0,Medium
+MIC-1887,27,234000,Business,0.9,49000,Good,1,On-Time,25100,Education Loan,0.21,1,Low
+MIC-1888,35,222000,Salaried,1.4,75000,Fair,3,On-Time,46300,Business Loan,0.34,1,Medium
+MIC-1889,25,120000,Business,2.5,30000,Fair,0,1-2 Missed,10200,Auto Loan,0.15,0,Medium
+MIC-1890,45,316000,Business,5.9,221000,Poor,1,Frequent,65600,Business Loan,0.7,1,High
+MIC-1891,34,202000,Salaried,2.1,44000,Fair,2,1-2 Missed,23100,Business Loan,0.22,1,Medium
+MIC-1892,35,589000,Self-Employed,6.8,306000,Poor,0,On-Time,63500,Business Loan,0.52,1,Medium
+MIC-1893,31,120000,Self-Employed,0.8,49000,Fair,0,Frequent,17200,Business Loan,0.41,0,High
+MIC-1894,37,201000,Business,0.4,92000,Fair,2,On-Time,17000,Education Loan,0.46,0,Medium
+MIC-1895,33,900000,Self-Employed,1.1,900000,Good,2,Frequent,132400,Home Loan,1.0,1,High
+MIC-1896,55,498000,Self-Employed,3.5,408000,Good,1,On-Time,74700,Education Loan,0.82,0,Low
+MIC-1897,48,218000,Business,0.7,87000,Poor,1,1-2 Missed,49900,Business Loan,0.4,1,High
+MIC-1898,42,294000,Business,1.5,238000,Good,1,On-Time,71800,Business Loan,0.81,0,Low
+MIC-1899,56,207000,Salaried,6.5,91000,Good,1,1-2 Missed,39700,Business Loan,0.44,1,Low
+MIC-1900,27,374000,Self-Employed,0.4,385000,Good,2,1-2 Missed,93400,Business Loan,1.03,0,Medium
+MIC-1901,33,618000,Business,9.0,161000,Fair,0,On-Time,141400,Education Loan,0.26,0,Low
+MIC-1902,36,194000,Self-Employed,2.4,167000,Fair,1,On-Time,43200,Home Loan,0.86,0,Low
+MIC-1903,41,121000,Business,1.2,120000,Good,0,1-2 Missed,21300,Education Loan,0.99,0,Low
+MIC-1904,49,449000,Self-Employed,5.3,427000,Poor,2,1-2 Missed,47600,Business Loan,0.95,1,High
+MIC-1905,49,193000,Business,5.5,64000,Good,3,Frequent,39500,Business Loan,0.33,1,High
+MIC-1906,52,298000,Self-Employed,10.6,474000,Fair,0,1-2 Missed,63300,Personal Loan,1.59,1,Medium
+MIC-1907,41,292000,Self-Employed,13.3,146000,Good,1,On-Time,63300,Personal Loan,0.5,0,Low
+MIC-1908,39,408000,Self-Employed,5.7,102000,Poor,3,On-Time,58800,Business Loan,0.25,1,High
+MIC-1909,30,900000,Business,2.9,1413000,Fair,2,1-2 Missed,160000,Personal Loan,1.57,0,High
+MIC-1910,25,431000,Self-Employed,1.6,155000,Fair,1,Frequent,71600,Personal Loan,0.36,1,High
+MIC-1911,25,262000,Self-Employed,0.7,223000,Fair,2,On-Time,25900,Business Loan,0.85,0,Medium
+MIC-1912,45,304000,Salaried,8.4,46000,Good,1,Frequent,31000,Business Loan,0.15,1,Medium
+MIC-1913,49,382000,Self-Employed,15.7,474000,Good,0,1-2 Missed,54700,Business Loan,1.24,0,Medium
+MIC-1914,33,441000,Self-Employed,0.4,273000,Fair,0,1-2 Missed,95200,Auto Loan,0.62,1,Medium
+MIC-1915,32,184000,Salaried,0.4,109000,Fair,2,1-2 Missed,30000,Business Loan,0.59,1,High
+MIC-1916,52,415000,Business,9.9,257000,Fair,1,On-Time,51400,Auto Loan,0.62,0,Low
+MIC-1917,30,455000,Self-Employed,4.8,701000,Good,0,On-Time,84200,Business Loan,1.54,0,Low
+MIC-1918,39,205000,Salaried,0.9,55000,Fair,3,On-Time,38200,Personal Loan,0.27,0,Medium
+MIC-1919,31,687000,Self-Employed,2.7,818000,Fair,2,On-Time,119700,Business Loan,1.19,0,Medium
+MIC-1920,50,553000,Salaried,28.0,415000,Good,1,1-2 Missed,120800,Personal Loan,0.75,0,Low
+MIC-1921,45,348000,Salaried,0.6,247000,Good,0,On-Time,56100,Home Loan,0.71,0,Low
+MIC-1922,49,317000,Business,7.3,247000,Fair,2,Frequent,64800,Business Loan,0.78,1,High
+MIC-1923,35,226000,Self-Employed,0.0,34000,Good,2,Frequent,19100,Business Loan,0.15,1,High
+MIC-1924,29,332000,Business,2.3,315000,Fair,4,On-Time,69000,Personal Loan,0.95,0,Medium
+MIC-1925,32,198000,Business,0.2,32000,Fair,2,1-2 Missed,34500,Auto Loan,0.16,0,High
+MIC-1926,29,349000,Self-Employed,3.4,209000,Fair,0,On-Time,48200,Personal Loan,0.6,0,Low
+MIC-1927,43,236000,Self-Employed,15.3,47000,Good,1,Frequent,54800,Personal Loan,0.2,0,Medium
+MIC-1928,27,398000,Salaried,4.3,557000,Poor,1,On-Time,90400,Business Loan,1.4,0,Medium
+MIC-1929,49,209000,Self-Employed,11.0,54000,Good,1,On-Time,28500,Personal Loan,0.26,0,Low
+MIC-1930,37,186000,Self-Employed,4.4,123000,Poor,1,Frequent,45500,Education Loan,0.66,1,High
+MIC-1931,36,330000,Business,1.0,76000,Good,1,Frequent,51100,Personal Loan,0.23,0,Medium
+MIC-1932,27,143000,Business,2.4,44000,Poor,0,1-2 Missed,20300,Business Loan,0.31,1,High
+MIC-1933,40,168000,Self-Employed,4.5,54000,Good,2,Frequent,26300,Home Loan,0.32,1,High
+MIC-1934,58,468000,Self-Employed,1.9,243000,Poor,2,Frequent,81800,Education Loan,0.52,1,High
+MIC-1935,45,262000,Self-Employed,6.9,97000,Poor,0,On-Time,62200,Business Loan,0.37,0,Medium
+MIC-1936,42,213000,Self-Employed,3.4,45000,Good,1,On-Time,18200,Business Loan,0.21,0,Low
+MIC-1937,29,225000,Business,11.0,65000,Good,1,On-Time,43300,Business Loan,0.29,0,Low
+MIC-1938,36,426000,Self-Employed,1.8,64000,Good,1,1-2 Missed,55500,Business Loan,0.15,0,Low
+MIC-1939,38,151000,Business,0.3,42000,Fair,2,On-Time,35100,Personal Loan,0.28,0,Medium
+MIC-1940,40,273000,Self-Employed,5.3,194000,Fair,1,Frequent,27200,Auto Loan,0.71,1,High
+MIC-1941,42,710000,Business,3.5,348000,Fair,4,1-2 Missed,74800,Education Loan,0.49,1,High
+MIC-1942,53,185000,Business,1.3,396000,Poor,4,On-Time,16700,Business Loan,2.14,0,High
+MIC-1943,43,195000,Business,0.4,111000,Poor,2,On-Time,37200,Personal Loan,0.57,1,High
+MIC-1944,36,191000,Business,3.5,185000,Fair,2,On-Time,45400,Business Loan,0.97,0,Medium
+MIC-1945,31,213000,Business,1.7,134000,Good,1,Frequent,27200,Business Loan,0.63,0,Medium
+MIC-1946,22,231000,Business,1.5,116000,Fair,0,1-2 Missed,50500,Business Loan,0.5,0,Medium
+MIC-1947,44,149000,Self-Employed,16.1,358000,Fair,2,1-2 Missed,34900,Education Loan,2.4,1,High
+MIC-1948,52,384000,Business,9.6,58000,Fair,1,Frequent,82000,Business Loan,0.15,1,High
+MIC-1949,34,227000,Business,12.3,100000,Poor,0,On-Time,34400,Education Loan,0.44,0,Medium
+MIC-1950,35,294000,Salaried,9.2,44000,Fair,1,On-Time,40900,Personal Loan,0.15,0,Low
+MIC-1951,44,120000,Business,9.1,176000,Fair,2,1-2 Missed,19300,Business Loan,1.47,0,High
+MIC-1952,41,209000,Business,20.7,184000,Good,2,On-Time,32300,Business Loan,0.88,0,Low
+MIC-1953,46,533000,Self-Employed,4.3,149000,Fair,2,On-Time,130400,Home Loan,0.28,0,Medium
+MIC-1954,44,390000,Salaried,17.1,242000,Good,2,On-Time,73300,Business Loan,0.62,0,Low
+MIC-1955,45,559000,Self-Employed,1.1,246000,Fair,1,On-Time,132200,Auto Loan,0.44,0,Low
+MIC-1956,39,143000,Self-Employed,1.2,184000,Fair,3,1-2 Missed,15400,Personal Loan,1.29,0,High
+MIC-1957,33,395000,Self-Employed,6.7,83000,Poor,3,On-Time,73000,Education Loan,0.21,1,High
+MIC-1958,34,133000,Business,2.1,69000,Good,1,1-2 Missed,16700,Business Loan,0.52,0,Low
+MIC-1959,42,383000,Business,7.0,153000,Good,0,On-Time,64600,Business Loan,0.4,0,Low
+MIC-1960,37,294000,Salaried,2.5,173000,Poor,4,On-Time,62400,Business Loan,0.59,1,High
+MIC-1961,34,263000,Salaried,2.4,337000,Good,1,On-Time,34800,Personal Loan,1.28,0,Low
+MIC-1962,43,235000,Salaried,4.1,52000,Poor,1,On-Time,42800,Business Loan,0.22,0,Medium
+MIC-1963,43,220000,Business,18.6,363000,Fair,1,1-2 Missed,22300,Auto Loan,1.65,0,Medium
+MIC-1964,33,200000,Salaried,0.8,30000,Good,0,On-Time,17800,Business Loan,0.15,0,Low
+MIC-1965,36,238000,Self-Employed,8.0,95000,Good,1,On-Time,56400,Business Loan,0.4,0,Low
+MIC-1966,32,198000,Self-Employed,3.2,42000,Good,1,1-2 Missed,18000,Home Loan,0.21,0,Low
+MIC-1967,49,218000,Self-Employed,2.4,135000,Fair,1,On-Time,22500,Business Loan,0.62,0,Low
+MIC-1968,54,377000,Self-Employed,8.5,79000,Fair,1,Frequent,63800,Personal Loan,0.21,1,High
+MIC-1969,37,313000,Salaried,10.3,56000,Good,1,1-2 Missed,74100,Business Loan,0.18,0,Low
+MIC-1970,29,441000,Salaried,0.1,309000,Good,2,1-2 Missed,43300,Home Loan,0.7,0,Medium
+MIC-1971,37,298000,Business,3.8,107000,Good,1,1-2 Missed,56800,Business Loan,0.36,0,Low
+MIC-1972,30,276000,Business,6.8,259000,Fair,4,On-Time,54000,Auto Loan,0.94,0,Medium
+MIC-1973,38,264000,Business,8.3,312000,Fair,1,1-2 Missed,26300,Business Loan,1.18,0,Medium
+MIC-1974,31,375000,Self-Employed,5.2,439000,Fair,2,On-Time,54300,Personal Loan,1.17,0,Medium
+MIC-1975,26,273000,Self-Employed,1.5,164000,Fair,0,Frequent,55400,Auto Loan,0.6,1,High
+MIC-1976,33,314000,Self-Employed,3.3,160000,Fair,1,1-2 Missed,26000,Business Loan,0.51,0,Medium
+MIC-1977,32,476000,Salaried,9.1,157000,Good,3,Frequent,68600,Auto Loan,0.33,1,High
+MIC-1978,43,249000,Self-Employed,8.3,37000,Poor,3,Frequent,51200,Personal Loan,0.15,1,High
+MIC-1979,31,470000,Salaried,3.9,357000,Fair,0,1-2 Missed,108200,Education Loan,0.76,1,Medium
+MIC-1980,53,417000,Salaried,14.0,213000,Good,3,Frequent,65800,Auto Loan,0.51,1,High
+MIC-1981,56,211000,Business,2.5,63000,Good,1,On-Time,34400,Personal Loan,0.3,0,Low
+MIC-1982,38,275000,Self-Employed,0.2,179000,Good,0,On-Time,52400,Education Loan,0.65,0,Low
+MIC-1983,40,289000,Salaried,0.8,327000,Fair,1,On-Time,24300,Business Loan,1.13,0,Medium
+MIC-1984,29,499000,Self-Employed,0.8,813000,Fair,1,On-Time,44400,Business Loan,1.63,0,Medium
+MIC-1985,60,356000,Business,6.0,132000,Fair,0,Frequent,39100,Business Loan,0.37,0,High
+MIC-1986,46,210000,Self-Employed,12.4,32000,Fair,3,On-Time,40100,Business Loan,0.15,0,Medium
+MIC-1987,48,216000,Salaried,0.2,264000,Poor,2,On-Time,37900,Business Loan,1.22,0,High
+MIC-1988,42,214000,Self-Employed,3.1,244000,Good,1,1-2 Missed,46100,Home Loan,1.14,0,Low
+MIC-1989,43,282000,Business,13.5,186000,Good,2,Frequent,42900,Business Loan,0.66,0,High
+MIC-1990,57,255000,Self-Employed,1.1,178000,Poor,2,On-Time,49300,Business Loan,0.7,1,Medium
+MIC-1991,35,120000,Salaried,6.8,30000,Poor,2,On-Time,14200,Business Loan,0.23,0,Medium
+MIC-1992,30,206000,Business,0.2,31000,Fair,2,1-2 Missed,22700,Education Loan,0.15,0,High
+MIC-1993,42,481000,Self-Employed,6.6,447000,Good,0,Frequent,75800,Business Loan,0.93,0,Medium
+MIC-1994,51,260000,Business,3.8,242000,Good,1,1-2 Missed,56800,Business Loan,0.93,1,Low
+MIC-1995,43,145000,Business,4.6,112000,Good,0,On-Time,22400,Personal Loan,0.77,0,Low
+MIC-1996,41,543000,Business,1.7,81000,Fair,1,On-Time,114400,Home Loan,0.15,0,Low
+MIC-1997,41,163000,Business,2.1,52000,Poor,0,On-Time,27100,Home Loan,0.32,0,Medium
+MIC-1998,48,359000,Business,30.0,589000,Fair,4,On-Time,79200,Business Loan,1.64,0,Medium
+MIC-1999,33,564000,Business,0.0,305000,Good,0,Frequent,109000,Personal Loan,0.54,1,High
+MIC-2000,54,235000,Self-Employed,6.0,101000,Good,0,1-2 Missed,53100,Business Loan,0.43,0,Low

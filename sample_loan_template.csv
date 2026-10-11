@@ -1,0 +1,11 @@
+Applicant_ID,Age,Annual_Income,Employment_Status,Employment_Years,Loan_Amount,Credit_History,Existing_Loans,Repayment_History,Account_Balance,Loan_Purpose,Loan_to_Income_Ratio,Historical_Default,Risk_Level
+APP-1001,60,703000,Business,1.9,526000,Fair,3,On-Time,271100,Personal Loan,0.75,0,Low
+APP-1002,50,974000,Salaried,8.0,1914000,Good,2,On-Time,527700,Business Loan,1.97,0,Low
+APP-1003,36,0,Unemployed,0.0,50000,Poor,2,Frequent,50900,Auto Loan,0.5,0,High
+APP-1004,64,971000,Self-Employed,17.2,255000,Good,2,On-Time,278100,Education Loan,0.26,0,Low
+APP-1005,29,1298000,Salaried,8.0,1523000,Good,0,On-Time,128200,Home Loan,1.17,0,Low
+APP-1006,42,1409000,Salaried,0.6,1588000,Good,0,On-Time,352600,Home Loan,1.13,0,Low
+APP-1007,60,120000,Unemployed,0.0,59000,Good,2,On-Time,56200,Education Loan,0.49,0,Medium
+APP-1008,40,1877000,Salaried,6.7,3198000,Good,0,On-Time,769000,Auto Loan,1.7,0,Low
+APP-1009,44,702000,Salaried,1.9,1235000,Fair,1,1-2 Missed,207700,Personal Loan,1.76,0,Medium
+APP-1010,32,960000,Salaried,11.0,1728000,Poor,2,1-2 Missed,101700,Auto Loan,1.8,0,Medium

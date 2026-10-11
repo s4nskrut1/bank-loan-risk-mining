@@ -1,0 +1,1501 @@
+Applicant_ID,Age,Annual_Income,Employment_Status,Employment_Years,Loan_Amount,Credit_History,Existing_Loans,Repayment_History,Account_Balance,Loan_to_Income_Ratio,Historical_Default,Risk_Level
+APP-1000,59,1378000,Salaried,6.3,1672000,Good,1,On-Time,430200,1.21,0,Low Risk
+APP-1001,49,1070000,Business,8.6,1492000,Fair,5,On-Time,528500,1.39,0,Low Risk
+APP-1002,35,1381000,Self-Employed,8.1,2284000,Good,3,On-Time,185500,1.65,0,Low Risk
+APP-1003,63,1074000,Self-Employed,4.0,2193000,Good,3,On-Time,192400,2.04,0,Low Risk
+APP-1004,28,439000,Salaried,3.7,544000,Good,3,Frequent Delinquency,244500,1.24,1,High Risk
+APP-1005,41,672000,Salaried,0.8,1398000,Fair,0,1-2 Missed Payments,191000,2.08,1,High Risk
+APP-1006,59,525000,Salaried,7.5,749000,Poor,0,On-Time,137700,1.43,0,Low Risk
+APP-1007,39,1676000,Salaried,1.6,1640000,Good,0,On-Time,1137800,0.98,0,Low Risk
+APP-1008,43,417000,Salaried,3.4,714000,Fair,1,Frequent Delinquency,95800,1.71,0,High Risk
+APP-1009,31,1318000,Self-Employed,1.7,2439000,Good,0,On-Time,601900,1.85,0,Low Risk
+APP-1010,31,1317000,Salaried,0.7,1954000,Good,1,On-Time,120000,1.48,0,Low Risk
+APP-1011,44,2205000,Salaried,5.0,728000,Poor,2,1-2 Missed Payments,614000,0.33,1,Medium Risk
+APP-1012,56,120000,Unemployed,0.0,71000,Poor,3,Frequent Delinquency,54200,0.59,1,High Risk
+APP-1013,60,1193000,Business,0.5,1021000,Fair,2,On-Time,178900,0.86,0,Low Risk
+APP-1014,44,2828000,Business,6.9,2404000,Good,4,On-Time,1217400,0.85,0,Low Risk
+APP-1015,23,180000,Unemployed,0.0,315000,Good,0,On-Time,73600,1.75,0,Medium Risk
+APP-1016,42,347000,Salaried,1.9,84000,Good,0,On-Time,220500,0.24,0,Low Risk
+APP-1017,22,287000,Salaried,0.5,556000,Good,2,On-Time,88400,1.94,0,Low Risk
+APP-1018,44,1193000,Self-Employed,3.6,967000,Good,1,On-Time,782800,0.81,0,Low Risk
+APP-1019,64,286000,Self-Employed,0.5,261000,Fair,1,On-Time,38300,0.91,0,Low Risk
+APP-1020,50,657000,Salaried,1.6,929000,Poor,1,Frequent Delinquency,290800,1.41,1,High Risk
+APP-1021,58,1025000,Self-Employed,6.1,714000,Good,1,On-Time,411200,0.7,0,Low Risk
+APP-1022,22,893000,Salaried,0.5,1995000,Good,1,On-Time,156800,2.23,0,Low Risk
+APP-1023,41,1019000,Salaried,9.1,404000,Poor,1,Frequent Delinquency,77600,0.4,1,High Risk
+APP-1024,53,911000,Salaried,0.5,1113000,Good,1,1-2 Missed Payments,299000,1.22,0,Medium Risk
+APP-1025,32,1629000,Salaried,1.4,3508000,Fair,2,On-Time,998900,2.15,0,Low Risk
+APP-1026,42,477000,Salaried,6.8,771000,Good,1,On-Time,121900,1.62,0,Low Risk
+APP-1027,64,556000,Salaried,1.9,485000,Good,1,1-2 Missed Payments,90400,0.87,0,Low Risk
+APP-1028,45,527000,Business,0.5,615000,Poor,0,1-2 Missed Payments,396900,1.17,0,Medium Risk
+APP-1029,47,1273000,Salaried,2.2,2324000,Good,1,On-Time,524900,1.83,0,Low Risk
+APP-1030,62,1323000,Salaried,1.6,3226000,Good,2,On-Time,367500,2.44,0,Low Risk
+APP-1031,48,1033000,Business,9.2,2329000,Good,2,On-Time,74900,2.25,0,Low Risk
+APP-1032,36,1546000,Business,1.9,1527000,Poor,2,Frequent Delinquency,653600,0.99,1,High Risk
+APP-1033,35,422000,Business,7.8,1053000,Poor,0,Frequent Delinquency,44800,2.5,1,High Risk
+APP-1034,64,2017000,Self-Employed,11.1,420000,Good,1,1-2 Missed Payments,1221100,0.21,0,Low Risk
+APP-1035,23,1863000,Self-Employed,2.8,491000,Good,1,On-Time,1096300,0.26,0,Low Risk
+APP-1036,57,1208000,Salaried,12.0,2531000,Fair,1,On-Time,325300,2.1,0,Low Risk
+APP-1037,27,2148000,Salaried,2.4,1415000,Good,1,On-Time,105200,0.66,0,Low Risk
+APP-1038,41,324000,Salaried,16.6,110000,Fair,1,Frequent Delinquency,208200,0.34,0,High Risk
+APP-1039,29,604000,Salaried,0.5,450000,Good,1,On-Time,128600,0.75,0,Low Risk
+APP-1040,59,538000,Salaried,5.8,635000,Good,2,On-Time,92400,1.18,0,Low Risk
+APP-1041,38,1199000,Self-Employed,3.4,2254000,Fair,0,Frequent Delinquency,155100,1.88,1,High Risk
+APP-1042,24,452000,Salaried,2.5,739000,Good,2,On-Time,110800,1.63,0,Low Risk
+APP-1043,45,1223000,Salaried,5.0,913000,Poor,0,1-2 Missed Payments,172400,0.75,0,Medium Risk
+APP-1044,34,1713000,Salaried,6.1,2325000,Good,0,1-2 Missed Payments,765800,1.36,0,Low Risk
+APP-1045,29,1182000,Self-Employed,0.5,2754000,Good,4,Frequent Delinquency,125000,2.33,1,High Risk
+APP-1046,46,942000,Salaried,0.9,1954000,Poor,4,On-Time,289100,2.07,1,High Risk
+APP-1047,22,468000,Business,2.0,441000,Good,0,On-Time,217500,0.94,0,Low Risk
+APP-1048,40,506000,Salaried,5.5,1244000,Fair,1,On-Time,377900,2.46,0,Low Risk
+APP-1049,48,1603000,Salaried,16.9,2933000,Good,0,On-Time,608400,1.83,0,Low Risk
+APP-1050,27,1238000,Salaried,7.0,425000,Fair,1,Frequent Delinquency,132400,0.34,0,Medium Risk
+APP-1051,64,789000,Business,15.1,222000,Fair,3,Frequent Delinquency,134300,0.28,0,High Risk
+APP-1052,28,641000,Salaried,6.1,376000,Good,4,On-Time,209500,0.59,0,Low Risk
+APP-1053,55,265000,Self-Employed,1.8,497000,Fair,2,On-Time,107200,1.88,1,Medium Risk
+APP-1054,34,447000,Salaried,0.6,278000,Fair,1,On-Time,176300,0.62,0,Low Risk
+APP-1055,37,2307000,Salaried,7.6,3175000,Good,2,On-Time,428400,1.38,0,Low Risk
+APP-1056,56,399000,Business,5.2,165000,Fair,1,On-Time,160500,0.41,0,Low Risk
+APP-1057,60,895000,Self-Employed,0.5,2075000,Fair,3,On-Time,385400,2.32,1,Medium Risk
+APP-1058,24,1403000,Self-Employed,2.2,1391000,Good,3,On-Time,370000,0.99,0,Low Risk
+APP-1059,22,404000,Business,2.0,925000,Good,1,On-Time,200800,2.29,0,Low Risk
+APP-1060,26,892000,Business,3.5,2117000,Good,1,On-Time,209400,2.37,0,Low Risk
+APP-1061,62,1350000,Self-Employed,2.8,289000,Good,1,On-Time,217000,0.21,0,Low Risk
+APP-1062,24,812000,Business,3.1,1029000,Fair,0,On-Time,444600,1.27,0,Low Risk
+APP-1063,49,3600000,Self-Employed,1.2,924000,Good,2,On-Time,1988400,0.26,0,Low Risk
+APP-1064,38,322000,Self-Employed,2.3,737000,Poor,1,Frequent Delinquency,63800,2.29,1,High Risk
+APP-1065,46,1443000,Self-Employed,2.3,2009000,Good,1,On-Time,529700,1.39,0,Low Risk
+APP-1066,64,733000,Self-Employed,0.5,273000,Good,1,On-Time,563400,0.37,0,Low Risk
+APP-1067,54,1233000,Salaried,7.3,559000,Fair,2,On-Time,715500,0.45,0,Low Risk
+APP-1068,30,1028000,Business,2.7,1112000,Good,0,On-Time,555200,1.08,0,Low Risk
+APP-1069,56,539000,Business,8.6,1273000,Good,3,On-Time,72400,2.36,0,Low Risk
+APP-1070,34,914000,Salaried,9.5,1639000,Good,3,On-Time,62800,1.79,0,Low Risk
+APP-1071,51,290000,Business,1.2,637000,Good,4,On-Time,26800,2.2,0,Medium Risk
+APP-1072,35,1123000,Salaried,5.4,1171000,Good,1,On-Time,262600,1.04,0,Low Risk
+APP-1073,28,950000,Salaried,3.2,284000,Poor,0,1-2 Missed Payments,214300,0.3,1,Medium Risk
+APP-1074,34,1145000,Self-Employed,10.6,2795000,Good,1,On-Time,255600,2.44,0,Low Risk
+APP-1075,43,1443000,Salaried,1.2,346000,Poor,1,Frequent Delinquency,600200,0.24,1,High Risk
+APP-1076,60,987000,Self-Employed,5.7,2349000,Fair,0,On-Time,435300,2.38,0,Low Risk
+APP-1077,41,875000,Business,4.7,917000,Good,2,On-Time,259700,1.05,0,Low Risk
+APP-1078,36,497000,Salaried,1.7,111000,Good,1,On-Time,140900,0.22,0,Low Risk
+APP-1079,65,545000,Salaried,0.7,973000,Fair,3,1-2 Missed Payments,114800,1.79,1,High Risk
+APP-1080,38,1548000,Salaried,5.3,3801000,Poor,0,Frequent Delinquency,709400,2.46,0,High Risk
+APP-1081,44,1776000,Self-Employed,6.7,4300000,Good,2,On-Time,229300,2.42,0,Low Risk
+APP-1082,46,180000,Unemployed,0.0,103000,Good,2,1-2 Missed Payments,25600,0.57,0,Medium Risk
+APP-1083,45,827000,Self-Employed,1.9,510000,Good,2,On-Time,222500,0.62,0,Low Risk
+APP-1084,65,490000,Salaried,5.2,735000,Good,3,1-2 Missed Payments,131800,1.5,0,Medium Risk
+APP-1085,61,1536000,Self-Employed,2.5,2559000,Fair,2,1-2 Missed Payments,425500,1.67,0,Medium Risk
+APP-1086,49,1162000,Salaried,6.2,2209000,Poor,3,On-Time,290900,1.9,0,Medium Risk
+APP-1087,35,2345000,Self-Employed,1.1,1445000,Good,1,On-Time,90500,0.62,0,Low Risk
+APP-1088,65,497000,Salaried,11.0,1196000,Fair,1,On-Time,319500,2.41,0,Low Risk
+APP-1089,21,655000,Self-Employed,1.0,1093000,Fair,0,On-Time,72000,1.67,0,Medium Risk
+APP-1090,45,916000,Salaried,2.3,1968000,Good,0,On-Time,44700,2.15,0,Low Risk
+APP-1091,27,120000,Unemployed,0.0,173000,Good,0,On-Time,58800,1.44,1,Medium Risk
+APP-1092,29,716000,Salaried,0.5,825000,Fair,0,Frequent Delinquency,453100,1.15,1,High Risk
+APP-1093,44,499000,Self-Employed,0.6,1221000,Poor,1,1-2 Missed Payments,94700,2.45,1,High Risk
+APP-1094,21,1309000,Business,1.0,2014000,Fair,0,1-2 Missed Payments,616400,1.54,1,Medium Risk
+APP-1095,64,1199000,Salaried,1.6,2630000,Good,0,1-2 Missed Payments,334100,2.19,0,Low Risk
+APP-1096,28,487000,Business,8.0,1165000,Good,3,On-Time,224900,2.39,0,Medium Risk
+APP-1097,44,1699000,Self-Employed,0.5,2979000,Good,0,On-Time,580700,1.75,0,Low Risk
+APP-1098,31,1534000,Salaried,2.4,2244000,Fair,2,1-2 Missed Payments,727300,1.46,0,Medium Risk
+APP-1099,37,868000,Salaried,2.1,181000,Fair,0,On-Time,234800,0.21,0,Low Risk
+APP-1100,28,842000,Self-Employed,0.5,246000,Good,3,On-Time,58200,0.29,0,Low Risk
+APP-1101,55,1093000,Salaried,0.7,724000,Fair,3,On-Time,360900,0.66,0,Low Risk
+APP-1102,55,502000,Salaried,2.7,315000,Fair,2,1-2 Missed Payments,99100,0.63,0,Medium Risk
+APP-1103,53,820000,Salaried,3.4,644000,Fair,2,1-2 Missed Payments,227600,0.79,1,Medium Risk
+APP-1104,25,247000,Self-Employed,2.6,223000,Poor,0,Frequent Delinquency,97100,0.9,1,High Risk
+APP-1105,62,1305000,Salaried,3.8,1342000,Good,5,Frequent Delinquency,774200,1.03,1,High Risk
+APP-1106,59,342000,Business,4.5,399000,Poor,3,On-Time,89500,1.17,0,Medium Risk
+APP-1107,61,120000,Unemployed,0.0,51000,Good,3,On-Time,43300,0.42,0,Medium Risk
+APP-1108,48,120000,Unemployed,0.0,50000,Good,2,On-Time,43700,0.42,1,Medium Risk
+APP-1109,27,718000,Self-Employed,0.5,1257000,Poor,1,1-2 Missed Payments,493600,1.75,0,Medium Risk
+APP-1110,29,571000,Salaried,3.1,820000,Poor,3,Frequent Delinquency,190800,1.44,1,High Risk
+APP-1111,28,688000,Self-Employed,8.0,840000,Good,1,On-Time,225900,1.22,0,Low Risk
+APP-1112,32,1759000,Salaried,3.7,2919000,Fair,1,1-2 Missed Payments,503000,1.66,0,Medium Risk
+APP-1113,54,240000,Salaried,5.7,505000,Fair,0,On-Time,193300,2.1,0,Low Risk
+APP-1114,53,1627000,Salaried,1.9,1926000,Fair,3,On-Time,427600,1.18,0,Low Risk
+APP-1115,43,971000,Salaried,7.4,1626000,Good,0,On-Time,312900,1.67,0,Low Risk
+APP-1116,44,415000,Self-Employed,7.4,993000,Fair,0,On-Time,100000,2.39,0,Low Risk
+APP-1117,57,446000,Self-Employed,3.7,950000,Good,1,On-Time,183400,2.13,0,Low Risk
+APP-1118,55,2027000,Salaried,18.7,2391000,Good,2,On-Time,962900,1.18,0,Low Risk
+APP-1119,64,479000,Salaried,0.7,806000,Good,2,On-Time,116600,1.68,0,Low Risk
+APP-1120,60,180000,Unemployed,0.0,109000,Good,0,On-Time,90200,0.61,0,Low Risk
+APP-1121,42,1507000,Salaried,0.5,2244000,Poor,0,Frequent Delinquency,217200,1.49,0,High Risk
+APP-1122,47,971000,Salaried,7.4,2386000,Good,2,On-Time,425100,2.46,0,Low Risk
+APP-1123,55,481000,Salaried,8.2,670000,Poor,5,Frequent Delinquency,155100,1.39,1,High Risk
+APP-1124,21,908000,Self-Employed,0.6,2119000,Good,2,On-Time,91500,2.33,0,Medium Risk
+APP-1125,55,459000,Self-Employed,1.5,522000,Fair,1,On-Time,347200,1.14,0,Low Risk
+APP-1126,57,1477000,Salaried,0.5,3689000,Fair,3,1-2 Missed Payments,245200,2.5,1,High Risk
+APP-1127,34,1445000,Salaried,1.7,2214000,Fair,1,1-2 Missed Payments,234600,1.53,0,Medium Risk
+APP-1128,23,1080000,Self-Employed,3.0,321000,Fair,1,On-Time,657700,0.3,0,Low Risk
+APP-1129,21,984000,Self-Employed,1.0,1525000,Fair,1,On-Time,245500,1.55,0,Medium Risk
+APP-1130,25,2124000,Salaried,2.1,1766000,Poor,1,1-2 Missed Payments,702600,0.83,0,Low Risk
+APP-1131,46,806000,Business,2.3,221000,Fair,2,1-2 Missed Payments,290400,0.27,0,Medium Risk
+APP-1132,34,421000,Salaried,0.5,879000,Good,1,On-Time,148600,2.09,0,Medium Risk
+APP-1133,59,1032000,Salaried,1.8,861000,Fair,1,On-Time,228800,0.83,0,Low Risk
+APP-1134,47,2539000,Business,5.2,5000000,Good,1,On-Time,1314600,1.97,0,Low Risk
+APP-1135,29,461000,Salaried,9.0,398000,Good,0,On-Time,71300,0.86,0,Low Risk
+APP-1136,35,661000,Self-Employed,9.4,428000,Poor,1,1-2 Missed Payments,538500,0.65,0,Medium Risk
+APP-1137,35,1014000,Salaried,0.5,2474000,Good,0,On-Time,163000,2.44,0,Medium Risk
+APP-1138,46,783000,Salaried,11.4,808000,Fair,0,1-2 Missed Payments,160700,1.03,0,Medium Risk
+APP-1139,62,0,Unemployed,0.0,50000,Good,2,On-Time,5000,0.5,0,Medium Risk
+APP-1140,33,1494000,Salaried,7.6,2395000,Good,2,Frequent Delinquency,256000,1.6,1,High Risk
+APP-1141,52,2888000,Business,7.6,4300000,Good,2,1-2 Missed Payments,974900,1.49,0,Low Risk
+APP-1142,59,898000,Salaried,3.1,2069000,Good,1,On-Time,181300,2.3,0,Low Risk
+APP-1143,52,490000,Salaried,2.5,858000,Fair,3,On-Time,97400,1.75,0,Medium Risk
+APP-1144,24,344000,Salaried,1.8,388000,Good,4,On-Time,50100,1.13,0,Low Risk
+APP-1145,50,929000,Self-Employed,0.5,2028000,Good,2,1-2 Missed Payments,407600,2.18,1,Medium Risk
+APP-1146,57,1479000,Salaried,1.3,912000,Good,2,On-Time,1181700,0.62,0,Low Risk
+APP-1147,43,1047000,Business,1.4,1520000,Good,1,On-Time,444700,1.45,0,Low Risk
+APP-1148,59,805000,Salaried,3.3,1921000,Fair,5,On-Time,79000,2.39,0,Medium Risk
+APP-1149,65,180000,Unemployed,0.0,295000,Good,1,On-Time,143700,1.64,0,Medium Risk
+APP-1150,35,442000,Salaried,6.9,919000,Fair,0,Frequent Delinquency,140900,2.08,1,High Risk
+APP-1151,63,1276000,Business,3.2,2173000,Poor,1,Frequent Delinquency,672900,1.7,1,High Risk
+APP-1152,49,1333000,Self-Employed,0.5,2840000,Fair,0,On-Time,69200,2.13,0,Medium Risk
+APP-1153,56,344000,Self-Employed,15.8,816000,Fair,4,On-Time,27100,2.37,0,Medium Risk
+APP-1154,33,1933000,Business,13.0,1600000,Good,1,On-Time,444500,0.83,0,Low Risk
+APP-1155,52,1105000,Self-Employed,7.7,652000,Good,1,On-Time,585700,0.59,0,Low Risk
+APP-1156,27,1741000,Self-Employed,7.0,2286000,Poor,2,1-2 Missed Payments,673300,1.31,1,Medium Risk
+APP-1157,42,385000,Salaried,3.9,698000,Fair,1,On-Time,270900,1.81,0,Medium Risk
+APP-1158,48,380000,Salaried,16.5,275000,Fair,0,1-2 Missed Payments,45400,0.72,0,Low Risk
+APP-1159,22,743000,Business,0.5,156000,Fair,2,On-Time,83900,0.21,0,Low Risk
+APP-1160,62,1063000,Self-Employed,2.3,1051000,Good,2,Frequent Delinquency,605100,0.99,1,Medium Risk
+APP-1161,65,2165000,Self-Employed,1.3,5000000,Good,1,On-Time,396600,2.31,0,Low Risk
+APP-1162,26,1189000,Salaried,1.1,2138000,Fair,2,1-2 Missed Payments,873400,1.8,0,Medium Risk
+APP-1163,48,705000,Salaried,0.8,792000,Fair,0,On-Time,193900,1.12,0,Low Risk
+APP-1164,48,458000,Salaried,4.9,294000,Good,0,On-Time,109100,0.64,0,Low Risk
+APP-1165,64,1586000,Self-Employed,7.6,1616000,Poor,0,Frequent Delinquency,67100,1.02,1,High Risk
+APP-1166,64,474000,Salaried,4.3,280000,Good,1,On-Time,199800,0.59,0,Low Risk
+APP-1167,40,1974000,Salaried,0.8,877000,Good,3,On-Time,260300,0.44,0,Low Risk
+APP-1168,50,689000,Salaried,8.3,1575000,Poor,3,1-2 Missed Payments,144300,2.29,1,High Risk
+APP-1169,31,1933000,Salaried,5.1,4822000,Fair,1,1-2 Missed Payments,552300,2.49,0,Medium Risk
+APP-1170,48,1171000,Salaried,2.5,676000,Good,1,1-2 Missed Payments,161200,0.58,0,Low Risk
+APP-1171,45,748000,Salaried,5.6,243000,Good,2,Frequent Delinquency,202500,0.32,0,Medium Risk
+APP-1172,59,606000,Self-Employed,1.5,581000,Good,0,On-Time,200800,0.96,0,Low Risk
+APP-1173,53,668000,Salaried,2.1,843000,Fair,0,Frequent Delinquency,140900,1.26,1,High Risk
+APP-1174,21,1020000,Salaried,1.0,685000,Good,4,On-Time,402000,0.67,0,Low Risk
+APP-1175,47,841000,Salaried,1.7,751000,Fair,2,On-Time,107900,0.89,0,Low Risk
+APP-1176,33,582000,Salaried,3.2,385000,Poor,5,On-Time,300700,0.66,0,Low Risk
+APP-1177,61,736000,Salaried,11.0,1458000,Fair,1,On-Time,148200,1.98,1,Medium Risk
+APP-1178,23,842000,Salaried,3.0,1548000,Good,2,On-Time,120300,1.84,0,Low Risk
+APP-1179,59,250000,Self-Employed,0.5,415000,Fair,0,1-2 Missed Payments,41200,1.66,0,Medium Risk
+APP-1180,26,1037000,Salaried,0.8,1131000,Good,1,On-Time,284100,1.09,0,Low Risk
+APP-1181,28,470000,Self-Employed,0.5,1077000,Good,1,On-Time,360700,2.29,0,Low Risk
+APP-1182,47,427000,Business,5.0,1038000,Good,1,On-Time,110400,2.43,0,Low Risk
+APP-1183,29,319000,Self-Employed,3.0,191000,Good,0,On-Time,34300,0.6,0,Low Risk
+APP-1184,57,301000,Salaried,0.7,215000,Poor,1,1-2 Missed Payments,61600,0.71,0,Medium Risk
+APP-1185,53,383000,Salaried,15.8,540000,Good,0,On-Time,51900,1.41,0,Low Risk
+APP-1186,62,546000,Salaried,3.8,224000,Good,2,On-Time,155700,0.41,0,Low Risk
+APP-1187,64,2360000,Salaried,1.4,2841000,Poor,1,Frequent Delinquency,265600,1.2,1,High Risk
+APP-1188,44,120000,Unemployed,0.0,185000,Good,0,On-Time,33500,1.54,0,Medium Risk
+APP-1189,35,889000,Salaried,3.5,1245000,Fair,0,1-2 Missed Payments,90900,1.4,0,Medium Risk
+APP-1190,52,1005000,Salaried,5.7,966000,Good,0,On-Time,407300,0.96,0,Low Risk
+APP-1191,52,866000,Self-Employed,0.5,1254000,Good,2,On-Time,222700,1.45,0,Low Risk
+APP-1192,44,773000,Self-Employed,1.6,1859000,Poor,0,Frequent Delinquency,461700,2.4,1,High Risk
+APP-1193,61,418000,Salaried,8.2,282000,Good,2,On-Time,78200,0.67,0,Low Risk
+APP-1194,32,1791000,Salaried,3.1,3056000,Fair,0,1-2 Missed Payments,230800,1.71,0,Medium Risk
+APP-1195,59,2178000,Salaried,4.0,653000,Good,0,On-Time,180100,0.3,0,Low Risk
+APP-1196,22,320000,Salaried,2.0,113000,Good,3,On-Time,136100,0.35,0,Low Risk
+APP-1197,23,459000,Salaried,0.5,674000,Good,2,1-2 Missed Payments,87800,1.47,0,Medium Risk
+APP-1198,57,691000,Salaried,0.9,305000,Good,0,On-Time,262100,0.44,0,Low Risk
+APP-1199,37,474000,Salaried,2.9,119000,Good,3,On-Time,28700,0.25,0,Low Risk
+APP-1200,22,1065000,Salaried,1.2,633000,Fair,1,On-Time,221500,0.59,0,Low Risk
+APP-1201,22,540000,Salaried,0.5,810000,Good,3,On-Time,89300,1.5,0,Low Risk
+APP-1202,48,2652000,Salaried,9.3,4820000,Good,2,On-Time,608000,1.82,0,Low Risk
+APP-1203,43,1552000,Salaried,19.9,1033000,Good,2,On-Time,898200,0.67,0,Low Risk
+APP-1204,57,906000,Self-Employed,7.9,1574000,Poor,5,Frequent Delinquency,162100,1.74,1,High Risk
+APP-1205,52,1418000,Self-Employed,9.6,879000,Poor,0,Frequent Delinquency,84300,0.62,1,High Risk
+APP-1206,53,1481000,Salaried,1.4,2386000,Fair,2,On-Time,627400,1.61,0,Low Risk
+APP-1207,21,591000,Salaried,1.0,678000,Poor,1,Frequent Delinquency,301500,1.15,1,High Risk
+APP-1208,39,515000,Salaried,1.1,877000,Good,0,On-Time,219900,1.7,0,Low Risk
+APP-1209,22,842000,Self-Employed,2.0,2095000,Good,0,On-Time,214600,2.49,0,Low Risk
+APP-1210,64,1295000,Self-Employed,26.3,3052000,Fair,0,On-Time,377400,2.36,0,Low Risk
+APP-1211,46,870000,Salaried,6.2,183000,Fair,2,On-Time,549800,0.21,0,Low Risk
+APP-1212,52,339000,Business,19.9,758000,Good,1,On-Time,42500,2.24,0,Low Risk
+APP-1213,26,518000,Salaried,4.2,183000,Good,1,On-Time,174700,0.35,0,Low Risk
+APP-1214,52,774000,Salaried,1.5,1851000,Poor,0,Frequent Delinquency,139200,2.39,1,High Risk
+APP-1215,24,773000,Self-Employed,2.9,656000,Fair,1,1-2 Missed Payments,661300,0.85,0,Low Risk
+APP-1216,31,2385000,Business,4.5,2573000,Good,3,On-Time,519600,1.08,0,Low Risk
+APP-1217,37,376000,Self-Employed,0.5,154000,Fair,1,1-2 Missed Payments,156900,0.41,0,Medium Risk
+APP-1218,58,1065000,Self-Employed,4.9,488000,Good,2,On-Time,499200,0.46,0,Low Risk
+APP-1219,44,1829000,Salaried,19.9,3423000,Good,2,On-Time,501600,1.87,0,Low Risk
+APP-1220,25,2812000,Self-Employed,1.1,5000000,Good,2,1-2 Missed Payments,974900,1.78,0,Low Risk
+APP-1221,54,645000,Salaried,7.9,1035000,Good,1,On-Time,139100,1.6,0,Low Risk
+APP-1222,26,1056000,Business,6.0,1950000,Good,3,On-Time,503600,1.85,0,Low Risk
+APP-1223,42,1103000,Salaried,14.4,2154000,Fair,1,1-2 Missed Payments,127500,1.95,1,Medium Risk
+APP-1224,31,898000,Self-Employed,11.0,722000,Good,3,On-Time,60600,0.8,0,Low Risk
+APP-1225,36,763000,Salaried,3.7,232000,Fair,0,1-2 Missed Payments,234200,0.3,0,Low Risk
+APP-1226,53,1025000,Self-Employed,18.9,209000,Good,1,On-Time,225800,0.2,0,Low Risk
+APP-1227,29,240000,Salaried,7.1,242000,Good,0,On-Time,46500,1.01,0,Low Risk
+APP-1228,26,1173000,Self-Employed,0.9,886000,Poor,2,1-2 Missed Payments,738000,0.76,0,Medium Risk
+APP-1229,36,864000,Salaried,3.2,297000,Fair,1,1-2 Missed Payments,305300,0.34,0,Low Risk
+APP-1230,49,713000,Salaried,6.3,437000,Poor,0,Frequent Delinquency,107400,0.61,1,High Risk
+APP-1231,23,2485000,Salaried,1.4,1209000,Poor,0,Frequent Delinquency,476200,0.49,0,Medium Risk
+APP-1232,40,556000,Salaried,5.1,1281000,Good,3,On-Time,118900,2.3,0,Low Risk
+APP-1233,56,646000,Business,5.5,338000,Good,3,Frequent Delinquency,331900,0.52,0,Medium Risk
+APP-1234,39,2411000,Salaried,0.9,3464000,Poor,1,Frequent Delinquency,274900,1.44,1,High Risk
+APP-1235,46,180000,Unemployed,0.0,282000,Poor,2,Frequent Delinquency,35000,1.57,1,High Risk
+APP-1236,23,596000,Salaried,3.0,864000,Fair,1,On-Time,191000,1.45,0,Medium Risk
+APP-1237,39,744000,Salaried,7.4,318000,Fair,1,1-2 Missed Payments,76300,0.43,0,Low Risk
+APP-1238,40,1280000,Self-Employed,3.5,1195000,Fair,3,On-Time,422400,0.93,0,Low Risk
+APP-1239,52,904000,Self-Employed,0.5,287000,Good,0,On-Time,162000,0.32,0,Low Risk
+APP-1240,27,396000,Salaried,0.5,440000,Fair,1,On-Time,243600,1.11,0,Low Risk
+APP-1241,61,602000,Salaried,2.2,382000,Fair,1,1-2 Missed Payments,96900,0.63,0,Medium Risk
+APP-1242,53,577000,Self-Employed,13.0,861000,Fair,1,1-2 Missed Payments,154800,1.49,0,Low Risk
+APP-1243,60,773000,Salaried,1.3,1386000,Good,1,On-Time,194400,1.79,0,Low Risk
+APP-1244,59,180000,Unemployed,0.0,256000,Good,1,On-Time,59500,1.42,0,Medium Risk
+APP-1245,38,0,Unemployed,0.0,50000,Good,0,On-Time,5000,0.5,1,Medium Risk
+APP-1246,60,304000,Self-Employed,5.0,332000,Good,1,On-Time,35900,1.09,0,Low Risk
+APP-1247,21,1447000,Salaried,1.0,3091000,Poor,0,Frequent Delinquency,272000,2.14,1,High Risk
+APP-1248,31,926000,Self-Employed,1.9,652000,Good,0,On-Time,224500,0.7,0,Low Risk
+APP-1249,48,1726000,Salaried,9.4,3260000,Good,0,On-Time,461400,1.89,0,Low Risk
+APP-1250,45,1029000,Salaried,6.5,1999000,Good,2,On-Time,87800,1.94,0,Low Risk
+APP-1251,43,1477000,Salaried,0.5,1719000,Fair,1,1-2 Missed Payments,714700,1.16,1,Medium Risk
+APP-1252,51,1042000,Salaried,2.8,921000,Good,2,On-Time,207500,0.88,0,Low Risk
+APP-1253,50,1690000,Business,0.5,2167000,Good,2,On-Time,187800,1.28,0,Low Risk
+APP-1254,62,1074000,Self-Employed,3.3,445000,Good,2,On-Time,94000,0.41,0,Low Risk
+APP-1255,55,764000,Self-Employed,5.4,234000,Good,1,On-Time,92200,0.31,0,Low Risk
+APP-1256,27,2813000,Salaried,0.6,1285000,Good,1,On-Time,359700,0.46,0,Low Risk
+APP-1257,36,1315000,Salaried,1.7,829000,Good,1,On-Time,303700,0.63,0,Low Risk
+APP-1258,46,1105000,Salaried,2.5,1502000,Poor,2,Frequent Delinquency,156600,1.36,0,High Risk
+APP-1259,22,120000,Unemployed,0.0,258000,Good,1,On-Time,34300,2.15,0,Medium Risk
+APP-1260,21,397000,Salaried,1.0,295000,Good,3,On-Time,107000,0.74,0,Low Risk
+APP-1261,32,947000,Business,12.0,2226000,Fair,3,1-2 Missed Payments,238100,2.35,1,High Risk
+APP-1262,25,873000,Salaried,0.5,2092000,Good,0,1-2 Missed Payments,282300,2.4,1,Medium Risk
+APP-1263,57,575000,Salaried,7.2,1383000,Fair,0,On-Time,125300,2.41,0,Medium Risk
+APP-1264,52,871000,Self-Employed,2.3,1852000,Good,2,On-Time,690900,2.13,0,Low Risk
+APP-1265,29,1931000,Salaried,2.5,2002000,Fair,1,On-Time,671300,1.04,0,Low Risk
+APP-1266,61,1182000,Business,7.0,434000,Fair,0,1-2 Missed Payments,155600,0.37,0,Low Risk
+APP-1267,55,430000,Business,12.5,649000,Poor,3,Frequent Delinquency,117000,1.51,0,High Risk
+APP-1268,39,758000,Salaried,15.1,1126000,Good,0,On-Time,363700,1.49,0,Low Risk
+APP-1269,36,518000,Salaried,4.3,1116000,Good,3,On-Time,116900,2.15,1,Medium Risk
+APP-1270,23,651000,Salaried,2.2,1621000,Good,2,On-Time,382200,2.49,0,Low Risk
+APP-1271,40,642000,Business,7.7,879000,Poor,2,1-2 Missed Payments,207700,1.37,0,Medium Risk
+APP-1272,44,620000,Salaried,1.4,616000,Poor,0,1-2 Missed Payments,166800,0.99,0,Medium Risk
+APP-1273,53,404000,Self-Employed,4.2,254000,Good,0,On-Time,216400,0.63,0,Low Risk
+APP-1274,44,751000,Self-Employed,2.2,158000,Good,1,Frequent Delinquency,201500,0.21,0,Medium Risk
+APP-1275,31,592000,Self-Employed,5.3,812000,Good,0,On-Time,126600,1.37,0,Low Risk
+APP-1276,28,240000,Salaried,1.4,355000,Good,1,On-Time,120300,1.48,0,Low Risk
+APP-1277,56,2493000,Self-Employed,1.1,5000000,Good,1,On-Time,379700,2.01,0,Low Risk
+APP-1278,58,1467000,Business,12.5,1996000,Good,0,1-2 Missed Payments,426400,1.36,0,Low Risk
+APP-1279,60,655000,Salaried,0.5,1512000,Fair,0,1-2 Missed Payments,210000,2.31,0,Medium Risk
+APP-1280,40,815000,Salaried,3.5,1340000,Poor,2,Frequent Delinquency,335300,1.64,1,High Risk
+APP-1281,55,0,Unemployed,0.0,50000,Poor,0,1-2 Missed Payments,5000,0.5,1,High Risk
+APP-1282,45,2049000,Salaried,1.2,1109000,Good,0,On-Time,202500,0.54,0,Low Risk
+APP-1283,55,2289000,Business,0.5,4961000,Fair,2,On-Time,575900,2.17,1,Medium Risk
+APP-1284,45,879000,Salaried,0.5,1541000,Poor,4,1-2 Missed Payments,266200,1.75,1,High Risk
+APP-1285,49,1415000,Salaried,1.0,837000,Good,1,On-Time,171800,0.59,0,Low Risk
+APP-1286,38,888000,Business,10.1,565000,Fair,0,1-2 Missed Payments,173400,0.64,0,Low Risk
+APP-1287,38,386000,Salaried,1.7,900000,Good,1,On-Time,179300,2.33,0,Low Risk
+APP-1288,22,643000,Salaried,2.0,176000,Good,3,On-Time,48100,0.27,0,Low Risk
+APP-1289,55,867000,Salaried,4.4,1096000,Good,2,On-Time,446700,1.26,0,Low Risk
+APP-1290,36,628000,Salaried,2.9,578000,Good,2,1-2 Missed Payments,144500,0.92,0,Medium Risk
+APP-1291,61,715000,Salaried,4.3,1237000,Fair,1,1-2 Missed Payments,392400,1.73,0,Medium Risk
+APP-1292,56,767000,Salaried,3.6,1635000,Good,1,On-Time,585300,2.13,0,Low Risk
+APP-1293,53,180000,Unemployed,0.0,185000,Good,0,On-Time,6900,1.03,1,Medium Risk
+APP-1294,24,830000,Salaried,4.0,981000,Good,2,On-Time,422200,1.18,0,Low Risk
+APP-1295,53,450000,Self-Employed,1.7,1106000,Poor,2,On-Time,68800,2.46,1,High Risk
+APP-1296,34,543000,Salaried,2.2,1088000,Good,4,On-Time,145900,2.0,0,Medium Risk
+APP-1297,41,398000,Self-Employed,11.2,901000,Fair,1,On-Time,101300,2.26,0,Low Risk
+APP-1298,40,1380000,Salaried,14.6,1669000,Fair,0,Frequent Delinquency,607300,1.21,0,Medium Risk
+APP-1299,28,180000,Unemployed,0.0,133000,Good,1,On-Time,49100,0.74,0,Low Risk
+APP-1300,27,1520000,Salaried,7.0,1744000,Good,2,On-Time,592300,1.15,0,Low Risk
+APP-1301,23,1728000,Salaried,2.7,3192000,Fair,2,1-2 Missed Payments,527900,1.85,0,Medium Risk
+APP-1302,37,683000,Salaried,7.6,309000,Good,0,1-2 Missed Payments,40800,0.45,0,Low Risk
+APP-1303,53,240000,Salaried,3.2,197000,Good,1,1-2 Missed Payments,41700,0.82,0,Low Risk
+APP-1304,32,661000,Salaried,3.4,203000,Fair,1,Frequent Delinquency,406700,0.31,0,High Risk
+APP-1305,42,778000,Salaried,1.1,929000,Good,1,On-Time,320400,1.19,0,Low Risk
+APP-1306,42,462000,Business,4.5,972000,Good,3,On-Time,112500,2.1,1,Medium Risk
+APP-1307,50,607000,Salaried,1.0,156000,Good,1,On-Time,53000,0.26,0,Low Risk
+APP-1308,58,1870000,Salaried,2.0,3279000,Good,2,On-Time,1044300,1.75,0,Low Risk
+APP-1309,58,1162000,Self-Employed,9.7,2725000,Fair,1,On-Time,90100,2.35,0,Low Risk
+APP-1310,65,485000,Self-Employed,1.2,361000,Fair,2,On-Time,174700,0.74,0,Low Risk
+APP-1311,28,335000,Salaried,0.5,601000,Fair,1,1-2 Missed Payments,204200,1.79,0,Medium Risk
+APP-1312,47,673000,Salaried,0.5,1644000,Fair,3,1-2 Missed Payments,348700,2.44,1,High Risk
+APP-1313,47,717000,Salaried,14.1,1730000,Good,1,On-Time,286500,2.41,0,Low Risk
+APP-1314,54,1059000,Self-Employed,3.5,784000,Good,1,1-2 Missed Payments,399100,0.74,0,Low Risk
+APP-1315,41,601000,Self-Employed,2.6,259000,Good,0,On-Time,93100,0.43,0,Low Risk
+APP-1316,50,1068000,Salaried,8.3,578000,Good,1,On-Time,476900,0.54,0,Low Risk
+APP-1317,53,2337000,Business,9.0,4241000,Poor,1,1-2 Missed Payments,1236200,1.81,0,Medium Risk
+APP-1318,48,1262000,Self-Employed,2.0,2359000,Fair,1,On-Time,173100,1.87,0,Low Risk
+APP-1319,53,785000,Salaried,5.9,1374000,Good,4,On-Time,355900,1.75,0,Low Risk
+APP-1320,25,729000,Business,5.0,709000,Good,0,On-Time,225000,0.97,0,Low Risk
+APP-1321,39,663000,Salaried,5.3,391000,Good,2,On-Time,178700,0.59,0,Low Risk
+APP-1322,24,1543000,Salaried,0.8,2370000,Good,5,On-Time,405200,1.54,0,Low Risk
+APP-1323,55,571000,Salaried,10.4,749000,Good,0,Frequent Delinquency,93500,1.31,0,Medium Risk
+APP-1324,37,826000,Salaried,3.9,1550000,Good,2,On-Time,30200,1.88,0,Low Risk
+APP-1325,64,829000,Salaried,1.7,1007000,Poor,1,1-2 Missed Payments,371900,1.21,0,Medium Risk
+APP-1326,48,612000,Business,2.8,599000,Fair,0,1-2 Missed Payments,408800,0.98,0,Low Risk
+APP-1327,50,379000,Salaried,0.5,332000,Good,1,On-Time,142200,0.88,0,Low Risk
+APP-1328,49,963000,Salaried,0.7,661000,Good,4,On-Time,30300,0.69,0,Low Risk
+APP-1329,26,780000,Salaried,6.0,633000,Good,0,On-Time,315300,0.81,0,Low Risk
+APP-1330,55,1061000,Business,0.5,444000,Fair,1,1-2 Missed Payments,365100,0.42,1,Medium Risk
+APP-1331,61,601000,Salaried,2.7,600000,Fair,1,1-2 Missed Payments,116300,1.0,1,Medium Risk
+APP-1332,57,1578000,Salaried,3.7,448000,Poor,3,Frequent Delinquency,329000,0.28,1,High Risk
+APP-1333,44,498000,Salaried,0.5,313000,Good,0,On-Time,311700,0.63,0,Low Risk
+APP-1334,49,2067000,Salaried,18.1,3964000,Fair,2,1-2 Missed Payments,353200,1.92,0,Medium Risk
+APP-1335,51,180000,Unemployed,0.0,171000,Good,2,1-2 Missed Payments,15200,0.95,1,High Risk
+APP-1336,55,180000,Unemployed,0.0,313000,Fair,2,On-Time,84200,1.74,0,Medium Risk
+APP-1337,53,1047000,Salaried,1.3,1936000,Good,4,On-Time,295700,1.85,0,Medium Risk
+APP-1338,41,520000,Business,1.8,799000,Good,3,1-2 Missed Payments,269500,1.54,1,Medium Risk
+APP-1339,52,1018000,Self-Employed,1.8,2448000,Fair,0,On-Time,269400,2.4,0,Medium Risk
+APP-1340,43,1629000,Business,1.3,406000,Good,1,On-Time,281000,0.25,0,Low Risk
+APP-1341,53,240000,Salaried,0.5,456000,Good,1,Frequent Delinquency,40100,1.9,1,High Risk
+APP-1342,23,1063000,Salaried,3.0,2557000,Good,1,On-Time,160400,2.41,0,Low Risk
+APP-1343,38,240000,Salaried,17.0,524000,Good,1,On-Time,117600,2.18,0,Low Risk
+APP-1344,45,474000,Self-Employed,1.3,278000,Good,1,On-Time,83100,0.59,0,Low Risk
+APP-1345,62,1975000,Salaried,5.4,1880000,Good,1,On-Time,556200,0.95,0,Low Risk
+APP-1346,51,585000,Salaried,6.8,349000,Good,4,On-Time,320600,0.6,0,Low Risk
+APP-1347,23,423000,Salaried,3.0,670000,Good,0,On-Time,236100,1.58,0,Low Risk
+APP-1348,60,723000,Self-Employed,2.7,1329000,Poor,3,Frequent Delinquency,117500,1.84,1,High Risk
+APP-1349,44,2514000,Salaried,1.8,2336000,Good,1,On-Time,961500,0.93,0,Low Risk
+APP-1350,52,294000,Self-Employed,2.0,424000,Good,2,On-Time,149100,1.44,0,Low Risk
+APP-1351,42,0,Unemployed,0.0,50000,Good,3,On-Time,5000,0.5,0,Medium Risk
+APP-1352,43,1837000,Salaried,6.2,2148000,Poor,1,1-2 Missed Payments,645900,1.17,0,Medium Risk
+APP-1353,22,2239000,Self-Employed,2.0,4846000,Fair,1,1-2 Missed Payments,760900,2.16,0,Medium Risk
+APP-1354,47,762000,Salaried,1.0,1505000,Good,1,1-2 Missed Payments,172800,1.98,0,Medium Risk
+APP-1355,62,408000,Business,2.3,142000,Fair,1,Frequent Delinquency,105200,0.35,0,Medium Risk
+APP-1356,22,2553000,Salaried,2.0,4158000,Fair,3,1-2 Missed Payments,108300,1.63,1,High Risk
+APP-1357,46,1938000,Self-Employed,8.2,1437000,Fair,3,1-2 Missed Payments,480100,0.74,0,Medium Risk
+APP-1358,37,1171000,Business,17.0,1736000,Fair,0,On-Time,260000,1.48,0,Low Risk
+APP-1359,60,516000,Business,7.0,1239000,Poor,0,Frequent Delinquency,86300,2.4,1,High Risk
+APP-1360,53,785000,Self-Employed,2.5,1744000,Poor,1,Frequent Delinquency,183000,2.22,1,High Risk
+APP-1361,29,738000,Salaried,4.5,834000,Fair,0,1-2 Missed Payments,181900,1.13,0,Medium Risk
+APP-1362,63,967000,Self-Employed,5.4,842000,Good,2,On-Time,56200,0.87,0,Low Risk
+APP-1363,59,1791000,Business,0.5,1324000,Fair,0,Frequent Delinquency,212200,0.74,1,High Risk
+APP-1364,49,1308000,Salaried,3.9,1864000,Fair,1,1-2 Missed Payments,760400,1.43,0,Medium Risk
+APP-1365,62,446000,Salaried,6.2,206000,Good,0,On-Time,231600,0.46,0,Low Risk
+APP-1366,46,1719000,Business,0.9,2515000,Poor,1,Frequent Delinquency,613300,1.46,1,High Risk
+APP-1367,55,958000,Self-Employed,7.6,195000,Good,2,On-Time,76400,0.2,0,Low Risk
+APP-1368,45,1176000,Self-Employed,4.4,1111000,Good,1,On-Time,562100,0.94,0,Low Risk
+APP-1369,44,1806000,Salaried,15.2,1275000,Poor,4,Frequent Delinquency,346300,0.71,1,High Risk
+APP-1370,33,437000,Self-Employed,0.5,1064000,Good,3,On-Time,210300,2.43,0,Medium Risk
+APP-1371,27,790000,Salaried,1.5,1479000,Good,1,On-Time,352000,1.87,0,Low Risk
+APP-1372,56,602000,Self-Employed,4.6,605000,Good,0,On-Time,302500,1.0,0,Low Risk
+APP-1373,65,340000,Salaried,1.8,141000,Good,3,On-Time,187200,0.41,0,Low Risk
+APP-1374,40,975000,Self-Employed,6.3,1354000,Good,3,1-2 Missed Payments,351700,1.39,0,Low Risk
+APP-1375,21,180000,Unemployed,0.0,124000,Good,3,On-Time,121800,0.69,1,Medium Risk
+APP-1376,28,293000,Salaried,7.1,420000,Good,0,1-2 Missed Payments,14700,1.43,0,Medium Risk
+APP-1377,36,120000,Unemployed,0.0,255000,Poor,5,1-2 Missed Payments,69900,2.12,0,High Risk
+APP-1378,34,1147000,Salaried,0.5,1854000,Poor,1,On-Time,437400,1.62,0,Medium Risk
+APP-1379,32,863000,Business,3.6,1431000,Good,2,On-Time,111100,1.66,0,Low Risk
+APP-1380,43,758000,Self-Employed,3.6,1095000,Fair,3,On-Time,283600,1.44,0,Medium Risk
+APP-1381,35,395000,Salaried,2.3,921000,Good,0,On-Time,115400,2.33,0,Low Risk
+APP-1382,48,916000,Self-Employed,13.5,2147000,Good,3,On-Time,113600,2.34,0,Low Risk
+APP-1383,54,532000,Business,8.8,734000,Good,1,1-2 Missed Payments,111200,1.38,0,Medium Risk
+APP-1384,22,242000,Salaried,2.0,219000,Poor,4,1-2 Missed Payments,161000,0.9,1,High Risk
+APP-1385,52,1555000,Salaried,6.3,1955000,Poor,1,1-2 Missed Payments,514100,1.26,0,Medium Risk
+APP-1386,43,1366000,Self-Employed,3.1,859000,Good,4,On-Time,254000,0.63,0,Low Risk
+APP-1387,42,829000,Self-Employed,12.7,1379000,Good,0,On-Time,620300,1.66,0,Low Risk
+APP-1388,45,914000,Self-Employed,5.9,1234000,Good,2,On-Time,316300,1.35,0,Low Risk
+APP-1389,42,1456000,Self-Employed,6.5,637000,Good,1,On-Time,59600,0.44,0,Low Risk
+APP-1390,42,912000,Salaried,9.9,597000,Fair,1,On-Time,408400,0.65,0,Low Risk
+APP-1391,62,1325000,Self-Employed,1.6,1727000,Good,0,On-Time,613900,1.3,0,Low Risk
+APP-1392,26,684000,Salaried,6.0,1533000,Fair,2,On-Time,40500,2.24,0,Medium Risk
+APP-1393,35,1659000,Salaried,1.1,2493000,Good,0,On-Time,283500,1.5,0,Low Risk
+APP-1394,63,962000,Salaried,2.1,1700000,Poor,1,1-2 Missed Payments,125600,1.77,1,High Risk
+APP-1395,57,897000,Salaried,2.0,879000,Fair,1,On-Time,220400,0.98,0,Low Risk
+APP-1396,53,401000,Salaried,19.2,607000,Good,4,On-Time,169300,1.51,0,Low Risk
+APP-1397,28,944000,Salaried,8.0,1160000,Fair,0,On-Time,479100,1.23,0,Low Risk
+APP-1398,64,510000,Self-Employed,6.0,875000,Fair,0,On-Time,33700,1.72,0,Low Risk
+APP-1399,64,567000,Salaried,6.5,179000,Good,0,On-Time,198300,0.32,0,Low Risk
+APP-1400,25,515000,Salaried,4.1,687000,Good,1,On-Time,49000,1.33,0,Low Risk
+APP-1401,59,448000,Salaried,14.7,395000,Poor,0,Frequent Delinquency,263200,0.88,1,High Risk
+APP-1402,24,2594000,Salaried,3.4,2465000,Good,1,On-Time,565600,0.95,0,Low Risk
+APP-1403,26,1677000,Salaried,2.4,4042000,Good,3,On-Time,110800,2.41,0,Low Risk
+APP-1404,65,2318000,Salaried,0.9,1438000,Good,2,On-Time,258000,0.62,0,Low Risk
+APP-1405,52,411000,Self-Employed,7.7,376000,Fair,1,1-2 Missed Payments,161100,0.91,0,Medium Risk
+APP-1406,50,838000,Self-Employed,6.6,1150000,Fair,0,1-2 Missed Payments,201700,1.37,0,Medium Risk
+APP-1407,55,396000,Self-Employed,2.4,865000,Poor,2,1-2 Missed Payments,100500,2.18,1,High Risk
+APP-1408,60,550000,Salaried,0.5,637000,Good,0,On-Time,200400,1.16,0,Low Risk
+APP-1409,36,487000,Salaried,9.1,931000,Good,2,On-Time,163200,1.91,0,Low Risk
+APP-1410,33,1594000,Business,0.5,3458000,Fair,1,On-Time,285400,2.17,0,Medium Risk
+APP-1411,62,648000,Salaried,6.1,592000,Fair,1,1-2 Missed Payments,163000,0.91,0,Low Risk
+APP-1412,50,1451000,Salaried,17.6,1601000,Good,1,On-Time,236300,1.1,0,Low Risk
+APP-1413,39,1124000,Salaried,2.9,1147000,Good,3,On-Time,125300,1.02,0,Low Risk
+APP-1414,37,2862000,Salaried,1.3,5000000,Good,0,On-Time,664400,1.75,0,Low Risk
+APP-1415,39,357000,Salaried,6.1,108000,Fair,1,On-Time,95800,0.3,0,Low Risk
+APP-1416,48,1611000,Salaried,8.5,1465000,Poor,0,1-2 Missed Payments,606400,0.91,0,Medium Risk
+APP-1417,46,1514000,Salaried,4.0,2669000,Fair,2,1-2 Missed Payments,344900,1.76,0,Medium Risk
+APP-1418,57,472000,Salaried,17.1,708000,Poor,3,Frequent Delinquency,152000,1.5,1,High Risk
+APP-1419,46,1403000,Self-Employed,0.5,1688000,Good,1,On-Time,651200,1.2,0,Low Risk
+APP-1420,43,970000,Self-Employed,3.5,1399000,Poor,1,1-2 Missed Payments,174900,1.44,1,High Risk
+APP-1421,29,711000,Self-Employed,6.3,465000,Fair,3,Frequent Delinquency,92400,0.65,1,High Risk
+APP-1422,32,512000,Self-Employed,9.9,610000,Good,1,On-Time,202500,1.19,0,Low Risk
+APP-1423,21,543000,Business,1.0,735000,Poor,1,1-2 Missed Payments,83700,1.35,1,Medium Risk
+APP-1424,21,2489000,Salaried,1.0,5000000,Good,1,On-Time,306000,2.01,0,Low Risk
+APP-1425,54,806000,Salaried,4.0,645000,Poor,2,Frequent Delinquency,249600,0.8,1,High Risk
+APP-1426,52,1239000,Salaried,2.5,2721000,Poor,0,Frequent Delinquency,685700,2.2,1,High Risk
+APP-1427,45,522000,Self-Employed,0.7,878000,Fair,3,On-Time,83300,1.68,1,Medium Risk
+APP-1428,60,525000,Business,10.0,130000,Fair,1,1-2 Missed Payments,143700,0.25,0,Medium Risk
+APP-1429,65,1462000,Salaried,0.9,2729000,Good,0,On-Time,823800,1.87,0,Low Risk
+APP-1430,21,384000,Business,1.0,108000,Good,2,On-Time,130200,0.28,0,Low Risk
+APP-1431,36,642000,Salaried,1.7,1601000,Good,1,On-Time,44000,2.49,0,Low Risk
+APP-1432,59,821000,Business,10.3,1812000,Fair,0,1-2 Missed Payments,207800,2.21,1,Medium Risk
+APP-1433,25,857000,Salaried,5.0,757000,Fair,2,1-2 Missed Payments,282300,0.88,0,Medium Risk
+APP-1434,42,731000,Salaried,8.0,579000,Poor,3,1-2 Missed Payments,164700,0.79,0,Medium Risk
+APP-1435,49,1002000,Salaried,1.4,1079000,Good,3,On-Time,376400,1.08,0,Low Risk
+APP-1436,23,1180000,Salaried,3.0,1203000,Fair,4,On-Time,160800,1.02,0,Medium Risk
+APP-1437,32,1207000,Salaried,4.2,1275000,Poor,3,Frequent Delinquency,53200,1.06,1,High Risk
+APP-1438,46,469000,Salaried,8.9,437000,Fair,0,1-2 Missed Payments,226500,0.93,0,Medium Risk
+APP-1439,36,689000,Self-Employed,11.8,1122000,Good,1,On-Time,47400,1.63,0,Low Risk
+APP-1440,57,1555000,Salaried,0.5,898000,Good,2,On-Time,938800,0.58,0,Low Risk
+APP-1441,42,1319000,Salaried,5.6,2830000,Good,1,On-Time,131500,2.15,0,Low Risk
+APP-1442,49,379000,Self-Employed,0.5,784000,Fair,2,On-Time,36400,2.07,1,Medium Risk
+APP-1443,34,978000,Self-Employed,4.0,1267000,Fair,2,On-Time,97400,1.3,0,Low Risk
+APP-1444,48,272000,Salaried,1.7,588000,Poor,1,1-2 Missed Payments,48800,2.16,1,High Risk
+APP-1445,25,827000,Salaried,1.8,635000,Good,3,On-Time,225700,0.77,0,Low Risk
+APP-1446,50,2289000,Salaried,2.2,550000,Good,1,On-Time,1338800,0.24,0,Low Risk
+APP-1447,25,479000,Salaried,4.9,778000,Fair,1,1-2 Missed Payments,103400,1.62,0,Medium Risk
+APP-1448,32,509000,Self-Employed,2.0,638000,Fair,5,1-2 Missed Payments,172800,1.25,0,Medium Risk
+APP-1449,36,1227000,Salaried,6.6,1846000,Poor,1,Frequent Delinquency,496800,1.5,0,High Risk
+APP-1450,46,345000,Salaried,2.6,783000,Fair,0,On-Time,164200,2.27,0,Medium Risk
+APP-1451,46,569000,Self-Employed,0.5,1383000,Good,1,1-2 Missed Payments,121300,2.43,1,Medium Risk
+APP-1452,41,1119000,Salaried,7.7,1857000,Fair,2,1-2 Missed Payments,163800,1.66,0,Medium Risk
+APP-1453,59,569000,Salaried,1.7,1114000,Poor,2,On-Time,128000,1.96,0,Medium Risk
+APP-1454,56,708000,Salaried,2.8,278000,Good,2,On-Time,92700,0.39,0,Low Risk
+APP-1455,53,180000,Unemployed,0.0,103000,Good,2,On-Time,82200,0.57,0,Low Risk
+APP-1456,50,1016000,Salaried,5.8,1917000,Good,1,On-Time,362600,1.89,0,Low Risk
+APP-1457,57,934000,Self-Employed,2.0,1113000,Good,3,On-Time,318200,1.19,0,Low Risk
+APP-1458,43,669000,Salaried,0.5,820000,Fair,3,On-Time,56100,1.23,1,Medium Risk
+APP-1459,30,988000,Salaried,2.3,899000,Good,0,1-2 Missed Payments,552100,0.91,0,Low Risk
+APP-1460,25,753000,Self-Employed,5.0,1202000,Good,0,On-Time,380000,1.6,0,Low Risk
+APP-1461,56,1037000,Business,5.1,649000,Good,4,On-Time,61300,0.63,0,Low Risk
+APP-1462,54,613000,Self-Employed,5.6,1006000,Fair,3,Frequent Delinquency,159200,1.64,1,High Risk
+APP-1463,51,729000,Self-Employed,5.0,437000,Good,3,1-2 Missed Payments,281100,0.6,0,Low Risk
+APP-1464,30,468000,Business,1.1,162000,Fair,3,1-2 Missed Payments,139100,0.35,0,Medium Risk
+APP-1465,39,791000,Salaried,2.7,759000,Good,1,On-Time,159500,0.96,0,Low Risk
+APP-1466,52,516000,Salaried,7.0,378000,Good,2,On-Time,44900,0.73,0,Low Risk
+APP-1467,21,437000,Self-Employed,0.5,981000,Good,1,On-Time,24500,2.24,0,Medium Risk
+APP-1468,25,929000,Salaried,1.6,303000,Good,0,On-Time,57700,0.33,0,Low Risk
+APP-1469,65,906000,Business,1.6,549000,Good,2,On-Time,299000,0.61,0,Low Risk
+APP-1470,24,1240000,Business,2.8,1813000,Good,1,On-Time,164200,1.46,0,Low Risk
+APP-1471,36,636000,Salaried,16.0,831000,Poor,2,1-2 Missed Payments,79800,1.31,0,Medium Risk
+APP-1472,44,1009000,Salaried,0.5,308000,Fair,1,On-Time,274600,0.31,0,Low Risk
+APP-1473,36,1091000,Self-Employed,3.7,236000,Good,1,On-Time,861300,0.22,0,Low Risk
+APP-1474,22,1030000,Salaried,1.0,2547000,Good,0,On-Time,370300,2.47,0,Low Risk
+APP-1475,48,512000,Business,17.6,878000,Poor,1,1-2 Missed Payments,186000,1.71,0,Medium Risk
+APP-1476,52,875000,Salaried,0.6,910000,Fair,0,On-Time,193500,1.04,0,Medium Risk
+APP-1477,47,985000,Self-Employed,2.6,1263000,Good,0,On-Time,75200,1.28,0,Low Risk
+APP-1478,40,809000,Salaried,6.7,658000,Fair,4,1-2 Missed Payments,395500,0.81,0,Medium Risk
+APP-1479,44,256000,Self-Employed,6.1,254000,Fair,0,1-2 Missed Payments,36400,0.99,0,Medium Risk
+APP-1480,32,881000,Salaried,2.7,1491000,Fair,1,1-2 Missed Payments,130400,1.69,0,Medium Risk
+APP-1481,55,2722000,Salaried,2.1,5000000,Good,1,On-Time,549200,1.84,0,Low Risk
+APP-1482,53,661000,Salaried,2.5,412000,Good,2,On-Time,88100,0.62,0,Low Risk
+APP-1483,53,540000,Self-Employed,1.5,1152000,Good,0,On-Time,249600,2.13,0,Low Risk
+APP-1484,63,990000,Business,1.1,475000,Poor,2,1-2 Missed Payments,427100,0.48,0,Medium Risk
+APP-1485,57,957000,Salaried,3.3,665000,Fair,2,1-2 Missed Payments,415500,0.69,0,Low Risk
+APP-1486,32,1553000,Salaried,1.6,443000,Good,0,On-Time,412400,0.29,0,Low Risk
+APP-1487,23,404000,Salaried,1.7,212000,Poor,1,Frequent Delinquency,107000,0.52,1,High Risk
+APP-1488,21,1205000,Self-Employed,1.0,2783000,Poor,4,1-2 Missed Payments,310900,2.31,0,High Risk
+APP-1489,53,1115000,Self-Employed,17.3,1401000,Poor,3,On-Time,123600,1.26,0,Medium Risk
+APP-1490,60,746000,Salaried,4.6,282000,Poor,2,Frequent Delinquency,117700,0.38,1,High Risk
+APP-1491,30,971000,Salaried,0.5,2338000,Poor,0,1-2 Missed Payments,257400,2.41,0,High Risk
+APP-1492,63,1420000,Salaried,0.5,3155000,Good,1,On-Time,692700,2.22,0,Low Risk
+APP-1493,64,1302000,Salaried,15.1,2520000,Fair,1,1-2 Missed Payments,247200,1.94,0,Medium Risk
+APP-1494,49,430000,Salaried,1.8,1009000,Fair,0,1-2 Missed Payments,16400,2.35,1,High Risk
+APP-1495,33,120000,Unemployed,0.0,85000,Good,1,1-2 Missed Payments,31600,0.71,0,Medium Risk
+APP-1496,32,778000,Salaried,0.5,1652000,Good,2,1-2 Missed Payments,79800,2.12,0,Medium Risk
+APP-1497,51,839000,Self-Employed,4.6,1499000,Poor,1,Frequent Delinquency,413200,1.79,0,High Risk
+APP-1498,22,839000,Salaried,2.0,1846000,Good,2,On-Time,72000,2.2,0,Low Risk
+APP-1499,55,742000,Salaried,5.2,1508000,Poor,3,1-2 Missed Payments,320100,2.03,1,High Risk
+APP-1500,43,1553000,Self-Employed,1.6,1548000,Good,1,1-2 Missed Payments,1099700,1.0,0,Low Risk
+APP-1501,37,770000,Self-Employed,0.5,1525000,Good,3,On-Time,244600,1.98,0,Medium Risk
+APP-1502,46,120000,Unemployed,0.0,96000,Good,0,On-Time,76500,0.8,0,Low Risk
+APP-1503,28,649000,Salaried,8.0,620000,Good,3,On-Time,205500,0.96,0,Low Risk
+APP-1504,49,889000,Salaried,1.4,398000,Fair,0,On-Time,107500,0.45,0,Low Risk
+APP-1505,46,1585000,Self-Employed,5.6,3726000,Fair,0,1-2 Missed Payments,568300,2.35,0,Medium Risk
+APP-1506,30,1123000,Salaried,6.1,976000,Good,2,On-Time,271200,0.87,0,Low Risk
+APP-1507,46,505000,Salaried,4.7,706000,Good,1,On-Time,144000,1.4,0,Low Risk
+APP-1508,54,3162000,Salaried,1.9,3478000,Good,3,On-Time,1145600,1.1,0,Low Risk
+APP-1509,61,933000,Salaried,1.6,2247000,Good,1,1-2 Missed Payments,155300,2.41,0,Medium Risk
+APP-1510,27,1626000,Business,4.6,1578000,Fair,1,1-2 Missed Payments,786700,0.97,0,Medium Risk
+APP-1511,24,742000,Salaried,4.0,1477000,Good,1,On-Time,325100,1.99,0,Low Risk
+APP-1512,65,1081000,Salaried,14.7,2343000,Good,1,On-Time,348700,2.17,0,Low Risk
+APP-1513,31,1279000,Salaried,0.6,1537000,Good,1,On-Time,272000,1.2,0,Low Risk
+APP-1514,49,1575000,Salaried,0.8,1685000,Good,2,On-Time,878400,1.07,0,Low Risk
+APP-1515,56,1442000,Salaried,14.5,2768000,Good,2,On-Time,802900,1.92,0,Low Risk
+APP-1516,45,1302000,Salaried,6.7,2994000,Good,3,On-Time,93000,2.3,0,Medium Risk
+APP-1517,41,678000,Salaried,10.7,1313000,Poor,4,1-2 Missed Payments,294700,1.94,1,High Risk
+APP-1518,56,589000,Self-Employed,1.1,425000,Poor,1,1-2 Missed Payments,69000,0.72,0,Medium Risk
+APP-1519,30,968000,Salaried,4.4,2171000,Fair,2,Frequent Delinquency,194800,2.24,1,High Risk
+APP-1520,57,1347000,Salaried,6.0,1470000,Good,1,On-Time,144400,1.09,0,Low Risk
+APP-1521,29,713000,Business,5.7,1088000,Good,2,On-Time,279700,1.53,0,Low Risk
+APP-1522,44,1448000,Self-Employed,2.6,3059000,Good,1,On-Time,972200,2.11,0,Low Risk
+APP-1523,55,1792000,Salaried,0.5,1135000,Fair,5,On-Time,349900,0.63,0,Low Risk
+APP-1524,55,487000,Salaried,4.4,976000,Poor,2,Frequent Delinquency,106300,2.0,1,High Risk
+APP-1525,56,509000,Salaried,1.5,800000,Good,4,On-Time,356500,1.57,0,Low Risk
+APP-1526,38,746000,Self-Employed,3.0,1682000,Good,3,On-Time,408100,2.25,0,Low Risk
+APP-1527,59,0,Unemployed,0.0,50000,Fair,3,On-Time,5000,0.5,0,Medium Risk
+APP-1528,52,604000,Self-Employed,15.8,705000,Fair,2,1-2 Missed Payments,186300,1.17,0,Medium Risk
+APP-1529,44,1696000,Salaried,2.5,3588000,Fair,1,1-2 Missed Payments,633300,2.12,0,Medium Risk
+APP-1530,43,1018000,Self-Employed,9.2,249000,Fair,1,1-2 Missed Payments,466900,0.24,0,Low Risk
+APP-1531,52,824000,Salaried,1.0,377000,Poor,1,Frequent Delinquency,535700,0.46,1,High Risk
+APP-1532,57,366000,Salaried,5.6,907000,Good,0,On-Time,109300,2.48,0,Low Risk
+APP-1533,32,391000,Salaried,12.0,330000,Poor,1,1-2 Missed Payments,63900,0.84,0,Medium Risk
+APP-1534,33,941000,Business,0.5,2300000,Poor,1,1-2 Missed Payments,83100,2.44,0,High Risk
+APP-1535,43,249000,Salaried,0.5,154000,Fair,1,1-2 Missed Payments,39300,0.62,0,Medium Risk
+APP-1536,45,1407000,Self-Employed,2.8,1450000,Good,4,On-Time,467500,1.03,0,Low Risk
+APP-1537,55,739000,Salaried,0.5,1427000,Good,3,On-Time,391500,1.93,0,Low Risk
+APP-1538,61,3600000,Salaried,6.9,5000000,Good,0,On-Time,525800,1.39,0,Low Risk
+APP-1539,50,2869000,Salaried,12.3,4408000,Good,1,On-Time,898700,1.54,0,Low Risk
+APP-1540,37,730000,Salaried,2.8,1036000,Poor,1,1-2 Missed Payments,257700,1.42,1,High Risk
+APP-1541,40,760000,Self-Employed,1.5,1626000,Good,1,On-Time,177000,2.14,0,Low Risk
+APP-1542,45,1394000,Salaried,2.8,1032000,Good,2,On-Time,676300,0.74,0,Low Risk
+APP-1543,42,2057000,Self-Employed,6.4,2505000,Fair,1,1-2 Missed Payments,593700,1.22,0,Medium Risk
+APP-1544,33,327000,Self-Employed,0.5,182000,Good,1,Frequent Delinquency,175700,0.56,0,Medium Risk
+APP-1545,39,302000,Business,4.5,474000,Good,3,On-Time,104700,1.57,0,Low Risk
+APP-1546,56,573000,Salaried,4.8,445000,Good,2,On-Time,240400,0.78,0,Low Risk
+APP-1547,32,1111000,Salaried,5.1,1075000,Fair,0,On-Time,482700,0.97,0,Low Risk
+APP-1548,61,1059000,Salaried,1.4,1360000,Good,2,On-Time,473200,1.28,0,Low Risk
+APP-1549,39,0,Unemployed,0.0,50000,Poor,1,Frequent Delinquency,5000,0.5,1,High Risk
+APP-1550,32,417000,Business,6.3,172000,Good,1,On-Time,153100,0.41,0,Low Risk
+APP-1551,29,240000,Salaried,0.5,427000,Poor,0,1-2 Missed Payments,106100,1.78,1,High Risk
+APP-1552,27,1292000,Business,1.1,1533000,Good,1,On-Time,360700,1.19,0,Low Risk
+APP-1553,48,511000,Salaried,10.5,1119000,Good,1,On-Time,57600,2.19,0,Low Risk
+APP-1554,34,266000,Self-Employed,6.7,478000,Good,1,On-Time,77600,1.8,0,Low Risk
+APP-1555,51,873000,Salaried,0.5,191000,Good,2,On-Time,235700,0.22,0,Low Risk
+APP-1556,39,1247000,Self-Employed,1.4,2018000,Good,2,Frequent Delinquency,441900,1.62,0,High Risk
+APP-1557,36,754000,Salaried,1.2,313000,Good,0,On-Time,341100,0.42,0,Low Risk
+APP-1558,25,627000,Business,1.6,1252000,Good,0,On-Time,54800,2.0,0,Medium Risk
+APP-1559,55,738000,Self-Employed,1.4,1831000,Fair,3,1-2 Missed Payments,132100,2.48,1,High Risk
+APP-1560,32,657000,Self-Employed,0.5,934000,Good,0,On-Time,153300,1.42,0,Low Risk
+APP-1561,45,384000,Salaried,3.1,680000,Good,4,On-Time,129600,1.77,0,Low Risk
+APP-1562,41,544000,Salaried,6.6,406000,Fair,2,1-2 Missed Payments,44100,0.75,0,Low Risk
+APP-1563,56,1074000,Salaried,4.7,1296000,Poor,1,Frequent Delinquency,740900,1.21,1,High Risk
+APP-1564,43,962000,Salaried,5.6,2087000,Good,0,1-2 Missed Payments,423800,2.17,0,Low Risk
+APP-1565,36,884000,Salaried,0.5,517000,Good,0,On-Time,152600,0.58,0,Low Risk
+APP-1566,59,466000,Business,15.1,378000,Poor,0,1-2 Missed Payments,154100,0.81,0,Medium Risk
+APP-1567,65,730000,Salaried,9.1,894000,Good,0,On-Time,219700,1.22,0,Low Risk
+APP-1568,62,243000,Salaried,8.2,447000,Poor,2,Frequent Delinquency,93100,1.84,1,High Risk
+APP-1569,59,889000,Salaried,8.7,946000,Good,0,On-Time,266000,1.06,0,Low Risk
+APP-1570,34,1769000,Salaried,13.5,4128000,Poor,1,1-2 Missed Payments,463800,2.33,0,Medium Risk
+APP-1571,51,358000,Self-Employed,3.9,149000,Good,1,On-Time,113800,0.42,0,Low Risk
+APP-1572,25,584000,Salaried,1.1,615000,Poor,1,Frequent Delinquency,154700,1.05,1,High Risk
+APP-1573,55,966000,Business,4.8,1768000,Good,0,On-Time,518900,1.83,0,Low Risk
+APP-1574,43,1606000,Salaried,6.8,1156000,Fair,0,1-2 Missed Payments,612200,0.72,0,Low Risk
+APP-1575,49,0,Unemployed,0.0,50000,Good,0,On-Time,5000,0.5,1,Medium Risk
+APP-1576,63,551000,Business,6.7,318000,Good,2,On-Time,137700,0.58,0,Low Risk
+APP-1577,31,273000,Salaried,3.7,90000,Fair,1,On-Time,39000,0.33,0,Low Risk
+APP-1578,38,853000,Business,0.5,408000,Good,2,On-Time,86600,0.48,0,Low Risk
+APP-1579,32,2478000,Salaried,2.3,5000000,Poor,1,1-2 Missed Payments,1224400,2.02,0,High Risk
+APP-1580,29,939000,Self-Employed,9.0,1379000,Good,1,On-Time,661400,1.47,0,Low Risk
+APP-1581,30,796000,Salaried,4.4,1617000,Poor,1,Frequent Delinquency,86600,2.03,1,High Risk
+APP-1582,64,962000,Business,3.9,928000,Good,2,On-Time,475900,0.96,0,Low Risk
+APP-1583,37,801000,Business,1.6,1252000,Poor,1,1-2 Missed Payments,440100,1.56,0,Medium Risk
+APP-1584,58,515000,Self-Employed,2.3,689000,Poor,0,On-Time,248100,1.34,1,Medium Risk
+APP-1585,27,1268000,Self-Employed,7.0,3012000,Good,1,On-Time,83800,2.38,0,Low Risk
+APP-1586,33,913000,Salaried,5.5,1752000,Poor,1,Frequent Delinquency,289600,1.92,1,High Risk
+APP-1587,60,814000,Salaried,7.7,1531000,Fair,1,1-2 Missed Payments,604400,1.88,0,Medium Risk
+APP-1588,62,471000,Salaried,3.0,144000,Good,2,On-Time,68000,0.31,0,Low Risk
+APP-1589,29,1651000,Salaried,5.0,2417000,Fair,1,1-2 Missed Payments,894600,1.46,1,Medium Risk
+APP-1590,47,1162000,Self-Employed,1.4,1480000,Good,2,On-Time,184000,1.27,0,Low Risk
+APP-1591,22,595000,Salaried,2.0,1389000,Fair,1,1-2 Missed Payments,346400,2.33,0,Medium Risk
+APP-1592,25,180000,Unemployed,0.0,143000,Good,2,On-Time,47100,0.79,0,Low Risk
+APP-1593,49,613000,Self-Employed,2.8,503000,Good,2,On-Time,417600,0.82,0,Low Risk
+APP-1594,57,524000,Business,2.9,601000,Good,1,On-Time,112300,1.15,0,Low Risk
+APP-1595,58,531000,Salaried,5.2,403000,Fair,2,1-2 Missed Payments,178200,0.76,0,Medium Risk
+APP-1596,39,304000,Business,13.8,151000,Poor,3,On-Time,45200,0.5,0,Low Risk
+APP-1597,28,1045000,Business,0.5,2270000,Poor,1,Frequent Delinquency,247100,2.17,1,High Risk
+APP-1598,65,294000,Salaried,8.7,436000,Good,1,On-Time,39000,1.48,0,Low Risk
+APP-1599,21,410000,Self-Employed,1.0,894000,Good,2,1-2 Missed Payments,42200,2.18,1,Medium Risk
+APP-1600,42,257000,Self-Employed,2.9,543000,Fair,1,On-Time,44100,2.11,0,Low Risk
+APP-1601,37,769000,Salaried,0.5,653000,Fair,0,1-2 Missed Payments,297300,0.85,0,Medium Risk
+APP-1602,27,742000,Salaried,1.8,1083000,Good,3,On-Time,393300,1.46,0,Low Risk
+APP-1603,45,674000,Salaried,3.5,264000,Good,0,On-Time,343900,0.39,0,Low Risk
+APP-1604,65,454000,Salaried,0.5,1047000,Good,2,On-Time,108700,2.31,0,Medium Risk
+APP-1605,24,423000,Salaried,3.4,478000,Good,2,1-2 Missed Payments,165900,1.13,0,Medium Risk
+APP-1606,56,1041000,Salaried,13.1,1151000,Fair,4,On-Time,284100,1.11,0,Medium Risk
+APP-1607,26,596000,Salaried,0.6,534000,Good,0,1-2 Missed Payments,83300,0.9,0,Medium Risk
+APP-1608,51,959000,Salaried,7.2,1208000,Poor,1,Frequent Delinquency,339200,1.26,1,High Risk
+APP-1609,39,0,Unemployed,0.0,50000,Good,1,On-Time,5000,0.5,0,Medium Risk
+APP-1610,64,891000,Salaried,2.6,946000,Good,1,On-Time,274800,1.06,0,Low Risk
+APP-1611,59,120000,Unemployed,0.0,245000,Poor,0,1-2 Missed Payments,20400,2.04,0,High Risk
+APP-1612,47,1113000,Salaried,5.3,2358000,Fair,1,1-2 Missed Payments,506600,2.12,0,Medium Risk
+APP-1613,30,643000,Salaried,1.5,578000,Good,1,On-Time,99000,0.9,0,Low Risk
+APP-1614,46,929000,Salaried,0.9,1188000,Fair,0,1-2 Missed Payments,308400,1.28,0,Medium Risk
+APP-1615,39,706000,Salaried,0.9,1560000,Good,2,On-Time,275900,2.21,0,Medium Risk
+APP-1616,59,810000,Salaried,0.5,260000,Fair,2,On-Time,282000,0.32,0,Low Risk
+APP-1617,23,674000,Self-Employed,1.0,1513000,Good,2,On-Time,244800,2.24,0,Low Risk
+APP-1618,65,736000,Salaried,5.5,518000,Fair,3,1-2 Missed Payments,203100,0.7,0,Medium Risk
+APP-1619,33,906000,Self-Employed,10.7,1595000,Good,1,On-Time,201000,1.76,0,Low Risk
+APP-1620,48,467000,Self-Employed,8.4,719000,Good,4,On-Time,43600,1.54,0,Low Risk
+APP-1621,40,461000,Salaried,5.8,678000,Poor,3,1-2 Missed Payments,92900,1.47,1,High Risk
+APP-1622,48,376000,Salaried,0.6,818000,Fair,1,On-Time,244300,2.18,0,Medium Risk
+APP-1623,28,334000,Self-Employed,1.7,145000,Good,0,On-Time,84700,0.43,0,Low Risk
+APP-1624,61,413000,Salaried,1.9,412000,Good,1,On-Time,130500,1.0,0,Low Risk
+APP-1625,59,880000,Salaried,1.4,1265000,Good,1,On-Time,194700,1.44,0,Low Risk
+APP-1626,21,180000,Unemployed,0.0,372000,Fair,1,On-Time,7700,2.07,0,High Risk
+APP-1627,23,1069000,Salaried,3.0,746000,Fair,1,1-2 Missed Payments,37500,0.7,0,Medium Risk
+APP-1628,33,822000,Self-Employed,3.8,1682000,Fair,2,1-2 Missed Payments,108100,2.05,0,Medium Risk
+APP-1629,48,0,Unemployed,0.0,50000,Good,1,On-Time,5000,0.5,0,Medium Risk
+APP-1630,45,1156000,Salaried,2.2,733000,Fair,0,On-Time,303100,0.63,0,Low Risk
+APP-1631,53,1259000,Salaried,2.2,2450000,Good,3,On-Time,365900,1.95,0,Medium Risk
+APP-1632,58,467000,Salaried,8.8,191000,Good,1,On-Time,221700,0.41,0,Low Risk
+APP-1633,26,1016000,Salaried,6.0,1406000,Fair,4,On-Time,168300,1.38,0,Low Risk
+APP-1634,64,503000,Salaried,1.8,174000,Poor,0,On-Time,105900,0.35,0,Low Risk
+APP-1635,65,851000,Self-Employed,12.3,868000,Fair,4,On-Time,283900,1.02,0,Low Risk
+APP-1636,52,402000,Salaried,15.3,636000,Fair,0,On-Time,83600,1.58,0,Low Risk
+APP-1637,65,301000,Salaried,2.0,445000,Fair,0,On-Time,42400,1.48,0,Low Risk
+APP-1638,41,120000,Unemployed,0.0,136000,Poor,0,On-Time,59500,1.13,1,Medium Risk
+APP-1639,36,753000,Self-Employed,2.2,894000,Good,2,On-Time,236100,1.19,0,Low Risk
+APP-1640,41,648000,Self-Employed,3.5,468000,Good,3,On-Time,43400,0.72,0,Low Risk
+APP-1641,31,420000,Salaried,11.0,524000,Poor,1,Frequent Delinquency,60200,1.25,0,High Risk
+APP-1642,57,647000,Self-Employed,10.5,1548000,Poor,3,1-2 Missed Payments,118900,2.39,1,High Risk
+APP-1643,56,935000,Salaried,0.5,2016000,Good,1,1-2 Missed Payments,58100,2.16,0,Medium Risk
+APP-1644,55,786000,Salaried,2.5,420000,Good,2,1-2 Missed Payments,204700,0.53,0,Low Risk
+APP-1645,39,891000,Salaried,4.0,239000,Good,3,On-Time,260600,0.27,0,Low Risk
+APP-1646,40,558000,Business,3.5,1310000,Good,1,On-Time,146100,2.35,0,Low Risk
+APP-1647,38,1536000,Salaried,1.1,2168000,Poor,1,On-Time,563000,1.41,0,Low Risk
+APP-1648,61,422000,Salaried,9.8,606000,Good,3,1-2 Missed Payments,61200,1.44,1,Medium Risk
+APP-1649,34,1054000,Salaried,5.6,2103000,Poor,3,Frequent Delinquency,268600,2.0,1,High Risk
+APP-1650,35,1544000,Salaried,9.1,1426000,Good,4,On-Time,239400,0.92,0,Low Risk
+APP-1651,51,1050000,Business,9.8,1374000,Good,3,On-Time,402700,1.31,0,Low Risk
+APP-1652,21,721000,Self-Employed,1.0,1751000,Good,0,On-Time,110900,2.43,0,Low Risk
+APP-1653,23,603000,Self-Employed,2.9,1053000,Fair,3,On-Time,321100,1.75,0,Medium Risk
+APP-1654,36,1425000,Salaried,4.7,789000,Fair,1,1-2 Missed Payments,154300,0.55,0,Medium Risk
+APP-1655,43,369000,Salaried,0.9,187000,Fair,5,1-2 Missed Payments,208200,0.51,0,Medium Risk
+APP-1656,31,473000,Salaried,5.6,317000,Good,1,On-Time,122300,0.67,0,Low Risk
+APP-1657,32,648000,Salaried,1.0,1272000,Good,1,On-Time,336100,1.96,0,Low Risk
+APP-1658,30,1592000,Salaried,5.9,1400000,Good,1,On-Time,92100,0.88,0,Low Risk
+APP-1659,52,993000,Self-Employed,1.3,247000,Good,1,On-Time,270700,0.25,0,Low Risk
+APP-1660,36,473000,Salaried,0.6,1122000,Fair,0,1-2 Missed Payments,87100,2.37,0,High Risk
+APP-1661,28,680000,Salaried,0.9,401000,Fair,3,On-Time,487400,0.59,0,Medium Risk
+APP-1662,58,575000,Salaried,0.5,128000,Fair,2,1-2 Missed Payments,473400,0.22,0,Medium Risk
+APP-1663,32,546000,Salaried,6.3,407000,Good,0,On-Time,34200,0.75,0,Low Risk
+APP-1664,44,1381000,Salaried,6.6,1023000,Good,2,On-Time,520300,0.74,0,Low Risk
+APP-1665,48,0,Unemployed,0.0,50000,Good,2,On-Time,5000,0.5,0,Medium Risk
+APP-1666,28,1953000,Self-Employed,3.6,4525000,Good,1,On-Time,979000,2.32,0,Low Risk
+APP-1667,48,1271000,Business,0.9,2824000,Fair,1,On-Time,84300,2.22,0,Medium Risk
+APP-1668,56,1469000,Salaried,0.5,1838000,Fair,3,1-2 Missed Payments,358200,1.25,1,High Risk
+APP-1669,46,625000,Salaried,0.5,716000,Good,2,On-Time,160400,1.15,1,Medium Risk
+APP-1670,28,742000,Salaried,0.9,1096000,Good,1,On-Time,264100,1.48,0,Low Risk
+APP-1671,48,367000,Salaried,11.1,279000,Poor,2,Frequent Delinquency,169600,0.76,0,High Risk
+APP-1672,48,604000,Business,1.4,193000,Fair,0,1-2 Missed Payments,87500,0.32,0,Medium Risk
+APP-1673,57,1058000,Salaried,2.2,2497000,Fair,1,On-Time,101700,2.36,1,Medium Risk
+APP-1674,61,1644000,Salaried,0.6,1035000,Good,0,On-Time,686900,0.63,0,Low Risk
+APP-1675,56,438000,Salaried,1.3,287000,Good,0,On-Time,133500,0.66,0,Low Risk
+APP-1676,47,659000,Salaried,3.7,848000,Poor,2,1-2 Missed Payments,93300,1.29,1,High Risk
+APP-1677,37,742000,Self-Employed,4.7,987000,Fair,3,1-2 Missed Payments,256900,1.33,1,High Risk
+APP-1678,29,374000,Salaried,1.4,91000,Good,1,On-Time,164500,0.24,0,Low Risk
+APP-1679,53,1116000,Salaried,0.5,603000,Fair,0,1-2 Missed Payments,561300,0.54,0,Medium Risk
+APP-1680,40,541000,Salaried,2.5,579000,Fair,2,On-Time,82000,1.07,0,Low Risk
+APP-1681,33,724000,Salaried,1.3,1283000,Good,3,On-Time,66600,1.77,0,Low Risk
+APP-1682,48,629000,Self-Employed,1.2,456000,Good,2,On-Time,437700,0.72,0,Low Risk
+APP-1683,49,522000,Business,16.1,612000,Good,3,On-Time,32000,1.17,0,Low Risk
+APP-1684,33,803000,Business,4.8,1190000,Good,1,On-Time,510800,1.48,0,Low Risk
+APP-1685,55,716000,Self-Employed,4.1,1607000,Fair,2,1-2 Missed Payments,319300,2.24,1,Medium Risk
+APP-1686,26,657000,Salaried,2.7,624000,Good,0,1-2 Missed Payments,57200,0.95,0,Low Risk
+APP-1687,38,540000,Self-Employed,2.8,274000,Fair,1,On-Time,198200,0.51,0,Low Risk
+APP-1688,25,961000,Salaried,3.9,1274000,Poor,1,1-2 Missed Payments,302100,1.33,0,Medium Risk
+APP-1689,45,2002000,Salaried,6.0,3839000,Good,1,On-Time,101300,1.92,0,Low Risk
+APP-1690,22,871000,Business,2.0,394000,Good,3,On-Time,108200,0.45,0,Low Risk
+APP-1691,30,1394000,Salaried,0.9,1640000,Fair,3,1-2 Missed Payments,393900,1.18,0,Medium Risk
+APP-1692,50,375000,Business,3.5,90000,Fair,0,On-Time,90200,0.24,0,Low Risk
+APP-1693,65,879000,Salaried,2.7,244000,Fair,0,1-2 Missed Payments,64200,0.28,0,Low Risk
+APP-1694,25,441000,Self-Employed,5.0,578000,Good,1,On-Time,94300,1.31,0,Low Risk
+APP-1695,53,358000,Self-Employed,5.0,317000,Good,1,On-Time,235100,0.89,0,Low Risk
+APP-1696,21,537000,Business,1.0,1151000,Fair,2,1-2 Missed Payments,278800,2.14,1,Medium Risk
+APP-1697,38,1553000,Self-Employed,0.6,2461000,Poor,3,Frequent Delinquency,226700,1.58,1,High Risk
+APP-1698,52,1359000,Self-Employed,4.7,1691000,Good,4,On-Time,208900,1.24,0,Low Risk
+APP-1699,31,921000,Salaried,0.6,1048000,Poor,2,1-2 Missed Payments,104700,1.14,1,High Risk
+APP-1700,41,347000,Salaried,2.1,466000,Good,3,On-Time,58100,1.34,1,Medium Risk
+APP-1701,46,724000,Salaried,0.8,212000,Poor,1,1-2 Missed Payments,366900,0.29,1,Medium Risk
+APP-1702,45,952000,Self-Employed,5.9,2145000,Fair,0,1-2 Missed Payments,489600,2.25,0,Medium Risk
+APP-1703,42,888000,Salaried,1.2,2217000,Good,1,On-Time,406800,2.5,0,Low Risk
+APP-1704,47,292000,Self-Employed,2.5,180000,Fair,1,On-Time,135500,0.62,0,Low Risk
+APP-1705,33,494000,Salaried,11.3,236000,Good,2,Frequent Delinquency,276500,0.48,0,Medium Risk
+APP-1706,53,778000,Salaried,1.1,413000,Good,0,1-2 Missed Payments,304400,0.53,0,Low Risk
+APP-1707,54,1083000,Self-Employed,3.5,1863000,Good,1,On-Time,573100,1.72,0,Low Risk
+APP-1708,61,241000,Salaried,2.7,415000,Good,1,On-Time,34700,1.72,0,Low Risk
+APP-1709,55,737000,Salaried,0.5,1585000,Good,4,On-Time,537900,2.15,1,Medium Risk
+APP-1710,21,872000,Salaried,1.0,1682000,Fair,1,On-Time,230500,1.93,0,Medium Risk
+APP-1711,41,1286000,Business,0.5,1587000,Fair,2,On-Time,453200,1.23,0,Medium Risk
+APP-1712,26,1180000,Self-Employed,3.2,1899000,Good,2,On-Time,328300,1.61,0,Low Risk
+APP-1713,48,1111000,Salaried,4.1,1981000,Poor,1,Frequent Delinquency,604300,1.78,1,High Risk
+APP-1714,37,519000,Salaried,5.0,716000,Fair,1,1-2 Missed Payments,67200,1.38,0,Medium Risk
+APP-1715,25,282000,Salaried,5.0,365000,Poor,3,Frequent Delinquency,59600,1.29,1,High Risk
+APP-1716,51,649000,Self-Employed,1.5,1093000,Fair,1,1-2 Missed Payments,33500,1.68,1,Medium Risk
+APP-1717,25,1398000,Self-Employed,0.5,2072000,Good,4,On-Time,439500,1.48,0,Low Risk
+APP-1718,58,1735000,Salaried,6.4,2917000,Good,0,On-Time,295000,1.68,0,Low Risk
+APP-1719,23,1192000,Salaried,3.0,1919000,Fair,0,Frequent Delinquency,503700,1.61,0,Medium Risk
+APP-1720,43,1021000,Salaried,9.0,1893000,Good,3,On-Time,389900,1.85,0,Low Risk
+APP-1721,57,993000,Self-Employed,8.6,1667000,Good,3,On-Time,237500,1.68,0,Low Risk
+APP-1722,57,594000,Self-Employed,9.3,829000,Good,5,1-2 Missed Payments,75700,1.4,0,Medium Risk
+APP-1723,30,750000,Salaried,3.3,1326000,Good,2,On-Time,250200,1.77,0,Low Risk
+APP-1724,30,2019000,Salaried,2.0,2491000,Good,4,On-Time,662400,1.23,0,Low Risk
+APP-1725,39,480000,Salaried,7.8,363000,Good,3,On-Time,50200,0.76,0,Low Risk
+APP-1726,37,180000,Unemployed,0.0,50000,Good,3,1-2 Missed Payments,60900,0.28,1,High Risk
+APP-1727,41,675000,Salaried,3.0,1004000,Fair,1,On-Time,150800,1.49,0,Low Risk
+APP-1728,34,1671000,Self-Employed,1.0,2604000,Fair,1,1-2 Missed Payments,937000,1.56,0,Medium Risk
+APP-1729,29,372000,Self-Employed,9.0,906000,Good,4,On-Time,70800,2.44,0,Low Risk
+APP-1730,21,1113000,Salaried,1.0,1148000,Good,1,On-Time,544000,1.03,0,Low Risk
+APP-1731,65,538000,Salaried,3.1,595000,Good,1,On-Time,119800,1.11,0,Low Risk
+APP-1732,33,370000,Salaried,0.5,246000,Good,1,On-Time,83600,0.66,0,Low Risk
+APP-1733,24,909000,Self-Employed,2.5,329000,Good,1,On-Time,638200,0.36,0,Low Risk
+APP-1734,21,1405000,Self-Employed,1.0,2778000,Good,1,On-Time,817900,1.98,0,Low Risk
+APP-1735,60,507000,Self-Employed,11.6,393000,Fair,0,1-2 Missed Payments,180300,0.78,0,Medium Risk
+APP-1736,52,353000,Salaried,1.1,565000,Good,3,On-Time,268500,1.6,0,Low Risk
+APP-1737,54,766000,Salaried,0.5,1365000,Good,1,On-Time,355800,1.78,0,Low Risk
+APP-1738,48,0,Unemployed,0.0,50000,Good,1,On-Time,5000,0.5,0,Medium Risk
+APP-1739,51,1090000,Self-Employed,10.5,2415000,Fair,0,On-Time,231900,2.22,0,Medium Risk
+APP-1740,28,1359000,Salaried,2.5,1659000,Poor,0,On-Time,52400,1.22,0,Medium Risk
+APP-1741,59,120000,Unemployed,0.0,103000,Fair,0,On-Time,34900,0.86,0,Medium Risk
+APP-1742,46,2237000,Self-Employed,3.9,5000000,Fair,2,1-2 Missed Payments,982600,2.24,0,Medium Risk
+APP-1743,54,912000,Salaried,17.2,1990000,Good,0,On-Time,210700,2.18,0,Low Risk
+APP-1744,23,666000,Self-Employed,0.5,384000,Good,3,On-Time,45000,0.58,0,Low Risk
+APP-1745,32,332000,Self-Employed,5.2,86000,Poor,0,On-Time,169400,0.26,0,Low Risk
+APP-1746,21,698000,Self-Employed,0.5,284000,Good,0,On-Time,212500,0.41,0,Low Risk
+APP-1747,64,670000,Salaried,2.4,576000,Poor,0,1-2 Missed Payments,184100,0.86,0,Medium Risk
+APP-1748,25,1367000,Salaried,5.0,3330000,Fair,0,Frequent Delinquency,122700,2.44,1,High Risk
+APP-1749,50,1040000,Business,2.8,1544000,Fair,2,1-2 Missed Payments,102400,1.48,1,Medium Risk
+APP-1750,50,421000,Salaried,29.4,446000,Good,3,On-Time,71500,1.06,0,Low Risk
+APP-1751,37,886000,Salaried,4.1,1988000,Fair,2,On-Time,122700,2.24,0,Medium Risk
+APP-1752,43,1166000,Salaried,1.9,1448000,Good,0,On-Time,202300,1.24,0,Low Risk
+APP-1753,35,1868000,Salaried,1.2,1728000,Good,1,On-Time,216900,0.93,0,Low Risk
+APP-1754,57,1313000,Self-Employed,2.2,3105000,Good,1,On-Time,567500,2.36,0,Low Risk
+APP-1755,41,1225000,Business,2.3,2639000,Poor,4,1-2 Missed Payments,190300,2.15,0,High Risk
+APP-1756,34,833000,Salaried,0.5,1783000,Good,0,On-Time,306300,2.14,0,Low Risk
+APP-1757,22,998000,Salaried,2.0,1375000,Good,2,On-Time,140000,1.38,0,Low Risk
+APP-1758,31,1603000,Salaried,3.1,3231000,Good,1,On-Time,601700,2.02,0,Low Risk
+APP-1759,59,387000,Business,6.4,237000,Fair,1,1-2 Missed Payments,68500,0.61,0,Low Risk
+APP-1760,58,665000,Self-Employed,5.3,1010000,Fair,1,On-Time,326000,1.52,0,Low Risk
+APP-1761,54,527000,Salaried,6.2,1298000,Fair,0,1-2 Missed Payments,77700,2.46,0,Medium Risk
+APP-1762,58,993000,Self-Employed,0.5,863000,Good,2,On-Time,256800,0.87,0,Low Risk
+APP-1763,54,1586000,Business,1.2,3215000,Good,0,On-Time,645300,2.03,0,Low Risk
+APP-1764,38,581000,Business,5.4,772000,Fair,2,Frequent Delinquency,212400,1.33,1,High Risk
+APP-1765,50,240000,Business,3.3,70000,Good,0,On-Time,85400,0.29,0,Low Risk
+APP-1766,35,643000,Salaried,0.5,1257000,Poor,4,1-2 Missed Payments,307500,1.95,1,High Risk
+APP-1767,47,1332000,Self-Employed,8.2,783000,Fair,0,On-Time,1081200,0.59,0,Low Risk
+APP-1768,54,1083000,Salaried,7.4,1790000,Good,3,On-Time,280500,1.65,0,Low Risk
+APP-1769,58,1020000,Business,4.0,405000,Good,2,On-Time,458800,0.4,0,Low Risk
+APP-1770,53,691000,Self-Employed,0.5,1643000,Fair,4,1-2 Missed Payments,204600,2.38,1,High Risk
+APP-1771,44,399000,Self-Employed,7.3,348000,Good,1,1-2 Missed Payments,43600,0.87,0,Low Risk
+APP-1772,35,1070000,Self-Employed,4.4,771000,Good,2,On-Time,143100,0.72,0,Low Risk
+APP-1773,50,509000,Salaried,7.6,253000,Fair,1,1-2 Missed Payments,100400,0.5,0,Low Risk
+APP-1774,62,2680000,Salaried,7.0,5000000,Good,0,On-Time,1712400,1.87,0,Low Risk
+APP-1775,37,180000,Unemployed,0.0,331000,Fair,1,1-2 Missed Payments,20100,1.84,1,High Risk
+APP-1776,25,586000,Business,5.0,1117000,Good,0,On-Time,349500,1.91,0,Low Risk
+APP-1777,49,576000,Salaried,3.6,777000,Fair,5,On-Time,22300,1.35,0,Medium Risk
+APP-1778,24,766000,Salaried,0.8,990000,Good,0,On-Time,614600,1.29,0,Low Risk
+APP-1779,30,707000,Salaried,5.6,320000,Good,1,On-Time,399400,0.45,0,Low Risk
+APP-1780,37,1490000,Self-Employed,4.8,2217000,Poor,2,Frequent Delinquency,151500,1.49,1,High Risk
+APP-1781,30,893000,Self-Employed,6.8,686000,Fair,1,1-2 Missed Payments,107900,0.77,0,Low Risk
+APP-1782,37,539000,Salaried,0.9,1319000,Good,2,On-Time,169700,2.45,0,Medium Risk
+APP-1783,40,2280000,Salaried,1.1,4633000,Good,0,On-Time,1009400,2.03,0,Low Risk
+APP-1784,44,828000,Business,11.1,952000,Fair,1,Frequent Delinquency,186300,1.15,0,Medium Risk
+APP-1785,25,1230000,Self-Employed,5.0,674000,Good,1,On-Time,775000,0.55,0,Low Risk
+APP-1786,54,577000,Salaried,11.9,1158000,Poor,4,Frequent Delinquency,67600,2.01,0,High Risk
+APP-1787,26,984000,Salaried,6.0,473000,Poor,2,On-Time,225700,0.48,0,Low Risk
+APP-1788,22,957000,Salaried,2.0,608000,Fair,4,1-2 Missed Payments,287900,0.64,0,Medium Risk
+APP-1789,33,285000,Salaried,5.3,196000,Good,0,On-Time,47200,0.69,0,Low Risk
+APP-1790,63,2442000,Salaried,11.0,3616000,Good,1,On-Time,134400,1.48,0,Low Risk
+APP-1791,63,1639000,Self-Employed,4.3,3295000,Fair,0,On-Time,715200,2.01,0,Low Risk
+APP-1792,31,648000,Business,5.0,598000,Good,0,On-Time,113500,0.92,0,Low Risk
+APP-1793,43,440000,Self-Employed,0.9,174000,Good,0,On-Time,231000,0.4,0,Low Risk
+APP-1794,36,976000,Self-Employed,3.2,1238000,Good,2,On-Time,165600,1.27,0,Low Risk
+APP-1795,51,846000,Salaried,6.3,1625000,Good,0,1-2 Missed Payments,693300,1.92,0,Low Risk
+APP-1796,31,980000,Salaried,1.6,696000,Good,1,Frequent Delinquency,397800,0.71,0,Medium Risk
+APP-1797,36,896000,Salaried,1.1,632000,Good,3,1-2 Missed Payments,247500,0.71,0,Medium Risk
+APP-1798,28,1065000,Salaried,1.9,2533000,Fair,2,On-Time,134400,2.38,0,Medium Risk
+APP-1799,24,1787000,Self-Employed,1.4,4279000,Good,1,On-Time,322700,2.39,0,Low Risk
+APP-1800,60,120000,Unemployed,0.0,297000,Good,1,On-Time,45200,2.48,0,Medium Risk
+APP-1801,24,453000,Salaried,1.2,932000,Good,1,On-Time,218000,2.06,0,Low Risk
+APP-1802,45,1706000,Salaried,2.8,1080000,Fair,0,1-2 Missed Payments,486300,0.63,0,Low Risk
+APP-1803,23,1987000,Self-Employed,3.0,1366000,Good,2,1-2 Missed Payments,911600,0.69,0,Low Risk
+APP-1804,52,3600000,Salaried,3.5,3537000,Fair,1,On-Time,1031400,0.98,0,Low Risk
+APP-1805,23,435000,Salaried,1.0,405000,Poor,3,Frequent Delinquency,75400,0.93,1,High Risk
+APP-1806,47,921000,Self-Employed,0.5,2210000,Good,2,1-2 Missed Payments,392100,2.4,1,Medium Risk
+APP-1807,49,256000,Self-Employed,6.0,516000,Good,2,On-Time,111900,2.02,0,Low Risk
+APP-1808,52,1093000,Salaried,2.4,2039000,Good,1,On-Time,623800,1.87,0,Low Risk
+APP-1809,39,596000,Salaried,8.6,374000,Poor,0,1-2 Missed Payments,162500,0.63,0,Medium Risk
+APP-1810,41,2322000,Self-Employed,5.4,5000000,Fair,2,On-Time,997400,2.15,0,Low Risk
+APP-1811,25,526000,Salaried,5.0,1107000,Poor,1,Frequent Delinquency,82600,2.1,1,High Risk
+APP-1812,38,318000,Salaried,1.6,183000,Good,0,On-Time,103900,0.58,0,Low Risk
+APP-1813,48,622000,Self-Employed,5.9,1371000,Poor,0,On-Time,230900,2.2,0,Medium Risk
+APP-1814,62,272000,Salaried,1.5,225000,Good,0,Frequent Delinquency,87600,0.83,0,Medium Risk
+APP-1815,42,1218000,Self-Employed,14.0,470000,Good,2,On-Time,115800,0.39,0,Low Risk
+APP-1816,41,259000,Salaried,5.1,443000,Poor,0,1-2 Missed Payments,163300,1.71,0,Medium Risk
+APP-1817,26,819000,Business,2.0,1395000,Poor,1,Frequent Delinquency,164600,1.7,1,High Risk
+APP-1818,21,257000,Salaried,1.0,108000,Good,1,On-Time,145900,0.42,0,Low Risk
+APP-1819,25,676000,Salaried,1.1,631000,Good,1,On-Time,223200,0.93,0,Low Risk
+APP-1820,61,1990000,Salaried,5.9,4942000,Good,3,On-Time,1547400,2.48,0,Low Risk
+APP-1821,32,983000,Salaried,1.2,1730000,Good,3,On-Time,225700,1.76,0,Low Risk
+APP-1822,46,501000,Business,4.5,941000,Good,1,On-Time,118400,1.88,0,Low Risk
+APP-1823,54,180000,Unemployed,0.0,124000,Poor,0,1-2 Missed Payments,28700,0.69,0,High Risk
+APP-1824,34,814000,Salaried,1.5,310000,Fair,1,On-Time,242900,0.38,0,Low Risk
+APP-1825,46,1045000,Salaried,5.4,875000,Fair,2,1-2 Missed Payments,297200,0.84,0,Medium Risk
+APP-1826,65,380000,Self-Employed,8.4,294000,Fair,1,On-Time,51100,0.77,0,Low Risk
+APP-1827,47,1117000,Business,7.5,826000,Good,2,On-Time,281200,0.74,0,Low Risk
+APP-1828,29,240000,Salaried,7.2,154000,Fair,0,1-2 Missed Payments,92900,0.64,0,Low Risk
+APP-1829,46,570000,Salaried,1.0,868000,Fair,2,Frequent Delinquency,168700,1.52,1,High Risk
+APP-1830,42,616000,Salaried,0.5,588000,Good,0,On-Time,412600,0.95,0,Low Risk
+APP-1831,50,1142000,Self-Employed,6.0,2383000,Fair,2,On-Time,444100,2.09,0,Medium Risk
+APP-1832,63,816000,Salaried,2.3,508000,Good,1,On-Time,214600,0.62,0,Low Risk
+APP-1833,37,372000,Self-Employed,2.8,472000,Fair,2,1-2 Missed Payments,142200,1.27,0,Medium Risk
+APP-1834,46,469000,Salaried,0.5,109000,Poor,0,Frequent Delinquency,223600,0.23,1,High Risk
+APP-1835,56,899000,Self-Employed,1.5,1176000,Good,1,On-Time,260100,1.31,0,Low Risk
+APP-1836,21,772000,Salaried,0.5,254000,Fair,2,1-2 Missed Payments,300000,0.33,1,Medium Risk
+APP-1837,28,586000,Salaried,8.0,1435000,Good,0,On-Time,199300,2.45,0,Low Risk
+APP-1838,55,619000,Salaried,1.4,1249000,Fair,2,1-2 Missed Payments,212200,2.02,1,High Risk
+APP-1839,35,1182000,Self-Employed,4.1,1569000,Good,2,On-Time,320200,1.33,0,Low Risk
+APP-1840,42,606000,Salaried,0.5,242000,Good,1,On-Time,194500,0.4,0,Low Risk
+APP-1841,34,768000,Salaried,5.5,1200000,Good,1,On-Time,425400,1.56,0,Low Risk
+APP-1842,46,2659000,Salaried,2.0,5000000,Fair,1,On-Time,1050400,1.88,0,Low Risk
+APP-1843,48,368000,Salaried,11.4,235000,Good,1,On-Time,133000,0.64,0,Low Risk
+APP-1844,43,291000,Self-Employed,11.0,439000,Poor,1,On-Time,75200,1.51,0,Low Risk
+APP-1845,34,1240000,Self-Employed,2.0,2570000,Good,2,On-Time,427700,2.07,0,Low Risk
+APP-1846,44,555000,Self-Employed,11.6,1092000,Poor,1,1-2 Missed Payments,21400,1.97,1,High Risk
+APP-1847,22,677000,Salaried,2.0,1386000,Fair,0,1-2 Missed Payments,275200,2.05,0,Medium Risk
+APP-1848,65,525000,Business,8.7,1167000,Good,0,On-Time,231100,2.22,0,Low Risk
+APP-1849,46,699000,Salaried,9.3,1647000,Good,0,On-Time,47300,2.36,0,Low Risk
+APP-1850,34,1942000,Salaried,1.4,2200000,Fair,1,On-Time,535400,1.13,0,Low Risk
+APP-1851,27,1253000,Salaried,4.3,1890000,Fair,2,1-2 Missed Payments,306200,1.51,0,Medium Risk
+APP-1852,23,1295000,Salaried,0.5,2614000,Fair,2,On-Time,393200,2.02,0,Medium Risk
+APP-1853,43,370000,Self-Employed,0.5,667000,Good,0,1-2 Missed Payments,23300,1.8,0,Medium Risk
+APP-1854,63,428000,Self-Employed,34.0,1066000,Good,4,1-2 Missed Payments,117100,2.49,0,Medium Risk
+APP-1855,65,240000,Self-Employed,2.0,56000,Poor,1,Frequent Delinquency,112600,0.23,1,High Risk
+APP-1856,38,517000,Salaried,6.9,526000,Good,3,1-2 Missed Payments,219000,1.02,0,Medium Risk
+APP-1857,58,1364000,Salaried,8.2,1154000,Good,2,On-Time,637100,0.85,0,Low Risk
+APP-1858,55,1071000,Salaried,9.8,860000,Good,2,On-Time,165100,0.8,0,Low Risk
+APP-1859,35,714000,Salaried,15.0,508000,Fair,0,1-2 Missed Payments,233700,0.71,0,Medium Risk
+APP-1860,45,796000,Salaried,1.4,1457000,Fair,0,1-2 Missed Payments,137400,1.83,0,Medium Risk
+APP-1861,57,552000,Salaried,0.5,218000,Good,0,1-2 Missed Payments,175400,0.39,0,Low Risk
+APP-1862,48,902000,Salaried,2.6,1719000,Good,2,On-Time,130300,1.91,0,Low Risk
+APP-1863,30,1228000,Salaried,0.7,2204000,Good,1,Frequent Delinquency,233300,1.79,1,High Risk
+APP-1864,59,331000,Self-Employed,0.5,257000,Good,2,On-Time,79900,0.78,0,Low Risk
+APP-1865,37,180000,Unemployed,0.0,141000,Good,1,On-Time,43700,0.78,0,Low Risk
+APP-1866,59,1346000,Business,2.2,2216000,Poor,2,Frequent Delinquency,252100,1.65,1,High Risk
+APP-1867,42,642000,Self-Employed,7.7,1254000,Good,0,On-Time,169000,1.95,0,Low Risk
+APP-1868,46,1185000,Salaried,4.2,2626000,Good,0,On-Time,82300,2.22,0,Low Risk
+APP-1869,64,3600000,Self-Employed,1.9,5000000,Poor,1,Frequent Delinquency,1352400,1.39,0,High Risk
+APP-1870,45,761000,Self-Employed,5.3,1841000,Good,1,1-2 Missed Payments,226300,2.42,1,Medium Risk
+APP-1871,37,1001000,Salaried,1.3,1539000,Fair,1,On-Time,247600,1.54,0,Low Risk
+APP-1872,33,537000,Salaried,0.5,1230000,Good,2,On-Time,195000,2.29,1,Medium Risk
+APP-1873,40,891000,Business,7.2,1835000,Good,0,On-Time,206000,2.06,0,Low Risk
+APP-1874,45,1038000,Salaried,4.9,2344000,Poor,1,Frequent Delinquency,71200,2.26,0,High Risk
+APP-1875,24,897000,Salaried,4.0,203000,Fair,3,1-2 Missed Payments,140000,0.23,0,Medium Risk
+APP-1876,30,460000,Salaried,0.5,1114000,Good,0,On-Time,101700,2.42,0,Medium Risk
+APP-1877,23,903000,Salaried,3.0,1164000,Fair,4,On-Time,65100,1.29,0,Medium Risk
+APP-1878,61,1802000,Salaried,4.8,3669000,Poor,5,Frequent Delinquency,292800,2.04,1,High Risk
+APP-1879,65,1032000,Salaried,4.1,508000,Good,0,On-Time,263600,0.49,0,Low Risk
+APP-1880,38,1368000,Salaried,4.9,1519000,Good,1,On-Time,179500,1.11,0,Low Risk
+APP-1881,56,708000,Salaried,10.0,584000,Poor,1,Frequent Delinquency,84100,0.82,1,High Risk
+APP-1882,42,1218000,Business,4.4,1061000,Good,2,On-Time,402700,0.87,0,Low Risk
+APP-1883,54,940000,Salaried,4.3,454000,Fair,1,On-Time,93900,0.48,0,Low Risk
+APP-1884,28,478000,Salaried,8.0,981000,Fair,2,Frequent Delinquency,177300,2.05,0,High Risk
+APP-1885,60,960000,Salaried,7.1,212000,Fair,2,1-2 Missed Payments,606200,0.22,0,Low Risk
+APP-1886,64,467000,Business,2.9,429000,Good,0,On-Time,155000,0.92,0,Low Risk
+APP-1887,39,569000,Salaried,6.1,342000,Good,3,On-Time,423500,0.6,0,Low Risk
+APP-1888,62,895000,Salaried,2.5,1392000,Fair,2,On-Time,150200,1.56,1,Medium Risk
+APP-1889,61,949000,Business,1.3,745000,Good,1,On-Time,185300,0.79,0,Low Risk
+APP-1890,57,419000,Business,4.5,333000,Good,3,On-Time,193000,0.79,0,Low Risk
+APP-1891,26,1439000,Salaried,6.0,1904000,Good,2,On-Time,153700,1.32,0,Low Risk
+APP-1892,46,1104000,Self-Employed,13.2,1878000,Good,0,On-Time,429900,1.7,0,Low Risk
+APP-1893,54,547000,Salaried,2.1,262000,Poor,1,Frequent Delinquency,210500,0.48,1,High Risk
+APP-1894,65,346000,Salaried,3.8,209000,Good,1,On-Time,250900,0.6,0,Low Risk
+APP-1895,26,744000,Salaried,1.2,572000,Poor,0,Frequent Delinquency,300500,0.77,1,High Risk
+APP-1896,57,631000,Salaried,27.2,1539000,Good,4,On-Time,336700,2.44,0,Low Risk
+APP-1897,53,858000,Self-Employed,19.8,955000,Fair,0,1-2 Missed Payments,239100,1.11,0,Medium Risk
+APP-1898,42,660000,Salaried,5.2,1041000,Good,2,On-Time,100300,1.58,0,Low Risk
+APP-1899,41,267000,Salaried,8.2,202000,Fair,1,1-2 Missed Payments,172000,0.76,0,Low Risk
+APP-1900,26,651000,Self-Employed,6.0,865000,Fair,0,1-2 Missed Payments,126600,1.33,1,Medium Risk
+APP-1901,26,681000,Self-Employed,4.5,252000,Good,3,On-Time,131200,0.37,0,Low Risk
+APP-1902,24,1142000,Salaried,0.5,320000,Poor,3,Frequent Delinquency,208500,0.28,1,High Risk
+APP-1903,50,549000,Self-Employed,3.0,702000,Good,1,On-Time,98800,1.28,0,Low Risk
+APP-1904,31,2029000,Salaried,5.6,2266000,Fair,0,On-Time,788500,1.12,0,Low Risk
+APP-1905,50,282000,Self-Employed,5.7,145000,Poor,0,Frequent Delinquency,43400,0.51,1,High Risk
+APP-1906,51,1658000,Self-Employed,2.3,2954000,Poor,1,Frequent Delinquency,179800,1.78,1,High Risk
+APP-1907,44,713000,Business,14.2,1771000,Poor,1,Frequent Delinquency,248700,2.48,0,High Risk
+APP-1908,29,1293000,Salaried,0.9,1435000,Good,1,On-Time,205900,1.11,0,Low Risk
+APP-1909,23,842000,Salaried,3.0,1378000,Good,4,On-Time,282600,1.64,0,Low Risk
+APP-1910,51,1509000,Salaried,5.9,3644000,Good,1,On-Time,120500,2.41,0,Low Risk
+APP-1911,60,651000,Salaried,6.0,1375000,Good,3,On-Time,46200,2.11,0,Low Risk
+APP-1912,57,441000,Salaried,5.2,558000,Fair,2,1-2 Missed Payments,118400,1.27,0,Medium Risk
+APP-1913,56,1761000,Business,1.6,3339000,Good,1,On-Time,223300,1.9,0,Low Risk
+APP-1914,44,757000,Salaried,0.8,374000,Fair,3,1-2 Missed Payments,591500,0.49,0,Medium Risk
+APP-1915,51,911000,Salaried,5.1,1255000,Good,1,On-Time,133300,1.38,0,Low Risk
+APP-1916,26,1590000,Self-Employed,4.6,1339000,Good,3,On-Time,260900,0.84,0,Low Risk
+APP-1917,22,457000,Salaried,1.0,261000,Fair,1,On-Time,32500,0.57,0,Low Risk
+APP-1918,40,1119000,Self-Employed,6.1,1321000,Good,0,On-Time,528600,1.18,0,Low Risk
+APP-1919,48,583000,Salaried,3.0,292000,Fair,3,1-2 Missed Payments,106800,0.5,0,Medium Risk
+APP-1920,31,750000,Salaried,5.5,1356000,Good,1,On-Time,228400,1.81,0,Low Risk
+APP-1921,24,839000,Salaried,4.0,1048000,Fair,3,1-2 Missed Payments,151400,1.25,0,Medium Risk
+APP-1922,35,353000,Salaried,0.9,502000,Good,4,On-Time,51200,1.42,0,Medium Risk
+APP-1923,26,525000,Business,0.5,282000,Good,0,On-Time,170300,0.54,0,Low Risk
+APP-1924,50,1695000,Salaried,7.6,884000,Fair,1,On-Time,606500,0.52,0,Low Risk
+APP-1925,58,1312000,Salaried,4.7,2023000,Poor,1,1-2 Missed Payments,561300,1.54,0,Medium Risk
+APP-1926,22,779000,Salaried,2.0,1921000,Good,2,On-Time,310500,2.47,0,Low Risk
+APP-1927,35,921000,Salaried,9.1,388000,Good,2,1-2 Missed Payments,160900,0.42,0,Low Risk
+APP-1928,31,686000,Business,8.1,588000,Good,1,On-Time,174800,0.86,0,Low Risk
+APP-1929,28,1700000,Salaried,8.0,3740000,Good,1,On-Time,597300,2.2,0,Low Risk
+APP-1930,46,722000,Self-Employed,3.8,264000,Fair,2,1-2 Missed Payments,287100,0.37,0,Medium Risk
+APP-1931,65,0,Unemployed,0.0,50000,Fair,0,Frequent Delinquency,5000,0.5,1,High Risk
+APP-1932,64,1514000,Salaried,3.4,2128000,Good,2,On-Time,458300,1.41,0,Low Risk
+APP-1933,25,526000,Business,2.6,599000,Good,2,On-Time,81500,1.14,0,Low Risk
+APP-1934,26,1900000,Salaried,0.8,1733000,Fair,4,1-2 Missed Payments,498700,0.91,0,Medium Risk
+APP-1935,46,347000,Salaried,4.3,307000,Good,1,On-Time,43800,0.88,0,Low Risk
+APP-1936,24,1975000,Salaried,1.6,1784000,Fair,0,On-Time,230700,0.9,0,Low Risk
+APP-1937,39,657000,Self-Employed,12.7,1468000,Good,1,On-Time,234100,2.23,0,Low Risk
+APP-1938,40,180000,Unemployed,0.0,336000,Fair,0,1-2 Missed Payments,84400,1.87,1,High Risk
+APP-1939,53,285000,Salaried,4.4,496000,Good,4,On-Time,163500,1.74,0,Low Risk
+APP-1940,40,628000,Self-Employed,4.5,1279000,Fair,0,1-2 Missed Payments,221500,2.04,0,Medium Risk
+APP-1941,32,455000,Salaried,2.2,360000,Good,2,On-Time,20500,0.79,0,Low Risk
+APP-1942,21,577000,Salaried,0.5,936000,Good,1,On-Time,84100,1.62,0,Low Risk
+APP-1943,46,747000,Salaried,0.5,940000,Fair,1,On-Time,325700,1.26,0,Low Risk
+APP-1944,34,0,Unemployed,0.0,50000,Good,0,On-Time,5000,0.5,0,Medium Risk
+APP-1945,58,904000,Self-Employed,2.8,824000,Good,2,On-Time,288600,0.91,0,Low Risk
+APP-1946,57,955000,Salaried,0.5,1604000,Good,1,On-Time,295500,1.68,0,Low Risk
+APP-1947,31,441000,Salaried,4.7,983000,Good,1,On-Time,63300,2.23,0,Low Risk
+APP-1948,56,497000,Salaried,10.6,559000,Poor,3,On-Time,34100,1.12,0,Medium Risk
+APP-1949,33,2168000,Salaried,10.7,766000,Fair,1,1-2 Missed Payments,926900,0.35,0,Low Risk
+APP-1950,63,538000,Salaried,5.4,746000,Good,1,On-Time,181800,1.39,0,Low Risk
+APP-1951,23,2005000,Business,1.2,1996000,Fair,1,1-2 Missed Payments,405400,1.0,0,Low Risk
+APP-1952,53,705000,Salaried,9.9,1231000,Good,0,On-Time,153200,1.75,0,Low Risk
+APP-1953,26,807000,Salaried,6.0,1927000,Poor,4,1-2 Missed Payments,364300,2.39,1,High Risk
+APP-1954,30,1452000,Salaried,1.1,1912000,Good,1,1-2 Missed Payments,447700,1.32,0,Low Risk
+APP-1955,25,1623000,Business,5.0,2065000,Fair,0,On-Time,574900,1.27,0,Low Risk
+APP-1956,43,758000,Self-Employed,1.7,1293000,Good,1,On-Time,231500,1.71,0,Low Risk
+APP-1957,30,651000,Salaried,8.1,285000,Good,2,On-Time,322000,0.44,0,Low Risk
+APP-1958,64,782000,Self-Employed,29.5,612000,Good,1,1-2 Missed Payments,197000,0.78,0,Low Risk
+APP-1959,22,971000,Salaried,0.5,2247000,Good,2,On-Time,72400,2.31,0,Low Risk
+APP-1960,33,1316000,Salaried,11.4,2291000,Fair,0,On-Time,857700,1.74,0,Low Risk
+APP-1961,60,808000,Salaried,4.9,187000,Good,1,On-Time,128300,0.23,0,Low Risk
+APP-1962,22,1133000,Salaried,2.0,760000,Poor,2,1-2 Missed Payments,611300,0.67,1,Medium Risk
+APP-1963,40,1985000,Salaried,3.1,3514000,Good,0,1-2 Missed Payments,155800,1.77,0,Low Risk
+APP-1964,21,994000,Business,1.0,1946000,Fair,3,On-Time,195500,1.96,0,Medium Risk
+APP-1965,57,957000,Business,0.5,2040000,Poor,0,Frequent Delinquency,90700,2.13,1,High Risk
+APP-1966,29,350000,Self-Employed,2.0,305000,Fair,3,On-Time,143700,0.87,0,Medium Risk
+APP-1967,37,240000,Salaried,0.5,562000,Poor,1,Frequent Delinquency,103700,2.34,1,High Risk
+APP-1968,29,998000,Salaried,9.0,1469000,Fair,2,Frequent Delinquency,582900,1.47,1,High Risk
+APP-1969,31,765000,Self-Employed,8.5,1379000,Good,0,On-Time,52100,1.8,0,Low Risk
+APP-1970,35,607000,Salaried,9.6,955000,Fair,0,On-Time,181000,1.57,0,Low Risk
+APP-1971,44,922000,Salaried,13.9,445000,Good,0,On-Time,319100,0.48,0,Low Risk
+APP-1972,58,780000,Salaried,0.5,1884000,Good,0,On-Time,274200,2.42,0,Medium Risk
+APP-1973,55,1499000,Self-Employed,2.4,723000,Good,1,On-Time,317000,0.48,0,Low Risk
+APP-1974,50,845000,Salaried,0.5,664000,Fair,1,1-2 Missed Payments,289100,0.79,1,Medium Risk
+APP-1975,51,535000,Salaried,1.2,1108000,Good,1,On-Time,45500,2.07,0,Low Risk
+APP-1976,25,1390000,Self-Employed,1.3,2256000,Good,2,On-Time,253600,1.62,0,Low Risk
+APP-1977,64,715000,Salaried,3.2,1521000,Good,2,On-Time,250700,2.13,1,Medium Risk
+APP-1978,34,1077000,Salaried,1.6,1493000,Poor,2,Frequent Delinquency,60700,1.39,1,High Risk
+APP-1979,31,620000,Salaried,0.5,662000,Good,1,On-Time,365700,1.07,0,Low Risk
+APP-1980,29,564000,Salaried,0.9,1309000,Good,1,On-Time,303200,2.32,0,Low Risk
+APP-1981,54,844000,Self-Employed,0.8,239000,Good,1,On-Time,111900,0.28,0,Low Risk
+APP-1982,32,812000,Salaried,12.0,1761000,Poor,3,1-2 Missed Payments,216100,2.17,1,High Risk
+APP-1983,55,1050000,Salaried,7.1,767000,Poor,0,1-2 Missed Payments,614900,0.73,0,Medium Risk
+APP-1984,55,695000,Business,17.2,1496000,Fair,0,1-2 Missed Payments,24600,2.15,0,Medium Risk
+APP-1985,21,294000,Business,1.0,153000,Poor,2,Frequent Delinquency,72000,0.52,1,High Risk
+APP-1986,60,635000,Business,1.6,974000,Good,0,1-2 Missed Payments,83700,1.53,0,Low Risk
+APP-1987,42,1247000,Salaried,8.0,2797000,Poor,3,1-2 Missed Payments,441800,2.24,1,High Risk
+APP-1988,49,684000,Salaried,2.0,882000,Good,3,On-Time,411600,1.29,0,Low Risk
+APP-1989,28,0,Unemployed,0.0,50000,Good,0,On-Time,5000,0.5,0,Medium Risk
+APP-1990,31,1387000,Self-Employed,1.8,2844000,Good,0,On-Time,627600,2.05,0,Low Risk
+APP-1991,61,545000,Salaried,1.3,1032000,Fair,1,On-Time,287200,1.89,0,Medium Risk
+APP-1992,57,345000,Salaried,0.7,803000,Fair,2,1-2 Missed Payments,199500,2.33,1,High Risk
+APP-1993,34,738000,Salaried,1.5,906000,Good,1,On-Time,279800,1.23,0,Low Risk
+APP-1994,50,618000,Business,2.2,370000,Poor,2,1-2 Missed Payments,58400,0.6,0,Medium Risk
+APP-1995,55,474000,Salaried,5.6,147000,Good,1,On-Time,209600,0.31,0,Low Risk
+APP-1996,41,732000,Salaried,0.5,561000,Good,1,On-Time,230500,0.77,0,Low Risk
+APP-1997,57,1056000,Salaried,1.2,559000,Good,0,On-Time,193200,0.53,0,Low Risk
+APP-1998,25,802000,Self-Employed,5.0,1190000,Fair,2,Frequent Delinquency,413600,1.48,0,Medium Risk
+APP-1999,39,954000,Business,0.8,597000,Fair,0,1-2 Missed Payments,142600,0.63,1,Medium Risk
+APP-2000,34,2186000,Salaried,2.1,633000,Good,3,On-Time,546600,0.29,0,Low Risk
+APP-2001,46,668000,Self-Employed,10.0,189000,Fair,1,On-Time,116600,0.28,0,Low Risk
+APP-2002,24,0,Unemployed,0.0,50000,Good,1,On-Time,5000,0.5,0,Medium Risk
+APP-2003,45,609000,Salaried,0.8,950000,Fair,3,On-Time,102600,1.56,0,Medium Risk
+APP-2004,65,506000,Salaried,0.5,518000,Poor,3,Frequent Delinquency,222900,1.02,1,High Risk
+APP-2005,62,584000,Salaried,3.3,1318000,Good,1,1-2 Missed Payments,80100,2.26,0,Medium Risk
+APP-2006,45,620000,Self-Employed,1.8,224000,Poor,0,Frequent Delinquency,133200,0.36,1,High Risk
+APP-2007,38,982000,Salaried,4.1,2411000,Fair,2,1-2 Missed Payments,266000,2.46,1,Medium Risk
+APP-2008,60,2934000,Self-Employed,8.1,4746000,Good,1,On-Time,2201400,1.62,0,Low Risk
+APP-2009,28,544000,Self-Employed,0.7,338000,Poor,0,On-Time,160900,0.62,0,Medium Risk
+APP-2010,59,641000,Salaried,4.3,1129000,Good,3,On-Time,440100,1.76,0,Low Risk
+APP-2011,60,779000,Business,3.5,1524000,Good,0,On-Time,155300,1.96,0,Low Risk
+APP-2012,34,1002000,Salaried,0.8,1190000,Good,0,On-Time,266700,1.19,0,Low Risk
+APP-2013,52,932000,Salaried,4.9,2033000,Good,0,On-Time,52500,2.18,0,Low Risk
+APP-2014,58,1634000,Self-Employed,1.6,893000,Fair,2,1-2 Missed Payments,318000,0.55,0,Low Risk
+APP-2015,53,240000,Self-Employed,3.3,202000,Fair,2,On-Time,131300,0.84,0,Low Risk
+APP-2016,43,240000,Salaried,0.5,100000,Poor,1,1-2 Missed Payments,125100,0.42,0,Medium Risk
+APP-2017,35,614000,Business,3.1,421000,Good,1,On-Time,122400,0.69,0,Low Risk
+APP-2018,53,1474000,Business,1.8,1104000,Good,1,On-Time,224600,0.75,0,Low Risk
+APP-2019,45,341000,Salaried,8.6,788000,Good,2,On-Time,141100,2.31,0,Low Risk
+APP-2020,37,180000,Unemployed,0.0,68000,Good,0,On-Time,83600,0.38,0,Medium Risk
+APP-2021,53,1104000,Salaried,0.5,1306000,Poor,3,1-2 Missed Payments,227900,1.18,1,High Risk
+APP-2022,22,922000,Salaried,2.0,1313000,Fair,0,On-Time,115300,1.42,0,Low Risk
+APP-2023,34,443000,Salaried,3.1,1004000,Good,5,On-Time,51700,2.27,0,Low Risk
+APP-2024,60,469000,Business,6.5,1170000,Poor,0,Frequent Delinquency,141600,2.49,1,High Risk
+APP-2025,60,473000,Self-Employed,4.3,914000,Fair,2,On-Time,133200,1.93,0,Medium Risk
+APP-2026,59,857000,Salaried,5.5,2085000,Good,0,Frequent Delinquency,288400,2.43,1,Medium Risk
+APP-2027,26,571000,Salaried,6.0,1148000,Fair,0,1-2 Missed Payments,305100,2.01,1,Medium Risk
+APP-2028,26,1058000,Self-Employed,6.0,2555000,Good,3,On-Time,446500,2.41,0,Low Risk
+APP-2029,23,240000,Salaried,1.9,438000,Good,3,On-Time,16200,1.82,0,Medium Risk
+APP-2030,27,503000,Business,3.9,193000,Good,1,On-Time,186400,0.38,0,Low Risk
+APP-2031,28,434000,Self-Employed,8.0,488000,Good,2,On-Time,236000,1.12,0,Low Risk
+APP-2032,62,700000,Salaried,22.8,1181000,Good,1,On-Time,93000,1.69,0,Low Risk
+APP-2033,35,180000,Unemployed,0.0,181000,Good,3,On-Time,41700,1.01,0,Medium Risk
+APP-2034,49,1250000,Salaried,11.0,1036000,Good,1,On-Time,270000,0.83,0,Low Risk
+APP-2035,53,180000,Unemployed,0.0,275000,Fair,1,1-2 Missed Payments,37500,1.53,1,High Risk
+APP-2036,50,827000,Self-Employed,2.3,1941000,Poor,1,1-2 Missed Payments,129500,2.35,1,High Risk
+APP-2037,59,1096000,Self-Employed,1.1,307000,Fair,1,On-Time,620900,0.28,0,Low Risk
+APP-2038,47,2238000,Salaried,3.4,4407000,Good,3,On-Time,940000,1.97,0,Low Risk
+APP-2039,56,618000,Business,6.8,1151000,Good,0,On-Time,206000,1.86,0,Low Risk
+APP-2040,49,964000,Salaried,3.4,2330000,Good,0,1-2 Missed Payments,224100,2.42,1,Medium Risk
+APP-2041,58,299000,Salaried,3.3,700000,Good,1,On-Time,104600,2.34,0,Low Risk
+APP-2042,53,240000,Salaried,9.1,469000,Fair,2,1-2 Missed Payments,43200,1.95,1,High Risk
+APP-2043,57,1283000,Salaried,2.2,1792000,Fair,0,1-2 Missed Payments,68100,1.4,0,Medium Risk
+APP-2044,47,804000,Salaried,9.8,539000,Fair,1,On-Time,87400,0.67,0,Low Risk
+APP-2045,53,1541000,Self-Employed,2.6,2241000,Fair,4,1-2 Missed Payments,216600,1.45,1,Medium Risk
+APP-2046,24,379000,Business,2.0,743000,Good,0,On-Time,31400,1.96,0,Low Risk
+APP-2047,42,1073000,Salaried,3.0,2425000,Good,2,On-Time,294200,2.26,0,Medium Risk
+APP-2048,22,2253000,Self-Employed,2.0,4543000,Fair,2,1-2 Missed Payments,574900,2.02,1,Medium Risk
+APP-2049,30,1015000,Salaried,0.7,659000,Good,1,On-Time,299600,0.65,0,Low Risk
+APP-2050,25,939000,Business,1.1,1483000,Good,4,On-Time,207900,1.58,0,Low Risk
+APP-2051,30,810000,Self-Employed,10.0,781000,Good,2,On-Time,448600,0.96,0,Low Risk
+APP-2052,53,340000,Salaried,1.0,75000,Good,1,1-2 Missed Payments,99400,0.22,0,Low Risk
+APP-2053,58,1699000,Self-Employed,4.2,1122000,Good,1,On-Time,566600,0.66,0,Low Risk
+APP-2054,33,576000,Salaried,4.3,265000,Fair,2,1-2 Missed Payments,210600,0.46,0,Medium Risk
+APP-2055,51,1064000,Salaried,3.4,2275000,Poor,1,1-2 Missed Payments,156300,2.14,1,High Risk
+APP-2056,56,341000,Business,5.2,271000,Good,3,On-Time,110300,0.79,0,Low Risk
+APP-2057,65,421000,Salaried,1.3,360000,Good,1,On-Time,44600,0.86,0,Low Risk
+APP-2058,44,1775000,Salaried,4.0,4274000,Fair,1,1-2 Missed Payments,788300,2.41,1,Medium Risk
+APP-2059,35,666000,Salaried,2.3,714000,Good,0,On-Time,106200,1.07,0,Low Risk
+APP-2060,49,1793000,Business,5.4,398000,Good,0,On-Time,515700,0.22,0,Low Risk
+APP-2061,28,772000,Salaried,0.8,658000,Good,0,On-Time,450700,0.85,0,Low Risk
+APP-2062,25,293000,Salaried,4.2,139000,Good,3,On-Time,153600,0.47,0,Low Risk
+APP-2063,49,1317000,Self-Employed,1.0,575000,Fair,2,1-2 Missed Payments,77700,0.44,0,Medium Risk
+APP-2064,24,583000,Business,1.6,221000,Fair,2,1-2 Missed Payments,310000,0.38,0,Medium Risk
+APP-2065,32,1184000,Salaried,1.2,1852000,Good,2,On-Time,450600,1.56,0,Low Risk
+APP-2066,65,817000,Salaried,1.0,519000,Good,3,On-Time,98000,0.64,0,Low Risk
+APP-2067,22,345000,Salaried,2.0,356000,Good,1,On-Time,260100,1.03,0,Low Risk
+APP-2068,47,882000,Salaried,1.7,1925000,Good,3,On-Time,374900,2.18,0,Low Risk
+APP-2069,51,2698000,Salaried,13.1,3173000,Poor,1,Frequent Delinquency,851800,1.18,0,High Risk
+APP-2070,56,1057000,Self-Employed,17.5,2438000,Fair,3,On-Time,201200,2.31,1,Medium Risk
+APP-2071,56,781000,Self-Employed,4.2,1051000,Good,2,On-Time,32900,1.35,0,Low Risk
+APP-2072,46,1456000,Self-Employed,0.8,1627000,Fair,1,On-Time,979800,1.12,0,Low Risk
+APP-2073,63,905000,Salaried,2.3,1743000,Fair,1,1-2 Missed Payments,260100,1.93,1,Medium Risk
+APP-2074,47,905000,Business,8.0,333000,Fair,1,Frequent Delinquency,284700,0.37,0,Medium Risk
+APP-2075,25,442000,Salaried,2.3,179000,Good,0,On-Time,268700,0.4,0,Low Risk
+APP-2076,40,120000,Unemployed,0.0,204000,Good,1,On-Time,37800,1.7,0,Medium Risk
+APP-2077,31,1425000,Self-Employed,0.5,1881000,Fair,1,Frequent Delinquency,326000,1.32,1,High Risk
+APP-2078,30,509000,Salaried,4.1,1027000,Good,0,On-Time,148200,2.02,0,Low Risk
+APP-2079,60,1765000,Self-Employed,9.3,4073000,Poor,4,Frequent Delinquency,260400,2.31,1,High Risk
+APP-2080,58,766000,Salaried,7.9,837000,Fair,2,1-2 Missed Payments,305500,1.09,0,Medium Risk
+APP-2081,26,495000,Self-Employed,1.0,778000,Poor,3,1-2 Missed Payments,95900,1.57,1,High Risk
+APP-2082,28,1395000,Salaried,5.6,1885000,Good,2,On-Time,229500,1.35,0,Low Risk
+APP-2083,43,688000,Salaried,1.2,1691000,Poor,1,1-2 Missed Payments,263300,2.46,0,High Risk
+APP-2084,46,1224000,Business,1.2,2584000,Good,1,On-Time,558000,2.11,0,Low Risk
+APP-2085,63,687000,Salaried,10.4,1578000,Poor,2,Frequent Delinquency,84100,2.3,1,High Risk
+APP-2086,32,780000,Business,1.4,612000,Good,4,1-2 Missed Payments,387100,0.78,0,Low Risk
+APP-2087,46,1058000,Salaried,1.5,2091000,Good,1,On-Time,501700,1.98,0,Low Risk
+APP-2088,33,946000,Self-Employed,0.5,767000,Fair,3,1-2 Missed Payments,262700,0.81,1,High Risk
+APP-2089,60,269000,Self-Employed,10.2,183000,Good,3,On-Time,26500,0.68,0,Low Risk
+APP-2090,38,435000,Salaried,7.9,1032000,Good,2,On-Time,73900,2.37,0,Low Risk
+APP-2091,45,1344000,Salaried,4.9,328000,Poor,4,1-2 Missed Payments,282200,0.24,0,Medium Risk
+APP-2092,53,750000,Salaried,6.9,1815000,Good,1,On-Time,438500,2.42,0,Low Risk
+APP-2093,60,604000,Salaried,0.8,328000,Fair,4,1-2 Missed Payments,201400,0.54,0,Medium Risk
+APP-2094,63,382000,Salaried,3.1,796000,Good,2,On-Time,85400,2.08,0,Low Risk
+APP-2095,32,445000,Self-Employed,2.2,371000,Fair,0,Frequent Delinquency,252300,0.83,1,High Risk
+APP-2096,64,265000,Business,0.5,267000,Fair,3,On-Time,204200,1.01,0,Medium Risk
+APP-2097,56,762000,Business,3.3,532000,Good,1,On-Time,397500,0.7,0,Low Risk
+APP-2098,24,580000,Self-Employed,4.0,897000,Good,1,On-Time,333000,1.55,0,Low Risk
+APP-2099,25,474000,Self-Employed,0.5,474000,Fair,1,On-Time,184400,1.0,0,Low Risk
+APP-2100,57,776000,Self-Employed,1.7,1329000,Good,0,On-Time,238100,1.71,0,Low Risk
+APP-2101,28,985000,Salaried,1.2,232000,Good,1,On-Time,629200,0.24,0,Low Risk
+APP-2102,62,2549000,Business,1.4,887000,Fair,3,1-2 Missed Payments,586200,0.35,1,Medium Risk
+APP-2103,48,351000,Self-Employed,12.0,151000,Good,0,On-Time,90800,0.43,0,Low Risk
+APP-2104,51,1525000,Salaried,3.2,1775000,Good,1,On-Time,765600,1.16,0,Low Risk
+APP-2105,29,1377000,Salaried,3.1,2856000,Fair,0,1-2 Missed Payments,468600,2.07,0,Medium Risk
+APP-2106,49,525000,Salaried,7.1,1177000,Good,1,1-2 Missed Payments,184600,2.24,0,Medium Risk
+APP-2107,34,901000,Salaried,0.8,688000,Good,2,On-Time,171600,0.76,0,Low Risk
+APP-2108,60,627000,Business,3.3,954000,Good,2,On-Time,367100,1.52,0,Low Risk
+APP-2109,61,893000,Salaried,2.8,1757000,Fair,4,Frequent Delinquency,369100,1.97,1,High Risk
+APP-2110,42,1849000,Salaried,4.5,1598000,Fair,2,On-Time,411500,0.86,0,Low Risk
+APP-2111,31,120000,Unemployed,0.0,137000,Fair,1,1-2 Missed Payments,34500,1.14,1,High Risk
+APP-2112,43,1066000,Salaried,23.0,1498000,Good,3,On-Time,370900,1.41,0,Low Risk
+APP-2113,21,636000,Salaried,1.0,324000,Good,2,On-Time,78600,0.51,0,Low Risk
+APP-2114,57,356000,Salaried,2.5,92000,Good,1,On-Time,31900,0.26,0,Low Risk
+APP-2115,41,719000,Self-Employed,8.8,396000,Good,2,On-Time,447200,0.55,0,Low Risk
+APP-2116,46,1565000,Business,0.9,2569000,Poor,3,On-Time,582500,1.64,1,High Risk
+APP-2117,56,348000,Salaried,0.5,129000,Good,2,On-Time,217800,0.37,0,Low Risk
+APP-2118,43,451000,Business,1.1,287000,Good,1,On-Time,185300,0.64,0,Low Risk
+APP-2119,21,864000,Salaried,1.0,844000,Good,2,On-Time,659400,0.98,0,Low Risk
+APP-2120,60,469000,Business,3.6,178000,Fair,0,1-2 Missed Payments,163800,0.38,1,Medium Risk
+APP-2121,35,521000,Self-Employed,4.8,334000,Fair,1,On-Time,81500,0.64,0,Low Risk
+APP-2122,41,639000,Self-Employed,12.1,1467000,Fair,1,On-Time,172400,2.3,0,Medium Risk
+APP-2123,29,380000,Salaried,3.6,93000,Poor,0,Frequent Delinquency,14800,0.24,1,High Risk
+APP-2124,29,120000,Unemployed,0.0,204000,Good,0,On-Time,16900,1.7,0,Medium Risk
+APP-2125,30,1187000,Self-Employed,3.5,1287000,Good,0,On-Time,273500,1.08,0,Low Risk
+APP-2126,46,393000,Salaried,0.5,687000,Good,2,On-Time,71500,1.75,0,Low Risk
+APP-2127,61,335000,Business,0.5,521000,Fair,2,On-Time,87000,1.56,0,Medium Risk
+APP-2128,55,570000,Salaried,4.0,407000,Fair,5,On-Time,75500,0.71,0,Low Risk
+APP-2129,45,1206000,Business,2.9,2591000,Good,1,On-Time,642200,2.15,0,Low Risk
+APP-2130,46,723000,Salaried,9.1,963000,Fair,1,Frequent Delinquency,162900,1.33,1,High Risk
+APP-2131,31,624000,Self-Employed,0.9,1305000,Fair,4,1-2 Missed Payments,471300,2.09,1,High Risk
+APP-2132,58,826000,Salaried,0.5,937000,Poor,0,Frequent Delinquency,233100,1.13,1,High Risk
+APP-2133,22,309000,Salaried,2.0,762000,Fair,2,Frequent Delinquency,228100,2.47,0,High Risk
+APP-2134,27,1058000,Salaried,1.4,2087000,Fair,2,1-2 Missed Payments,320400,1.97,1,High Risk
+APP-2135,38,995000,Salaried,0.5,2410000,Good,0,On-Time,662900,2.42,0,Low Risk
+APP-2136,47,644000,Salaried,6.4,891000,Fair,3,1-2 Missed Payments,291800,1.38,1,Medium Risk
+APP-2137,54,1402000,Salaried,0.6,1808000,Poor,2,1-2 Missed Payments,753700,1.29,0,High Risk
+APP-2138,47,434000,Salaried,4.7,841000,Good,0,On-Time,160900,1.94,0,Low Risk
+APP-2139,37,1499000,Salaried,1.6,3335000,Fair,0,On-Time,486200,2.22,0,Low Risk
+APP-2140,63,878000,Salaried,1.0,2123000,Fair,0,1-2 Missed Payments,339300,2.42,0,Medium Risk
+APP-2141,64,670000,Self-Employed,2.4,634000,Good,1,On-Time,352300,0.95,0,Low Risk
+APP-2142,44,797000,Salaried,8.1,1624000,Fair,1,On-Time,632000,2.04,0,Low Risk
+APP-2143,45,760000,Business,2.5,520000,Good,1,On-Time,58600,0.68,0,Low Risk
+APP-2144,27,1577000,Business,6.9,2294000,Poor,1,Frequent Delinquency,82300,1.45,1,High Risk
+APP-2145,26,446000,Self-Employed,0.7,274000,Fair,3,1-2 Missed Payments,217300,0.61,0,Medium Risk
+APP-2146,44,530000,Salaried,7.4,529000,Good,1,On-Time,171500,1.0,0,Low Risk
+APP-2147,53,1425000,Business,1.4,3338000,Good,0,On-Time,157000,2.34,0,Low Risk
+APP-2148,49,581000,Salaried,5.7,311000,Fair,1,On-Time,152600,0.54,0,Low Risk
+APP-2149,63,1323000,Salaried,4.2,2189000,Good,1,On-Time,1028600,1.65,0,Low Risk
+APP-2150,42,2053000,Salaried,13.2,3210000,Good,1,On-Time,774800,1.56,0,Low Risk
+APP-2151,46,646000,Self-Employed,2.4,309000,Good,1,On-Time,208700,0.48,0,Low Risk
+APP-2152,48,1173000,Salaried,0.5,1114000,Good,0,On-Time,227700,0.95,0,Low Risk
+APP-2153,41,427000,Salaried,0.5,638000,Good,2,On-Time,228300,1.49,0,Low Risk
+APP-2154,27,120000,Unemployed,0.0,76000,Fair,5,Frequent Delinquency,47200,0.63,1,High Risk
+APP-2155,37,900000,Business,8.8,1837000,Poor,1,1-2 Missed Payments,32600,2.04,0,Medium Risk
+APP-2156,40,1046000,Salaried,3.7,2548000,Fair,1,On-Time,401900,2.44,0,Low Risk
+APP-2157,61,565000,Salaried,7.5,392000,Fair,2,1-2 Missed Payments,158100,0.69,0,Medium Risk
+APP-2158,40,323000,Business,1.3,203000,Good,2,On-Time,168900,0.63,0,Low Risk
+APP-2159,42,1063000,Salaried,2.1,1325000,Good,1,On-Time,482600,1.25,0,Low Risk
+APP-2160,48,259000,Salaried,0.5,497000,Good,3,On-Time,78500,1.92,0,Medium Risk
+APP-2161,60,677000,Salaried,16.3,574000,Fair,1,On-Time,87300,0.85,0,Low Risk
+APP-2162,27,1353000,Business,5.5,332000,Poor,1,On-Time,112400,0.25,0,Low Risk
+APP-2163,21,896000,Self-Employed,1.0,1295000,Fair,2,On-Time,134500,1.45,0,Low Risk
+APP-2164,52,2354000,Business,1.5,5000000,Poor,4,Frequent Delinquency,922900,2.12,1,High Risk
+APP-2165,33,1417000,Business,4.7,1559000,Fair,2,1-2 Missed Payments,173700,1.1,1,Medium Risk
+APP-2166,50,563000,Salaried,5.7,657000,Good,0,On-Time,168800,1.17,0,Low Risk
+APP-2167,43,818000,Salaried,1.9,1986000,Good,1,On-Time,246700,2.43,0,Medium Risk
+APP-2168,39,785000,Salaried,9.4,1411000,Good,1,On-Time,380800,1.8,0,Low Risk
+APP-2169,52,338000,Salaried,14.7,627000,Good,1,On-Time,91300,1.86,0,Low Risk
+APP-2170,50,481000,Salaried,10.8,719000,Fair,2,On-Time,79900,1.49,0,Low Risk
+APP-2171,49,592000,Self-Employed,6.7,1445000,Good,3,On-Time,60900,2.44,0,Low Risk
+APP-2172,65,263000,Self-Employed,1.6,469000,Fair,2,1-2 Missed Payments,59200,1.78,1,Medium Risk
+APP-2173,49,827000,Business,1.7,1868000,Fair,5,On-Time,302400,2.26,0,Medium Risk
+APP-2174,50,703000,Salaried,16.5,1271000,Good,1,On-Time,262000,1.81,0,Low Risk
+APP-2175,36,321000,Self-Employed,0.5,607000,Good,3,1-2 Missed Payments,70100,1.89,1,High Risk
+APP-2176,60,1007000,Self-Employed,6.3,874000,Good,2,On-Time,36800,0.87,0,Low Risk
+APP-2177,39,1195000,Salaried,6.1,1073000,Good,1,On-Time,482600,0.9,0,Low Risk
+APP-2178,38,913000,Self-Employed,4.9,1827000,Fair,2,On-Time,239900,2.0,1,Medium Risk
+APP-2179,21,675000,Salaried,1.0,596000,Good,0,On-Time,428800,0.88,0,Low Risk
+APP-2180,34,1116000,Salaried,1.9,1668000,Fair,2,1-2 Missed Payments,568800,1.49,1,Medium Risk
+APP-2181,22,1172000,Salaried,2.0,907000,Poor,1,Frequent Delinquency,230200,0.77,0,High Risk
+APP-2182,48,955000,Salaried,0.5,1986000,Poor,1,Frequent Delinquency,332200,2.08,1,High Risk
+APP-2183,50,512000,Salaried,2.9,233000,Poor,2,Frequent Delinquency,188700,0.46,1,High Risk
+APP-2184,58,939000,Self-Employed,1.5,1979000,Good,2,On-Time,752900,2.11,0,Low Risk
+APP-2185,24,1556000,Business,2.1,2468000,Good,0,On-Time,1076600,1.59,0,Low Risk
+APP-2186,21,581000,Self-Employed,1.0,366000,Good,0,On-Time,197800,0.63,0,Low Risk
+APP-2187,28,2556000,Self-Employed,8.0,3698000,Good,1,On-Time,498000,1.45,0,Low Risk
+APP-2188,49,604000,Salaried,1.0,513000,Poor,1,Frequent Delinquency,313000,0.85,1,High Risk
+APP-2189,59,821000,Self-Employed,2.3,775000,Fair,3,On-Time,242100,0.94,0,Low Risk
+APP-2190,23,557000,Salaried,3.0,562000,Good,3,On-Time,129600,1.01,0,Low Risk
+APP-2191,52,911000,Salaried,0.5,315000,Good,1,On-Time,109100,0.35,0,Low Risk
+APP-2192,30,309000,Salaried,0.5,763000,Good,2,Frequent Delinquency,51400,2.47,1,High Risk
+APP-2193,30,597000,Salaried,0.9,163000,Fair,1,On-Time,227700,0.27,0,Low Risk
+APP-2194,39,442000,Salaried,4.5,762000,Fair,2,On-Time,94200,1.72,0,Low Risk
+APP-2195,54,868000,Salaried,0.8,915000,Poor,0,Frequent Delinquency,372100,1.05,1,High Risk
+APP-2196,53,1393000,Salaried,17.2,2348000,Poor,1,Frequent Delinquency,694200,1.69,1,High Risk
+APP-2197,43,0,Unemployed,0.0,50000,Good,2,On-Time,5000,0.5,0,Medium Risk
+APP-2198,48,240000,Salaried,3.0,420000,Good,0,On-Time,86700,1.75,0,Low Risk
+APP-2199,52,2478000,Salaried,3.5,4652000,Good,2,On-Time,537100,1.88,0,Low Risk
+APP-2200,27,948000,Salaried,1.4,1695000,Good,3,On-Time,312300,1.79,0,Low Risk
+APP-2201,49,526000,Self-Employed,3.2,243000,Poor,1,Frequent Delinquency,162400,0.46,0,High Risk
+APP-2202,28,879000,Salaried,5.4,1504000,Fair,1,1-2 Missed Payments,481300,1.71,0,Medium Risk
+APP-2203,21,888000,Salaried,1.0,749000,Fair,3,On-Time,316100,0.84,0,Low Risk
+APP-2204,23,559000,Salaried,3.0,149000,Good,2,On-Time,104400,0.27,0,Low Risk
+APP-2205,44,899000,Salaried,4.3,1038000,Good,1,On-Time,528100,1.15,0,Low Risk
+APP-2206,43,577000,Salaried,11.7,691000,Good,1,1-2 Missed Payments,122400,1.2,0,Low Risk
+APP-2207,28,645000,Salaried,8.0,822000,Good,2,On-Time,282600,1.27,0,Low Risk
+APP-2208,57,553000,Salaried,7.1,1007000,Fair,1,On-Time,358600,1.82,0,Low Risk
+APP-2209,23,367000,Salaried,0.5,334000,Good,0,On-Time,45100,0.91,0,Low Risk
+APP-2210,53,873000,Salaried,0.5,808000,Fair,1,1-2 Missed Payments,552300,0.93,0,Medium Risk
+APP-2211,48,1112000,Self-Employed,1.2,377000,Fair,3,On-Time,615600,0.34,0,Low Risk
+APP-2212,28,1070000,Salaried,5.4,1904000,Good,2,On-Time,101400,1.78,0,Low Risk
+APP-2213,54,1265000,Salaried,2.6,1905000,Fair,5,1-2 Missed Payments,472200,1.51,0,Medium Risk
+APP-2214,55,964000,Salaried,2.6,968000,Good,2,On-Time,115500,1.0,0,Low Risk
+APP-2215,52,601000,Business,10.8,1095000,Fair,4,On-Time,202900,1.82,0,Medium Risk
+APP-2216,44,1279000,Salaried,11.3,1837000,Fair,0,1-2 Missed Payments,789100,1.44,0,Low Risk
+APP-2217,34,382000,Salaried,12.0,489000,Poor,2,1-2 Missed Payments,170800,1.28,1,High Risk
+APP-2218,52,491000,Self-Employed,1.9,676000,Good,0,On-Time,95600,1.38,0,Low Risk
+APP-2219,63,474000,Salaried,5.9,789000,Good,2,1-2 Missed Payments,98500,1.66,0,Low Risk
+APP-2220,36,1460000,Salaried,1.6,2508000,Good,1,On-Time,652300,1.72,0,Low Risk
+APP-2221,24,1354000,Salaried,1.1,1171000,Good,1,On-Time,710500,0.86,0,Low Risk
+APP-2222,57,1054000,Business,1.0,552000,Fair,3,On-Time,349600,0.52,0,Low Risk
+APP-2223,41,1454000,Salaried,2.1,815000,Poor,3,1-2 Missed Payments,154900,0.56,0,High Risk
+APP-2224,34,497000,Self-Employed,2.8,830000,Good,0,On-Time,34000,1.67,0,Low Risk
+APP-2225,51,120000,Unemployed,0.0,265000,Good,2,On-Time,47200,2.21,0,Medium Risk
+APP-2226,38,752000,Salaried,8.9,859000,Good,1,On-Time,319200,1.14,0,Low Risk
+APP-2227,27,1284000,Salaried,0.6,757000,Good,1,On-Time,58100,0.59,0,Low Risk
+APP-2228,30,757000,Salaried,6.6,1469000,Good,3,On-Time,244000,1.94,0,Low Risk
+APP-2229,27,652000,Salaried,3.8,1379000,Good,1,On-Time,308900,2.12,0,Low Risk
+APP-2230,53,1085000,Salaried,1.7,2414000,Fair,4,On-Time,458600,2.22,0,Low Risk
+APP-2231,43,1305000,Business,3.4,2082000,Good,0,Frequent Delinquency,416500,1.6,1,Medium Risk
+APP-2232,41,558000,Self-Employed,1.8,1216000,Good,2,On-Time,478300,2.18,0,Low Risk
+APP-2233,39,780000,Self-Employed,4.5,184000,Fair,2,On-Time,171800,0.24,0,Low Risk
+APP-2234,39,450000,Salaried,2.8,201000,Good,1,On-Time,59000,0.45,0,Low Risk
+APP-2235,56,240000,Business,0.9,99000,Fair,1,On-Time,12700,0.41,0,Medium Risk
+APP-2236,49,900000,Business,0.6,1655000,Fair,3,1-2 Missed Payments,149800,1.84,1,High Risk
+APP-2237,38,1127000,Business,4.0,406000,Fair,2,On-Time,382800,0.36,0,Low Risk
+APP-2238,22,931000,Salaried,2.0,1249000,Good,1,On-Time,266900,1.34,0,Low Risk
+APP-2239,21,276000,Self-Employed,1.0,355000,Good,1,On-Time,35500,1.29,0,Low Risk
+APP-2240,25,665000,Salaried,5.0,608000,Fair,0,1-2 Missed Payments,122300,0.91,0,Low Risk
+APP-2241,40,240000,Salaried,5.4,528000,Fair,0,On-Time,38600,2.2,0,Medium Risk
+APP-2242,31,1712000,Salaried,11.0,1013000,Good,1,On-Time,273800,0.59,0,Low Risk
+APP-2243,62,444000,Self-Employed,8.6,449000,Good,0,On-Time,125900,1.01,0,Low Risk
+APP-2244,22,1608000,Self-Employed,2.0,3185000,Good,3,On-Time,282100,1.98,0,Medium Risk
+APP-2245,23,1356000,Salaried,3.0,366000,Good,2,On-Time,392800,0.27,0,Low Risk
+APP-2246,43,491000,Salaried,11.4,858000,Fair,4,On-Time,170000,1.75,0,Medium Risk
+APP-2247,32,432000,Salaried,2.6,898000,Good,2,On-Time,253100,2.08,0,Low Risk
+APP-2248,40,977000,Salaried,2.0,2290000,Good,4,1-2 Missed Payments,326500,2.34,0,Medium Risk
+APP-2249,25,507000,Salaried,0.5,1123000,Fair,1,1-2 Missed Payments,370400,2.21,0,Medium Risk
+APP-2250,57,853000,Salaried,8.8,797000,Good,2,On-Time,237300,0.93,0,Low Risk
+APP-2251,58,618000,Self-Employed,8.1,957000,Fair,4,1-2 Missed Payments,236300,1.55,1,Medium Risk
+APP-2252,50,303000,Salaried,0.6,114000,Fair,2,Frequent Delinquency,104900,0.38,1,High Risk
+APP-2253,29,240000,Salaried,4.3,190000,Good,0,On-Time,82700,0.79,0,Low Risk
+APP-2254,54,913000,Salaried,3.1,380000,Fair,2,1-2 Missed Payments,155300,0.42,0,Medium Risk
+APP-2255,64,592000,Business,0.6,548000,Fair,3,On-Time,194000,0.93,0,Medium Risk
+APP-2256,55,595000,Self-Employed,19.7,1317000,Good,2,On-Time,36500,2.21,0,Low Risk
+APP-2257,42,1182000,Self-Employed,1.2,1180000,Good,1,On-Time,103000,1.0,0,Low Risk
+APP-2258,64,1537000,Salaried,0.5,2294000,Good,2,On-Time,244300,1.49,0,Low Risk
+APP-2259,44,694000,Salaried,4.5,831000,Poor,5,Frequent Delinquency,117800,1.2,1,High Risk
+APP-2260,37,668000,Salaried,6.7,839000,Fair,0,Frequent Delinquency,474300,1.26,0,Medium Risk
+APP-2261,30,1061000,Self-Employed,0.5,2578000,Good,2,On-Time,197800,2.43,0,Medium Risk
+APP-2262,50,382000,Business,5.4,337000,Fair,1,On-Time,127600,0.88,0,Low Risk
+APP-2263,43,911000,Self-Employed,3.8,1497000,Good,2,1-2 Missed Payments,81900,1.64,0,Medium Risk
+APP-2264,52,1092000,Business,0.5,1273000,Fair,2,On-Time,431700,1.17,0,Medium Risk
+APP-2265,37,1172000,Self-Employed,0.9,399000,Fair,0,1-2 Missed Payments,416400,0.34,0,Medium Risk
+APP-2266,37,278000,Salaried,4.2,368000,Good,0,On-Time,97000,1.32,0,Low Risk
+APP-2267,34,530000,Business,1.8,1097000,Fair,2,On-Time,117300,2.07,0,Medium Risk
+APP-2268,29,497000,Salaried,9.0,212000,Fair,0,On-Time,223000,0.43,0,Low Risk
+APP-2269,60,852000,Salaried,8.5,307000,Fair,1,1-2 Missed Payments,616300,0.36,0,Low Risk
+APP-2270,22,1050000,Salaried,2.0,581000,Good,3,On-Time,827400,0.55,0,Low Risk
+APP-2271,65,1836000,Salaried,1.5,3595000,Fair,1,1-2 Missed Payments,523800,1.96,0,Medium Risk
+APP-2272,45,614000,Salaried,17.5,1145000,Poor,1,Frequent Delinquency,223400,1.86,1,High Risk
+APP-2273,59,613000,Salaried,2.8,919000,Good,4,On-Time,232400,1.5,0,Low Risk
+APP-2274,29,1517000,Salaried,2.1,1937000,Good,0,On-Time,1107300,1.28,0,Low Risk
+APP-2275,42,949000,Salaried,0.5,2129000,Good,1,On-Time,770700,2.24,0,Low Risk
+APP-2276,63,1619000,Salaried,0.5,3179000,Fair,2,On-Time,200100,1.96,0,Medium Risk
+APP-2277,24,945000,Salaried,4.0,1954000,Fair,2,On-Time,83500,2.07,0,Medium Risk
+APP-2278,46,427000,Salaried,3.1,884000,Good,3,On-Time,216000,2.07,0,Low Risk
+APP-2279,49,387000,Salaried,1.3,649000,Poor,3,1-2 Missed Payments,236800,1.68,1,High Risk
+APP-2280,65,343000,Self-Employed,4.8,430000,Good,2,On-Time,12500,1.25,0,Low Risk
+APP-2281,54,1160000,Self-Employed,1.5,2539000,Fair,0,On-Time,105000,2.19,0,Medium Risk
+APP-2282,43,1550000,Business,4.3,3611000,Good,0,On-Time,274400,2.33,0,Low Risk
+APP-2283,57,2229000,Self-Employed,2.2,568000,Good,1,On-Time,365900,0.25,0,Low Risk
+APP-2284,31,1282000,Salaried,8.7,408000,Good,0,On-Time,501800,0.32,0,Low Risk
+APP-2285,26,1528000,Self-Employed,6.0,3675000,Good,2,1-2 Missed Payments,457000,2.41,0,Medium Risk
+APP-2286,38,586000,Salaried,3.2,491000,Fair,2,On-Time,241200,0.84,0,Low Risk
+APP-2287,41,427000,Salaried,2.2,943000,Fair,0,1-2 Missed Payments,176400,2.21,0,Medium Risk
+APP-2288,62,1287000,Self-Employed,2.3,1408000,Good,3,On-Time,655200,1.09,0,Low Risk
+APP-2289,56,1014000,Salaried,8.2,481000,Good,0,1-2 Missed Payments,252000,0.47,0,Low Risk
+APP-2290,61,855000,Self-Employed,2.0,329000,Good,1,On-Time,93600,0.38,0,Low Risk
+APP-2291,58,998000,Business,1.2,559000,Fair,2,1-2 Missed Payments,137400,0.56,0,Medium Risk
+APP-2292,54,963000,Business,0.5,746000,Fair,1,On-Time,347400,0.77,0,Low Risk
+APP-2293,37,1633000,Business,3.1,2161000,Good,1,On-Time,179500,1.32,0,Low Risk
+APP-2294,57,1643000,Salaried,3.3,2979000,Fair,0,On-Time,445000,1.81,0,Low Risk
+APP-2295,45,1087000,Salaried,9.2,2683000,Good,1,On-Time,408800,2.47,0,Low Risk
+APP-2296,58,1284000,Salaried,1.3,1561000,Poor,2,Frequent Delinquency,392300,1.22,1,High Risk
+APP-2297,32,1070000,Salaried,2.4,1489000,Poor,3,On-Time,270000,1.39,0,Medium Risk
+APP-2298,43,626000,Self-Employed,8.3,877000,Fair,1,Frequent Delinquency,415500,1.4,0,Medium Risk
+APP-2299,62,1222000,Self-Employed,8.7,1761000,Poor,1,On-Time,107000,1.44,0,Medium Risk
+APP-2300,42,374000,Self-Employed,2.4,520000,Fair,2,1-2 Missed Payments,120000,1.39,0,Medium Risk
+APP-2301,41,1439000,Salaried,3.1,317000,Fair,4,1-2 Missed Payments,1238400,0.22,0,Medium Risk
+APP-2302,47,418000,Salaried,1.8,85000,Fair,1,On-Time,55800,0.2,0,Low Risk
+APP-2303,51,943000,Salaried,13.5,400000,Good,1,On-Time,316700,0.42,0,Low Risk
+APP-2304,26,506000,Salaried,0.6,219000,Good,2,On-Time,133400,0.43,0,Low Risk
+APP-2305,47,1093000,Business,13.6,1991000,Good,2,On-Time,555600,1.82,0,Low Risk
+APP-2306,60,791000,Salaried,5.8,531000,Fair,0,Frequent Delinquency,59300,0.67,0,Medium Risk
+APP-2307,54,335000,Salaried,3.8,756000,Good,2,On-Time,43300,2.26,0,Low Risk
+APP-2308,32,1016000,Salaried,0.5,2373000,Good,0,On-Time,237700,2.34,1,Medium Risk
+APP-2309,65,587000,Self-Employed,3.2,1435000,Good,1,On-Time,83300,2.44,0,Low Risk
+APP-2310,27,1309000,Self-Employed,2.6,3089000,Good,1,On-Time,90800,2.36,0,Low Risk
+APP-2311,30,807000,Salaried,0.9,666000,Fair,3,1-2 Missed Payments,362300,0.83,0,Medium Risk
+APP-2312,65,1002000,Salaried,5.3,1375000,Poor,1,1-2 Missed Payments,164700,1.37,1,Medium Risk
+APP-2313,37,476000,Salaried,17.0,287000,Fair,1,On-Time,245500,0.6,0,Low Risk
+APP-2314,46,583000,Salaried,4.1,1198000,Fair,0,On-Time,313200,2.05,0,Low Risk
+APP-2315,41,626000,Self-Employed,6.3,1404000,Fair,3,1-2 Missed Payments,68400,2.24,1,High Risk
+APP-2316,48,1291000,Self-Employed,0.5,2786000,Good,0,1-2 Missed Payments,608100,2.16,1,Medium Risk
+APP-2317,22,2028000,Salaried,2.0,2427000,Good,1,On-Time,589600,1.2,0,Low Risk
+APP-2318,63,518000,Salaried,0.6,1007000,Poor,0,1-2 Missed Payments,230300,1.94,1,High Risk
+APP-2319,21,120000,Unemployed,0.0,51000,Good,2,On-Time,26100,0.42,1,Medium Risk
+APP-2320,56,244000,Salaried,4.7,71000,Good,1,On-Time,132900,0.29,0,Low Risk
+APP-2321,46,418000,Self-Employed,13.9,808000,Fair,1,On-Time,178800,1.93,0,Low Risk
+APP-2322,49,476000,Salaried,5.4,561000,Good,1,On-Time,77800,1.18,0,Low Risk
+APP-2323,41,383000,Salaried,0.5,954000,Good,3,On-Time,17700,2.49,0,Medium Risk
+APP-2324,31,337000,Salaried,2.2,143000,Good,1,On-Time,73100,0.42,0,Low Risk
+APP-2325,60,1012000,Salaried,4.0,2194000,Good,2,On-Time,559500,2.17,0,Low Risk
+APP-2326,31,120000,Unemployed,0.0,156000,Good,3,On-Time,6700,1.3,1,High Risk
+APP-2327,56,993000,Salaried,2.6,2088000,Good,3,On-Time,208900,2.1,1,Medium Risk
+APP-2328,59,1179000,Salaried,9.0,2452000,Fair,1,Frequent Delinquency,96800,2.08,1,High Risk
+APP-2329,60,933000,Salaried,8.4,2152000,Fair,4,1-2 Missed Payments,692500,2.31,1,Medium Risk
+APP-2330,55,1157000,Salaried,4.7,1024000,Good,0,On-Time,156700,0.89,0,Low Risk
+APP-2331,54,776000,Salaried,2.3,1850000,Poor,1,1-2 Missed Payments,246000,2.38,0,High Risk
+APP-2332,44,420000,Salaried,1.5,231000,Good,3,On-Time,87200,0.55,0,Low Risk
+APP-2333,42,1442000,Self-Employed,0.6,560000,Good,1,On-Time,590300,0.39,0,Low Risk
+APP-2334,25,583000,Salaried,2.2,695000,Good,1,On-Time,99300,1.19,0,Low Risk
+APP-2335,53,482000,Salaried,2.7,1015000,Fair,1,On-Time,131600,2.11,0,Medium Risk
+APP-2336,56,731000,Business,5.6,942000,Good,2,On-Time,120200,1.29,0,Low Risk
+APP-2337,40,488000,Salaried,5.4,1028000,Fair,1,On-Time,37600,2.11,0,Low Risk
+APP-2338,39,641000,Business,0.5,1204000,Fair,2,On-Time,50200,1.88,0,Medium Risk
+APP-2339,55,974000,Salaried,2.5,664000,Good,3,On-Time,508200,0.68,0,Low Risk
+APP-2340,63,976000,Business,1.0,2325000,Fair,2,1-2 Missed Payments,482500,2.38,0,Medium Risk
+APP-2341,37,492000,Self-Employed,0.9,167000,Poor,0,Frequent Delinquency,99200,0.34,1,High Risk
+APP-2342,65,616000,Business,8.8,1396000,Good,4,On-Time,199900,2.27,0,Low Risk
+APP-2343,63,180000,Unemployed,0.0,162000,Good,1,On-Time,59500,0.9,0,Low Risk
+APP-2344,54,1059000,Salaried,0.5,1430000,Fair,0,On-Time,850600,1.35,0,Low Risk
+APP-2345,29,120000,Unemployed,0.0,141000,Fair,0,On-Time,74000,1.18,0,Medium Risk
+APP-2346,46,1543000,Salaried,2.7,918000,Good,1,On-Time,476500,0.59,0,Low Risk
+APP-2347,22,1513000,Salaried,0.9,1549000,Good,0,1-2 Missed Payments,253500,1.02,0,Medium Risk
+APP-2348,29,376000,Salaried,9.0,242000,Good,0,1-2 Missed Payments,123400,0.64,0,Low Risk
+APP-2349,29,1227000,Salaried,4.1,821000,Good,1,On-Time,267500,0.67,0,Low Risk
+APP-2350,60,783000,Salaried,1.3,493000,Good,1,1-2 Missed Payments,405500,0.63,0,Low Risk
+APP-2351,37,595000,Salaried,3.5,788000,Poor,2,Frequent Delinquency,40100,1.32,0,High Risk
+APP-2352,21,884000,Salaried,1.0,1799000,Fair,2,On-Time,144800,2.04,0,Medium Risk
+APP-2353,45,1356000,Self-Employed,15.9,2046000,Good,2,Frequent Delinquency,170800,1.51,0,High Risk
+APP-2354,63,1062000,Business,1.2,2394000,Fair,1,On-Time,153900,2.25,0,Medium Risk
+APP-2355,60,497000,Salaried,10.9,827000,Poor,0,Frequent Delinquency,145600,1.66,1,High Risk
+APP-2356,62,1213000,Salaried,13.6,2166000,Good,4,On-Time,184000,1.79,0,Low Risk
+APP-2357,45,568000,Salaried,12.4,986000,Good,0,On-Time,179700,1.74,0,Low Risk
+APP-2358,59,908000,Salaried,5.0,1120000,Good,3,On-Time,130200,1.23,0,Low Risk
+APP-2359,55,682000,Salaried,5.0,1218000,Fair,0,On-Time,205500,1.79,0,Low Risk
+APP-2360,23,715000,Salaried,2.6,258000,Good,4,On-Time,354000,0.36,0,Low Risk
+APP-2361,57,1229000,Salaried,7.0,2676000,Poor,1,1-2 Missed Payments,322400,2.18,0,Medium Risk
+APP-2362,64,120000,Unemployed,0.0,239000,Good,1,On-Time,16500,1.99,1,High Risk
+APP-2363,64,2350000,Salaried,3.8,1795000,Good,2,1-2 Missed Payments,318700,0.76,0,Low Risk
+APP-2364,50,296000,Salaried,5.7,582000,Good,1,On-Time,105600,1.97,0,Low Risk
+APP-2365,58,580000,Salaried,2.8,133000,Good,1,On-Time,229800,0.23,0,Low Risk
+APP-2366,54,988000,Salaried,6.6,691000,Fair,1,On-Time,524400,0.7,0,Low Risk
+APP-2367,32,1112000,Salaried,8.7,389000,Poor,2,Frequent Delinquency,300700,0.35,1,High Risk
+APP-2368,39,763000,Self-Employed,0.8,1522000,Good,0,On-Time,80000,1.99,0,Medium Risk
+APP-2369,57,781000,Salaried,8.9,1514000,Poor,0,1-2 Missed Payments,211900,1.94,0,High Risk
+APP-2370,64,1010000,Salaried,3.9,2092000,Fair,1,On-Time,55300,2.07,0,Low Risk
+APP-2371,37,120000,Unemployed,0.0,50000,Good,0,1-2 Missed Payments,67500,0.42,0,Medium Risk
+APP-2372,30,1735000,Business,9.3,2347000,Fair,2,On-Time,624500,1.35,0,Low Risk
+APP-2373,32,1279000,Self-Employed,2.8,2329000,Good,0,On-Time,222300,1.82,0,Low Risk
+APP-2374,36,1303000,Salaried,2.4,726000,Fair,1,1-2 Missed Payments,378500,0.56,0,Low Risk
+APP-2375,44,474000,Self-Employed,12.3,803000,Good,0,On-Time,154100,1.69,0,Low Risk
+APP-2376,39,772000,Salaried,1.4,304000,Fair,1,1-2 Missed Payments,210600,0.39,0,Medium Risk
+APP-2377,28,683000,Salaried,8.0,421000,Good,0,On-Time,117900,0.62,0,Low Risk
+APP-2378,51,464000,Salaried,3.3,601000,Fair,0,On-Time,136100,1.3,0,Low Risk
+APP-2379,41,983000,Salaried,3.6,1674000,Fair,0,On-Time,331400,1.7,0,Low Risk
+APP-2380,37,600000,Salaried,1.8,321000,Good,4,On-Time,99100,0.54,0,Low Risk
+APP-2381,43,1156000,Salaried,4.3,724000,Good,0,On-Time,402500,0.63,0,Low Risk
+APP-2382,57,120000,Unemployed,0.0,80000,Good,2,1-2 Missed Payments,65600,0.67,0,Medium Risk
+APP-2383,36,2075000,Business,2.0,1554000,Fair,0,On-Time,744200,0.75,0,Low Risk
+APP-2384,26,492000,Self-Employed,0.5,355000,Good,0,On-Time,147400,0.72,0,Low Risk
+APP-2385,28,909000,Salaried,1.6,1008000,Fair,1,On-Time,200100,1.11,0,Low Risk
+APP-2386,45,1246000,Business,0.5,2123000,Good,1,On-Time,558800,1.7,0,Low Risk
+APP-2387,38,589000,Salaried,18.0,711000,Good,4,On-Time,201900,1.21,0,Low Risk
+APP-2388,45,1288000,Self-Employed,16.9,2556000,Good,4,On-Time,742800,1.98,0,Low Risk
+APP-2389,32,410000,Salaried,2.5,760000,Good,2,On-Time,66300,1.85,0,Low Risk
+APP-2390,35,1792000,Self-Employed,6.5,880000,Fair,2,1-2 Missed Payments,87700,0.49,0,Medium Risk
+APP-2391,46,812000,Salaried,2.1,254000,Poor,1,Frequent Delinquency,208900,0.31,1,High Risk
+APP-2392,61,581000,Business,5.6,1289000,Good,1,On-Time,121200,2.22,0,Low Risk
+APP-2393,65,684000,Business,8.2,262000,Good,4,On-Time,95300,0.38,0,Low Risk
+APP-2394,46,1258000,Salaried,14.7,681000,Good,2,On-Time,395100,0.54,0,Low Risk
+APP-2395,52,585000,Salaried,2.6,147000,Fair,1,1-2 Missed Payments,76000,0.25,0,Medium Risk
+APP-2396,30,120000,Unemployed,0.0,197000,Good,0,On-Time,21000,1.64,0,Medium Risk
+APP-2397,36,714000,Salaried,7.6,1099000,Fair,0,1-2 Missed Payments,325400,1.54,1,Medium Risk
+APP-2398,27,422000,Business,1.5,1042000,Poor,4,On-Time,230900,2.47,0,Medium Risk
+APP-2399,37,2194000,Salaried,17.0,4914000,Good,1,On-Time,405500,2.24,0,Low Risk
+APP-2400,43,590000,Salaried,0.5,676000,Fair,1,On-Time,208500,1.15,0,Low Risk
+APP-2401,46,1274000,Salaried,4.6,1344000,Good,0,On-Time,121500,1.05,0,Low Risk
+APP-2402,41,905000,Salaried,5.4,799000,Good,3,On-Time,142500,0.88,0,Low Risk
+APP-2403,42,469000,Self-Employed,5.8,258000,Good,0,On-Time,185500,0.55,0,Low Risk
+APP-2404,27,803000,Salaried,0.6,416000,Good,3,On-Time,408400,0.52,0,Low Risk
+APP-2405,34,1241000,Salaried,13.9,626000,Good,0,On-Time,275000,0.5,0,Low Risk
+APP-2406,35,727000,Salaried,1.0,336000,Good,3,On-Time,183200,0.46,0,Low Risk
+APP-2407,27,1554000,Salaried,4.9,1170000,Good,2,On-Time,45700,0.75,0,Low Risk
+APP-2408,29,1414000,Business,1.3,1280000,Good,0,On-Time,868100,0.91,0,Low Risk
+APP-2409,28,120000,Unemployed,0.0,289000,Fair,1,1-2 Missed Payments,27900,2.41,1,High Risk
+APP-2410,43,626000,Salaried,1.8,958000,Poor,1,Frequent Delinquency,245400,1.53,1,High Risk
+APP-2411,49,445000,Business,4.0,1100000,Good,0,On-Time,44500,2.47,0,Low Risk
+APP-2412,38,575000,Self-Employed,2.7,608000,Good,3,1-2 Missed Payments,83600,1.06,1,Medium Risk
+APP-2413,51,898000,Salaried,0.9,1125000,Good,1,1-2 Missed Payments,365100,1.25,0,Low Risk
+APP-2414,50,1088000,Business,0.9,1030000,Poor,1,Frequent Delinquency,143900,0.95,1,High Risk
+APP-2415,59,244000,Salaried,2.7,151000,Fair,0,Frequent Delinquency,66800,0.62,1,High Risk
+APP-2416,55,803000,Salaried,7.1,425000,Good,1,On-Time,136900,0.53,0,Low Risk
+APP-2417,38,879000,Business,11.4,2086000,Good,3,On-Time,317800,2.37,0,Low Risk
+APP-2418,62,692000,Salaried,0.5,1709000,Good,1,On-Time,584900,2.47,0,Low Risk
+APP-2419,59,1640000,Business,2.5,497000,Good,4,On-Time,628700,0.3,0,Low Risk
+APP-2420,37,1017000,Business,0.5,555000,Poor,4,Frequent Delinquency,511300,0.55,1,High Risk
+APP-2421,34,1657000,Salaried,0.5,1945000,Poor,0,Frequent Delinquency,667800,1.17,0,High Risk
+APP-2422,51,716000,Business,5.4,450000,Good,0,On-Time,283100,0.63,0,Low Risk
+APP-2423,44,1350000,Salaried,4.6,1400000,Good,3,On-Time,182300,1.04,0,Low Risk
+APP-2424,55,1981000,Salaried,0.9,984000,Good,1,On-Time,930100,0.5,0,Low Risk
+APP-2425,64,1659000,Self-Employed,1.3,2074000,Good,0,On-Time,857300,1.25,0,Low Risk
+APP-2426,65,442000,Business,0.5,365000,Poor,1,1-2 Missed Payments,132900,0.83,1,Medium Risk
+APP-2427,54,701000,Salaried,9.0,708000,Good,1,1-2 Missed Payments,157000,1.01,0,Low Risk
+APP-2428,23,667000,Salaried,3.0,278000,Good,2,On-Time,414900,0.42,0,Low Risk
+APP-2429,57,1055000,Self-Employed,0.7,1250000,Good,0,On-Time,466100,1.18,0,Low Risk
+APP-2430,63,1176000,Self-Employed,1.3,2895000,Fair,0,1-2 Missed Payments,82800,2.46,0,Medium Risk
+APP-2431,60,508000,Self-Employed,10.1,486000,Fair,3,1-2 Missed Payments,86200,0.96,0,Medium Risk
+APP-2432,46,837000,Salaried,13.0,1855000,Good,2,On-Time,161000,2.22,0,Low Risk
+APP-2433,43,265000,Salaried,2.7,567000,Good,1,On-Time,11800,2.14,0,Low Risk
+APP-2434,64,1782000,Salaried,0.5,4259000,Good,2,On-Time,636300,2.39,0,Low Risk
+APP-2435,59,608000,Self-Employed,0.5,1226000,Poor,1,Frequent Delinquency,389400,2.02,0,High Risk
+APP-2436,35,831000,Salaried,4.3,1427000,Good,2,On-Time,330600,1.72,0,Low Risk
+APP-2437,24,680000,Salaried,2.5,1476000,Good,1,On-Time,229300,2.17,0,Low Risk
+APP-2438,49,1514000,Business,0.5,566000,Good,0,On-Time,217100,0.37,0,Low Risk
+APP-2439,42,240000,Salaried,4.4,303000,Fair,2,On-Time,110800,1.26,0,Medium Risk
+APP-2440,45,120000,Unemployed,0.0,297000,Good,1,On-Time,61600,2.48,1,Medium Risk
+APP-2441,33,761000,Self-Employed,0.5,1499000,Good,5,1-2 Missed Payments,466000,1.97,1,Medium Risk
+APP-2442,38,628000,Business,7.7,1515000,Fair,1,1-2 Missed Payments,93600,2.41,0,Medium Risk
+APP-2443,53,2083000,Salaried,1.8,4152000,Fair,3,On-Time,501600,1.99,0,Medium Risk
+APP-2444,36,495000,Salaried,0.5,1095000,Fair,4,On-Time,341500,2.21,0,Medium Risk
+APP-2445,65,1232000,Self-Employed,4.4,2248000,Poor,0,On-Time,447000,1.82,0,Medium Risk
+APP-2446,62,981000,Business,2.5,1912000,Good,2,On-Time,209600,1.95,0,Medium Risk
+APP-2447,64,1613000,Self-Employed,18.2,2264000,Good,1,On-Time,807300,1.4,0,Low Risk
+APP-2448,22,559000,Salaried,2.0,1300000,Poor,3,1-2 Missed Payments,165200,2.33,0,High Risk
+APP-2449,55,539000,Self-Employed,1.6,1131000,Good,1,1-2 Missed Payments,224000,2.1,0,Medium Risk
+APP-2450,62,1473000,Self-Employed,6.2,3154000,Fair,2,On-Time,475900,2.14,0,Low Risk
+APP-2451,54,1019000,Self-Employed,1.6,1781000,Fair,1,On-Time,561000,1.75,0,Low Risk
+APP-2452,50,345000,Self-Employed,11.7,311000,Good,0,On-Time,132500,0.9,0,Low Risk
+APP-2453,33,599000,Business,2.3,169000,Good,0,On-Time,124900,0.28,0,Low Risk
+APP-2454,33,997000,Self-Employed,4.0,2345000,Fair,1,On-Time,59200,2.35,0,Medium Risk
+APP-2455,38,1278000,Salaried,0.5,1978000,Fair,2,1-2 Missed Payments,513600,1.55,0,Medium Risk
+APP-2456,52,555000,Salaried,2.8,492000,Fair,2,On-Time,328400,0.89,0,Low Risk
+APP-2457,52,240000,Salaried,8.9,130000,Good,2,On-Time,187000,0.54,0,Low Risk
+APP-2458,55,1075000,Salaried,8.2,2266000,Good,1,On-Time,275500,2.11,0,Low Risk
+APP-2459,59,412000,Salaried,1.3,875000,Good,1,On-Time,42400,2.12,0,Low Risk
+APP-2460,49,266000,Salaried,1.3,552000,Good,0,On-Time,119200,2.08,0,Low Risk
+APP-2461,49,240000,Salaried,8.5,404000,Good,2,On-Time,90400,1.68,0,Low Risk
+APP-2462,64,1261000,Salaried,13.3,1314000,Poor,5,1-2 Missed Payments,752700,1.04,0,Medium Risk
+APP-2463,36,865000,Self-Employed,0.5,778000,Fair,1,Frequent Delinquency,74900,0.9,1,High Risk
+APP-2464,64,712000,Business,3.0,156000,Fair,0,On-Time,366600,0.22,0,Low Risk
+APP-2465,30,1731000,Salaried,2.1,3665000,Good,0,On-Time,171100,2.12,0,Low Risk
+APP-2466,50,1145000,Business,10.2,459000,Good,2,On-Time,174500,0.4,0,Low Risk
+APP-2467,45,1961000,Salaried,0.5,3237000,Poor,2,Frequent Delinquency,1035700,1.65,0,High Risk
+APP-2468,59,375000,Salaried,1.2,510000,Good,2,On-Time,275900,1.36,0,Low Risk
+APP-2469,40,791000,Salaried,7.0,1116000,Good,1,On-Time,172200,1.41,0,Low Risk
+APP-2470,25,331000,Salaried,0.5,772000,Good,2,On-Time,65900,2.33,0,Medium Risk
+APP-2471,21,711000,Self-Employed,1.0,194000,Poor,2,Frequent Delinquency,264200,0.27,0,High Risk
+APP-2472,50,703000,Self-Employed,2.9,1391000,Poor,1,On-Time,148200,1.98,0,Medium Risk
+APP-2473,23,1138000,Salaried,2.0,364000,Good,1,On-Time,157400,0.32,0,Low Risk
+APP-2474,65,827000,Salaried,2.5,238000,Poor,0,1-2 Missed Payments,184800,0.29,1,Medium Risk
+APP-2475,34,1136000,Salaried,3.8,1350000,Good,1,On-Time,81200,1.19,0,Low Risk
+APP-2476,50,1187000,Salaried,0.9,410000,Good,3,On-Time,558900,0.35,0,Low Risk
+APP-2477,24,2637000,Salaried,4.0,5000000,Fair,1,On-Time,794200,1.9,0,Low Risk
+APP-2478,38,678000,Salaried,8.2,961000,Poor,3,1-2 Missed Payments,244400,1.42,1,High Risk
+APP-2479,57,480000,Self-Employed,7.1,128000,Fair,1,On-Time,45200,0.27,0,Low Risk
+APP-2480,45,923000,Business,0.8,271000,Fair,0,Frequent Delinquency,650100,0.29,1,High Risk
+APP-2481,21,519000,Salaried,0.8,835000,Fair,1,On-Time,62500,1.61,0,Medium Risk
+APP-2482,35,1821000,Business,1.6,3740000,Fair,1,On-Time,472800,2.05,0,Low Risk
+APP-2483,29,690000,Salaried,2.2,833000,Poor,1,1-2 Missed Payments,417600,1.21,0,Medium Risk
+APP-2484,35,591000,Salaried,2.6,872000,Fair,0,Frequent Delinquency,160100,1.48,1,High Risk
+APP-2485,44,622000,Salaried,5.7,1269000,Poor,1,Frequent Delinquency,326400,2.04,1,High Risk
+APP-2486,24,1197000,Self-Employed,0.5,1920000,Poor,0,Frequent Delinquency,328700,1.6,1,High Risk
+APP-2487,32,0,Unemployed,0.0,50000,Good,0,On-Time,5000,0.5,1,Medium Risk
+APP-2488,57,566000,Self-Employed,0.5,911000,Fair,1,1-2 Missed Payments,79000,1.61,0,Medium Risk
+APP-2489,57,2015000,Salaried,2.5,3315000,Good,1,On-Time,996100,1.65,0,Low Risk
+APP-2490,63,503000,Self-Employed,6.0,950000,Good,3,On-Time,129500,1.89,0,Low Risk
+APP-2491,26,822000,Salaried,1.1,1338000,Fair,1,1-2 Missed Payments,62200,1.63,0,Medium Risk
+APP-2492,59,1154000,Business,5.1,2803000,Good,2,On-Time,374500,2.43,0,Low Risk
+APP-2493,44,329000,Salaried,1.5,215000,Good,1,On-Time,37600,0.65,0,Low Risk
+APP-2494,31,1050000,Salaried,10.9,2507000,Poor,2,Frequent Delinquency,450600,2.39,1,High Risk
+APP-2495,33,451000,Salaried,11.3,649000,Good,1,1-2 Missed Payments,37700,1.44,0,Low Risk
+APP-2496,54,1267000,Self-Employed,1.8,2212000,Good,4,On-Time,78400,1.75,0,Low Risk
+APP-2497,45,475000,Salaried,1.3,204000,Poor,1,1-2 Missed Payments,132000,0.43,0,Medium Risk
+APP-2498,27,1180000,Self-Employed,2.6,1269000,Good,3,On-Time,503100,1.08,0,Low Risk
+APP-2499,24,1481000,Salaried,1.4,2917000,Good,1,On-Time,300300,1.97,0,Low Risk
